@@ -1,87 +1,63 @@
 # Chapter 10: The Traveler and the Chase
 
-*Book 3*
-
 *Úrimë 14, 2965*
 
-With Mirkwood behind them, Celenneth and Linnea set their sights on Dale, still distant. The open road stretched ahead, the outline of the Lonely Mountain visible on the horizon.
+With the wood a dark line falling away behind them, Celenneth set Nimroch's head toward Dale. It was still far — a long ride of open country — but the going was everything Mirkwood had not been: firm turf, clean wind, a sky uncluttered by any canopy, and away to the north-east, small and blue with distance, the Lonely Mountain stood up out of the plain like a landmark set there to steer by. Linnea rode easier with every mile, though she glanced back at the forest more than once. "It's strange to leave it behind," she said. "As if we've slipped away from something that wasn't finished with us."
 
-The air felt fresher, the sunlight brighter, and the distant silhouette of the Lonely Mountain gradually gained clarity. Nimroch moved steadily, his hooves crunching over the grassy path.
+The something proved her right. A figure came into view on the road ahead — a lone traveler, cloaked, moving in the lurching gait of the hurt or the spent, and as they closed the distance he dropped to his knees in the grass and lifted a hand to them in a plea he had no breath left to shout.
 
-Linnea's spirits seemed lightened, though she glanced back toward the forest more than once. "It feels strange to leave it behind," she said softly. "Like we've escaped something that wasn't ready to let us go."
+Celenneth reined in, her hand going to her sword out of habit; Linnea swung down with an arrow ready. "Who are you?" Celenneth called, firm, not unkind.
 
-As they rode, they saw a figure stumbling toward them. The person was cloaked, their steps uneven as if they were injured or exhausted. As they drew closer, the figure collapsed to their knees, raising a hand in a weak gesture for help.
+The man raised his head — young, hollow-eyed, his face slicked pale with sweat. "Help me," he rasped. "Please. They're coming."
 
-Celenneth reined Nimroch to a halt, her hand instinctively going to her sword. Linnea dismounted cautiously, her bow ready. "Who are you?" Celenneth called, her tone firm but not unkind.
+Her gaze swept the horizon behind him. "Who is?"
 
-The figure lifted his head, revealing a young man with sunken eyes and a pale, sweat-slicked face. "Help me," he gasped, his voice hoarse. "Please... they're coming."
+His eyes rolled wild toward the way he had come. "Wolves. Not — not right ones."
 
-Celenneth's eyes narrowed as she scanned the horizon. "Who's coming?"
+The answer came off the land itself: a howl rolled across the plain, and then another, wrong in a way that raised the hair on her arms — too low, too knowing, the cry of something that hunted with a purpose. Linnea's eyes met hers over the kneeling man.
 
-The man's gaze darted behind him, his expression wild. "Wolves," he whispered. "Not... not normal wolves."
+"What do we do?"
 
-The sound of howls echoed across the plain, corroborating his report. Linnea glanced nervously at the man, then at the horizon.
+Celenneth was already moving. "Get him up on Nimroch. Quick." Linnea got a shoulder under the man and hauled, and he groaned but climbed, slumping forward over the saddle-bow with a weak grip on the mane. The howls came again, nearer, and now Celenneth could see them — dark shapes flowing over the far rise, low and fast, red eyes catching the light. Wargs. She swung up behind the man and reached down and pulled Linnea up behind her in one practiced motion. "Hold tight," she said. "And don't look back."
 
-"What do we do?" Linnea asked, her voice steady but tense.
+Nimroch surged. He had three on his back and he ran anyway, his stride pouring out over the grass, and the wind of it tore past them and carried the snarl of the pursuit close behind. Linnea's arms locked around Celenneth's waist; Celenneth gave the horse his head and only steered, choosing the flattest line, the ground that would let him stretch. A glance back showed the wargs strung out in a running line, lean and matted and tireless, their howling braided into one long chorus of threat — and for a while they held the gap, and for a while they even closed it.
 
-Celenneth didn't hesitate. "Linnea, get him on Nimroch," she commanded, her voice sharp and steady. "We'll move fast."
+But the open plain was Nimroch's country, not theirs. There was no thicket to turn him, no broken ground to trip him, only distance, and he was bred for distance and gifted beyond any horse she had known. Celenneth spoke to him low and steady under the wind, and he answered, digging deeper against the weight he carried, and mile by mile the wargs' fury began to tell on them where his endurance did not tell on him. The land tilted up into a rocky rise; the horse took it without slowing; and somewhere on that long grade the howling fell behind, and thinned, and stopped, the pack giving up a chase that led only away from easier meat.[^r-chase]
 
-Linnea nodded and hurried to the man's side. He groaned in pain as she helped him to his feet, but with her support, he managed to climb onto Nimroch's back. Celenneth steadied the horse, murmuring soothingly as the man slumped forward, gripping the saddle weakly.
+Nimroch slowed of his own accord on the far side, his breath heaving but even. Celenneth swung down and steadied him, and Linnea helped the stranger off, and he folded to his knees in the grass and gasped as though he had run every mile himself.
 
-The howls grew louder, closer, their unnatural tone unmistakable. Shadows flickered along the distant hills as the wolves approached.
+"Thank you," he managed. "I thought I was done."
 
-"We ride hard," Celenneth said, mounting Nimroch behind the man. She reached down, pulling Linnea up behind her with practiced ease. "Hold tight, and don't look back."
+Linnea knelt and put her waterskin in his hands. "What were those things?"
 
-Nimroch surged forward, his powerful strides eating up the ground as the group raced away from the approaching wolves. The wind whipped past them, carrying the sound of snarling and snapping jaws. Linnea clung to Celenneth, her heart pounding as she risked a glance over her shoulder.
+"Wargs," Celenneth said, her eyes still combing the horizon behind them. "And they were hunting *him* by name, not by chance. Which means they know now there are three of us."
 
-The wolves were gaining.
+She crouched by the man as he drank. "You've some explaining to do. Who are you, and why were wargs at your heels?"
 
-They were large, lean creatures with glowing red eyes and dark, matted fur. Their howls echoed like a chorus of nightmares, driving terror into the hearts of those who heard them. But Nimroch's speed was unmatched, his hooves pounding the earth in a steady rhythm.
+He handed the skin back with shaking hands. "Taron. I'm a merchant — was one. I was headed south, trying to keep off the toll roads, and I took a wrong turning near the forest." He paused, and the color left him again at the memory. "That's where I saw them. Not just the wargs — orcs, a whole camp of them, arguing over something. I kept low, but — I think one of them marked me."
 
-Celenneth encouraged Nimroch onward, her voice firm and calm. The horse responded with unwavering strength, pushing harder even as the weight of three riders took its toll. The wolves were relentless, but the open ground offered no place to trap the group, and Nimroch's endurance began to wear them down.
+Linnea's brow drew down. "Arguing over what?"
 
-Gradually, the howls faded into the distance, the wolves abandoning their chase as the group entered a rocky incline. Nimroch slowed, his breath heavy but even. Celenneth dismounted first, steadying the horse as Linnea helped the injured man down.
+"I couldn't make it out. But they were waiting on something. Or someone." His gaze went between them. "One of them said Dale."
 
-The man collapsed to his knees, gasping for breath. "Thank you," he croaked. "I thought... I thought I was done for."
+Celenneth's face hardened. "Dale."
 
-Linnea knelt beside him, offering her waterskin. "What were those things?" she asked, her voice trembling slightly.
+Taron nodded. "That's all I caught before the wargs got my scent. I ran, and they ran after me the whole way out of the wood. If you two hadn't been on the road—" He didn't finish it.
 
-"Wargs," Celenneth said grimly, her sharp eyes scanning the horizon for any sign of pursuit. "They were hunting him—and now they know we're here."
+She traded a look with Linnea, and her jaw set. "If they're turning their eyes to Dale, then it's as we feared, and worse."
 
-Celenneth crouched beside the man, her expression sharp and focused. "You've got some explaining to do," she said firmly. "Who are you, and why were those wargs after you?"
+"Then we have to reach it," Linnea said, steady. "If they're readying a blow, we may be the only warning that gets there ahead of it."
 
-The man drank deeply from Linnea's waterskin, his hands shaking as he handed it back. "My name is Taron," he said, his voice hoarse. "I'm just a merchant—or I was. I was traveling south, hoping to avoid the toll roads, but I took a wrong turn near the forest."
+Taron tried to rise and swayed on his feet. "I'll come with you. I owe you my life."
 
-He paused, his face pale and drawn. "That's where I saw them. Not just the wargs—there were orcs too. They had a camp, they arguing about something. I tried to stay out of sight, but... I think they saw me."
+"You'd slow us," Celenneth said — bluntly, but not without kindness. "And you're spent. If you want to help, tell us everything you know now, and then make for the river, east. The open country's safer, and the roads there are kinder." She got him up with a hand under his arm and pointed him toward the far thread of water glinting at the plain's edge. "Keep to the open. Stay clear of the trees."
 
-Linnea frowned, her brow furrowed. "What were they arguing about?"
+"There's little more to tell," he said. "Only — be careful. They were armed, and ordered, and there were a great many of them."
 
-Taron shook his head. "I don't know, but it sounded like they were waiting for something—or someone. One of them mentioned Dale."
+Linnea pressed a small pouch of dried provisions into his hands. "This'll see you to the river. Go well."
 
-At this, Celenneth's expression hardened. "Dale?" she pressed.
+He limped off eastward, and Celenneth watched him until she judged him clear of any lingering danger. Then she turned back to Nimroch and swung into the saddle and pulled Linnea up behind her, and the horse, sensing the urgency in them, set off at a hard pace without being asked twice.
 
-Taron nodded, his gaze darting between them. "I didn't hear much else before the wargs started sniffing around. I ran, but they followed me all the way out of the forest. If you hadn't come along..."
+They rode into the dusk and through much of the night, stopping only to spare Nimroch what rest they dared, the Lonely Mountain growing larger and darker against the stars with every mile they put behind them.
 
-Celenneth exchanged a look with Linnea, her jaw tightening. "If they're looking toward Dale, it means trouble."
-
-Linnea nodded, her voice steady. "We need to get there fast. If they're planning something, we might be the only ones who can warn them in time."
-
-Taron tried to rise but stumbled, his face pale with exhaustion. "I'll go with you," he said weakly. "I owe you my life."
-
-"You'll slow us down," Celenneth said bluntly, though not unkindly. "If you want to help, tell us everything you know now and head east toward the river. It's safer there."
-
-Taron hesitated, then nodded reluctantly. "There's not much more to tell. Just... be careful. They were organized and well armed."
-
-Celenneth helped Taron to his feet, her expression firm but understanding. "Head east," she said, pointing toward the faint outline of a river in the distance. "You'll find safer roads there. Keep to the open lands and avoid the forest."
-
-Taron hesitated, his gratitude evident in his weary gaze. "Thank you," he said earnestly.
-
-Linnea handed him a small pouch of dried provisions. "This should keep you until you reach the river," she said. "Be careful."
-
-With a final nod, Taron limped away. Celenneth watched him go until she was satisfied he was out of immediate danger. Then she turned back to Linnea, her resolve hardening.
-
-"We ride for Dale," she said. "No delays."
-
-Celenneth swung into Nimroch's saddle, pulling Linnea up behind her. The horse snorted, sensing the urgency in their movements, and set off at a swift pace. The open lands stretched out before them, the Lonely Mountain growing larger with every mile.
-
-They rode through the night, breaking only to give Nimroch respite.
+[^r-chase]: **Journey / flight** — a warg-pack runs down a fleeing merchant (Taron); the company takes him up and outruns the pack across the open plain on Nimroch, whose speed and endurance win clear on ground that gives the wargs nothing to exploit. Intelligence gained: orcs massing near Mirkwood, and Dale named as their object.

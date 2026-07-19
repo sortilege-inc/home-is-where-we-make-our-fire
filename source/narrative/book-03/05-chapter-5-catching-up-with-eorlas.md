@@ -1,95 +1,64 @@
-# Chapter 5: Catching up with Eorlas
-
-*Book 3*
+# Chapter 5: Catching Up with Eorlas
 
 *Úrimë 6, 2965*
 
-At dawn, after a quick meal and farewells to the villagers, Celenneth and Linnea mounted Nimroch. The villagers sent them off with hopeful smiles and thanks, their spirits lifted despite the Shadow looming beyond the forest.
+They ate a quick meal at first light and took their leave, and the whole village turned out to see them go — not with the wary faces of the day before but with thanks, and hope, pressed on them along with bread for the road. Celenneth carried it out through the gap in the barricade they had built together, and did not look back more than once.
 
-The pair rode hard, the path bringing them closer to the dense trees of Mirkwood with each passing hour. By midday, they spotted Eorlas on the road ahead. When he heard Nimroch’s approach, he turned, relief evident.
+They rode hard, and the land tilted them east and down, the open country giving way by degrees to the dark line of Mirkwood on the horizon that grew all morning until it filled the eye. By midday they came on Eorlas himself, walking the road ahead of them at his steady, tapping pace, and he turned at Nimroch's hoofbeats with relief plain on his weathered face.
 
-“You made it,” he said, his voice warm. “And you’re in one piece. What of the village?”
+"You made it," he said. "And whole, both of you. What of the village?"
 
-“Safe,” Celenneth replied, dismounting and clasping his shoulder. “The orcs were repelled, but there's more to their plans than we thought. We need to reach Dale quickly.”
+"It stands," Celenneth said, swinging down to clasp his shoulder. "The orcs came, and it threw them back. But there's more behind the raids than we feared, Eorlas. We need Dale, and soon."
 
-Eorlas nodded, his expression darkening. “Then let’s not waste time.”
+His face went grave. "Then we waste no daylight."
 
-The open countryside was left behind as Mirkwood's canopy enveloped them. The air was heavy, carrying the scent of decay. Shadows stretched long, even at midday, the dense forest muffling all sound except for Nimroch’s hooves and the occasional snap of a twig.
+They came to the eaves of the forest together, and the light changed as they passed under it — not dimmed so much as soured, the sun's warmth left behind at the treeline like a coat hung by a door. Eorlas paused with his staff set to the moss and looked up into the tangled dark. "Mirkwood," he murmured. "Alive. It was never that it was dead. Only that its waking is nothing to take comfort in."
 
-Eorlas paused at the forest’s edge, his staff tapping the mossy ground. “Mirkwood,” he murmured. “Alive—but never comforting.”
+The wood closed over them. Nimroch picked his way among roots that broke the ground like the knuckles of something buried, and Eorlas stopped now and again to crouch over a pale fungus or a print in the mud, reading the forest as Celenneth read it, in a different tongue. The path led them down, and the down led into standing water — a slow black swamp where the trees stood to their knees in it and the air thickened until it lay on the tongue, and the drone of insects rose to fill the silence the birds had left.
 
-Nimroch moved carefully over gnarled roots and uneven ground, while Eorlas paused to inspect strange fungi growing along the path.
+Eorlas knelt at the water's edge. "The forest shifts here," he said. "What was a path yesterday is a bog today. We go slowly, or we do not go at all."
 
-The path became more treacherous, the forest floor slick with moss. Gnarled roots twisted like buried giants' fingers. Celenneth reined in Nimroch as the trail descended into a swamp filled with stagnant water. The air thickened, and the buzzing of insects grew louder.
+Celenneth took the lead. She read the water for the firm ground beneath it — the ridges where roots knit the mud, the deceit of a still surface over a drowning depth — and picked their line one careful step at a time, Nimroch trusting his feet to hers. Eorlas came behind, his staff probing ahead of every stride; Linnea kept close at the rear with an arrow on the string and her eyes moving. Twice the trail simply ended in flat black water, and twice Celenneth found where it took up again on the far side and brought them across without a soaking. It was slow, exacting work, and the light was failing by the time the ground rose under them at last and gave them a dry hummock to stand on and breathe.[^r-swamp]
 
-Eorlas knelt at the water's edge. “The forest shifts. Paths change. We must tread carefully.”
+"Well done," Eorlas said, and meant it. "Many would be feeding the leeches back there."
 
-Celenneth took the lead, guiding Nimroch over the firmest ground and avoiding deep puddles. Eorlas followed, his staff probing ahead. Linnea kept close, her bow ready.
+"Mirkwood doesn't forgive the unready," she answered, already reading the way on.
 
-“Where is the trail?” Eorlas murmured, noting how it had seemed to fade into the stagnant water.
+They made camp in a small dry clearing as the last grey light went out of the canopy. Linnea sat near the fire scowling at the mud caked on her boots, and Eorlas lowered himself beside her with an armful of the day's strange gleanings and spread them on the ground between them.
 
-“I see where it picks up,” Celenneth replied quietly. “Stick to me.”
+"You've learned the healing well," he said. "But there's more to the craft than mending. Sometimes the thing that harms is only a cure that's been misunderstood."
 
-When they finally cleared the swamp, they found themselves on a small rise, the canopy parting to reveal a sliver of darkening sky. The party took a moment to rest, the air still heavy but the ground mercifully dry. Linnea sat beside Nimroch, running her fingers through his mane, while Eorlas inspected his mud-caked boots.
+"You mean poisons," Linnea said, half-wary.
 
-“Well done,” Eorlas said to Celenneth, respect clear. “Many would be lost back there.”
+He chuckled and lifted a dark, thorny leaf. "Yes and no. A poison is only a poison until you learn its measure. This one, eaten green, brings fever and griping. Boiled, and stirred with honey, it quiets pain better than anything sweeter." He plucked a sprig of red berries. "These will stop a heart, taken by the handful. Dried and ground, a pinch of them will steady one that's failing." He set a tin pot over the flames and worked as he talked, grinding, steeping, and Linnea bent close and copied his hands with her own samples, and when he poured off the cooled draught and offered it to her she eyed it a moment before she drank.
 
-Celenneth nodded, her gaze already scanning the path ahead. “Mirkwood doesn’t suffer the unprepared.”
+"You're certain this won't kill me," she said.
 
-As twilight fell, the group made camp in a small, dry clearing. Linnea sat cross-legged near the flames, frowning at the mud on her boots. Eorlas joined her, carrying strange, twisted plants he'd picked during their trek.
+"Quite certain. Bitter — but it puts the tiredness back a while."
 
-“You’ve been learning well,” Eorlas said, his tone conversational but purposeful. “But there's more to herbs than healing. Sometimes, what seems harmful can be useful.”
+She sipped, and her whole face folded at the taste. "Awful." A breath later she sat straighter, the fatigue easing out of her shoulders. "But it works."
 
-Linnea looked up, intrigued but skeptical. “You mean poisons?”
+Celenneth watched from the edge of the firelight. "You've a rare teacher," she said. "There's not much of what Eorlas carries that can be had for coin."
 
-Eorlas chuckled softly, selecting a dark, thorny plant. “Yes, and no. Poison is only poison when misunderstood. Watch.”
+The camp settled. Celenneth took the first watch and let it pass over her, the forest's oppressive hush lying close as a held breath, nothing moving that she could see or hear. When her hours were done she woke Linnea for the next and lay down at last, and let her body go loose toward sleep — and her mind went past sleep, down into a dark deeper than any the wood had shown her.
 
-Eorlas laid out the plants, pointing to each. “This one,” he said, holding a dark leaf. “Eaten raw, causes pain and fever. But boiled with water and mixed with honey, it soothes pain.”
+*She stands on a barren hill, and the air is thick and will not fill her lungs. The sky above her is not sky but a slow churn of black and sickening green, and the land runs out from her feet cracked and grey and dead to every horizon. And out of the distance a fortress rises — spires like a reaching claw, black smoke pouring from it, and far-off voices that might be wind and are not. She has never seen it. She knows it in her bones. Dol Guldur.*
 
-Linnea leaned closer, her skepticism fading. “How do you know how much is safe?”
+*A voice comes at her ear, low and coiling, close as a lover's. "You cannot stand against the dark."*
 
-“Experience,” Eorlas replied simply, plucking a plant with red berries. “Deadly in large quantities. But dried and ground, a pinch helps the heart.”
+*She turns, and there is no one. The ground beneath her writhes; black tendrils come up out of the cracks and take her by the ankles and hold, and when she pulls against them they only draw her on, toward the fortress, an inch and an inch. The voice fills her skull. "You will fall, as all before you have fallen. The Shadow eats everything in the end."*
 
-He demonstrated, grinding leaves and boiling them in a tin pot over the fire. Linnea watched intently, mimicking his movements with her own samples.
+*Pain flowers white through her chest. She looks down and her own hand is closed around a black blade she does not remember drawing, and its surface crawls with a wet dark light, and it pulses in her grip like something with a heart of its own. The fortress swells nearer. Its malice presses the breath out of her, and the whisper melts to laughter. "You are nothing, ranger. Nothing at all."*
 
-When the lesson ended, Eorlas poured the cooled liquid into a small wooden cup and offered it to Linnea. “Here. Drink.”
+She woke with a jolt, her breath tearing, her heart going like a hunted thing. And there was something cold and solid in her fist. She looked down: her own hand had closed around her knife in the dark, white-knuckled, the blade catching the last red glimmer of the coals. For a moment the dream and the waking would not come apart. Then her fingers sprang open of their own accord and let the knife fall, and the small thud of it on the moss seemed loud enough to wake the whole black wood.[^s-vision]
 
-Linnea hesitated, eyeing the concoction. “You’re sure this won’t kill me?”
+Linnea was at her side before she had drawn a second breath. "Celenneth?" Fear and care both in it. "What is it?"
 
-Eorlas smiled. “Quite sure. Bitter, but it eases fatigue.”
+"It was more than a dream." Her voice would not come out level. Her gaze dropped to the fallen knife. "The Shadow reached for me. And I — I had its blade in my hand."
 
-Trusting him, Linnea sipped, her face scrunching at the taste. “Awful,” she muttered, but moments later, she sat straighter, her weariness lifting. “But it works.”
+Linnea did not ask her to explain it. She only settled at Celenneth's back and drew her cloak around the both of them and wrapped her arms over her, and said, very low, "You're not alone." Celenneth let herself lean into the warmth of her, and felt her own hand find Linnea's and hold it, and the shaking eased by degrees.
 
-Celenneth, watching from the edge of the firelight, spoke up. “You’ve a good teacher, Linnea. Eorlas’s knowledge is rare—and valuable.”
+Eorlas had roused at the sound, and he watched her across the coals with a long, careful look. "It can reach you, out here," he said at last, quietly. "Its whispers are patient, and they are cunning, and they do not tire. But hold fast, ranger. A small light is not so easily put out as the dark would have you believe."
 
-As the camp settled into quiet, Mirkwood's oppressive weight lifted slightly, the fire casting comforting shadows. Celenneth took the first watch, her gaze steady as she scanned the forest. Linnea drifted into sleep, the remnants of Eorlas’s lesson sparking newfound confidence.
-
-The fire burned low, casting faint flickers of light. Celenneth’s watch passed uneventfully, the oppressive quiet settling around her like a shroud. When her shift ended, she nudged Linnea awake for the next watch and finally rested.
-
-As her body relaxed into sleep, her mind slipped into darkness—a darkness deeper than Mirkwood’s shadows.
-
-Celenneth stood on a barren hill, the air thick and suffocating. The sky was a swirling vortex of black and sickly green, the land desolate, cracked, and lifeless. In the distance loomed a towering fortress: Dol Guldur.
-
-The structure rose like a jagged claw against the poisoned sky, its spires reaching hungrily upward. Black smoke billowed from chimneys, and distant wails carried on the wind. Though she had never seen it, she knew it instantly—the heart of Shadow in southern Mirkwood.
-
-A voice whispered in her ear, low and serpentine, coiling around her thoughts. “You cannot stand against the dark.”
-
-Celenneth turned sharply but saw no one. The ground beneath her writhed, black tendrils creeping out of the cracks, wrapping around her boots. She tried to move, but the tendrils held fast, pulling her closer to the fortress.
-
-The voice grew louder, echoing in her mind. “You will fall, like all before you. The Shadow consumes all.”
-
-Blinding pain shot through her chest, and she looked down to see her own hand clutching a black blade—a weapon she didn’t remember holding. Its surface glistened darkly, pulsing in her grip like a living thing.
-
-The fortress loomed closer, its malice pressing on her, suffocating her, as the whispers turned to mocking laughter. “You are nothing, ranger. Nothing.”
-
-Celenneth awakened with a jolt, her breathing ragged. She felt something cold and solid in her hand. Looking down, her fingers were wrapped tightly around her knife, the blade glinting faintly in the fire’s dying embers.
-
-Her heart raced as the dream flooded back—the dark fortress, the mocking whispers, the black blade. Her hand trembled as she released the knife, letting it fall to the ground. The faint thud seemed unnaturally loud in the stillness of Mirkwood.
-
-Linnea, already nearby, rushed to her side. “Celenneth?” she whispered, her voice a mix of concern and fear. “What’s wrong?”
-
-Celenneth’s voice was unsteady. “It was more than a dream. The Shadow… it reached for me.” She hesitated, her gaze dropping to the knife. “And I… I held its blade.”
-
-Linnea sat behind Celenneth and wrapped her arms and cloak around her. “You’re not alone,” she whispered softly. Celenneth took a shaky breath and nodded, her fingers brushing briefly against Linnea’s for reassurance.
-
-Eorlas, roused by the commotion, observed Celenneth sharply. “The Shadow can reach for you,” he says quietly. “Its whispers are persistent, but hold fast, ranger. Remember—light is not so easily extinguished.”
+[^r-swamp]: **Travel / Explore** (crossing the shifting Mirkwood swamp) — Celenneth leads, reading firm ground beneath the standing water; the party crosses without loss or mishap. A hazardous stretch, passed clean.
+[^s-vision]: **Shadow** — a Shadow-sent dream, rendered in the signposted vision mode (present tense, italics). A vision of Dol Guldur and the black blade; the Shadow tests her from afar. A point of Shadow gained, and a dread that does not lift with waking. (GM: seeded by proximity to the corrupted south of the wood.)

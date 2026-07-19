@@ -1,132 +1,94 @@
 # Chapter 6: Whispers of the Woods
 
-*Book 3*
-
 *Úrimë 7, 2965*
 
-The second day of travel through Mirkwood was marked by Celenneth’s sharpened focus. The weight of her dream lingered, but she channeled her unease into vigilance. Nimroch moved smoothly over tangled roots and uneven ground, guided by Celenneth’s steady hand. Eorlas and Linnea followed close behind, the forest's silence broken only by their cautious steps.
+Linnea had learned to read Celenneth's back by now — the set of the shoulders that meant *at ease*, the one that meant *do not speak yet* — and all that second day under Mirkwood's roof the ranger rode with her spine gone watchful and hard. The dream had left its mark on her; Linnea had held her through the small hours of it and felt the shape of the fear even without being told. She kept close behind on Nimroch's rein, and Eorlas closer still, and the three of them went in a silence that the forest pressed down over them like a lid.
 
-The group made good progress, covering significant ground as they navigated the treacherous paths. Celenneth’s instincts proved invaluable, leading them past hidden sinkholes and patches of poisonous mushrooms. Her success bolstered their spirits, even as Mirkwood’s oppressive atmosphere pressed in.
+Celenneth's instincts carried them well — around a sinkhole hidden under bright deceptive moss, wide of a stand of mushrooms whose smell alone warned the throat. It was good ground made under bad, and it lifted their spirits by inches, until a sound came into the wood that had no business there.
 
-As they followed the winding path deeper into Mirkwood, a faint sound broke the forest's oppressive silence—melodic and lilting, like a song carried on the wind. Celenneth halted Nimroch, raising a hand to signal silence. The others paused, listening intently.
+A song. Faint at first, and then not — a voice rich and strange, threading between the trunks, lifting where everything in Mirkwood hung heavy and low. Celenneth's hand went up, and they stopped, and listened. The melody pulled at something in Linnea she could not name, a grief that felt borrowed and yet fit her own like a lent cloak. They followed it, careful, and it drew them to a clearing lit with a pale green light that came from no sun.
 
-The song grew clearer, the voice rich and haunting, weaving through the trees, defying the forest's usual heaviness. As they cautiously followed the sound, they came upon a clearing bathed in an eerie green light.
+A tall figure stood at its heart, robed in flowing grey-green, hood half-raised, a slender staff in one hand and an old bow slung at the back. When it turned, the hood fell, and Linnea looked on the first Elf she had ever seen — a face angular and ageless, neither young nor old, eyes that took in the three of them with a curiosity edged in caution.
 
-At its center stood a tall figure in flowing gray-green robes, their hood partially obscuring their features. They sang softly, their voice carrying an otherworldly beauty. A slender staff rested in one hand, and an ancient bow was slung across their back.
+"You are far from the safety of the open lands," the Elf said, the voice as strange spoken as sung. "And deeper in the wood than most would dare."
 
-The figure turned, their hood falling back to reveal the angular, timeless face of an elf of Mirkwood. Their sharp eyes scanned the group with curiosity and caution.
+Celenneth stepped forward, steady. "Your song carries a weight I can't place — though it stirs something in me all the same. What is it?"
 
-Celenneth listened intently, her brow furrowing as she tried to place the melody. The haunting tune stirred something faint in her memory, like a fragment of an old story, but its full meaning eluded her. The song carried a weight older than the forest, beautiful and melancholy.
+The Elf studied her. "An old lament. My kin sing it for the great trees that stood where this forest now twists and rots — how the light went out of their leaves when the Shadow first reached across these lands. This was not always as you see it. It was Greenwood the Great once, and full of life. The song remembers what was lost." The pale eyes went distant. "And what might yet return."
 
-“You are far from the safety of the open lands,” the elf said, their voice melodic yet cautious. “And deeper into the wood than most would dare.”
+The words settled over the clearing like a weight Linnea could feel on her own chest. She knew nothing of ancient histories, of Greenwood or its fall — and still the melancholy of it reached her, and she understood, without the telling, that she was standing in the ruin of something that had once been beautiful.
 
-Celenneth met the elf's gaze and stepped forward, her posture steady. “Your song... it carries a weight I cannot place, though it stirs something familiar. What is it?”
+"You are a Ranger of the north," the Elf said to Celenneth. "Your people keep their own songs of defiance, though I think they are seldom sung now."
 
-The elf studied her for a moment, their expression unreadable. “It is an old lament, sung by my kin for the great trees that once stood where this forest now twists and decays. It speaks of their fall—how the light of their leaves faded when the Shadow first stretched across these lands.”
+And Celenneth answered in kind. Linnea had never heard her sing. The ranger's voice was rougher than the Elf's and warmer for it, and the song she gave back was not a lament but a defiance — cold winds off the mountains, the hunter's horn ringing clear, the stag leaping and the rivers running free through a country no shadow had stained.
 
-Their voice grew softer, gaze distant. “This forest was not always as you see it now. Mirkwood was once Greenwood the Great, vibrant and full of life. The song remembers what has been lost... and what might yet return.”
+> *Though tempests howl and the north wind blow,*
+> *our spirits, rooted, only grow;*
+> *in frost and flame we hold our own —*
+> *the light endures, the heart flies on.*
 
-The elf’s words settled over the group like a tangible weight. Even Linnea, who knew little of ancient histories, felt the melancholy woven into the melody. Eorlas nodded slowly, his expression grim. “The Shadow leaves its mark on all it touches,” he murmured. “But such songs remind us of the beauty we might fight for.”
+When the last of it faded into the trees, the Elf's hard face had softened. "Your song carries the strength of the winds you sing of," it said, "and the endurance of those the winds carry. It is well that such songs still live. They remind us there is life yet, even in the bitter cold."
 
-The elf nodded, then turned their focus back to Celenneth. “You are a ranger of the north, are you not? Your kind has its own songs of defiance, though I suspect they are rarely sung now.”
+"That was beautiful," Linnea murmured — to Celenneth, mostly, and something in her chest was full and aching with a pride she had not expected.
 
-Celenneth responded in song:
+But the Elf's gaze had turned grave, and it came now to rest on each of them in turn. "You go far through dark lands, and your resolve is strong. But Mirkwood holds more than shadow. It holds *whispers.* Things dwell here that speak not with words but with wanting." The light in its eyes sharpened like a drawn edge. "You may hear voices — calling to you, wearing the shape of what you most long for, or most fear to lose. They are not real. They are not, for that, without power. Follow them, and you are lost."
 
-Cold winds rise from mountains wide, Frost dances as the dawn does glide, The bluffs stand tall beneath the tide, And seas of green stretch far and bright.
+Eorlas shifted, both hands on his staff. "Spiders?"
 
-The hunter’s horn rings clear and near, Its call, a challenge, sharp and dear, The pine and birch still stand, austere, Hold watch as shadows start to fall.
+"Worse. Wraith-things — shadows of the Shadow. They take no form your hand can find, but their voices go straight into the mind." The Elf lifted its staff toward the way ahead. "When you hear them — and you will — hold fast. Say your own name aloud, and your purpose, and the voices will falter. Keep close to one another, for they hunt those who wander alone. And know this above all: no road they promise leads anywhere but to their teeth. The way forward is the only way through."
 
-The paths well-worn where sunlight gleams, Through fields of gold and flowing streams, The stag leaps high, the wolf still dreams, And joy is found in nature’s flight. Where rivers cut through stone and clay, Their voices hum both night and day, They carry tales, both fierce and gay, The waters speak, forever free.
+"We'll hold to the path," Celenneth said, her jaw set.
 
-Oh northern lands, where hearts are whole, We sing of skies and waters’ roll, No shadow stains the hunter’s soul, Nor dims the stars of night or day.
-
-Though tempests howl and winds may blow, Our spirits strong will ever grow, In frost and flame, we’ll make our show, The light endures, the hearts still soar.
-
-As Celenneth’s voice faded into the forest’s silence, the elf’s expression softened. “Your song carries the strength of the winds you sing of,” they said. “And the resilience of those who are carried by it. It is well that such songs endure, for they remind us that even in the the bitter cold there is life and light.”
-
-Linnea quietly whispered, “That was beautiful,” her voice a mix of awe and pride.
-
-The elf stepped closer, their gaze meeting Celenneth’s. “You travel far through dark lands,” they said. “And though your resolve is strong, Mirkwood holds more than shadows—it holds whispers. Creatures dwell here that speak not with words, but with desire.”
-
-Their tone grew grave, the light in their eyes sharpening like a blade’s edge. “You may hear voices calling to you—beckoning with visions of what you most wish, or fear to lose. While unreal, they are not powerless. If you follow, you will be lost.”
-
-Eorlas shifted uneasily, gripping his staff. “Spiders?” he asked.
-
-The elf’s voice lowered. “Worse than that. Wraith-things—shadows of the Shadow. They take no form you can touch, but their voices pierce the mind.” The elf gestured toward the path ahead. “When you hear the whispers, and you will, hold fast. Speak aloud your name and your purpose, and the voices will falter. Stay close to your companions, for the whispers prey on those who wander alone. And remember this: no path they promise leads to safety. The way forward is the only way.”
-
-Celenneth nodded, her jaw set with determination. “We will hold to the path.”
-
-The elf’s eyes gleamed, and they stepped back, their figure blending into the shifting green light of the clearing. “May your journey bring light to this forest, even if only a spark. Farewell, ranger”
-
-That night, the camp was quiet, muffled by Mirkwood’s heavy darkness. The group had settled for the night, the faint glow of the fire barely illuminating the gnarled trees around them. Celenneth and Eorlas slept soundly, their breaths steady in the still air, while Linnea kept watch, seated near the fire with her bow resting across her knees.
-
-At first, she heard only the faint rustle of leaves and the distant hoot of an owl. But then, a voice—low and familiar—floated through the air. It was faint at first, almost a whisper, but grew clearer with each passing moment.
-
-“Linnea...” The voice was unmistakable. Her father’s voice. Warm, strong, and tinged with the same pride she remembered from childhood. “Linnea, come to me.”
-
-Linnea stiffened, her heart pounding as she gripped her bow tightly. She remembered his body, broken where the bandits had left him. And yet now, his voice carried through the forest, calling her name.
-
-“Linnea,” the voice called again, filled with love and longing. “I’ve missed you, my daughter. Why do you wander in this darkness? Come home."
-
-Tears pricked at Linnea’s eyes as she rose slowly, her body moving before her mind could catch up. She took a hesitant step toward the shadowed trees, the voice drawing her closer. “Father?” she whispered, her voice trembling. “Is it you?”
-
-The darkness ahead shifted, and she thought she saw a figure—a man, tall and broad, stepping just out of reach. His arms were open, welcoming. “Come to me, little one. We are late.”
-
-The elf’s warning echoed in Linnea’s mind: “Stay close to your companions, for the whispers prey on those who wander alone.”
-
-But the voice was so real, so filled with love and familiarity. She felt its pull, like a tether around her heart. Her feet shuffled forward, closer to the forest’s edge.
-
-Linnea’s mind clouded, her senses dulled by the overwhelming love the voice conveyed. The figure ahead seemed so real, so tangible. Her heart pounded as she stepped closer to the trees, her bow slack in her hands.
-
-“Father?” she whispered again, her voice breaking with emotion.
-
-The figure took another step back, deeper into the darkness, and the voice grew fainter but no less compelling. “Come, my little one. I’m waiting... waiting for you.”
-
-She was startled by Nimroch’s soft snort cut through the quiet. The horse stamped a hoof, his sharp movement jarring Linnea from her trance for a moment. The figure turned, its movement slow, beckoning her with an outstretched hand. Linnea’s steps quickened, her gaze locked on the figure, her surroundings fading into shadows and whispers.
-
-“I’m coming, Father,” she whispered, her voice trembling. “I’ve missed you.”
-
-As Linnea ventured deeper, the sounds of the forest changed. The gentle rustling of leaves became a soft, eerie murmuring. The figure ahead seemed to drift rather than walk, always just beyond her reach. Her father’s voice grew louder, warmer, filling her with a bittersweet ache. But something beneath the warmth began to chill—a faint, almost imperceptible malice in the tone.
-
-“Just a little farther,” the voice urges, though its sweetness now feels cloying, almost suffocating.
+The Elf inclined its head, and stepped back, and its grey-green shape thinned into the shifting light until it was gone. "May your journey bring some light to this wood," its voice came, already fading, "even if only a spark. Farewell, Ranger."
 
 ⁂
-Nimroch snorted again, his restlessness stirring Celenneth from her uneasy sleep. She sat up quickly, her ranger’s instincts sharp as she scanned the camp. The fire was low, and Eorlas remained asleep nearby, but Linnea’s place was empty.
 
-“Linnea?” Celenneth called out softly, her voice carrying an edge of alarm. There was no response.
+That night the dark lay so thick that the fire seemed to give more shadow than light. Celenneth and Eorlas slept, worn down to it, their breathing slow and even; and Linnea kept the watch, her bow across her knees, her back to the coals, listening to the small sounds of the wood.
 
-Her gaze darted to the edge of the camp, and she noticed faint footprints leading into the forest. Without hesitation, Celenneth grabbed her weapons and rose, her heart pounding. The memory of the elf’s warning rushes back: “The whispers prey on those who wander alone.”
+At first there was only the rustle of leaves and, once, the far hoot of an owl. Then a voice came out of the trees, low, and it went through her like cold water, because she knew it.
 
-“Linnea!” she called, her tone sharp enough to cut through the forest’s unnatural silence. “Linnea! Come back!”
+*"Linnea."*
 
-She knelt and roused Eorlas, her hand firm on his shoulder. “Linnea’s gone into the woods,” she said tersely. “The whispers have taken her.”
+Her father's voice. Warm and deep and shot through with the same pride she had carried in her since she was small enough to sit on his shoulders. *"Linnea. Come to me."*
 
-Eorlas awakened quickly, immediately grasping the gravity of the situation. He grabbed his staff, expression grim. “Then we must act swiftly. The forest does not forgive hesitation.”
+Her hands closed hard on the bow. She had seen his body. She had knelt beside what the bandits had left of him and closed his eyes with her own fingers. And here was his voice, whole and living, moving among the black trunks of Mirkwood, calling her name.
 
-⁂
-Farther in the forest, Linnea faltered at the sound of Celenneth’s voice. For a moment, the figure ahead flickered, edges indistinct. But then the voice of her “father” returned, drowning out her doubt.
+*"I've missed you, my daughter,"* it said, and the longing in it opened a wound she had thought long scarred over. *"Why do you wander in all this dark? Come home."*
 
-“Do not listen to them,” the voice pleaded, tinged with desperation. “Stay with me, my child. You’re almost home.”
+She was on her feet before she had decided to rise. Tears stood in her eyes. "Father?" Her voice shook on the word. "Is it you?"
 
-Linnea hesitated, torn between the love in the voice and the fear creeping into her heart.
+The dark ahead moved, and thickened, and became — almost — a shape. Tall, broad-shouldered, a man stepping just out of the fire's reach, his arms opening to her. *"Come, little one. We've kept the door for you. We're late."*
 
-⁂
-The forest seems to close in around them, the oppressive whispers rising and falling like the breath of a great unseen beast. But Celenneth was unyielding, her focus cutting through the haze as she followed Linnea's trail. Ahead, she spotted Linnea’s form through the tangled trees. The young woman stood frozen, her gaze locked on a flickering figure that shifted unnaturally in the shadows. Her bow hung loosely in her hand, and her face was a mixture of longing and confusion.
+The Elf's warning surfaced, far away and thin: *stay close to your companions, for they hunt those who wander alone.* But the voice was so real. It knew the name he had called her by, *little one,* that no one living knew. It had a hook in her heart, and it drew, and her feet moved after it, off the ring of firelight and in among the trees.
 
-“Linnea!” Celenneth called out again, her voice firm and steady. “It’s not real. Come back to us!”
+"Father," she breathed again, and stumbled forward, and the figure drew back as she came — always the same distance off, always just beyond her reach — and led her deeper. The rustle of the leaves changed as she went, softening into a low, wrong murmuring that seemed to come from everywhere. Somewhere behind her a horse stamped and snorted, sharp in the dark, and for half a heartbeat the trance thinned and she almost turned — but the voice swelled to fill the gap, warmer, closer.
 
-Linnea turned around, her eyes wide and glassy. The figure flickered again, the illusion faltering as the whispers grow more desperate.
+*"Just a little farther, my little one. I'm waiting. I've been waiting so long."*
 
-“Don’t leave me,” the voice of her “father” pleaded. But the edges of the figure begin to unravel, revealing its hollow, spectral nature.
+And under the warmth of it, so faint she could almost pretend she had not heard, something else moved — a thread of malice, a hunger wearing her father's love like a stolen coat. She should have known it for what it was. She could not make herself care. She stepped on, and the fire and the camp and her own name fell away behind her into shadow and whisper, until —
 
-Linnea's body shudder as the her enchantment began to lift. From behind Celenneth, Eorlas stepped forth, staff raised, and commanded, “Begone, shadow! You have no claim here!”
+*"Linnea!"*
 
-The figure dissolved into the darkness, its whispers fading into an eerie silence. Linnea staggered back, and Celenneth caught her.
+Another voice, and this one she also knew, and this one was real. It cut through the wood from behind her, hard and sharp with fear, and the sound of it caught in the murk of her mind like a nail. *Celenneth.*
 
-“I… I thought it was him,” Linnea whispered, tears streaming down her face. “It sounded so real.”
+The figure ahead of her flickered. Its edges would not hold. *"Don't listen to them,"* her father's voice pleaded, and there was a fraying in it now, a note of something close to panic. *"Stay with me, child. You're almost home. Don't leave me again."*
 
-Celenneth places a hand on her shoulder, her voice soft but firm. “The forest preys on our hearts."
+Linnea stopped. She stood torn between the arms held open in the dark and the voice calling her back toward the light, and she could not move for the tearing of it.
 
-The group returned to camp, the tension heavy in the air. Linnea sat close to the fire, shaken. Eorlas brewed a calming tea with herbs from his pouch.
+"*Linnea!*" Nearer now, and then a crashing of undergrowth, and Celenneth came through the black trees at a run, and the sight of her real face — frightened, furious, alive — did more than any argument. "It's not real! Look at me — come back to us!"
 
-“This place tests us all,” Eorlas said quietly. “But with each test overcome, the light within us is strengthened.”
+Linnea turned toward her, and her eyes would not focus, and her father's shape wavered at the corner of her sight. *"Don't leave me,"* the voice begged, and now the sweetness was curdling out of it, and beneath the fading shape she saw for the first time what it truly was — hollow, and grey, and reaching with a hunger that had never once been love.
+
+Then Eorlas was there at Celenneth's shoulder, his staff raised, and his voice rang out flat and final. "Begone, shadow. You have no claim here."
+
+The figure came apart like smoke in a wind, its whisper unraveling into a thin silence, and the pull on Linnea's heart snapped all at once and left her staggering. Celenneth caught her before she fell.[^s-whispers]
+
+"I thought it was him," Linnea wept, the words breaking out of her, her face pressed to Celenneth's shoulder. "It sounded so like him. It called me — it called me what he called me."
+
+Celenneth held her, one hand firm at the back of her head. "The forest hunts our hearts," she said, low. "It went looking for the tenderest thing in you and wore it like a mask. That it fooled you is no shame. That you stopped — that you heard my voice and stopped — is everything."
+
+They went back to the camp together, Linnea leaning into her the whole way, and she sat close by the fire and could not stop shaking for a long while. Eorlas brewed a tea from his pouch, something quiet and steadying, and pressed the warm cup into her hands. "This place tests all who cross it," he said gently. "But every test we come through leaves the light in us a little harder to put out."
+
+Linnea wrapped both hands around the cup and drank, and let Celenneth's arm stay around her shoulders, and did not once, for the rest of that long night, let herself be alone.
+
+[^s-whispers]: **Shadow / corruption test** — the Mirkwood wraith-whispers wear the voice of Linnea's dead father and lure her from the watch into the wood. She very nearly follows it to her death; Celenneth's call breaks the trance and Eorlas dispels the phantom. A hard blow to Linnea's spirit — Shadow gained, and grief reopened — from which her companions draw her back.

@@ -1,87 +1,78 @@
 # Chapter 8: Orcs and Spirits
 
-*Book 3*
-
 *Úrimë 11, 2965*
 
-Despite the previous day’s reprieve, the forest felt more oppressive, as if it resented their progress. Celenneth led cautiously, but the group’s pace slowed as the tangled underbrush thickened, and the path became harder to discern.
+Whatever grace the golden clearing had given them, the forest took back the moment they left it. The dark closed in again heavier than before, as though the wood resented the ground they had gained, and the path thinned and tangled until Celenneth was reading it a stride at a time. Nimroch put a hoof through a soft patch of earth that gave way beneath him, and only her hand on the rein kept him from going down. "The ground's rotten here," she said, low. "Slow. Feel your way."
 
-A sudden misstep by Nimroch startled the group—a loose patch of earth gave way beneath his hoof, and Celenneth barely managed to steady him. “The ground is unstable,” she said sharply, her eyes scanning the uneven terrain. “We need to tread carefully.”
+A wall of twisted brambles blocked the trail not long after, and Linnea and Eorlas set to hacking a way through it, and by the time they had a gap the work had sweated them and eaten the morning. It was in the aftermath of that, when they were tired and strung out, that Celenneth heard it — a sound behind them, wrong among the wood's own noises. She stopped dead and threw up a hand.
 
-Their progress was further hindered by a dense patch of twisted brambles blocking the path. Linnea and Eorlas worked together to clear a way through, but sapped their energy and slowed their progress.
+"What is it?" Eorlas breathed.
 
-A sound behind them stopped Celenneth in her tracks. She raised a hand, signaling the others to halt.
+Her hand had already found her sword. "We're followed. More than one."
 
-Eorlas leaned closer. “What is it?” he whispered.
+Linnea set an arrow to the string, and her grip was steady where a month ago it would have shaken. Nimroch shifted, ears flat, and then the sound resolved into what it was: guttural voices, and the clank of crude iron, and a hunting party of orcs came out of the trees behind them at a jog and spread into a half-circle — six of them, jagged blades and spears, and at their center a brute in a spiked helm who showed his teeth in something like a grin.
 
-Celenneth scanned the shadows, her hand drifting to her sword. “We’re being followed,” she said quietly. “More than one.”
+"You've wandered too far, little prey," he said, in a Westron broken almost past sense.
 
-Linnea nocked an arrow, her grip steady despite the tension. Nimroch shifted uneasily, his ears flicking back as the sound of guttural voices drifted through the trees. The unmistakable clank of crude metal followed—a hunting party of orcs, closing in fast.
+And then Linnea did a thing that Celenneth would turn over in her mind for a long time after. She stepped forward — bow lowered, chin up — and spoke first, before Celenneth could, in a voice pitched to carry and to command. "You're making a mistake."
 
-The orcs, six in number, emerged from behind them, eyes gleaming with malice. Armed with jagged swords and spears, they fanned out around their leader, a hulking brute with a spiked helm. They snarled a command in the Black Speech, and the others laughed cruelly.
+The leader's eyes narrowed. He cocked his helmeted head. "What mistake, girl?"
 
-“You’ve wandered too far, little prey,” the leader growled in broken Westron.
+"We know Grahnak's plans." She let the name fall like a stone into still water, and watched the ripple of it cross their faces. "And his orders. Do you think he'll thank you for spending time and blood on travelers, when his target's elsewhere? Do you think he'll spare you, if you come back to him bloodied and empty-handed — or worse, if you've let his raid slip because you stopped to play with us?"
 
-Linnea stepped forward, her bow lowered but her voice strong. She drew upon scraps of information they overheard days ago, weaving her words with confidence. “You’re making a mistake,” she said sharply, her tone commanding enough to momentarily halt the orcs’ advance.
+The orcs shifted, glancing to one another, their sneers coming loose at the edges. The leader's grip worked on his sword-hilt. "How do you know Grahnak's name?" he demanded — and there it was, under the growl: doubt.
 
-The leader narrowed his eyes, tilting his head as he growled, “What mistake, girl?”
+Linnea smiled, and it was a cold, clever thing Celenneth had never seen on her before. "Because we've met others who serve him. And we're still here to say so."
 
-Linnea didn’t falter. “We know of Grahnak’s plans—and his orders,” she said, dropping the name of the orc leader they overheard. “He won’t take kindly to you wasting time and lives on travelers when your target is elsewhere.”
+For a long moment the wood held its breath. Then the leader snarled, spat an order in the Black Speech, and jerked his head at his band. "We've better things than you," he said in Westron. "Go. Cross us again, and it's your death." And they melted back into the trees, and their footfalls faded, and were gone.[^r-bluff]
 
-The orcs exchanged uneasy glances, their sneers faltering. Linnea pressed on, her voice steady. “Do you really think he’ll spare you if you return to him bloodied and empty-handed? Or worse, if you delay his raid with foolish distractions?”
+Linnea let out a long, shaking breath, and her hands began to tremble now that they were allowed to. Celenneth set a steadying hand on her shoulder. "I'm astonished that worked," she said, and heard the disbelief and the relief tangled together in her own voice.
 
-The leader hesitated, his grip tightening on his sword. “How do you know of Grahnak?” he demanded, but there was a flicker of doubt in his voice.
+Eorlas was looking at Linnea with new eyes. "A sharp mind and a sharper tongue," he said. "They've saved us today where no blade could have."
 
-Linnea smirked, taking a calculated risk. “Because we’ve met others who serve him—and we’ve lived to tell of it.”
-
-The leader snarled but didn’t step forward. The other orcs murmured among themselves, their bravado cracking under the weight of Linnea’s confident bluff. After a tense pause, the leader growled, and barked another order in Black Speech. Then, in broken Westron, “We have better things to do. Leave us now, and if you encounter us again it will be your death.”
-
-With a sharp gesture, he signaled the others to withdraw. The orcs disappeared into the shadows of the forest, their footsteps fading into silence.
-
-As the tension eased, Linnea exhaled shakily, her hands trembling slightly. Celenneth placed a steadying hand on her shoulder. “I'm shocked that worked,” she said soberly, her tone carrying both disbelief and relief.
-
-Eorlas nodded, his expression thoughtful. “You’ve a sharp mind and clever tongue, Linnea. It’s saved us this day.”
+⁂
 
 *Úrimë 12, 2965*
 
-The next day began with a sense of anticipation. The air felt lighter, and though the forest remained oppressive, the canopy was thinning, and the quality of light was improving—evidence that they were nearing the forest’s edge.
+The next day carried a lightness that had nothing to do with the wood and everything to do with its ending. The canopy was thinning; the light coming through it had a cleaner quality; and once, faint and blessed, a breeze reached them off the open country beyond. They made good ground, and their spirits rose with every yard of it.
 
-Celenneth led with confidence, her keen eyes catching the subtle signs of the path. Nimroch moved steadily, his steps surefooted despite the uneven terrain. Linnea and Eorlas followed closely, their spirits bolstered. They made excellent progress, and felt the beginnings of a breeze. But the relief was short-lived.
+Then the wind changed, and brought a sound on it that stopped the breath in Celenneth's throat — a thin, mournful keening, at first no more than the creak of straining timber, and then unmistakably a voice, rising and falling in a wail that had no body to make it. She halted Nimroch, her hand at her sword.
 
-A chill wind whispered through the forest, carrying with it a faint, mournful sound. At first, it seemed like the creak of the trees, but it grew stronger, forming into a low, keening wail. Celenneth halted Nimroch abruptly, her hand going to her sword.
+"Do you hear that?" Linnea's voice had gone unsteady.
 
-“Do you hear that?” Linnea asked, her voice trembling.
+Eorlas gripped his staff white-knuckled. "A spirit," he said.
 
-Eorlas gripped his staff tightly, his expression grim. “A spirit,” he murmured.
+Ahead, the air over the path shivered as though seen through water, and a pale light moved among the trees without source, and the cold came down around them out of nowhere. The wail wound into the mind, past the ears, and Celenneth felt it reach for the low place in her where the dream still sat — but it was Linnea it took hold of. She saw it happen: the color draining out of her, the despair flooding in behind her eyes.
 
-Ahead, the path seemed to shimmer faintly, as though the air itself was disturbed. The wail rose and fell, accompanied by a flickering light that moved among the trees. The forest grew cold. Linnea tried to steady herself, gripping Nimroch's reins tightly, but the sound wormed its way into her mind, filling her with a creeping sense of despair.
+"I can't," Linnea whispered. "I can't do this—" Her legs went from under her; she caught at Nimroch's flank and missed, and slid down against the horse.
 
-“I can’t... I can’t do this,” she whispered, her voice trembling. Her steps faltered, and she stumbled against Nimroch, who snorted uneasily at the growing tension.
+"Linnea." Eorlas turned to her, stern and not unkind at once. "The light ahead is real. Fix on that, not on this Shadow."
 
-Eorlas turned to her, his expression stern but not unkind. “Linnea, the light ahead is real. Focus upon it, not this Shadow.”
+Celenneth stepped in front of her and took her face in both hands. "Look at me. This is a test, nothing more — a thing thrown at you to see if you'll break. And you won't. You're stronger than it." But the young woman's eyes rolled and would not hold, and then she went slack, and Celenneth caught her as she fell.[^s-spirit]
 
-Celenneth stepped in front of Linnea, her voice cutting through Linnea's clouded mind. “Look at me,” she commanded. “This is a test, nothing more. You are stronger than this.”
+There was no fighting a thing with no body. Celenneth got Linnea up and across Nimroch's withers and kept one hand fisted in her sleeve, and they pressed on through the cold and the wailing at a walk, Eorlas murmuring low words to hold the presence at bay, until the light overhead grew and the wail thinned behind them and at last fell away. They made camp at dusk in a small clearing near the forest's edge, and Linnea, come back to herself, sat by the fire and could not meet Celenneth's eyes.
 
-Linnea strained and collapsed, and Celenneth picked her up and laid her across Nimroch. Holding Linnea's hand, they made slow progress until nightfall. As they made camp, Linnea sat by the fire and looked to Celenneth with a mix of gratitude and shame. “I’m sorry,” she said softly as they reached a small clearing to rest. “I thought I was stronger.”
+"I'm sorry," she said, small. "I thought I was stronger than that."
 
-“The Shadow tests us all." Celenneth replied firmly. "What matters is that you’re still here.”
+"The Shadow tries everyone." Celenneth's voice was firm and warm at once. "What matters is that you're still here to be sorry."
 
-Eorlas knelt by the edge of the path, murmuring softly as he set wards to keep the lingering presence at bay. “We’ll rest here tonight,” he said. “The edge of the forest is close—we’ll reach it tomorrow.”
+Eorlas knelt at the clearing's edge, setting quiet wards against anything that had followed. "We rest here," he said. "The eaves of the wood are close. We're out of it tomorrow."
 
-A tear ran down Linnea's cheek. Celenneth noticed but said nothing, instead sitting beside Linnea and resting her arm gently across her shoulders. The younger woman leaned into the touch, her quiet sobs breaking through the forest’s stillness. At first, she tried to muffle them, but the dam of her emotions finally burst. She turned fully toward Celenneth, burying her face in the ranger’s chest as the grief overtook her.
+A tear slid down Linnea's cheek. Celenneth saw it and said nothing, only came and sat close and laid her arm across the young woman's shoulders — and that undid her. Linnea turned into her all at once and buried her face against Celenneth's chest, and the sobs came up out of her from somewhere deep, muffled at first, and then breaking loose past holding.
 
-“I’m so tired,” Linnea whispered through her tears, her voice trembling. “Of the darkness, of the fear... of losing everything I knew.”
+"I'm so tired," she wept. "Of the dark, and the fear, of losing everything I knew." Her hands twisted in the front of Celenneth's tunic and held on as if to keep from being carried off. "I miss him. My father. My home. Everything that made me who I was — and it's all gone."
 
-Her hands clutched at Celenneth’s tunic as if anchoring herself to the present. “I miss him so much,” she sobbed. “My father... my home... everything that made me who I was. And now it’s gone.”
+Celenneth folded both arms around her and held her close and did not try to hush her. "You've lost a great deal," she said into her hair. "More than anyone should. But you haven't lost yourself. And you are not alone in it — not anymore."
 
-Celenneth wrapped her arms around Linnea, holding her tightly. “You’ve lost much,” she said softly, her voice steady and warm. “But you’ve not lost yourself. And you’re not alone.”
+"I'm frightened," Linnea admitted, the words half-drowned. "That I'll forget who I was. That I won't be enough for what's still coming."
 
-Linnea clung to her, her tears soaking into Celenneth’s clothing. “I’m scared,” she admitted. “Scared of forgetting who I was. Of not being enough for what lies ahead.”
+Celenneth rested her chin lightly against the top of her head. "You talked six armed orcs into turning around and walking away. You've come through this wood, through all of it, still standing." She drew back just enough to find her eyes and brush a tear from her cheek with a thumb. "And you haven't only lost. You've found a thing worth holding to, as well."
 
-Celenneth leaned her chin lightly against Linnea’s head. “You talked down a group of orcs! You're stronger than you think,” she encouraged. “You’ve survived all this, Linnea. And you’ve found something new—something worth holding onto.”
+Linnea's breath hitched. "You mean us," she said, very quiet.
 
-As the tears subsided, Linnea pulled back slightly, her gaze searching Celenneth’s face. “You mean us,” she said softly.
+"I mean us." Celenneth nodded. "We're making a new road, you and I. One we walk together."
 
-Celenneth nodded, brushing a stray tear from Linnea’s cheek. “We're building a new path,” she said. “One we'll walk together.”
+A faint, watery smile broke through, and Linnea pressed close again, and this time the grip of her hands was not fear but something steadier. "Thank you," she whispered. "For being my light."
 
-Linnea smiled faintly, her grip on Celenneth tightening as she pressed close again. “Thank you,” she whispered. “For being my light.”
+[^r-bluff]: **Awe / Persuade** (Linnea) — confronted by an orc hunting-party (six, with a captain), Linnea bluffs them off by invoking Grahnak's name and their fear of his displeasure. A bold, high-risk success: the orcs withdraw without a blow struck. Her cleverest hour yet.
+[^s-spirit]: **Shadow / dread** — a wailing wood-spirit assails the party's spirits on the path. Linnea, already worn by the whispers, is overcome and collapses; Celenneth bears her clear while Eorlas wards the presence off. Shadow gained (Linnea); no lasting harm, but her reserves are spent.

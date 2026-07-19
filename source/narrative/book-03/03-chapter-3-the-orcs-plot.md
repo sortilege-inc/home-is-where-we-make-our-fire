@@ -1,49 +1,39 @@
-# Chapter 3: The Orcs’ Plot
-
-*Book 3*
+# Chapter 3: The Orcs' Plot
 
 *Úrimë 5, 2965*
 
-Linnea turned to Celenneth, her anger giving way to determination. "So," she said firmly. "What’s the plan?"
+The anger had burned itself down in Linnea, and what was left in its place was steadier and more useful. "So," she said, wiping her palms on her cloak. "What's the plan?"
 
-Celenneth adjusted her cloak, checked her bowstring. "We track the rest of them. Quietly. Look for signs of their leader, their numbers. If they’re preparing for something bigger, we need to know before Dale."
+Celenneth drew the string a hand's breadth off the bow and let it home again, testing it out of habit. The dead lay cooling behind them; Eorlas and the two he had led away were already a good way toward Dale on foot. "We follow the rest of them," she said. "Quietly. I want their numbers and I want to know who holds their leash. If they're building toward something larger, I'd rather learn its shape here than ride into Dale carrying half a warning."
 
-Linnea nodded, her fingers brushing Nimroch’s mane, drawing comfort from the steed’s calm presence.
+Linnea nodded and set her hand to Nimroch's neck, and the horse's calm passed into her the way it did — a thing Celenneth had watched her learn to draw on, this last while, without being told how.
 
-The two women, with Nimroch trailing, moved carefully through the forest. Celenneth led the way, her instincts guiding them as they followed the faint trail of clawed footprints and broken foliage. Nimroch moved with surprising quiet, his steps barely rustling the underbrush.
+They went into the wood on foot, leading the horse, and the deeper they went the less it felt like a wood at all. The trees stood wrong. Their branches reached and clawed where honest branches leaned, and the light came down grey and grudging, and the ground gave off a smell of old rot under the moss. Nimroch trod soft behind them, his ears working, trusting the two of them over the sense that told him to turn and run. Celenneth read the trail as she went — the crooked orc-prints, the heavier clawed track threaded among them, foliage broken at the height of a shoulder — and the land itself seemed to lean away from what she followed, as if it wanted no part of where the tracks were bound.
 
-The deeper they went, the darker the forest grew. Trees stood gnarled and twisted, their branches clawing at the sky. The air felt heavy, as if the land itself recoiled from the presence of the Shadow.
+After some hours the trees opened on a second clearing, and she put out a hand to halt the others before she had finished seeing it.
 
-After nearly a few hours of tracking, they found another clearing. A crude totem dominated it—a grisly structure of bones and tattered banners, with orcish runes scrawled across its base. The stench of decay hung thick in the air.
+A totem stood at its heart — a foul thing lashed together from bones and grey tatters of cloth, orc-runes gouged into the post at its foot, the ground before it dark and beaten flat. The stink of it reached her across the open ground. This was no raiders' rest. Celenneth crouched and read the churned earth, and what it told her tightened something behind her ribs. "This is a staging ground," she murmured. "They're gathering here. Ordering themselves."
 
-Celenneth crouched, examining the ground. "This isn’t just a raiding party," she muttered. "This is a staging ground. They’re organizing."
+Voices carried then — low, guttural, from beyond a screen of brush across the clearing. She signed for Linnea to keep down, and went forward on her belly through the undergrowth until she could part the leaves and see.
 
-Nearby, the faint sound of guttural voices drifted through the trees. Celenneth gestured for Linnea to stay low as she edged closer, peering through the underbrush. A small group of orcs sat around a crude map laid out on the ground, their conversation animated but unintelligible.
+Half a dozen orcs squatted around a crude map scratched into a hide laid flat on the ground. One jabbed a claw at it and rasped over the others, and they answered, and Celenneth held still and let the broken speech come to her in pieces. She had never had much of the Black Speech — a hunter's smattering, no more — but enough of it snagged and held. A raid. A village, near, and soon: take captives, spread terror, leave a few alive to carry the fear outward. A name spoken like a lash — *Grahnak* — one who was drawing the scattered bands together across the region under his hand. And then another name, and the orcs' voices dropped around it the way men's voices drop in a graveyard: *Dol Guldur.* They spoke it with reverence and with fear both, as though their orders came up out of that place itself.
 
-Nimroch lowered his head, his ears flicking at the sound, sensing the danger yet trusting his companions.
+The word went through her colder than the wood's chill. She had heard it only in warnings, in Radagast's grim asides — the dark hold in the south of the forest, long thought empty, and never truly so. To hear it here, in orc-mouths, at the root of a raid, was to feel the size of the thing shift under her.
 
-From her concealed position, Celenneth listened intently. Though the words were harsh and fragmented, her limited knowledge of orcish helped her piece together the general meaning.
+She eased back to where Linnea waited with the horse, and did not trouble to soften her face. "They mean to raid," she said low. "Soon. A village not far off. Their leader is Grahnak, and he's pulling the bands together — and they take their orders, or think they do, from Dol Guldur." She watched the name land. "If that place has a hand in this, then it was never only Dale. It's the Shadow reaching north through the whole of this country."
 
-The orcs spoke of an upcoming raid—aimed at a nearby village to capture more prisoners. They mentioned a leader named Grahnak, amassing forces in the region. Their orders were clear: capture, spread fear, leave survivors to tell the tale.
+Linnea had gone pale, but she squared her shoulders against it, and Celenneth marked that too — how much steadier the fear made her now than it would have a month ago. "What do we do?"
 
-One word stood out like a sharp blade: Dol Guldur. The orcs spoke the name with reverence and fear, suggesting their orders came from the corrupted stronghold itself.
+Celenneth glanced back toward the brush and the guttural murmur beyond it. Part of her wanted to end them where they sat, before the warning could run ahead of her. But six was six, and Linnea was one bow, and there was the map. "We don't fight them," she decided. "Not for pride, and not for six when there's a hundred behind them. But that hide they're bent over — I want it."
 
-Celenneth retreated to Linnea and Nimroch, her expression grim. "They’re planning a raid. Soon. Their leader is Grahnak, and..." She hesitated, the weight of her discovery heavy. "They spoke of Dol Guldur. If that place is involved, this isn’t just about Dale—it’s about shadow spreading over the entire region."
+She left the horse and the woman in cover and went back into the undergrowth alone, and this time she went the slow way, choosing each foot's fall, breathing to the rhythm of the wood's small sounds so that she made none of her own. The orcs had drifted from the map to their argument, three of them up and gesturing off toward the north. She waited out a long, held moment until the last of them turned his back, and then reached from the leaves and drew the hide off the ground in one unhurried motion and was gone into the green again before the space it left was noticed.[^r-map]
 
-Linnea’s face paled, but she squared her shoulders. "What do we do?"
+She unrolled it flat between herself and Linnea, out of sight of the clearing. Hasty work, but not careless: the staging ground they stood near, a larger camp marked further east — Grahnak's seat, she guessed, or near it — and a rough scratch of a palisade and roofs that could only be the village, ringed and marked as a thing to be taken.
 
-Celenneth glanced back toward the orcs. "We can’t let them warn their leader. If we strike now, we might delay their plans. If we’re lucky, we might find something that points to Grahnak’s location."
+"What now?" Linnea asked, and there was admiration under the worry in her voice, and Celenneth chose not to answer either.
 
-Linnea shakes her head. "Let's avoid direct conflict. Take their map, if you can."
+"The village first." She rolled the hide and stowed it. "They don't know it's coming. If we ride, we can put a warning in front of the blow. Then Dale — with this, and with what I heard, so the king can't wave it off as a farmer's nightmare."
 
-Celenneth nodded and moved carefully through the underbrush, her steps light and deliberate. Her breathing was steady, her instincts guiding her every move. The orcs had moved away, and the map, drawn hastily but detailed enough to be useful, lay within reach. With one swift motion, she scooped up the parchment and retreated into the shadows, the orcs none the wiser.
+Linnea was already swinging up behind her. Celenneth turned Nimroch's head, and they came out of the black wood at a gallop, the horse glad of the open air and the leave to run, his stride swallowing the rough ground where roots and stone broke the turf and Celenneth felt for the safe line at speed and held him to it. The map put the village within the hour if she pushed him, and she pushed him, and the wood fell away behind them and the light came back into the world by degrees as they rode.
 
-Back with Linnea and Nimroch, Celenneth unrolled the map, scanning its contents. It marked several locations: the staging ground they had found, a larger camp further east—a potential hideout for Grahnak—and a crude drawing of a village, likely their next target.
-
-Linnea looked at her with a mix of admiration and lingering worry. "What now?"
-
-Celenneth’s expression was determined. "We find the village first, and warn them; otherwise they'll be defenseless. Then we take this to Dale. They need to understand the threat."
-
-Linnea nodded, mounting Nimroch swiftly behind Celenneth. The ranger spurred the horse into motion, and they plunged into the forest at a gallop. Nimroch’s hooves thundered against the earth, his swift strides eating up the distance as branches whipped past.
-
-Urgency filled the air as they raced through the woods. The map’s markings suggested the village wasn’t far—perhaps an hour’s hard ride. The terrain grew rougher, exposed roots and rocky patches forcing Celenneth to guide Nimroch carefully even at speed.
+[^r-map]: **Stealth** (steal the orc war-map from the staging ground) — success; taken clean, the band unaware. The hide marks the staging ground, a larger eastern camp (Grahnak's), and a village set to be raided. Eavesdropped intelligence: raid imminent; **Grahnak** consolidating the region's warbands; orders traced to **Dol Guldur**.

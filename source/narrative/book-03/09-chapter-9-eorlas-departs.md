@@ -1,35 +1,34 @@
 # Chapter 9: Eorlas Departs
 
-*Book 3*
-
 *Úrimë 13, 2965*
 
-The first rays of sunlight pierced through the thinning canopy as the group rose on the final day of their journey through Mirkwood. Relief and joy filled the air as they packed up camp and prepared for the road ahead.
+They broke camp on the last morning of the wood with the first true sunlight they had seen in days slanting down through a canopy grown thin and ragged overhead. Celenneth led with Nimroch, her guard not yet let down — Mirkwood had a way of keeping its promises late — and Linnea came behind with a lighter step for all her weariness, and Eorlas took the rear, his staff keeping its patient time against the earth.
 
-Celenneth led the way with Nimroch, not letting her guard down. Linnea followed close behind, her steps lighter despite her weariness. Eorlas brought up the rear, his staff tapping the earth rhythmically as he walked.
+Then the trees simply ended, and the world opened.
 
-When they finally emerged from the wood, the sight of the open lands before them filled the group with quiet awe. The sunlight was bright, almost blinding after days in darkness, and the sound of the wind over the grass was a welcome change from the oppressive stillness of the forest.
+They came out of the shadow into open country and stood a moment struck silent by it. The sun was almost too much after the long dark, a clean gold pouring over grass that ran to every horizon, and the wind moved across it in long slow waves and carried the smell of growing things instead of rot. Linnea tipped her face up into it and shut her eyes. "We made it," she said, hushed, as if a louder word might take it back.
 
-Linnea breathed deeply, her face turned toward the sky. “We made it,” she said, her voice filled with quiet wonder.
+They stopped to rest a stone's throw beyond the eaves, and it was there, in the open light, that Eorlas turned to the two of them with a calm and settled look. "This is where I leave you," he said.
 
-As the group paused to rest just beyond the forest’s edge, Eorlas turned to Celenneth and Linnea, his expression calm but resolute. “This is where I leave you,” he said, his voice steady.
+Linnea's eyes went wide. "You're leaving?"
 
-Linnea’s eyes widened. “You’re leaving?”
+He nodded, and gestured out across the grass to the east. "I set out for Dale to beg aid for the villages the goblins have bled — but you two are the better messengers, and the better tongues before a king. I'll turn to the eastern settlements instead, and ready them for what's coming, while you carry the warning where it will do the most good."
 
-Eorlas nodded, gesturing eastward. “I originally set out for Dale to ask for aid and to warn of the plight of the villages around the forest, but you are better messengers and rhetoricians. I will continue on to the villages of the eastern forest to prepare them.”
+He set a hand on Celenneth's shoulder, and his gaze held hers. "You're a strong leader, Ranger. You brought us through the dark whole. I've no doubt you'll go on doing it."
 
-He placed a hand on Celenneth’s shoulder, his gaze firm. “You are a strong leader, Celenneth. You guided us through darkness, and I have no doubt you will continue to do so.”
+Then he turned to Linnea, and the sternness in him gave way to something warmer. "And you — you've shown a great courage, even when the Shadow bent every trick it had to breaking you. Hold to that. It will carry you far."
 
-Turning to Linnea, he offered a small smile. “And you, Linnea—you’ve shown great courage, even when the Shadow sought to break you. Hold onto that strength. It will serve you well.”
+"Thank you, Eorlas," Linnea said, her voice soft. "For all of it. I've learned more from you than I know how to say."
 
-Linnea nodded, her voice soft. “Thank you, Eorlas. For everything. I've learned so much from you.”
+Eorlas reached into his satchel and drew out a small vial, and in it a liquid that held a faint light of its own, as if a little of the golden pool had been caught and stoppered. He pressed it into Celenneth's hand. "For your darkest hour," he said. "Brewed from the water of the blessed clearing. When your strength fails you utterly, it will give some back."[^t-elixir]
 
-Eorlas reached into his satchel and produced a small vial filled with a faintly glowing liquid. “This is for you,” he said, handing it to Celenneth. “An elixir brewed from the light of the golden clearing. It will restore strength in your darkest hour.”
+He shouldered his pack and turned to go, and then paused, and looked back. "When you reach Dale," he said, his voice carrying on the wind, "find a woman named Elenna, in the market there. Tell her Farnath is safe. That Eorlas still walks. And that there is a light set against the Shadow yet."
 
-As he began to walk away, he paused and turned back to Celenneth. “When you reach Dale,” he said, his voice carrying over the wind. “Seek out a woman named Elenna, in the market. Tell her that Farnath is safe, that Eorlas still walks, and that there is a light against the Shadow.”
+"I will," Celenneth promised, fixing the name and the words in her memory.
 
-Celenneth nodded, committing the name and message to memory. “I will,” she promised.
+"Thank you." A last glimmer of warmth crossed his weathered face. "Farewell." And he set off eastward across the grass at his steady, tapping pace, growing smaller against the vastness of the land until the shimmer of the horizon took him.[^r-eorlas-departs]
 
-Eorlas smiled, a glimmer of warmth in his eyes. “Thank you. Farewell.” With that, he turned once more and continued on his way, vanishing into the vastness of the land.
+The two of them stood in the quiet a while after he had gone, feeling the shape of the company changed, one fewer around the fire that night. Then Celenneth turned to Linnea, and her resolve came back into her. "We've a road of our own," she said. "Let's ride it."
 
-The pair stood in silence for a moment, the weight of Eorlas’s departure settling over them. Then Celenneth turned to Linnea, her resolve returning. “We have our own path. Let’s keep moving.”
+[^t-elixir]: **Reward — Elixir of the Golden Clearing** (a gift from Eorlas): brewed from the blessed pool's water; restores strength (Endurance/Hope) in an hour of dire need. One dose.
+[^r-eorlas-departs]: **Fellowship** — Eorlas leaves the company at Mirkwood's eastern eaves to rally the outlying villages, entrusting the errand to Dale to Celenneth and Linnea. A parting message for one **Elenna** in Dale's market (recognition-token: "Farnath is safe; Eorlas still walks").
