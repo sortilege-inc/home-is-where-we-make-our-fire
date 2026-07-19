@@ -1,164 +1,127 @@
 # Chapter 9: The Foundling
 
-*Book 5*
+*Narvinyë 8, 2966*
 
-It wasn't long after Yule that Celenneth brought Linnea on a several-day trek out near the northern Rhovanian borderlands. The pretext was to supplement the normal patrols, but Celenneth had an ulterior motive
+It was not long after Yule that Celenneth took Linnea out on a several-day ride toward the northern borderlands. The pretext was to bolster the patrols; the truth was that she had found something on an earlier ride she wanted to give her.
 
-Celenneth led Linnea to a secluded grove she had stumbled upon during one of her earlier patrols—a hidden marvel where nature seemed to have frozen time itself. Tall, crystalline icicles hung down from ancient oaks, catching the sunlight and scattering it into a dazzling spectrum of colors. A still pond lay at the center, its surface frozen into a flawless mirror that reflected the stark, leafless branches above and the soft blues of the winter sky. The grove glittered as if it were a secret winter palace untouched by human hands. They camped under the stars, making love amidst the snow and moonlight.
+She led her to a hidden grove — a place where the winter seemed to have caught and held time itself. Crystalline icicles hung from ancient oaks and broke the low sun into scattered color; a still pond lay frozen at its heart, a flawless mirror for the bare branches and the pale blue sky. It glittered like a secret palace no hand had built. They made camp there under the stars, and beneath the moon and the snow-hushed silence they came together, unhurried and warm against the cold, and for that night the wide dangerous world held its distance.
 
-* *
+⁂
 
 *Narvinyë 12, 2966*
 
-The morning, however, brought with it a cruel winter wind. They bundled themselves up tightly, and made themselves ready for the three-day journey back.
+Morning brought a cruel wind. They bundled tight and made ready for the three-day ride back, Nimroch's hooves crunching the frozen ground, their cloaks drawn over their faces, until the cold drove them to stop and warm themselves in the lee of a cluster of gnarled trees.
 
-Nimroch's feet crunched upon the ground and they pulled their cloaks around their faces to protect against the wind, but eventually stopped to warm themselves against a cluster of gnarled trees.
+The fire had barely caught when they heard it — a thin, wavering cry. Celenneth went still, her hand to her bow. "Did you hear that?"
 
-The fire was just beginning to strengthen when they heard it—a thin, wavering cry,. Celenneth froze, her hand instinctively going to her bow. “Did you hear that?” she asked, her voice low and tense.
+Linnea nodded, her good hand tightening on the reins. "It sounded like — a child?"
 
-Linnea nodded, her good hand tightening on the reins. “It sounded like... a child?”
+"It could be a lure. Orcs have used cruder." But the cry came again, louder, and Linnea shook her head. "That's no orc. That's a baby."
 
-Celenneth’s eyes narrowed as she scanned the surrounding darkness. “It could be a trick. A cruel orcish lure.”
+Celenneth's wariness lost to the plain humanity of the sound. "Stay close," she murmured, and they went toward it, breath clouding, boots crunching the frost. The crying led them to a hollow beneath the trees, and there, swaddled in a thin and ragged blanket, lay an infant — newborn, no more than a few weeks in the world, a dark down of hair on its head, its face red with cold and its cries weak but insistent. Whoever had left it had done so recently, and was nowhere to be seen.
 
-But the cry came again, louder this time, and Linnea shook her head. “That’s no orc. That’s a baby.”
+Linnea dropped to her knees. "Oh, gods. Who would—" She didn't finish it, only gathered the child up against her.
 
-Celenneth's distrustful instincts warring with the undeniable humanity of the sound. Finally, she moved forward. “Stay close,” she murmured, motioning for Linnea to follow. They moved toward the sound, their breaths visible in the icy air, their boots crunching softly on the frost-coated earth.
+Celenneth crouched, sweeping the ground with her eyes. "The wind's taken any tracks. Whoever left it didn't linger."
 
-The crying led them to a small hollow beneath the trees, where the ground was littered with brittle leaves. There, swaddled in a thin, ragged blanket, was an infant no older than a few months. The baby’s face was red from the cold, its cries weak but insistent. Whoever had left it here had done so recently, but they were nowhere to be seen.
+Linnea wrapped her cloak tight around the baby. "She's freezing. Build up the fire, or she won't last the night." Celenneth had it roaring in moments, and Linnea sat close to it with the child against her chest, and the cries quieted as the small body curled into her like a bird gone to shelter.
 
-Linnea’s heart clenched at the sight. “Oh, gods,” she breathed, dropping to her knees beside the child. “Who would...?” She didn’t finish the question, her voice breaking as she reached out to lift the baby into her arms.
+"I've never held a baby," Linnea admitted, her eyes glistening. "But I think — I think she's holding me just as much."
 
-Celenneth crouched beside her, her sharp eyes scanning the area for any sign of danger. “The wind has blown away any tracks,” she said grimly. “Whoever left it here didn’t linger.”
+Celenneth allowed herself a rare smile. "Then it's well she's got someone stubborn."
 
-Linnea cradled the baby against her chest, wrapping her cloak tightly around it. “They're so cold. We need to stoke the fire,” she said, her voice firm despite the quaver of emotion in it. “Or they won’t survive the night.”
+Linnea's face hardened with something else. "How could anyone just leave her out here? What kind of person—"
 
-Celenneth worked quickly to build the fire, her hands steady despite the urgency. Linnea sat close to the flames, holding the child against her chest to share her warmth. The baby’s cries had quieted, its small body curling into Linnea’s like a fragile bird seeking shelter.
+Celenneth's eyes stayed on the flames. "It's not so rare," she said, low and heavy. "Far from a Bree or a Dale, life is harder. There are families that can barely feed themselves, let alone another mouth."
 
-As the fire grew, Celenneth handed Linnea a waterskin. “We’ll need to keep it warm and fed,” she said. “Do you think you can manage?”
+"So they leave them to die?"
 
-Linnea smiled faintly, though her eyes glistened with unshed tears. “I’ve never held a baby before,” she admitted. “But I think... I think it’s holding me just as much.”
+"Out where there's no one to turn to — no charity, no warm bed to beg — they might tell themselves it's a mercy." She met Linnea's stricken look. "It's the choice of the desperate. The kind no one should ever have to make."
 
-Celenneth allowed herself a rare smile, her gaze lingering on the tender scene. “Then it’s lucky you’re stubborn,” she said
+Linnea stroked the baby's cheek with her thumb. "So what do we do now?"
 
-“I don’t understand,” Linnea said, her voice quiet but filled with frustration. “How could someone just leave a baby out here? What kind of person would do that?”
+"We care for her," Celenneth said simply. "Until we find someone who can. She deserves a chance." She managed a crooked feeding-tube from a scrap of clean cloth and a hollow reed, and they boiled water and softened dried root and crushed berry into a thin paste, and dripped the weak gruel slow between the baby's lips. It was little enough, but it would keep her until the Riddermark.
 
-Celenneth didn’t look up immediately, her eyes fixed on the flames. “It’s not uncommon,” she said after a moment, her tone measured but heavy. “In the rural areas, far from towns like Bree or Dale, life is... harder. Harsher. There are families who can barely feed themselves, let alone another mouth.”
-
-Linnea frowned, her good hand tightening protectively around the baby. “So they just leave them to die?” she asked, her voice sharp with anger. “How is that... how can that be so?”
-
-Celenneth met Linnea’s gaze, her own expression steady but tinged with sadness. “It’s about survival,” she said quietly. “In the towns your father traveled to, people might help each other—offer charity, a warm bed, a loaf of bread. But out far enough, there’s no one to turn to. If a family can’t provide, they might see this as... as mercy.”
-
-“Mercy?” Linnea’s voice broke slightly, and she looked down at the baby in her arms, its small hand gripping the edge of her cloak. “Leaving a child to die is a mercy?”
-
-“It's an act of desperation,” Celenneth admitted, her voice soft but firm. “It’s the kind of choice no one should have to make."
-
-Linnea’s eyes glistened with unshed tears as she stroked the baby’s cheek with her thumb. “So, what do we do now?” she asked, her voice barely above a whisper.
-
-“We care for it,” Celenneth said simply, her tone resolute. “At least until we can find someone else who can. The child deserves a chance. Maybe this is why we were meant to come this way.”
-
-Linnea nodded, her grip on the baby tightening slightly. “It’s just... so unfair,” she murmured. “To be so small, so helpless, and already left behind.”
-
-Celenneth placed a hand gently on Linnea’s shoulder, her touch grounding. “It is,” she agreed. “But you’re holding that child now. You’re giving them a chance to live. That’s more than they had before.”
-
-Feeding the infant was no small challenge, but they worked with what little they had. Celenneth took charge of crafting a makeshift feeding system using a scrap of clean fabric and a hollow reed. They boiled water over the fire to soften dried roots and crushed berries into a thin paste. Mixed with water, it formed a weak, nourishing liquid that they could drip slowly into the baby’s mouth.
-
-Linnea cradled the child as Celenneth carefully administered the feeding. “It’s not much,” Celenneth murmured, her hands steady but her brow furrowed with concentration. “But it will keep the child alive until we can get back to the Riddermark.”
-
-Linnea watched the baby’s small lips latch onto the reed, her heart aching with a mix of hope and worry. “This little one is stronger than she looks,” she said softly.
+⁂
 
 *Narvinyë 16, 2966*
 
-When they finally reached the Riddermark, they reached out to the marshalls to find a wet nurse. It was not long before a solution was found. A local woman named Freowyn, a mother who had recently lost her own child, offered her aid.
+When they reached the Mark they went to the marshal's people for a wet-nurse, and a solution was soon found: a woman named Freowyn, who had lately lost a child of her own. She was sturdy and kind-eyed, her golden hair braided over one shoulder, and she came to them with quiet confidence and reached for the infant with gentle hands. "This little one is lucky in who found her," she said, warm but sad. "Many would not have troubled."
 
-Freowyn was a sturdy, kind-eyed woman with golden hair braided neatly over her shoulder. She approached the two travelers with quiet confidence, her hands gentle as she reached for the infant. “This little one is lucky to have found you,” she said, her voice warm but tinged with sadness. “Many would not have cared.”
+Linnea handed the baby over, her fingers slow to let go. "We've done what we could. But we're not made for this. Will you — will you take care of her?"
 
-Linnea reluctantly handed the baby over, her fingers lingering for a moment as if reluctant to let go. “We’ve done what we could,” she said, her voice trembling slightly. “But we’re not equipped for this. Can you... will you take care of her?”
-
-Freowyn smiled softly, cradling the baby against her chest. “Of course. My milk is still strong, and I’ve longed to have little arms to hold again.”
-
-The relief in Linnea’s expression was mirrored in Celenneth’s posture as she stepped back, watching Freowyn with quiet gratitude. “Thank you,” Celenneth said simply, her voice heavy.
-
-As the infant settled into Freowyn’s arms, its cries quieted as it nursed for the first time in days, Celenneth and Linnea exchanged a glance.
+Freowyn cradled the child to her chest. "Of course. My milk is strong yet, and I have ached to hold small arms again." The baby's cries eased as she nursed for the first time in days, and Celenneth and Linnea traded a glance thick with relief.
 
 ⁂
-The firelight flickered low in the hearth of their room, casting long shadows on the wooden walls. Linnea sat cross-legged on the fur-covered floor.
 
-“We could have kept her,” Linnea said suddenly, breaking the silence. Her voice was soft but tinged with a quiet intensity.
+The fire burned low in their room that night. Linnea sat cross-legged on the fur-covered floor, and after a long quiet she said, "We could have kept her."
 
-Celenneth, sitting on a low bench near the fire, glanced up from her woodcarving. Her expression was guarded, but her tone was steady. “How could we have? Neither of us can feed her properly. And how would that even work come the spring?”
+Celenneth glanced up from the wood she was carving, her expression guarded. "How could we? Neither of us can feed her. And come spring — where would we even be?"
 
-Linnea frowned, her frustration bubbling to the surface. “We managed to keep her alive this far, didn’t we?”
+"We kept her alive this far, didn't we?"
 
-Celenneth’s jaw tightened, the knife stilling in her hands. “It’s not just about keeping her alive,” she said, her voice low. “It’s about giving her a chance to grow, to be safe, to have something better than two wanderers scraping by on the edges of the world.”
+"It isn't only keeping her alive." The knife stilled in Celenneth's hands. "It's giving her a chance to grow. To be safe. Something better than two wanderers scraping along the edge of the world."
 
-Linnea leaned forward, her gaze searching Celenneth’s face. “And what about us?” she pressed. “What if she could have had something better with us? What if we could have—” She hesitated, then added, “What if we could have been good for her?”
+Linnea leaned forward, searching her face. "And what if she'd have had something better with us? What if we could have been good for her?"
 
-Celenneth’s expression darkened, her eyes flicking to the fire. “Do you really believe that, Linnea? Look at us. We don’t have a home. We don’t know where we'll be by next season. What could we have offered her besides uncertainty and danger?”
+"Look at us, Linnea. No home. No knowing where we'll be next season. What could we give her but danger and uncertainty?"
 
-Linnea’s voice softened, but her determination didn’t waver. “Love. We could have offered her love.”
+"Love," Linnea said quietly. "We could give her love."
 
-Celenneth’s breath hitched slightly, and for a moment, she said nothing. When she finally spoke, her voice was quieter, almost hollow. “Love isn’t always enough.”
+Celenneth's breath caught, and for a moment she said nothing. "Love isn't always enough," she said at last, hollow.
 
-Linnea’s brow furrowed, her frustration giving way to concern. “What is it?” she asked gently. “You’ve been holding something back since we found her. What is it you’re not saying?”
+Linnea's frustration gave way to concern. "What is it? You've been holding something back since we found her."
 
-Celenneth hesitated, her grip tightening on the hilt of the knife. Then she set it aside and leaned forward, resting her elbows on her knees. Her gaze remained fixed on the fire as she spoke, her voice brittle but steady.
+Celenneth set the knife aside and rested her elbows on her knees, her eyes fixed on the fire, and when she spoke her voice was brittle but steady. "I was nine when goblins came for my village. The middle of the night. My mother threw herself against the door to buy us time — screamed for me and my sister to run. I didn't understand what was happening until it was too late." Linnea went still. "They broke through. They killed her. My sister tried to fight them with a cooking knife. She was seven. Brave. Foolish." Her jaw worked. "They took her. I never saw her again."
 
-“I was nine when goblins raided my village,” she said. “It was the middle of the night. My mother threw herself at the door to hold them off, screaming for me and my sister to run. I... I didn’t understand what was happening until it was too late.”
+Linnea's hand found her arm. Celenneth did not look at it.
 
-Linnea’s breath caught, but she didn’t interrupt.
+"I ran," she said, barely audible. "Into the woods, until my legs gave out. I'd have died out there if the rangers hadn't found me." She looked at Linnea then, her eyes glistening. "They took me in. Taught me to survive. But I never had a home again. Not really."
 
-“They broke through,” Celenneth continued, her voice trembling slightly. “They... they killed her. My sister tried to fight them off with a cooking knife. She was seven. Brave. Foolish.” She shook her head, her jaw tightening. “They took her, and I never saw her again.”
+"Celenneth," Linnea said softly. "That wasn't your fault. You were a child."
 
-Linnea reached out instinctively, placing a hand on Celenneth’s arm, but Celenneth didn’t look at her.
+"And so is she." Her voice broke. "That little girl. She's just a child, Linnea. I couldn't save my sister. I can't — I can't risk failing her too."
 
-“I ran,” she said, her voice barely above a whisper. “I ran into the woods, and I didn’t stop until my legs gave out. I would have died out there if the rangers hadn’t found me.”
+The weight of it settled between them. Linnea's anger had gone; only tenderness was left. "You wouldn't fail her," she said. "You've already done more for her than anyone would. You're not that frightened girl anymore. You're stronger now. Wiser."
 
-She finally looked at Linnea then, her eyes glistening with unshed tears. “They took me in. They taught me how to survive. But I never had a home again, not really.”
+"Maybe." Celenneth's expression stayed torn. "But it doesn't change what she needs. Freowyn can give her a life we can't."
 
-Linnea’s hand tightened on her arm. “Celenneth,” she said softly, her voice filled with emotion. “That wasn’t your fault. You were just a child.”
+Linnea nodded slowly, her heart aching, her resolve steady. "Maybe you're right. But if you ever decide you're ready to be more than a ranger — you'd make a fine mother."
 
-“And so is she,” Celenneth said sharply, her voice breaking. “That little girl we found. She’s just a child, Linnea. I couldn’t save my sister, and I can’t... I can’t risk failing her, too.”
+Celenneth's lips twitched toward a smile that didn't reach her eyes. "And you'd be a terrible influence."
 
-The room fell silent, the weight of Celenneth’s confession settling between them like a heavy stone. Linnea’s eyes softened, her anger melting away as she saw the raw pain etched into Celenneth’s face.
+"Good thing you'd be there to keep me in line." Linnea laughed softly and squeezed her arm, and they sat in the crackling quiet, the old grief giving way, by inches, to the faintest light of something ahead.
 
-“You wouldn’t fail her,” Linnea said gently. “You’ve already done more for her than anyone else would have. You’re not the scared girl you were back then. You’re stronger now. Wiser.”
-
-Celenneth looked at her, her expression conflicted. “Maybe,” she said quietly. “But it doesn’t change what she needs. Freowyn can give her a life we never could.”
-
-Linnea nodded slowly, her heart aching but her resolve steady. “Maybe you’re right,” she said. “But if you ever decide you’re ready to be more than a ranger, Celenneth, you’d make a damn good mother.”
-
-Celenneth’s lips twitched into the faintest smile, though it didn’t quite reach her eyes. “And you’d make a terrible influence,” she said softly, her voice tinged with a hint of humor.
-
-Linnea laughed lightly, squeezing her arm. “Good thing you’d be there to keep me in line.”
-
-The fire crackled softly as they sat in silence, the weight of the past slowly giving way to the faintest glimmer of hope for what might still lie ahead.
+⁂
 
 *Narvinyë 17, 2966*
 
-The next day, Celenneth stood before Marshal Eofred, her shoulders squared and her expression resolute. Linnea was at her side, a silent show of support. Freowyn stood behind them, the baby cradled in her arms, her presence quiet but steady.
+The next day Celenneth stood before Marshal Eofred, her shoulders squared, Linnea at her side and Freowyn behind them with the baby in her arms.
 
-Eofred regarded them with his usual stern demeanor, his sharp eyes flicking between Celenneth and Linnea. “You’ve requested this audience again so soon,” he said, his tone calm but inquisitive. “What is the cause?”
+"You ask audience again so soon," Eofred said. "What is the cause?"
 
-Celenneth took a deep breath, her voice steady as she began. “Marshal Eofred, I wish to formally petition for the right to adopt the child we found in the wilderness. I would raise her as my own, teach her the skills of a ranger, and prepare her for the dangers of the world.”
+Celenneth drew a breath. "Marshal, I wish to petition for the right to adopt the child we found in the wild. I would raise her as my own — teach her a ranger's craft, and ready her for the world."
 
-Eofred’s brows furrowed, his gaze narrowing. “You speak of raising a child in the ways of the wilderness. That is a hard life, far from the safety a child needs.”
+His brows drew down. "A child raised to the wilds. That is a hard life, far from the safety a child needs."
 
-“It is,” Celenneth admitted, her tone firm but respectful. “But it is also a life of strength, of resourcefulness, of survival. And I would not put her at unnecessary risk. When my path becomes too dangerous, Freowyn has agreed to care for her.”
+"It is," Celenneth allowed. "But it is a life of strength, and resourcefulness, and survival. And I'd not put her at needless risk. When my road turns too dangerous, Freowyn has agreed to keep her."
 
-Freowyn stepped forward, her voice soft but resolute. “It is true, my lord. I would gladly give this child a home when the road is unsafe. Celenneth and Linnea have shown they would do anything to protect her. I believe the girl would be loved and cared for, in their arms as in mine.”
+Freowyn stepped forward. "It's true, my lord. I would gladly give the child a home when the road is unsafe. These two would do anything to keep her — she would be loved, in their arms as in mine."
 
-Eofred leaned back in his chair, his expression unreadable. “And what of Rohan?” he asked, his gaze sharp as he looked at Celenneth. “You would raise her as a ranger, but she was found within the Riddermark. She should also know the ways of our people—the bond between rider and horse, the traditions that run through our blood. If you are to be her mothers, then Rohan shall be her father.”
+Eofred leaned back. "And what of Rohan? She was found within the Mark. She should know our ways too — the bond of rider and horse, the traditions in our blood. If you are to be her mothers, then let Rohan be her father."
 
-Celenneth looked to Linnea and nodded, her posture unwavering. “We would not deny her that,” she said. “The strength of the Rohirrim is legendary, and their ways are noble. We would welcome your people’s traditions as part of her life.”
+Celenneth looked to Linnea, and nodded. "We'd not deny her that. The strength of the Rohirrim is legend, and their ways are noble. We'd welcome them in her life."
 
-Eofred regarded them for a long moment, the weight of the decision clear in his expression. Finally, he stood, his commanding presence filling the room. “Very well,” he said, his tone measured. “Celenneth, you may adopt the child, on the condition that she is raised in both the ways of the rangers of the North and the ways of the Rohirrim. She will know both the wilds and the plains, and she will be prepared for whatever future awaits her.”
+Eofred weighed it a long moment, then rose, his presence filling the hall. "Very well. You may adopt the child — on the condition that she is raised in both the ways of the rangers of the North and the ways of the Rohirrim. She'll know the wilds and the plains both, and be ready for whatever comes."
 
-A flicker of relief passed over Celenneth’s face, though her expression remained composed. Linnea was beaming. They both spoke. “Thank you, Marshal. We will honor this agreement.”
+Relief crossed Celenneth's face, though she held her composure; Linnea beamed. "Thank you, Marshal," they said together. "We'll honor it."
 
-Freowyn smiled, stepping closer with the baby in her arms. “And her name?” she asked gently, her gaze shifting to the women. “Have you chosen one?”
+Freowyn stepped near with the baby. "And her name?" she asked gently. "Have you chosen?"
 
-Celenneth hesitated for a moment, then stepped forward, placing a hand lightly on the child’s swaddled form. “Her name will be Brynja,” she said softly, her voice carrying a mix of strength and tenderness. “She was protected by us, and we will raise her to protect others.”
+Celenneth hesitated, then laid a hand on the small swaddled form. "Brynja," she said, strength and tenderness both in it. "She was protected by us. We'll raise her to protect others."
 
-Linnea grinned, her eyes sparkling with warmth. “Brynja,” she repeated, testing the name. “It suits her.”
+Linnea tested it, grinning. "Brynja. It suits her."
 
-As Freowyn placed the baby in Celenneth’s arms, the room grew quiet, the gravity of the moment settling over them all. Celenneth held Brynja close, her heart swelling with a fierce, protective love. Linnea rested a hand lightly on her shoulder, her smile soft but proud.
+Freowyn placed the child in Celenneth's arms, and the hall went quiet with the weight of it, and Celenneth held Brynja close, fierce and protective, while Linnea rested a hand on her shoulder and smiled.[^r-brynja]
+
+[^r-brynja]: **A new companion — Brynja.** An abandoned newborn found in the winter borderlands (Narvinyë 2966) and taken in; formally adopted with Marshal Eofred's leave, on the condition she be raised in both ranger and Rohirrim ways. Wet-nursed by **Freowyn** of Rohan. Named Brynja — "protected, that she may protect others." The foundling daughter of the chronicle. (Her age hereafter ≈ current year − 2966.)

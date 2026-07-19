@@ -1,53 +1,35 @@
 # Chapter 6: The Riddermark
 
-*Book 5*
-
 *Hísimë 2, 2965*
 
-Dawn spilled over the horizon, the golden grasses of the plains glistening with dew. The air was crisp, the scent of earth and wildflowers carried on a gentle breeze. Despite the tension of the previous day, the group felt lighter, their pace quickened by the promise of nearing the Riddermark.
+Dawn spilled over the plains, the golden grass silvered with frost. Despite the day before, the group rode lighter for the nearness of their goal. Celenneth led, reading the ground, and by late morning she called a halt and crouched over the dry, trampled turf. "Tracks. Horses — many of them."
 
-Celenneth rode at the head, her sharp eyes scanning the ground for any signs of passage. Nimroch moved with a steady gait, his ears flicking forward as if sensing the significance of their journey. By late morning, Celenneth called for a halt. She dismounted, crouching low over the dry, trampled grass. “Tracks,” she said, her voice steady but tinged with curiosity. “Horses. Many of them.”
+Ellarien knelt beside her. "Rohirrim. No one else rides in such numbers this far south."
 
-Ellarien dismounted as well, kneeling beside Celenneth to study the impressions. “Rohirrim,” she confirmed, her tone firm. “No one else rides in such numbers this far south.”
+Linnea leaned over Mareth's neck. "Which way?"
 
-Linnea joined them, leaning over her mare’s reins to peer at the tracks. “Which way did they go?” she asked, her brow furrowing.
+Celenneth's face clouded. "That's the trouble. They scatter." She swept a hand at the churned grass, broken in every direction. "As if they split off — or doubled back." It gnawed at her as they followed the strongest line southward; the Rohirrim were disciplined riders, and disciplined riders did not scatter without cause. But the tracks faded on harder ground as evening drew on, and the horizon stretched empty ahead.
 
-Celenneth’s expression darkened. “That’s the problem. The tracks scatter.” She gestured to the surrounding area, where the grass was churned and broken in multiple directions. “It’s as if they split off—or doubled back.”
-
-The group continued, following the most prominent set of tracks where they seemed to veer southward. The afternoon sun beat down on them, but their progress remained steady, their spirits buoyed by the tangible sign of the Riddermark’s riders. The tracks grew fresher as they went, the marks more distinct against the dry, cracked earth.
-
-Still, the scattered nature of the trail nagged at Celenneth. The Rohirrim were disciplined riders, known for their precision and cohesion. Something had disrupted that, and the thought lingered in her mind like a shadow.
-
-As evening approached, the tracks began to fade, swallowed by harder ground and the lengthening shadows of the day. The horizon stretched out before them, empty save for the faint undulation of the land.
+⁂
 
 *Hísimë 3, 2965*
 
-The seventeenth day greeted them with a pale golden dawn, the sunlight bathing the plains in a soft glow. The air had changed subtly, carrying a sense of openness and vitality distinct from the harsher lands they had traversed. Celenneth, riding at the head, felt the difference in her bones. The land seemed lighter, the shadows less oppressive, as if they had crossed an unseen boundary.
+The morning broke pale gold, and the land itself felt changed — lighter, the shadows less oppressive, as though they had crossed some unseen boundary. By midday the first signs of habitation rose from the plain: a scatter of small settlements, thatched roofs like islands in a sea of grass, smoke curling from chimneys, the far bark of dogs. Linnea slowed at the sight, a smile tugging at her. "Rohan. We've made it."
 
-By midday, the first signs of human habitation appeared—a scattering of small settlements, their thatched roofs rising from the rolling plains like islands in a sea of green and gold. Smoke curled from chimneys, and the faint sound of distant voices and barking dogs carried on the wind. The sight of civilization, however humble, lifted their spirits.
+"The outer settlements," Ellarien said. "But the Mark's heart is close. By nightfall you'll be at it." They followed a well-trodden path, the farms growing thicker, folk pausing at their work to watch the strangers pass — children waving from the fields, wide-eyed at Ellarien's Elvish face and Linnea's splinted arm.
 
-Linnea slowed her mare, her gaze lingering on the small farms and pastures. “Rohan,” she murmured, a faint smile playing on her lips. “We’ve made it.”
+By late afternoon the pastures were bordered with low wooden fences, and stables and watchtowers rose on the horizon under the green-and-gold banners of the Rohirrim. Here Ellarien drew rein. "This is where I turn back. I'll see Mareth safe home to Thalion." Linnea's face fell; she rested her good hand on the mare's neck. "You've done so much for me. I wish you didn't have to go."
 
-Ellarien rode beside her, her sharp eyes scanning the horizon. “The outer settlements,” she said. “But the Riddermark is close now. By nightfall, we’ll reach the heart of their territory.”
+Ellarien's mouth curved. "My duty is in the forest. But I'll speak of your courage where it will be heard — and should your road ever bring you back to the woods, you won't walk them alone." She took Mareth's reins, and Celenneth stepped forward. "Thank you," she said, and the word carried more than it held.
 
-The day passed swiftly as they followed the faint traces of a well-trodden path. The settlements grew more frequent, their inhabitants pausing in their work to watch the travelers pass. Children waved from the fields, their curious eyes wide at the sight of Ellarien’s elven features and Linnea’s splinted arm. The group rode on without stopping, their focus fixed on reaching their destination.
+"Ride well," Ellarien said. "And may the Mark be kinder to you than the lands behind." With a last nod she turned and rode back the way they had come, and was soon lost in the vastness of the plain. Linnea watched her go, then swung up behind Celenneth on Nimroch, her arms circling her waist, and the two of them — and the horse who had carried them so far — turned toward the heart of the Riddermark alone.[^r-arrival]
 
-By late afternoon, the terrain began to shift once more. The grasses gave way to occasional pastures, bordered by low wooden fences. The faint outlines of larger structures appeared on the horizon—stables, watchtowers, and the unmistakable banners of the Rohirrim, their green and gold sigils fluttering in the breeze.
+As the sun dropped low and set the land aglow, they reached the gates of the marshal's town. Two mounted guards rode out to meet them, helms bright in the failing light, their sharp eyes taking in the pair of travel-worn women on a single grey horse.
 
-Ellarien pulled alongside Linnea, her expression calm but resolute. “This is where we part,” she said. “I'll bring the horses back safely to Thalion.” Linnea frowned, her good hand resting lightly on Mareth’s neck. “You’ve done so much for me,” she said quietly. “I only wish you didn’t have to go.”
+"What business brings you to the Mark?" one called, strong but not unkind.
 
-Ellarien’s lips curved into a faint smile. “My duty lies in the forest,” she said. “But know this—I will speak of your bravery to those who will listen. And should your paths ever lead you back to the woods, you will not walk alone.”
+Celenneth urged Nimroch forward, straight-backed. "We carry word of urgency. From Dale, and beyond."
 
-Celenneth stepped forward, her gaze steady. “Thank you,” she said simply, her words carrying a weight of gratitude that needed no elaboration.
+The guards traded a look, and nodded. "You'll find welcome here," the lead rider said, gesturing them through. "But be ready to answer questions. These are tense times."
 
-Ellarien mounted her horse, and took Mareth's reins. “Ride well,” she said, her voice carrying a quiet blessing. “And may the Riddermark be kinder to you than the lands behind us.”
-
-With a final nod, she turned the mare and rode back into the fading light, her figure soon swallowed by the vastness of the plains. Celenneth and Linnea stood in silence for a moment, watching her go before turning toward the heart of the Riddermark, where their journey would continue.
-
-As the sun dipped low, casting the land in a warm amber glow, they reached the gates of the Riddermark. A pair of mounted guards approached, their helms gleaming in the fading light. Their sharp eyes took in the group with practiced caution, lingering briefly on Ellarien’s elven features.
-
-“What business brings you to the Mark?” one of them called, his voice strong but not unkind.
-
-Celenneth urged Nimroch forward, her posture straight and confident. “We carry messages of urgency,” she said firmly. “From Dale and beyond.”
-
-The guards exchanged glances before nodding. “You’ll find welcome here,” the lead rider said, gesturing toward the gates. “But be prepared to be questioned. These are tense times.”
+[^r-arrival]: **Journey's end / Fellowship** — the party reaches the Riddermark. The Woodland scout Ellarien parts at the border, per Thalion's charge, and returns Linnea's loaned mare to the forest; Celenneth and Linnea go on to the marshal's seat alone. The long crossing from the Woodland Realm to Rohan is complete.
