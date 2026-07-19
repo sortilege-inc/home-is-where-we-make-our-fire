@@ -1,137 +1,36 @@
 # Chapter 3: Setting Out from Rivendell
 
-*Book 2*
+*Cermië 17, 2965*
 
-*Cermië 17, 2965 – Setting Out*
+Dawn came gold over Rivendell as she saddled Nimroch, and the horse stood easy under her hands, ears forward, as ready for the road as she was. "This is our way now," she told him, low, cinching the last strap. "Let's see where it takes us." A touch of her heels and they went, out of the hidden valley and up its winding paths, the falling water and the golden halls dropping away behind them until the wide wilds of Eriador opened ahead and Rivendell was only a green memory folded into the hills.
 
-The golden light of dawn spilled across Rivendell as Celenneth saddled Nimroch. The horse, calm and sure-footed, seemed eager to begin the journey. Adjusting the straps of her pack, Celenneth whispered, "This is our path now, Nimroch. Let’s see where it takes us." With a gentle nudge, they set off, leaving the hidden valley behind. The splendor of Rivendell faded slowly as the pair moved away from its sanctuary, the golden halls giving way to the vast wilds of Eriador.
+The second day took them south through rolling country where the grass grew long and the wildflowers brushed her stirrups, and the land was quiet — a comfort and a warning both, for the wild has a way of going still before it shows you why. Nimroch earned his keep already, finding a narrow deer-trail through a thicket that spared them a hard rocky climb; and near a river-crossing she read the small signs of a country still its own — game-trails, a fox's den, no taint of Shadow on any of it — and let herself rest an hour under a weathered oak with something almost like hope.
 
-*Cermië 18, 2965 – The Second Day*
+It did not last the night. Sleep took her under the stars and gave her the first of the dreams. She stood in a misty wood where the trees climbed impossibly high, their bare branches clawing at a sky the colour of old blood. Something moved in the mist ahead — figures that flickered and were gone, and one that came closer and stayed, shrouded, its hand rising toward her not in kindness but in warning, or in accusation; she could not tell which. The cold came down. A drumbeat started somewhere, low and slow, and quickened until it was her own heart trying to break its way out of her, and out of the mist on every side a whisper came, faint and clear at once: *The road bends, but the shadow waits.* She woke with a sharp breath. The fire was embers, the dark heavier than it had been, and Nimroch stood stiff-legged nearby with his ears working, feeling her unease or his own.[^s-dreams]
 
-The morning was cool, a light mist clinging to the ground as Celenneth and Nimroch pressed onward. The path led them through rolling hills, where the grass grew long and wildflowers brushed against their boots and hooves. The stillness of the land was both a comfort and a warning; the wilds had grown quiet—perhaps too quiet.
+The third day the dream rode with her. The wood grew close and old, the branches knitting overhead until the trail ran in a green twilight even at noon, and Nimroch's ears would not settle. It was in a narrow glade that she heard it — the snap of a twig, the whisper of voices — and her hand was on her sword before she had finished thinking it.
 
-Nimroch proved invaluable, discovering a narrow deer trail that cut through a dense thicket, allowing Celenneth to bypass a rocky incline. As they neared a gentle river crossing, Celenneth noticed signs of game trails and a fox den, small markers that suggested the land here remained untouched by Shadow. Resting beneath a weathered oak tree, she felt a fleeting sense of hope.
+Four came out of the trees, ragged and patched and armed, moving with the deliberate spread of men who had done this before. Their leader was wiry, with a cruel easy smile. "Well met, traveller," he said, all false warmth. "You're carrying more than you need. Why not lighten the load?"
 
-As night fell, Celenneth drifted into an uneasy sleep beneath the vast canopy of stars. The dream took hold of her mind, shifting her into a shadowy, surreal world.
+"I've no quarrel with you." Her voice was level. "Let me pass, and there'll be no trouble."
 
-She stood in a dense, misty forest. The trees rose impossibly tall, their skeletal branches clawing at a blood-red sky. A faint wind stirred the mist, carrying a sound that could be whispered words or the faint rustle of leaves. As she walked, the ground beneath her feet felt unsteady, as if she tread upon shifting sand or the surface of a frozen lake about to crack.
+He chuckled, low. "I don't think that's yours to decide." One of the others began to drift toward her flank.
 
-Ahead, she glimpsed faint figures—blurry shapes that flickered and vanished like candlelight in a breeze. One figure stepped closer but remained shrouded in shadow. Its hand reached toward her, and though she could not see its face, she felt its intent: not kindness, but warning. Or perhaps it was accusation.
+She read them the way she read a warg-pack — ragged, yes, but dangerous, and overconfident with the overconfidence of the desperate. She gave Nimroch a step forward, hands loose and away from her weapons, and tried them once more with words. "I've nothing worth your trouble. Let me by, and find easier prey."
 
-The air grew colder, and she heard a distant sound—a low, rhythmic beat like a war drum or the echo of her own heart. It quickened, reverberating through her, until it felt as though the sound would swallow her whole.
+For a breath the leader weighed it. Then his smile widened and he stepped in front of her — and one of his men lunged, a hand grabbing for her cloak. Nimroch reared; she twisted with him and came down with her sword already drawn, the blade catching a shaft of light through the leaves. "*Enough.*" It cracked like a whip, and the men flinched — but the leader recovered and came at her with a dagger, and then there was no more talking.
 
-And then, a whisper, faint but clear, came from all directions: "The road bends, but the shadow waits."
+It was short and hard. She moved with the plain economy of someone who had done this too often to make a show of it, and Nimroch fought with her, wheeling and lashing out with iron-shod hooves, and in a handful of heartbeats the four were on the ground — disarmed, bruised, none of them dead. She had killed easily enough when the road demanded it; it did not demand it here, only desperate men who had turned their hunger on whoever looked weak.[^r-bandits] She bound their hands, took their crude weapons and a tattered map marked with symbols she did not know, and rode on, the weight of the thing settling on her as it always did, even when the blade stayed clean.
 
-Celenneth woke with a sharp intake of breath. The fire she had lit earlier had burned down to embers, and the night felt heavier now, as if the dream had left a mark on the waking world. Nimroch stirred nearby, the horse’s ears twitching as if sensing her unease.
+The land changed as she went south, and not for the better. The trees thinned and twisted; she came on a patch of earth scorched as if by fire, claw-marks raked into the bark of an old oak, the faint reek of decay riding the wind. Nothing moved when she stopped to listen — but the sense of being watched did not leave her. That evening, gathering firewood, her boot turned up a small iron pendant crudely shaped like an eye, cold in her hand and stirring the same low wrongness in her chest that the dreams had left. She nearly threw it in the stream. Instead she wrapped it in cloth and stowed it deep, because a thing that felt like that was a thing worth understanding before she was rid of it.[^t-eye]
 
-*Cermië 19, 2965 – The Third Day*
+The dream came again that night, and it had grown. No misty wood this time but a black endless plain under a starless sky, the ground cold and wet as a bog though no water touched her, the wind carrying broken words in a tongue she did not know. A shape loomed ahead, vast and never the same shape twice — a towering figure, a swarm of dark wings, a hunger with no edges — and the whispers ran together into one terrible voice: *You carry light... but light is swallowed.* The ground opened under her and she fell, and there was no bottom, only the dark and its laughter and her own scream that made no sound. She woke bolt upright with her hand on her sword. *What light? What shadow?* The night gave her no answer, and she did not sleep again before dawn.
 
-Celenneth woke with the weight of the dream still pressing on her chest. The forest around her felt colder than it had the day before, the birdsong muted. Nimroch nickered softly as she packed her belongings, her movements careful and deliberate. The dream’s words lingered in her mind: "The road bends, but the shadow waits."
+The southern country made her earn every league after that. A storm caught her on the fifth day, rolling in black off the horizon and turning the trail to a mire, the rain coming in sheets that shrank the world to a few grey yards. But Nimroch was sure where the ground was treacherous, and she found an overhang to wait out the worst of it, and in the leavings of some long-gone wayfarer's camp beneath it a small mercy — dry blankets and a bundle of preserved food, left behind and still good. When the rain slackened she pressed on to a river swollen brown and roaring where it should have been an easy ford, and led Nimroch to a narrower place and picked a line across mossy stones that stood just above the race, and made the crossing careful and whole. The storm broke as she reached the far bank, the sky clearing to a sunset of gold and crimson, and she made her camp weary and quietly triumphant — having taken what the road and the weather had thrown, and come through it.[^r-southroad]
 
-She set out at dawn, the path ahead winding through a dense stretch of woodland. The trees closed in on either side, their gnarled branches stretching overhead, casting the trail in perpetual twilight. Nimroch’s ears twitched as they walked, the horse uneasy.
+The next morning was washed clean, crisp and pine-scented, and she gave herself an hour of it. She brushed the mud from Nimroch's pale coat, murmuring to him — *you carried us well; no finer horse has walked this road* — and he leaned into it, and something in the plain animal warmth of that steadied her more than any wisdom of Elrond's had. Then she washed her road-filthy clothes in the gentled river and laid them on a sun-warm rock to dry, and, finding herself alone with the water and the light, shed the rest and stepped in. The cold stole her breath and she welcomed it; she ducked under and let the current carry off the sweat and the weariness and, it seemed, a little of the dreams' weight besides, and came up gasping and slicking her auburn hair back from her face, feeling for the first time in days truly her own again. She floated a while, light in the water, simply being — a small grace, and she had learned to take the small graces where the road offered them, for it did not offer many. Then she dressed, and Nimroch snorted at her from the clearing's edge as if to remind her of the miles, and she laughed at him and tied back her hair and swung up into the saddle, renewed, and rode on south toward whatever the dreams were warning her of.
 
-As the sun reached its zenith, Celenneth guided Nimroch through a narrow glade, the quiet broken only by the crunch of hooves on fallen leaves. It was then she heard it: the faint snap of a twig and the whisper of voices. Her hand instinctively went to the hilt of her sword.
-
-From the shadows, four figures emerged, their movements deliberate. Their clothes were rough and patched, and the glint of steel at their sides betrayed their intent. A leader, a wiry man with a cruel smile, stepped forward.
-
-“Well met, traveler,” he said, his voice oozing false friendliness. “Looks like you’re carrying more than you need. Why not lighten your load?”
-
-Celenneth’s gaze remained steady, though her heart quickened. “I have no quarrel with you,” she said, her voice calm but firm. “Let me pass, and there will be no trouble.”
-
-The man chuckled, a sound that sent a shiver down her spine. “I think you’ll find it’s not up to you.”
-
-Celenneth remained still, her eyes scanning the group. They were ragged but dangerous, their movements betraying an overconfidence born of desperation. She slowly guided Nimroch to step forward, keeping her hands loose by her sides, far from her weapons.
-
-“I have nothing of value to you,” she said, her tone measured and calm. “Let me pass, and you’ll find easier prey elsewhere.”
-
-For a moment, the leader seemed to consider her words, but then his cruel smile widened. “Oh, I think you’ve fine prey,” he sneered, stepping in front of her. One of the others began to move around her flank.
-
-Celenneth’s grip on Nimroch’s reins tightened, but she kept her composure, guiding the horse forward another cautious step. Then it happened—one of the men lunged toward her, a hand reaching for her cloak. Nimroch reared, startled, and Celenneth twisted away, drawing her sword in a single fluid motion.
-
-The blade gleamed as it caught the sunlight streaming through the trees. “Enough!” she barked, her voice cutting through the tension like a whip. The men hesitated, startled by her sudden resolve, but the leader recovered quickly.
-
-“You’ll regret that,” he spat, drawing his dagger.
-
-The fight was quick but fierce. Celenneth moved with precision, her sword an extension of her will. Nimroch kept the men at bay with powerful kicks, and soon enough, the attackers were on the ground—disarmed, bruised, but alive.
-
-She stood over the crumpled forms, her chest heaving as the last echoes of the scuffle faded into the forest. Nimroch pawed the ground nearby, nostrils flared, wide eyes darting between the fallen men.
-
-She wiped the blade of her sword on the grass, the keen edge gleaming once more as she sheathed it. Kneeling by the leader, she checked his pulse—still alive but unconscious. Her gaze moved to the others. None had been killed, though they would wake bruised and humiliated.
-
-She tied their hands behind their backs, and rummaging through their belongings found a few crude weapons and a tattered map marked with unusual symbols. It was little more than a curiosity, but she tucked it into her pack as a precaution.
-
-Celenneth mounted Nimroch and took a deep breath, steadying herself. “Let’s move,” she whispered, her voice low. As they trotted away, the weight of the encounter settled on her shoulders. These men were desperate, likely victims of the growing unrest in the land, but had stooped to using their power against those they perceived as weak.
-
-Later in the afternoon, Celenneth’s journey brought her to a natural clearing. A sparkling spring bubbled from a cluster of rocks, feeding a small pool surrounded by wildflowers. It was a tranquil place, untouched by the Shadow, and she allowed herself a brief respite to refill her waterskin and let Nimroch graze.
-
-*Night of Cermië 19, 2965 – The Dream*
-
-As Celenneth lay beneath the stars, exhaustion overtaking her, the dreams came again, darker and more fractured than before.
-
-She stood in a vast, endless plain under a blackened sky. There were no stars, no moon, only a suffocating void above her. The wind howled, carrying with it faint whispers—indistinct, disjointed words in a language she did not know. Her feet sank into the earth with each step, the ground wet and cold like a bog, though no water touched her skin.
-
-A shadow loomed ahead. It was immense, yet its form shifted constantly—sometimes a towering figure, sometimes an endless swarm of dark wings. She could not discern its shape, only its intent: hunger. The whispers grew louder, overlapping until they formed one terrible voice.
-
-“You carry light... but light is swallowed.”
-
-The ground beneath her gave way suddenly, and she plunged into darkness. There was no bottom, no end, only the sensation of falling as the shadow’s laughter echoed around her. She tried to scream, but no sound escaped her lips.
-
-And then, she woke.
-
-Celenneth sat upright, her hand instinctively reaching for her sword. The fire had long since burned out, and the forest around her was unnervingly still. Even Nimroch seemed uneasy, shifting its weight and snorting softly. She took a deep breath, steadying herself, but the words from the dream lingered in her mind, chilling her more than the night air.
-
-What light? What shadow? she wondered. Rest was impossible now; she could only wait for the dawn.
-
-*Cermië 20, 2965*
-
-Celenneth mounted Nimroch as the first rays of dawn pierced the forest canopy. The chill of her dream still clung to her, but the sight of the open road offered some comfort. Nimroch seemed eager to move, and together they made steady progress through the wilderness.
-
-The first hours of the day were uneventful, though the forest began to change as the sun climbed higher. The trees grew sparser, their bark twisted and blackened in places. Small, unnatural signs began to catch her eye: a patch of earth scorched as if by fire, claw marks etched into a tree, and the faint stench of decay on the wind. She paused briefly, her hand on Nimroch’s neck, scanning the surroundings for any sign of movement. There was none, but the feeling of being watched persisted.
-
-Despite the foreboding atmosphere, Celenneth’s sharp eyes caught sight of something unusual in the terrain: a narrow cleft in the hillside, partially obscured by dense brambles. Dismounting, she pushed through the brush and discovered a sheltered path, hidden from view but heading westward. It was rough, but it cut through what would have been an arduous climb over loose rocks. Nimroch followed without hesitation, its steady hooves making quick work of the descent.
-
-By mid-afternoon, the path opened into a wide meadow, bathed in golden light. The air here was fresher, and for the first time that day, Celenneth allowed herself a moment to relax.
-
-As the sun dipped below the horizon, she prepared to make camp near a small stream. While gathering firewood, her foot caught on something buried in the underbrush. Crouching down, she unearthed a strange object: a small iron pendant, crudely shaped like an eye. It was cold to the touch, and as she held it, she felt a faint, uncomfortable twinge in her chest—like the lingering echo of her dream.
-
-She debated throwing it into the stream but ultimately wrapped it in cloth and stowed it in her pack. It might mean nothing, but the feeling it stirred in her was not something she could ignore.
-
-Celenneth settled into her camp with unease. The land itself seemed to shift between moments of peace and lurking danger, and the strange pendant weighed heavily on her thoughts as she stared into the flickering flames.
-
-*Cermië 21, 2965*
-
-Celenneth woke to the low rumble of thunder in the distance. Dark clouds gathered on the horizon, rolling in like an advancing army. The wind picked up, and Nimroch shifted uneasily, snorting as the first fat drops of rain struck the ground.
-
-Pulling her cloak tight against the wind, Celenneth mounted Nimroch and began moving. The rain intensified quickly, transforming the forest path into a muddy, treacherous mire. Branches whipped around her, and visibility shrank as the rain fell in sheets. It was the kind of storm that could easily delay even the most seasoned traveler.
-
-Despite the weather, Celenneth’s sharp instincts and Nimroch’s sure footing carried them forward. At midday, she spotted an overhang of rock along the trail, providing just enough shelter to escape the worst of the downpour. Beneath the overhang, she discovered the remnants of an old campsite—perhaps a wayfarer or a hunter had used it long ago. Among the remains, she found a small bundle of preserved food and a dry blanket, left behind but still usable.
-
-It was a small boon, but it lifted her spirits. With a brief respite from the storm, she dried herself and Nimroch as best as she could before pressing on.
-
-As the rain began to subside in the late afternoon, Celenneth reached a swollen river cutting across the path. Normally shallow and fordable, it had become a rushing torrent, its waters dark and churning. She dismounted, assessing the situation carefully.
-
-Leading Nimroch to a narrower point, she found a way across: a series of mossy stones that rose just above the water’s surface. It was risky, but thanks to Nimroch’s steadiness and her own careful footing, Celenneth navigated the crossing without incident.
-
-As the storm finally broke, the sky cleared, revealing a vivid sunset that painted the horizon in hues of gold and crimson. Celenneth found a sheltered grove to camp for the night, the ground softened but not overly muddy. She fed Nimroch the last of her oats, her hand resting on the horse’s neck as she whispered softly.
-
-The storm and the crossing had left her weary, but she felt a sense of quiet triumph. Even in the face of nature’s wrath, she had prevailed.
-
-*Cermië 22, 2965*
-
-The storm had long since passed, leaving the land refreshed and glistening in the morning light. The air was crisp and clean, carrying the faint scent of wet earth and pine. Celenneth rose early, the aches of the previous day’s trials softened by a restful night. Nimroch greeted her with a soft nicker, nudging her shoulder as she stretched.
-
-She retrieved a worn brush from her pack and began working through the tangles in Nimroch’s pale coat, murmuring softly to the horse as she worked. “You carried us well yesterday, my friend,” she said, her voice warm with gratitude. “No finer steed has ever walked this road.” Nimroch whickered in response, tilting its head as if in agreement. The rhythmic motion of brushing calmed her, grounding her after the tumultuous days prior.
-
-Once Nimroch was tended to, Celenneth gathered her soiled cloak, tunic, and travel-stained trousers. She carried them to the nearby riverbank, where the water flowed gently, the torrent from the storm now subdued. She knelt at the edge, dipping the garments into the cool water, scrubbing away the mud and grime with her hands. The water ran dark for a moment before clearing, taking the remnants of her journey downstream. She laid the wet clothes on a sunlit rock to dry, watching as the morning breeze began to lift them.
-
-With her clothes drying, Celenneth turned her attention to herself. She removed her boots and belt, then shed the lighter garments she still wore. For a moment, she hesitated, her gaze scanning the trees and the hills around her. Satisfied she was alone, she removed the last of her clothing and stepped into the river.
-
-The water was cold, biting at her skin and stealing her breath, but she welcomed it. She ducked under the surface, letting the current wash over her, cleansing away the sweat and weariness of the road. Emerging with a gasp, she ran her hands through her auburn hair, slicking it back from her face. For the first time in days, she felt truly renewed.
-
-The river’s flow carried away more than dirt—it seemed to ease the weight of her recent encounters, the burden of the dreams that haunted her. She floated for a moment, her limbs light in the water, letting herself simply exist in the gentle embrace of the stream.
-
-When she emerged, the sun had risen higher, its warmth cutting through the chill on her skin. She dressed quickly, as Nimroch watched her from the edge of the clearing, snorting as if to remind her they still had miles to cover.
-
-Celenneth smiled, tying her hair back with a strip of leather. “Yes, yes, I hear you,” she said to the horse, her voice carrying a faint laugh. “Let’s be off, then.”
-
-With her spirit renewed and her clothes clean, she mounted Nimroch and set off once more.
+[^s-dreams]: The **Shadow** reaches for her in sleep as she rides south — recurring, escalating dreams (first a warning, then a devouring): *"The road bends, but the shadow waits."*
+[^r-bandits]: **Combat** — four desperate brigands in a glade; taken nonlethally (disarmed and bound), Nimroch fighting alongside. A tattered map with strange symbols kept.
+[^t-eye]: An **iron eye-pendant** found in the tainted country south of Rivendell — cold, wrong to the touch; kept wrapped. (It will prove its use against a sorcerous ward.)
+[^r-southroad]: **Journey** south through worsening country — scorched ground and claw-marks, a violent storm, a swollen river forded on mossy stones. Won through with Nimroch's surefootedness.

@@ -97,10 +97,15 @@ the entire corpus chapter by chapter** to the standards below — not merely cop
 This work has an actual-play spine, and we honour it **without letting mechanics touch the
 prose.** Game-mechanical events are lifted **out of the narrative and into footnotes.**
 
-- **The prose never names a mechanic.** No "Shadow", "Weary", "Endurance", "Hope", "a
-  successful test", "she rolled", "a short rest", "advantage", or reward/virtue/item labels
-  ("Nurhael's Warden Blade", "the Frost Maw" as a proper noun). These become *sensation and
-  event* in the prose, and *annotation* in a footnote.
+- **The prose never names a mechanic.** No "Weary", "Endurance", "Hope point", "a successful
+  test", "she rolled", "a short rest", "advantage", or reward/virtue/item labels ("Nurhael's
+  Warden Blade", "the Frost Maw" as a proper noun). These become *sensation and event* in the
+  prose, and *annotation* in a footnote.
+  - **One exception — "the Shadow."** As Tolkien's cosmic evil (Sauron's Shadow, "the Shadow
+    spreads," "servants of the Shadow"), it is in-world and belongs in the prose. Only the
+    *mechanic* is banished: never "she gained a point of Shadow," "her Shadow score," "a
+    Shadow-scar" as a stat. Render the mechanical Shadow-gain as dread/cold/weight in the
+    prose, and note the point(s) in the footnote.
 - **Convention (Markdown):** place a reference at the moment of the event and define it at the
   foot of the chapter:
 

@@ -1,99 +1,46 @@
 # Chapter 2: Audiences with Elrond
 
-*Book 2*
-
 *Cermië 10, 2965*
 
-Celenneth’s audience with Elrond came the next morning. She presented him with the brazen head of Dero, a relic that could whisper secrets under particular moons, and shared the tale of her harrowing journey through Moria, after presenting Elrond with her missive from Balin. Elrond listened intently, his expression one of measured curiosity. “You have done much in the service of many,” he said, his voice carrying the wisdom of centuries. “Rest now, Celenneth. Your road has been long, and you will need your strength for what lies ahead.”
+Her audience with Elrond came on her sixth morning in the valley. She gave him Balin's missive, and then the brazen head of Dero — the relic said to whisper secrets under certain moons — and told him the tale of Moria: the dark, the drowned halls, the ledge and the fortress and the cost of them. Elrond listened with a measured, ancient patience, and when she had done he said only, "You have done much in the service of many, Celenneth. Rest now. Your road has been long, and you will need your strength for what is still to come." And for the first time in weeks she let herself believe it, and rested.
 
-For the first time in weeks, Celenneth allowed herself to relax. Rivendell’s halls offered sanctuary, and for now, she could let her guard down, if only briefly.
+Five days the valley gave her, and they mended more than her body. Her wounds closed under Elven care and her weariness eased, but Rivendell had a way of quieting the mind as much as the flesh, so that even the Shadow she had carried out of Moria loosened its hold. And yet the peace of the place only sharpened her sense of the trouble beyond it; she knew the reprieve would not hold. When the summons came again she was almost ready for it.
 
-*Cermië 15, 2965*
+Elrond waited in the great hall, at a carved table spread with maps and old tomes, and gestured her to sit. "You have served not only the dwarves but the greater balance of Middle-earth," he said. "But there is more that must be done." He unfolded a map, its edges worn and its markings still bright. "The Shadow reaches far beyond Moria. My scouts bring troubling word from the south — orcs, and worse than orcs, stirring near the Gap of Rohan, and I fear for the Free Peoples there. I would send my own, but your feet know the wild places, and your recent deeds mark you well suited to this."
 
-Celenneth stood in the cool twilight of Rivendell’s gardens, the faint hum of Elvish song drifting on the evening breeze. Her wounds had begun to heal, and her weariness had eased, yet her mind was restless. The peace of the valley only sharpened her awareness of the turmoil beyond its borders. She knew her reprieve would not last long.
+"What would you have me do, my lord?"
 
-Her thoughts were interrupted by the soft tread of an elf approaching. “The Lord Elrond summons you,” he said, bowing slightly before retreating. Celenneth exhaled, adjusting her cloak as she made her way toward the great hall.
+"Go south through the wilderness, toward the western banks of Anduin. There you will find a trusted ally — Radagast the Brown, who is wise in the ways of the wild and has been tracking these same dark movements. Between you, learn the truth of this threat."
 
-Inside, Elrond waited, seated at a carved wooden table adorned with maps and ancient tomes. His gaze was piercing yet kind as he gestured for her to sit. “Celenneth, you have served not only the dwarves but the greater balance of Middle-earth,” he began. “Your journey through Moria and the treasure you delivered speak to your courage and tenacity. But there is more that must be done.”
+Her heart quickened at the name. She had heard of the reclusive wizard, spoken of in something like awe among the Rangers. "And if the threat proves dire?"
 
-Celenneth leaned forward, her expression solemn. “What would you have me do, my lord?”
+"Radagast will know the road to take. Yours is to see the word reaches him, and to aid him in the uncovering of it. Be swift, and be cautious — do not linger where the Shadow lies thickest." He drew out a small silver-bound book and set it in her hands. "This holds knowledge he may find useful — accounts of old magics that may stand against what is waking in the dark. Guard it with your life."
 
-Elrond unfolded a map, its edges worn but its markings still vibrant. “The growing Shadow stretches far beyond Moria. My scouts bring troubling news of movements in the south. Orcs, and worse things, are stirring near the Gap of Rohan, and I fear their activity threatens the Free Peoples there. I would send my own, but your experience in the wild places and your recent triumphs make you uniquely suited for this task.”
+She took it, its cool weight a plain reminder of what she now carried. "I will not fail you."
 
-He paused, tracing a finger along the map. “You must travel south through the wilderness, toward the Anduin’s western banks. There, you will meet with a trusted ally—Radagast the Brown. He is wise in the ways of the wild and has been tracking the same dark forces. Together, you will determine the nature of this threat.”
+He smiled faintly, though his eyes did not lose their worry. "I do not think you will. Go, rest, and make ready. The road will call soon enough."
 
-Celenneth’s heart quickened at the mention of Radagast. She had heard of the reclusive wizard, his name often spoken in awe among the Rangers. “And what shall I do if the threat proves dire?” she asked.
+The next evening she came before him a last time with a satchel over her shoulder, and set it on the table and opened it: the mithril of Moria, twenty pieces gleaming faintly in the candlelight. "This is mine, my lord, out of the deep — but it is no use to me. I am a ranger, not a smith; I cannot make it into anything worth the carrying. I would leave it to you and your people, who have the skill to shape it as it deserves."
 
-Elrond’s gaze hardened. “Radagast will know the best course of action. Your task is to ensure the message reaches him and to aid him in uncovering the truth. You must be swift and cautious—do not linger where the Shadow is strongest.”
+Elrond's brows rose as his fingers brushed one gleaming piece. "A gift of mithril is a rare thing. It carries the strength of the mountains and the echo of an age long gone. And what would you ask of us in return?"
 
-He reached to the side and produced a small, silver-bound book. “This,” he said, passing it to her, “contains knowledge Radagast may find useful—accounts of ancient magics that may offer aid against what stirs in the dark. Protect it with your life.”
+She hesitated only a moment. "A horse. One swift and sure. Beyond that I trust your judgement to give what aid you think wise."
 
-Celenneth accepted the book, its cool weight a silent reminder of the responsibility she carried. “I will not fail you,” she said firmly.
+"Your humility becomes you, and your asking is fair." He turned to an attendant, who went and returned, and the gifts were laid before her: a leather map of the southern country, marked with the elves' own paths and safe havens; a healing draught brewed by the healers of the valley, to call back strength in a dire hour; and a light elven cloak, woven to take the colour of forest and hill and turn aside both weather and unfriendly eyes. "These, and the horse, will serve you on the road," Elrond said. "The mithril will not be wasted. Should you return, you may find it made into something greater."[^t-gifts]
 
-Elrond smiled faintly, though his eyes betrayed his worry. “I trust you will not, Celenneth. Go now, rest, and prepare. The road will call for you soon enough.”
+They brought the horse to her in the morning: a tall silver-grey steed, his mane catching the light like moonlit water, calm-eyed and sure on his feet even as he took her measure and she took his. *Nimroch*, his keepers named him — *Pale Horse*, in the Grey-elven tongue — a mount of Rivendell's own raising, steady under fear and uncanny in his sense of the way. He suffered her hand on his neck, and she felt, absurdly, that she had been given not a tool but a companion, and was glad of it; the road south would be long, and she had walked too much of the world alone.[^t-nimroch]
 
-*Cermië 16, 2965*
+There was one thing more to do before she left the valley. That night, in the star-quiet of her chamber with her sword leaning at the table's edge, she drew a sheet of parchment toward her and sat a long while with the quill trembling in her hand. She had faced orcs and wraiths and the deep of Moria without a pause; this was harder. Her mind kept going back to Bree — the hearth-warmth of the Prancing Pony, the laughter spilling out its door, and Orlen in the middle of it, who had a way of reminding her that there was more to a life than the road and the gathering dark.
 
-As twilight settled over Rivendell, Celenneth stood before Elrond once more, a satchel slung over her shoulder. She placed it carefully on the table before him, revealing the glittering haul of mithril—twenty pieces, each gleaming faintly.
-
-“My lord,” she began, her tone humble but resolute, “this mithril is mine, from the halls of Moria, but it is no gift to me. I am a ranger, not a smith. I cannot work this into anything useful. I would entrust it to you and your people, for you have the skill and wisdom to shape it into something worthy of its value.”
-
-Elrond’s brows rose slightly as he studied the treasure, his fingers brushing the surface of one piece. “A gift of mithril is rare indeed,” he said softly. “It carries the strength of the mountains and the echoes of an age long past. Tell me, Celenneth, what would you ask in return?”
-
-Celenneth hesitated only a moment before replying. “I would ask for a horse, one swift and sure-footed, to carry me on my journey. Beyond that, I trust your judgment, my lord, to grant what aid you think wise.”
-
-Elrond smiled faintly. “Your humility is admirable, and your request is reasonable. Very well. A horse will be provided to you—one trained to endure the wilderness. But more than that, I would see you equipped properly for the road ahead.”
-
-He turned to an attendant, who departed swiftly. Moments later, several items were brought forth:
-
-- A leather-bound map detailing the region south of Rivendell, marked with paths and safe havens known to the elves.
-
-- A healing draught, brewed by the healers of Rivendell, to restore strength in dire moments.
-
-- A light elven cloak, woven to blend into the forests and hills, offering protection from prying eyes and the elements.
-
-“These gifts, along with the horse, will serve you well,” Elrond said. “The mithril you have entrusted to us will not be wasted. Should you return, perhaps you will find it worked into something even greater.”
-
-Celenneth bowed her head in gratitude. “Thank you, my lord. Your kindness will not be forgotten.”
-
-Elrond placed a hand on her shoulder. “The road will be perilous, Celenneth. Ride swiftly, and may the stars guide you.”
-
-The stars shone bright, their light spilling into the quiet chamber where Celenneth sat, her sword leaning against the table beside her. A sheet of parchment lay before her, and in her hand, a quill trembled slightly. She had faced orcs, wraiths, and the depths of Moria without hesitation, but now, in the stillness of the elven refuge, she hesitated.
-
-The words she wanted to write refused to come easily. Her thoughts drifted to Bree, to the warm light of a hearth and the sound of laughter spilling from the Prancing Pony. And to them—someone who grounded her, who reminded her that there was more to life than the endless road and the looming Shadow.
-
-She dipped her quill and began.
+She dipped the quill, and began.
 
 *Dear Orlen,*
 
-*I hope this letter finds you well, and that Bree is as lively and full of cheer as I remember. I imagine you there, in the marketplace or by the fire, and it brings me some comfort as I prepare to set out again.*
-
-*My road has taken me far—through ruins, darkness, and places I thought no one had tread in ages. And yet, when I think of home, it is not the wilds that come to mind, but you. Your kindness, your quiet strength—they have stayed with me through many long nights.*
-
-*I wish I could tell you more of what I have seen and done, but there are secrets I must keep, even from you. Perhaps one day I can tell you everything. For now, I will say only this: I have found purpose in the work I do, but it is the thought of what I might return to that truly gives me strength.*
-
-*Take care of yourself. I would not forgive you if I returned only to find you unwell.*
+*I hope this finds you well, and Bree as full of cheer as I remember. My road has taken me far — through ruins and darkness and places I think no one has walked in an age. And yet when I think of home it is not the wilds that come to me, but you. I cannot tell you the half of what I have seen; there are things I must keep even from you. Perhaps one day I will tell you all of it. For now I will say only that I have found purpose in this work — but it is the thought of what I might come back to that gives me strength for it. Take care of yourself. I would not forgive you if I returned to find you unwell.*
 
 *Yours, Celenneth*
 
-Celenneth folded the letter carefully, sealing it with wax and pressing the sigil of the Rangers into the soft red surface. She would entrust it to one of Rivendell’s messengers, ensuring it found its way to Bree. Rising, she cast a glance out the window toward the horizon, her thoughts still lingering on the one who held a piece of her heart.
+She folded it and sealed it with wax, and pressed the Rangers' sigil into the soft red of it, and gave it to one of Rivendell's messengers to carry north to Bree. Then she stood at the window a while, looking out over the dark valley toward a horizon she could not see, and did not let herself wonder too long what answer might come, or when, or whether the road would ever bring her back to read it. That was tomorrow's country. In the morning she would ride south.
 
-⁂
-Unbeknownst to Celenneth, Orlen responds with the following:
-
-**Bree, Cermië 16, 2965
-
-Dear Celenneth,** Your letter reached me this morning, and though I was overjoyed to see your handwriting, I am ashamed that my reply may bring you pain. I read your words with such fondness and gratitude; they carried me back to the days we shared in Bree. Your strength and resolve were always so clear, and I admired them deeply—even now, I can almost hear your voice in every line.
-
-But Celenneth, I must tell you what I fear will hurt you. Life has moved on here in ways I did not expect. In your absence, I found comfort and companionship in another, and recently, we were wed. Her name is Maren. She is kind and steadfast, though I confess she does not share the fire that you carry in your heart.
-
-It shames me to admit that I was too much of a coward to wait, to hope that your path might bring you back to Bree. I thought of you often, more than I have any right to say now. But the days grew longer, and I thought perhaps your road would never cross mine again.
-
-I do not write this to cause you sorrow but because you deserve honesty from me. Your words were a gift, one that I will cherish even though they have come too late for what might have been. I wish for your happiness, Celenneth, as you have wished for mine.
-
-May the road rise to meet you, wherever it may lead. And should you ever return to Bree, know that you will always find friends here.
-
-With respect, Orlen
-
-⁂
-The horse’s name is Nimroch, meaning "Pale Horse" in Sindarin. It reflects the grace and ethereal quality of an elven steed. Nimroch is a sturdy, silver-gray steed with a flowing mane that catches the light like moonlit water. A gift from Rivendell, Nimroch is calm under pressure, nimble-footed, and has an uncanny sense of direction. This horse embodies the enduring spirit of the Free Peoples, loyal to Celenneth and unyielding in the face of danger.
+[^t-gifts]: **Fellowship / Reward** — Celenneth gifts her twenty pieces of Moria-mithril to Rivendell; in return Elrond grants a horse, a leather map of the southlands, a Rivendell **healing draught**, and an **Elven Cloak** (forest-hued, turns weather and eyes). Elrond's errand: bear a silver book of old magics south to **Radagast the Brown**, and learn the truth of the Shadow stirring near the Gap of Rohan.
+[^t-nimroch]: **Mount — Nimroch** ("Pale Horse," Sindarin), a silver-grey steed of Rivendell: calm under fear, sure-footed, uncanny of direction. Celenneth's companion for the road ahead.

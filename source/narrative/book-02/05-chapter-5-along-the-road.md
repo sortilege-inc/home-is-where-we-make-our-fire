@@ -1,104 +1,81 @@
 # Chapter 5: Along the Road
 
-*Book 2*
-
 *Cermië 23, 2965*
 
-When the first rays of dawn pierced through the canopy, Celenneth finally allowed herself a moment to relax. She stretched her stiff limbs and looked toward Linnea, who was stirring from her rest.
+Dawn came at last through the canopy, and Celenneth let herself unclench for the first time since the fire. She stretched the stiffness out of a body that had held one posture all night, and looked over to find Linnea surfacing from sleep.
 
-“Good morning,” Linnea said hesitantly, her voice still heavy with sleep. “Did you… stay awake all night?”
+"Good morning." The woman's voice was thick with it. "Did you… stay awake? All of it?"
 
-Celenneth gave a small nod. “It was necessary. We’ll need to move quickly today, just in case.”
+"It was needed." A small nod. "We'll move quickly today. Just in case."
 
-Linnea glanced around nervously, but Celenneth’s calm demeanor seemed to steady her. “I’ll do whatever you think best,” Linnea said, her gratitude clear in her voice.
+Linnea glanced around at the daylit wood as though it might still hold the men who had taken her, but something in Celenneth's plain calm seemed to settle her. "I'll do whatever you think best," she said, and the gratitude in it was almost too much to sit under.
 
-The morning began briskly, with Nimroch stepping confidently through the forested paths. Celenneth led Linnea carefully along trails that remained hidden to most travelers, the bandits’ potential pursuit lingering in her mind. By noon, they reached a meadow dotted with wildflowers. A stream wound its way through the valley, its waters clear and cold. Celenneth allowed Linnea to rest briefly while Nimroch drank deeply from the stream. For a moment, the peace of the place soothed them both, and Linnea even managed a faint smile.
+They went briskly, Nimroch sure on the hidden trails Celenneth chose — the ones most travellers never found, and the bandits' pursuit, if it came, would not either. By noon the wood opened on a meadow full of wildflowers with a clear cold stream winding through it, and she let Linnea rest while Nimroch drank his fill, and for a while the peace of the place did its quiet work on them both; Linnea even found a faint smile.
 
-“You’ve traveled these lands long, haven’t you?” Linnea asked, watching Celenneth scan the horizon.
+"You've walked these lands a long time," she said, watching Celenneth read the horizon out of habit.
 
-“Many years,” Celenneth replied. “The road teaches you much, if you’re willing to pay attention.”
+"Many years. The road teaches you a great deal, if you're willing to pay it mind."
 
-Linnea nodded, her gaze falling back to the water. “I can see that.”
+"I can see that." Her gaze went back to the water, and there was something in her face that was beginning, already, to steady.
 
-As the sun set, they found a quiet glade to make camp. Celenneth gathered dry wood and coaxed a small fire to life, its flickering light dancing against the trees. Linnea sat close to the flames, her hands wrapped around a cup of water. The warmth seemed to soften her guarded demeanor.
+They made camp at dusk in a quiet glade, and Celenneth coaxed up a small fire, and Linnea sat close to it with her hands around a cup of water, the warmth loosening something in her guard. After a while Celenneth asked it gently. "Where were you bound?"
 
-After a time, Celenneth broke the silence. “Where were you traveling?”
+"East. Toward the Anduin, with my father, to trade." Linnea's eyes stayed on the flames. "He was killed when they came. They took everything." A breath. "He always told me to be strong. I'm trying. It's hard."
 
-Linnea hesitated, her gaze fixed on the fire. “I was with my father,” she said quietly. “We were heading east, toward the Anduin, to trade. He… he was killed when the bandits attacked. They took everything.”
+"You've carried more than most already." Celenneth turned a stick in the fire. "Strength was never about not feeling the hurt. It's about carrying it and going on anyway."
 
-Celenneth nodded solemnly. “I’m sorry.”
+Linnea looked up, the firelight catching the wet at the edges of her eyes, and managed the smaller smile again. "You make it sound simple."
 
-Linnea glanced up, her eyes shimmering with unshed tears. “He always told me to be strong. I’m trying, but… it’s hard.”
+"It never is," Celenneth said, and meant it, and the two of them fell into a quiet that was not empty but companionable, the fire ticking between them, the night a little less heavy than it had been, the road ahead a little less far.
 
-“You’ve endured more than many,” Celenneth replied. “Strength isn’t about not feeling pain—it’s about carrying it.”
+They set out again the next morning, Linnea before her on Nimroch with her hands loose in his mane for balance, her back still stiff but her fear worn down a little more with every mile. The forest gave way to open rolling hills bright with morning, the air sweet with flowers and turned earth, and by noon they reached a crossroads and a weathered signpost whose faded markings told Celenneth the nearest village lay half a day east.
 
-Linnea managed a faint smile, the firelight catching the edges of her face. “You make it sound so simple.”
+"Do you think we'll reach it by nightfall?" There was hope in the question.
 
-“It never is,” Celenneth admitted.
+"If we hold our pace. But stay alert."
 
-The two women fell into a companionable silence, the firelight flickering between them. The night felt a little less heavy, the road ahead a little less daunting.
+She was right to say it. Near a copse she caught movement ahead and slowed Nimroch, a raised hand asking Linnea's silence, and three men came out of the trees to stand across the road — armed with farm-tools, faces hard. "Travellers, is it," the foremost called, more predator than curious. "Dangerous country, this, to be out in without paying a little… protection."
 
-*Cermië 24, 2965*
+Her hand drifted to her sword. "Step aside."
 
-The morning after their quiet conversation, Celenneth and Linnea prepared to set out once more. Nimroch stood ready, calm and steady as Linnea adjusted her borrowed cloak—a gesture Celenneth had insisted upon for her warmth and comfort.
+He sneered and came a pace closer. "That's not the way of it, lass. You pay the toll, or you don't pass."
 
-The first hours of the journey passed in relative silence. Linnea sat in front of Celenneth on Nimroch, her hands lightly gripping his neck for balance. Though her posture was still tense, her demeanor seemed to calm.
+But she had marked the cloak on the man behind him, and known it, and that changed everything. She sat straighter in the saddle, her voice going quiet and edged. "I know what you are. Remnants of the Redhand Gang — whose leader swung in Bree not a month past. Do you think the rangers wouldn't come down on the rest of you like wolves, if I gave them your names?"[^r-redhand]
 
-The forest began to thin, giving way to rolling hills bathed in the pale light of the morning sun. A gentle breeze carried the scent of wildflowers and freshly turned earth. By noon, they reached a crossroads marked by a weathered wooden signpost. The markings were faded, but Celenneth recognized the route to the nearest village, a half-day’s ride further east. Linnea glanced at the signpost, her expression hopeful. “Do you think we’ll reach it by nightfall?”
+The three traded uneasy looks; the leader's sneer curdled. "You're bluffing," he muttered, with nothing behind it.
 
-Celenneth nodded. “If we keep a steady pace, yes. But stay alert.”
+"Am I? Look at me." She let them look. Then she tipped her head toward Linnea. "Let us pass, and I'll not make your business mine."
 
-As they approached a small wooded copse, Celenneth spotted movement ahead. She slowed Nimroch, raising a hand to signal Linnea’s silence. Three figures emerged from the trees, blocking the road. They were armed with farming implements, and their expressions were hard.
+For a long taut moment it hung there. Then the leader spat in the dust and stepped aside. "Fine. Go on."
 
-“Travelers, eh?” one of them called out, his tone more predatory than curious. “Mighty dangerous to be out here without… paying for protection.”
+She gave him a curt nod and put Nimroch forward, and Linnea clung to the saddle with her eyes fixed back on the men until the road's curve took them from sight.
 
-Celenneth’s hand drifted to the hilt of her sword, her voice calm but firm. “Step aside.”
+"That was brave," Linnea said, low and unsteady. "I thought we were finished."
 
-The leader sneered, stepping closer. “That’s not how it works, lass. You pay the toll, or you don’t pass.”
+"The road's dangerous. Fear serves you, if you use it — betrays you, if you let it make you a coward." She kept her eyes ahead. "Keep moving."
 
-Celenneth’s noticed a distinctive cloak on the man behind the speaker. She straightened slightly in the saddle, her hand still resting on the hilt of her sword.
+The rest of the day passed without trouble, though the near thing sat with them both, and by nightfall the village showed as a scatter of warm lamplight ahead, and Linnea's shoulders came down with relief. "We made it," she breathed.
 
-“I know who you are,” she said, her voice calm but cutting. “You’re remnants of the Redhand Gang. Your leader was recently hanged in Bree.” She leaned forward. “Do you imagine the rangers wouldn’t come down on you like wolves if I were to report you?”
+But Celenneth's eyes stayed narrow on those friendly lights. "We'll pass it by," she said.
 
-The ruffians exchanged uneasy glances, their confidence faltering. The speaker hesitated, his sneer fading into a grimace. “You’re bluffing,” he muttered, though his voice lacked conviction.
+Linnea turned, thrown. "What? But — there's safety there. A warm bed."
 
-Celenneth’s gaze hardened. “Am I? Look at me.” She gestured toward Linnea. “Let us pass, and I won’t make your 'business' my own.”
+"I don't know that there is." She was already guiding Nimroch off the road into the trees' shadow. "Bandits keep friends in villages often as not — eyes on the road, news traded for coin. I'd not care to be taken in my sleep." She glanced at the woman, and let her voice soften. "I know it's not the comfort you were hoping for. I'll find you safe shelter, I promise it. Only not tonight, and not there."
 
-The tension in the air was palpable, the bandits shifting uncomfortably under her steely gaze. Finally, the leader spat on the ground and stepped aside. “Fine,” he growled. “Go on.”
-
-Celenneth gave him a curt nod, urging Nimroch forward. Linnea clung to the saddle, her wide eyes fixed on the retreating bandits. They rode in silence until the figures disappeared behind the curve of the road.
-
-“That was incredibly brave,” Linnea said quietly, her voice trembling slightly. “I thought we were done for.”
-
-Celenneth glanced back, her expression unreadable. “The road is dangerous, but fear guides us if we use it wisely, and betrays us if we succumb to cowardice. Let’s keep moving.”
-
-The rest of the day passed uneventfully, though the encounter weighed heavily on their thoughts. By nightfall, they reached the outskirts of the village, the sight of distant lamplight offering a rare sense of safety.
-
-As the distant lamplight of the village came into view, Linnea’s shoulders sagged with relief. “We made it,” she murmured, her voice laced with exhaustion. But Celenneth’s expression remained wary, her sharp gaze lingering on the flickering lights.
-
-“We’ll pass it by,” she said firmly, her voice low and deliberate.
-
-Linnea turned to her, confused. “What? But… why? There’s safety there, isn’t there? A warm bed?”
-
-Celenneth shook her head, guiding Nimroch off the road and into the shadows of the surrounding woods. “I don't know what it is, but I don't trust it. Bandits often have allies in the villages—informants who watch the roads and trade news for coin. I don't wish to be taken in my sleep.”
-
-Linnea frowned. “So… what do we do?”
-
-“We make camp far enough away to be discreet. Hidden.” Celenneth glanced at her companion, her voice softening. “I know it’s not the comfort you hoped for. I promise we will find you safe shelter.”
-
-Linnea nodded reluctantly, her trust in Celenneth outweighing her disappointment. They rode a short distance beyond the village, stopping in a secluded hollow surrounded by dense trees. The stars shone faintly through the canopy as Celenneth prepared the camp, laying out a bedroll and gathering leaves to make the ground softer for Linnea.
+Linnea nodded, her trust plainly outweighing her disappointment, and they rode on a way past the village to a hollow ringed with dense trees, and Celenneth made the camp — a bedroll laid out, leaves gathered to soften the ground for the woman who had slept on it rough enough already.
 
 ⁂
-As the fire burned low, Linnea pulled her borrowed cloak tighter around her shoulders. The chill of the night was deeper here, and the strain of the journey clung to her like a weight. She lay close to the fire, but it did little to ease the cold.
 
-Celenneth noticed her shivering and moved quietly to her side. Without a word, she slipped her own traveling cloak from her shoulders and draped it over Linnea. “Here,” she said softly. “This will help.”
+The fire had burned low when she saw Linnea shivering. The cold sat deeper in this hollow, and the strain of the road clung to the woman like wet cloth; she lay close to the flames and got little from them. Celenneth watched her a moment, then rose without a word and slipped her own traveling cloak from her shoulders and laid it over her. "Here. This will help."
 
-Linnea hesitated, her hands clutching the edges of the thick, well-worn fabric. “But… won’t you be cold?”
+Linnea's hands closed on the thick worn fabric. "But — you'll be cold."
 
-“I’ll manage,” Celenneth replied, settling down nearby. “You’ve been through more than enough.”
+"I'll manage. You've been through more than enough."
 
-For a while, Linnea tried to rest, but the fear and exhaustion of the past days lingered. The soft rustle of leaves and distant sounds of the forest kept her from finding peace. Finally, she shifted closer to Celenneth, pulling the cloak over her. “I just… it’s hard to feel safe out here,” she admitted, her voice small.
+For a while Linnea tried to rest, and could not; the small sounds of the forest kept startling her back from the edge of sleep. At last she shifted nearer, drawing the cloak with her. "It's hard," she admitted, very small. "To feel safe out here."
 
-Celenneth opened her eyes, studying the woman for a moment. Then, without hesitation, she adjusted the cloak to cover them both, her presence steady and grounding. “It’s all right,” she said simply. “Rest now.”
+Celenneth opened her eyes and studied her a moment — the fear still on her, and under it something that wanted only not to be alone with it. Then, without making anything of it, she moved the cloak to cover them both, and let her own steadiness be a thing the woman could lie against. "It's all right," she said. "Rest now."
 
-Linnea didn’t reply, but after a few moments, her breathing slowed, and her tense form relaxed against the warmth of Celenneth’s body.
+Linnea did not answer. But after a little while her breathing slowed and evened, and the tension went out of her, and she slept warm against Celenneth's side while the fire fell to embers and the ranger kept her half-waking watch over them both.
+
+[^r-redhand]: **Persuade / Awe** — Celenneth recognizes the toll-takers as remnants of the **Redhand Gang** (their leader lately hanged in Bree) and faces them down with the threat of the rangers, winning passage without a blade drawn.

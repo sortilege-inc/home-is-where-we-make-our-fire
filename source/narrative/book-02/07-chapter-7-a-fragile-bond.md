@@ -1,109 +1,71 @@
 # Chapter 7: A Fragile Bond
 
-*Book 2*
-
 *Cermië 26, 2965*
 
-The morning dawned softly, with golden light filtering through the trees and painting the forest in hues of warmth. The world felt quiet, the air fresh with the scent of dew. Celenneth stirred first, as always, gently untangling herself from the shared cloak. She rose silently, careful not to disturb Linnea, who lay curled beneath the fabric, her face peaceful in sleep.
+Morning came soft and gold through the trees, the air washed with dew, and Celenneth woke first as she always did and eased herself out of the shared cloak without waking the woman curled under it. She went to Nimroch and murmured to him while she checked the saddle and the supplies, her eyes going to the treeline all the while out of an instinct she had long since stopped fighting.
 
-Celenneth moved to check Nimroch, who stood nearby, his silver-gray coat catching the morning light. She whispered softly to the horse as she adjusted the saddle and inspected the supplies. Despite her calm demeanor, her sharp eyes scanned the forest edge—an instinct she couldn’t suppress.
+Linnea woke a little later, blinking, drawing the cloak close. "Morning."
 
-Linnea woke a little while later, blinking sleepily as she sat up and pulled the cloak closer around her shoulders. “Morning,” she said, her voice quiet but steady.
+"We should eat and move. The roads are quiet now — best not to trust that they'll stay so."
 
-Celenneth glanced back and gave a faint nod. “We should eat quickly and be on our way. The roads are quiet now, but we can’t assume they’ll stay that way.”
+Linnea nodded and helped pack, and Celenneth noticed the odd new shyness in her — the way she would not quite hold her eyes, the careful folding of the cloak, the colour that came and went in her face — and did not know its cause, and did not press it. People carried things. She of all people knew that.
 
-Linnea nodded, her expression unreadable as she folded the cloak neatly and helped to pack their things. She avoided looking directly at Celenneth for too long, her mind still replaying the tentative kiss she’d given in the night. It felt foolish now, but she buried the thought deep, determined not to let it show.
+They rode much of the morning in an easy silence, the forest thinning to open fields loud with bees and far birdsong, Linnea leaning into Nimroch's gait with her grip gone loose and trusting. "Do you think we'll reach Radagast soon?" she asked.
 
-They rode in companionable silence for much of the morning, the forest thinning gradually into open fields dotted with wildflowers. The air was warmer now, carrying the faint hum of bees and the calls of distant birds. Linnea leaned into the steady rhythm of Nimroch’s gait, her grip on the saddle relaxed.
+"Not yet — not unless he wishes us to find him sooner. And with the danger rising he may keep himself hid. I don't look to meet him before we're near the Anduin."
 
-“Do you think we’ll reach Radagast soon?” Linnea asked, breaking the quiet.
+"More dangerous — why?"
 
-Celenneth considered the question for a moment before replying. “Not yet, unless he chooses for us to find him sooner. And given the increased danger, he may be more circumspect. Anyway, I'm not expecting to find him until we are closer to the Anduin.”
+"The Shadow spreads. The nearer the Anduin, the likelier we are to meet its servants — or those running from them."
 
-Linnea frowned. “More dangerous? Why?”
+Near a crossroads they came on a small merchant caravan moving wary along the main road, wagons guarded by a few tired men with spears, and Celenneth slowed and watched from a distance. One guard raised a hand. "Well met! The road ahead's clear — but keep your eyes open. Wolves, two days back." She gave a nod and called her thanks and did not go closer; and when Linnea asked why they had not joined them she said only, "Wrong way. And too many strangers," and Linnea let it go, though Celenneth saw the small longing in her for the comfort of numbers, and understood it, and could not give it to her.
 
-“The Shadow spreads,” Celenneth said simply. “The closer we come to the Anduin, the more likely we are to encounter its agents—or those fleeing from it.”
+The day held quiet until late, when a single howl came down the wind far off, and Celenneth reined in and listened with her hand going to her bow. "Wolves?" Linnea breathed. "Maybe. Or worse." It did not come again — but she rode watchful after that, and knew Linnea felt the eyes on them too.
 
-As they neared a crossroads, they spotted a small caravan moving cautiously along the main road. Celenneth instinctively slowed Nimroch, watching the travelers from a distance. The group appeared harmless enough—merchants with wagons laden with goods, guarded by a handful of weary-looking men with spears.
+As the sun went down she took them off the trail to a glade she would remember a long while: a small waterfall spilling into a clear shallow pool, the rush of it filling the air, the place untouched and almost holy, so that even she felt a rare quiet settle on her as they came into it. Linnea's whole face opened at the sight. "It's beautiful." They made their camp there — the waterfall's noise would mask them, Celenneth noted, though it would mask another's approach as surely, so they would keep the watch — and Linnea gathered wood and cleared a fire-space with a quiet new purpose in her, and by full dark they had a small steady fire throwing its light in ripples off the water.
 
-One of the guards raised a hand in greeting, his voice carrying across the open space. “Well met, travelers! The road ahead is clear, though you’d do well to keep your eyes open. We saw wolves not two days past.”
+Linnea sat close to it, watching the fall shimmer in the moonlight. "Hard to believe places like this still are," she said. "So quiet. So untouched."
 
-Celenneth gave a brief nod but didn’t approach. “We’ll keep that in mind,” she called back, her tone neutral. As the caravan continued on its way, Linnea glanced at her companion. “Why didn’t we join them?” she asked.
+Celenneth looked up from her whetstone. "Fewer every year. That's the why of the fighting — to keep what's left."
 
-“Wrong direction,” Celenneth replied. “And too many unknowns.”
+The fire burned down. Linnea drew the cloak tight and let the water's sound ease the day out of her. "Celenneth," she said, soft. "Thank you. For all of it. I don't know where I'd be, but for you."
 
-Linnea nodded, though a part of her longed for the comfort of company, however fleeting. She stayed silent as they pressed on, the fields giving way once more to denser woodland.
+"You're stronger than you credit, Linnea. You've come this far."
 
-The day remained uneventful until the late afternoon, when a distant howl broke the calm. Celenneth reined Nimroch to a stop, her posture stiffening as she listened. Linnea felt the tension immediately and whispered, “Wolves?”
+"Maybe. But it's easier with someone like you beside me." The words hung there, and neither of them touched them, and the quiet that held afterward was not empty — only the water, and the fire, and something growing careful between them.
 
-“Maybe,” Celenneth said quietly, her hand resting on her bow. “Or worse.”
+Morning broke soft over the glade, the waterfall louder in the early stillness. Celenneth was up first, seeing to Nimroch and the camp, and Linnea rose after and stood by the pool a while looking at the water with a small wistful longing. "It's too beautiful not to," she murmured.
 
-The sound didn’t come again, but Celenneth kept a wary eye on the forest as they continued. Linnea couldn’t shake the feeling that they were being watched, and the unease lingered as the sun dipped lower in the sky.
+"What?"
 
-As the sun began to set, Celenneth guided Nimroch off the main trail, her sharp eyes scanning for a suitable campsite. After some time, she found it—a secluded glade, with a small waterfall cascading into a clear, shallow pool. The sound of rushing water filled the air, blending harmoniously with the calls of evening birds. The place felt untouched, almost sacred, and Celenneth felt a rare moment of peace as they entered.
+Linnea turned, shy. "The water. We've been days on the road. I thought…" She gestured at the fall.
 
-Linnea’s face lit up as she took in the sight of the glade. “It’s beautiful,” she said softly, slipping off Nimroch with Celenneth’s help. She moved toward the pool, crouching by the edge to dip her hands into the cool water.
+"It's a good chance to wash. Go on."
 
-Celenneth dismounted, her movements deliberate as always. “We’ll camp here tonight,” she said, her tone calm but firm. “The sound of the waterfall will help mask our presence, but we’ll need to stay vigilant; it will also mask the approach of anyone coming.”
+Linnea hesitated, then slipped out of the borrowed cloak and tunic and the rest, folding them careful, and waded into the shallows with a soft sigh as the cool took her, and let down her hair and made a small frustrated sound at the state of it. Celenneth stayed by the fire — and then found herself watching the younger woman fight a losing battle with the tangles, her fingers snagging and pulling, her frown deepening, and something in it reached past the ranger's habitual reserve.
 
-As Celenneth tended to Nimroch, Linnea busied herself gathering kindling and clearing a small space for a fire. She worked with quiet determination, her earlier nervousness replaced by a sense of purpose. By the time the sun had fully set, they had a small, steady fire crackling near the pool, its light reflecting off the water in gentle ripples.
+"Here." She toed off her boots and rolled her sleeves and waded in far enough to reach her. "Let me."
 
-Linnea sat close to the fire, gazing at the waterfall as it shimmered in the moonlight. “It’s hard to believe places like this still exist,” she said, her voice thoughtful. “So quiet, so… untouched.”
+Linnea blinked round at her. "You don't have to—"
 
-Celenneth glanced up from where she was sharpening her sword. “They do, but fewer every year. That’s why we fight—to protect what remains.”
+"I don't mind. Sit, and I'll make short work of it."
 
-As the fire burned low, Linnea leaned back, letting the cloak Celenneth had lent her wrap tightly around her shoulders. The sound of the waterfall was soothing, and the weariness of the day began to ease.
+Linnea moved to a smooth rock at the pool's edge and, after a breath, let her. Celenneth stood behind her and gathered the wet strands and worked the knots loose with a care her hands remembered better than she did — and the remembering came with it, the way it does, unasked.
 
-“Celenneth,” Linnea said softly, breaking the silence. “Thank you. For all of this. I don’t know where I’d be if not for you.”
+"You're good at this," Linnea said, wonder in it.
 
-Celenneth’s gaze met hers across the fire. “You’re stronger than you think, Linnea. You’ve made it this far.”
+"I had a younger sister, once." The words were out before she had decided to give them. "She got her hair in a worse state than yours, every day of her life."
 
-Linnea smiled faintly, her eyes glistening with unshed emotion. “Maybe. But it’s easier with someone like you by my side.”
+Linnea half-turned. "A sister. What became of her?"
 
-The words hung in the air, and for a moment, neither of them spoke. The quiet understanding between them was enough, carried by the sound of the water and the warmth of the fire.
+Celenneth's hands paused, and went on. "She's gone. A long time ago now." Level, even — but Linnea heard the weight under it, because Linnea knew that particular weight.
 
-*Cermië 27, 2965*
+"I'm sorry. I didn't mean to—"
 
-The sunlight filtered softly through the canopy as morning broke over the glade. The gentle rush of the waterfall seemed louder in the early stillness, a natural harmony that eased the tension of the previous day. Celenneth woke early, as always, ensuring Nimroch was fed and the camp secured. Linnea stirred not long after, stretching beneath the warmth of the shared cloak.
+"It's all right." Gentle. "We all carry losses. It's the going-on that counts." And she finished the combing in a quiet that was not uncomfortable, Linnea's eyes closed, leaning a little into her hands; and Celenneth found — to her own faint surprise — that the steady small work of caring for someone was its own kind of ease, one she had not let herself have in longer than she wanted to reckon.
 
-As they prepared for the day ahead, Linnea paused by the edge of the pool, gazing at the cascading water. “It’s too beautiful not to,” she murmured, mostly to herself.
+"There," she said, stepping back, shaking the water from her hands. "That'll hold a while."
 
-Celenneth, busy securing their supplies, looked over. “What?”
+Linnea turned with a soft smile. "Thank you. Not only for this, but…" Her voice trailed off.
 
-Linnea turned, a hint of a shy smile on her face. “The water. We’ve been on the road for days. I thought…” She trailed off, gesturing toward the waterfall.
-
-Celenneth nodded, her tone matter-of-fact. “It’s a good chance to wash. Go ahead.”
-
-Linnea hesitated, then nodded, moving toward the water. She slipped off her borrowed cloak and tunic, carefully folding them. She then stripped out of her dress and shoes, and waded into the shallow pool. The water was cool but refreshing, and she let out a soft sigh as it lapped at her skin. Linnea let down her hair, and grumbled as she soaked the tangled and matted locks.
-
-Celenneth lingered near the fire for a moment, then glanced toward Linnea. She hesitated, her sharp gaze softening slightly as she noticed the younger woman struggling with her damp hair. Linnea’s fingers worked awkwardly at the knots, her movements growing more frustrated.
-
-“Here,” Celenneth said, stepping toward the water. She removed her boots and rolled up her sleeves, wading in just enough to reach Linnea. “Let me help.”
-
-Linnea blinked, surprised. “You don’t have to…”
-
-“I don’t mind,” Celenneth replied, her tone steady. “Sit down, and I’ll make quick work of it.”
-
-Linnea hesitated only a moment before complying, moving over to a smooth rock near the edge of the pool. Celenneth stood behind her, gently lifting the damp strands of her hair. Her fingers were deft and sure, working through the knots with surprising care.
-
-Linnea sat quietly, the sensation of Celenneth’s fingers in her hair both soothing and unfamiliar. “You’re… good at this,” she said softly, her voice carrying a hint of wonder.
-
-Celenneth gave a faint smile. “I had a younger sister once. She was always getting her hair tangled worse than you.”
-
-Linnea turned slightly, her curiosity piqued. “A sister? What happened to her?”
-
-Celenneth’s hands paused briefly before continuing. “She’s gone. A long time ago.” Her tone was even, but Linnea could hear the weight behind the words.
-
-“I’m sorry,” Linnea said quietly. “I didn’t mean to—”
-
-“It’s all right,” Celenneth interrupted gently. “We all carry losses. It’s how we move forward that matters.”
-
-The silence that followed was not uncomfortable. Linnea closed her eyes, letting the moment wash over her like the water. Celenneth’s steady hands and calm presence felt like an anchor in the chaos of her thoughts, and for the first time in days, she felt truly at ease.
-
-When Celenneth finished, she stepped back, her hands brushing droplets of water from her palms. “There,” she said simply. “That should hold for a while.”
-
-Linnea turned, a faint smile on her lips. “Thank you,” she said, her voice warm. “Not just for this, but…” Her voiced trailed off.
-
-Celenneth gave a small nod, her expression unreadable. “Finish quickly. We should be on the road soon.”
-
-As Linnea returned to the pool, her thoughts lingered on the quiet care Celenneth had shown. It was a small gesture, but it spoke volumes. The connection between them was fragile but growing, and Linnea wasn’t sure how to make sense of it yet. All she knew was that, for the first time in a long while, she felt like she wasn’t alone.
+"Finish quick. We should be on the road." And Celenneth turned away to the horse before whatever was in the woman's face could ask anything more of her — not because she did not feel the pull of it, but because she did, and had learned long ago what it cost to want a thing the road would not let her keep.

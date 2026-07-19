@@ -1,83 +1,70 @@
 # Chapter 12: Radagast
 
-*Book 2*
-
 *Úrimë 1, 2965*
 
-Celenneth and Linnea broke camp early, moving in a comfortable rhythm born of their time on the road together. The previous night lingered between them in shared glances and faint smiles that spoke of a deepened bond.
+They broke camp early, moving now in the easy rhythm the road and the night before had made between them — the thing that had changed passing in glances and small unguarded smiles, unspoken and understood. Nimroch went steady down the narrow forest way, his pale coat catching the dappled light, and Celenneth rode quiet with her eyes on the wood ahead and her hand resting light over Linnea's where it held the saddle.
 
-Nimroch moved steadily along the narrow forest path, his silver-gray coat glinting faintly in the dappled sunlight. Celenneth was quiet, her sharp eyes scanning the woods ahead, her hand resting lightly on Linnea’s where it clung to the saddle.
+The forest changed around them as they went, and both of them felt it. The trees seemed almost to hum; their roots ran in patterns too deliberate for chance; the very air carried a green, earthy weight, a sense of being noticed. This was someone's country, and it was awake.
 
-The forest felt different here—alive in a way neither of them had ever experienced. The trees seemed to hum faintly, their roots twisting in intricate patterns, and the air carried a subtle, earthy energy.
+They had just crested a low rise when the underbrush rustled and Nimroch shied and stopped, and Celenneth's hand was on her sword before she had thought — but the figure that stepped out of the shadows was no enemy. A man in brown robes that seemed woven of the wood itself, his hair and beard grey and brown and wild, his eyes bright and kind and older than kindness.
 
-They had just crested a small hill when a sudden rustling in the underbrush startled Nimroch, who snorted and stopped in his tracks. Celenneth immediately reached for her sword, her sharp gaze snapping to the source of the sound.
+"Radagast," she said, surprise and relief both in it, and took her hand from the hilt.
 
-Before she could draw her blade, a figure stepped out from the shadows—a man cloaked in brown robes that blended seamlessly with the forest. His long, unkempt hair and beard were streaked with gray and brown, and his eyes, though bright and kind, held an undeniable depth.
+The wizard's gaze moved between the two of them and warmed, though there was urgency under it. "Well met, Celenneth. I have been expecting you."
 
-“Radagast,” Celenneth said, her tone a mix of surprise and relief as she lowered her hand from her sword.
+"You have?" Linnea managed.
 
-The wizard smiled faintly, his gaze flickering between her and Linnea. “Well met, Celenneth,” he said, his voice warm but laced with urgency. “I’ve been expecting you.”
+"Indeed. And your coming is well-timed — I bear grave news, and a charge that will not wait." He led them to a nearby clearing where an old gnarled tree let its low branches down like a roof, and there Celenneth drew out the silver-bound book and gave it into his hands.
 
-Linnea glanced at Celenneth, her expression uncertain. “You have?”
+His eyes went wide as he took it. "The writings of Alatar," he breathed, turning it with something near reverence. "I have not had word of the Blue Wizard in long years. This is no common book, Celenneth — lore he gathered himself in the deeps of time, much of it forgotten now by even the wise. Secrets of the world's nature; spells to mend and to ward; and, it may be, ways to see the Shadow's working before it strikes." He looked up, keen. "Elrond trusted you a great deal, to set this in your hands." He held it to his chest. "I will study it. There may be answers here for the wars still to come. You have done a service — not to me alone, but to all who stand against the dark."
 
-Radagast nodded, stepping closer. “Indeed. Your timing is fortuitous—I bear grave news and a message that cannot wait.”
+Then he sat, and the warmth went out of his face and something graver came into it. "The Shadow spreads faster than I feared, Celenneth. Things are moving in the East, and even the south is no longer safe." His eyes seemed to go past her, past the clearing, past the day itself. "I have seen it — a great plain under a pall of shadow, and on it the peoples of the world drawn up together, their banners torn by a wind out of the dark; and a beast rising far off with eyes like coals; and a moment coming, one single moment, when all of them must stand as one — one heart, one sword — or be drowned under a black tide." He came back to her. "That day is not yet. But it is coming, and the road to it begins now."[^t-vision]
 
-Radagast gestured for them to dismount and led them to a small clearing nearby, where a gnarled tree with low-hanging branches formed a natural shelter.
+Her jaw set; her hand found her sword-hilt of its own accord. "What would you have me do?"
 
-Celenneth pulled out the silver-bound book. "Elrond gave this to me, to give to you."
+"Carry the warning to the leaders of the Free Peoples. It will be no easy road. But their resolve must be woken now, while there is still time to wake it."[^t-charge]
 
-Radagast's eyes widened at the sight of the book, and he reached out with reverence, his fingers brushing the silver binding. "The writings of Alatar," he murmured, his voice filled with a mix of awe and curiosity. He gently took the book from Celenneth, turning it over to examine the craftsmanship. "I haven't heard from Alatar in many, many years. This is no ordinary text. Within lies knowledge of old—lore gathered by the Blue Wizard himself, much of it forgotten by even the wisest."
+His gaze moved to Linnea, and softened. "And you, Linnea. I have seen your path as well."
 
-Radagast opened the book, his eyes scanning the first few pages. His brow furrowed, and he nodded to himself as he read. "These are writings of the ancient magics of the world—secrets of nature, spells to mend and to guard, and perhaps even to uncover the machinations of the Shadow." He glanced up at Celenneth, his gaze piercing. "Elrond must have trusted you deeply to entrust you with such a gift."
+Linnea's hand tightened on her cloak. "Me?"
 
-He closed the book, holding it close to his chest. "I will study these pages, and perhaps we can find a way to use this knowledge to counter the growing darkness. It will take time, but the answers within may prove vital for the battles yet to come." Radagast's gaze softened as he looked at both Celenneth and Linnea. "Thank you for bringing this to me. It is a great service not only to me but to all who stand against the Shadow."
+"You. Though you may not know it yet, you have a part to play in what comes. You are no mere traveller. Your heart and your courage will both be tried — and it is no accident that you walk this road at Celenneth's side."
 
-Radagast sat, and his tone grew serious. “Celenneth,” he began, “the Shadow is spreading faster than I feared. Forces are moving in the East, and even the southern lands are no longer safe. I’ve seen visions of a vast plain shrouded in shadow, where armies of Men, Elves, and Dwarves stand together, their banners torn by a fierce wind. A great beast with eyes like fire rises in the distance, and the clash of steel and roar of voices fills the air. A choice will come—a moment when all must either stand united, with hearts and swords as one, or be consumed by the darkness that spreads like a black tide.”
+Linnea looked to Celenneth, uncertain. "What does that mean?"
 
-Celenneth’s jaw tightened, her hand instinctively resting on her sword. “What must I do?” she asked, her voice steady despite the weight of his words.
+The wizard smiled, but the sadness did not leave his eyes. "That your fates are bound together, though not perhaps in the way either of you would guess. You are to stand together against a great peril. But be warned — this bond of yours will be your strength and your trial both."
 
-Radagast held her gaze for a moment before continuing. “You must carry this message to the leaders of the Free Peoples. The road ahead will not be easy, but strength and resolve are needed now more than ever.”
+Something in Celenneth went cold and hard at that. "Radagast. If Linnea is in danger, I will keep her safe. Whatever it costs."
 
-Radagast’s gaze then shifted to Linnea, his expression softening. “And you, Linnea… I have seen your path as well.”
+"I do not doubt your resolve." Grave now. "But strength is not always the answer. A time will come when you must choose between your duty and your heart. Remember that it came to you as a warning — and not too late."
 
-Linnea blinked, her hand tightening on the edge of her cloak. “Me?”
+The clearing went quiet, the words settling over the two of them like a weight. Linnea reached and brushed her hand to Celenneth's arm. "Whatever comes," she said, low and steady under the fear, "we face it together."
 
-“Yes,” Radagast said, his voice thoughtful. “Though you may not yet realize it, you have a role to play in what is to come. You are no mere traveler, Linnea. Your heart, your courage—these will be tested. It is not by accident that you walk this road beside Celenneth.”
+Celenneth looked at her, and the hard thing in her eased, a little. "Together," she agreed — though the unease did not leave her chest.
 
-Linnea looked at Celenneth, her eyes wide with uncertainty. “What does that mean?” she asked softly.
+Radagast rose and brushed down his robes. "The time for talk is past. I have other matters, and you have your road before you."
 
-Radagast smiled faintly, though there was sadness in his eyes. “Your fates are intertwined, though the path ahead may not be what either of you expects. You are destined to stand together in the face of great peril. But be warned—this bond will be both your strength and your trial.”
+Linnea stood quickly. "Wait — you're only leaving? What if we have more to ask?"
 
-Celenneth’s gaze darkened slightly, her mind racing with the implications of his words. “Radagast,” she said firmly, “if Linnea is in danger, I will protect her. Whatever it takes.”
+He turned, a faint smile for her. "Questions find their answers on the road, young one. Trust your wits — and each other." He looked once more to Celenneth, serious again. "Remember what I told you. The choices you make will shape more than your own fate." And with that he walked into the trees, his brown robes melting into them, and within a few steps he was simply gone, and there was only the hum of the waking wood and the weight of everything he had said.
 
-Radagast nodded, his expression grave. “I do not doubt your resolve, Celenneth. But remember: strength is not always enough. There will come a time when you must choose between your duty and your heart.”
+Neither of them spoke for a while. Celenneth stared after him, unreadable; Linnea worried at the edge of her cloak.
 
-The clearing grew quiet as Radagast’s words hung in the air, their weight settling over the two women like a shroud. Linnea reached out, her hand brushing lightly against Celenneth’s arm. “Whatever happens,” she said softly, her voice steady despite her fear, “we’ll face it together.”
+"He didn't give us much to go on," Linnea said at last.
 
-Celenneth looked at her, her sharp gaze softening slightly, and gave a faint nod. “Together,” she agreed, though the unease in her chest remained.
+"The Istari rarely do." Celenneth crossed her arms. "His kind would sooner nudge you toward the road than name it."
 
-Radagast rose from his seat beneath the gnarled tree, brushing his hands against his robes. “The time for talk has passed,” he said, his tone brisk but not unkind. “I have other matters to attend to, but you have your path laid before you.”
+"So what now? A message to the Free Peoples, he says — but not how, or where."
 
-Linnea stood quickly, her expression tinged with worry. “Wait—you’re just leaving? What if we have more questions?”
+Celenneth's eyes went to the horizon, already working it. "We start at the nearest stronghold. If the Shadow moves as fast as he says, we'll want allies, and news. From there we choose our next step."
 
-Radagast turned, offering her a faint smile. “Questions often find their answers on the road, young one. Trust your instincts—and each other.” He nodded toward Celenneth, his expression growing serious once more. “Remember my words, Celenneth. The choices you make will shape not only your fate but the fate of those around you.”
+Linnea nodded, still uncertain. "And what he said. About me. About — us."
 
-With that, the wizard turned and strode into the forest, his brown robes blending seamlessly with the trees. Within moments, he was gone, leaving behind only the faint hum of the forest and the weight of his words.
+Celenneth hesitated, then turned to her, and let her eyes soften. "I think Radagast sees paths, not certainties. Whatever part you're meant to play, it's yours to take up — or not."
 
-For a while, neither woman spoke. Celenneth stared after Radagast, her sharp features unreadable, while Linnea fiddled nervously with the edge of her cloak.
+"It's not the most comforting thing," Linnea said, mouth thin, "knowing there's a prophecy hung over me."
 
-Finally, Linnea broke the silence. “He didn’t exactly give us much to go on, did he?”
+"Prophecies rarely are." Wry — and then gentler. "But you don't have to carry it alone." And she put out her hand, and Linnea took it, and they stood a moment together in the wizard's waking wood with the whole shadowed road of the years still unwalked before them; and then they went to Nimroch, and mounted, and turned him toward the first of it.
 
-Celenneth exhaled slowly, crossing her arms. “The Istari rarely do. Wizards like him prefer to nudge people in the right direction rather than tell them outright.”
-
-Linnea frowned, her brow furrowing. “So, what do we do now? He said you need to deliver a message to the Free Peoples, but he didn’t say how—or where.”
-
-Celenneth’s gaze shifted to the horizon, her mind already working through the possibilities. “We start with the nearest stronghold. If the Shadow is spreading as quickly as he says, we’ll need allies—and information. From there, we’ll decide our next move.”
-
-Linnea nodded, though her expression remained uncertain. “And what about… what he said about me? About us?”
-
-Celenneth hesitated, her sharp eyes softening slightly as she turned to face Linnea. “I believe Radagast sees paths, not certainties. Whatever role you’re meant to play, it’s your choice to embrace it—or not.”
-
-Linnea’s lips pressed into a thin line. “It’s not exactly comforting, knowing there’s some kind of prophecy hanging over me.”
-
-“Prophecies are rarely comforting,” Celenneth said wryly. Then her tone softened. “But you don’t have to face it alone.”
+[^t-vision]: *Table note:* Radagast's vision of the war to come — a shadowed plain, the peoples of the West drawn up together, a fire-eyed beast, and the one choice: stand as one, or be drowned. The saga's far horizon.
+[^t-charge]: Celenneth's new charge, Elrond's errand fulfilled: **carry the warning of the rising Shadow to the leaders of the Free Peoples.** Alatar's writings delivered to Radagast; the quest of Book 2 complete.

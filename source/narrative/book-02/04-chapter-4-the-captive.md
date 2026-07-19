@@ -1,57 +1,33 @@
 # Chapter 4: The Captive
 
-*Book 2*
-
 *Cermië 22, 2965*
 
-As the sun climbed higher, Celenneth began to notice subtle signs of disturbance in the land: hoofprints, a broken branch hanging unnaturally low, and the faint scent of smoke on the wind. She paused, scanning the area, but saw no immediate danger.
+The land began to tell her a story as the sun climbed, and she had spent too long reading such stories to ignore it. Hoofprints where there should be none. A branch snapped and hanging wrong. The thin thread of woodsmoke on a wind that carried, beneath it, something she liked less. She slowed, and read.
 
-Pressing forward cautiously, she came across a small campsite tucked behind a hill. The fire had been recently extinguished, and the remnants of a meal lay scattered around. Whoever had been here had left in a hurry. Celenneth dismounted and inspected the site, her keen eyes picking out details: discarded boot prints leading west and a faint trail of blood, now dried, near the edge of the clearing.
+The story led her first to an abandoned camp behind a hill — a fire lately doused, a meal left half-eaten and scattered, boot-prints going west in a hurry, and at the clearing's edge a dried dark stain that was not spilled wine. Whoever had been here had left fast, and not all of them on their own feet. Curiosity had always burned brighter in her than caution; she gathered Nimroch's reins and turned west, and followed.
 
-Curiosity burned brighter than caution as Celenneth replayed the details of the abandoned campsite. The hoofprints, the broken branches, the blood—they painted a picture of urgency and danger. Gripping Nimroch’s reins, she turned back toward the faint trail she had seen leading westward.
+It was faint tracking, the kind only a trained eye holds — trampled grass, a drop of blood here and there, the small violences a passage leaves on the land — and she went slow and careful, Nimroch stepping soft behind her as though he felt the tightness in her. The shadows drew long. The trail brought her to a thicket where the branches twisted together like grasping hands, and she went in on foot, leading the horse, her hand resting at her sword.
 
-The trail was faint, visible only to a keen eye trained for tracking. The grass was trampled here and there, with occasional drops of blood marking the way. Nimroch stepped carefully, as if sensing the tension in her rider. The air grew cooler as the sun dipped lower, casting long shadows over the land.
+Around a bend the trees opened on a clearing and the leavings of a fight: scattered arrows, a broken shield, the flat stench of death. Two men lay crumpled at its center. One wore mismatched armour and had died with a crude spear in his hand, his face lost under his helm and the dusk. The other was plainly but well dressed, and cruelly used by whatever had killed him. She knelt by the armoured one, and her fingers found a scrap of cloth pinned to his sleeve — a crude sigil, an eye — and something went cold in her that she had learned, now, to trust. The same mark. The same wrongness she carried wrapped in her pack.
 
-The trail led to a thicket of trees, their gnarled branches twisting together like grasping hands. Celenneth dismounted, leading Nimroch on foot to avoid startling whatever—or whoever—lay ahead. Her hand rested lightly on the hilt of her sword, her keen eyes scanning the growing darkness.
+Fresh tracks led on west, heavier than before, as though someone had come through here after the killing and taken something with them. She weighed it a moment, hand on her hilt, Nimroch pawing the ground beside her. Then she went on, quiet, into denser wood where the earth gave way to rock and the sign grew hard to hold, and a thin fog came down and closed the world to arm's length, and the smell of smoke thickened and turned — wood, and beneath it a sharper reek she did not let herself name.
 
-As she rounded a bend in the trail, she came upon a clearing. The remnants of a skirmish lay before her: scattered arrows, a broken shield, and the unmistakable stench of death. Two bodies lay crumpled near the center, both men; one clad in mismatched armor and armed with a crude spear, his face obscured by his helmet and the deepening gloom. The other was dressed plainly, but well-kept, and was horribly disfigured by his mortal injuries.
+The fire showed as a smear of glow through the trees at last. She left Nimroch tied to a low branch with a hand on his neck, and went the rest of the way as a shadow among shadows.
 
-Celenneth knelt beside the presumed bandit, her fingers brushed against a scrap of cloth pinned to the man’s sleeve: a crude sigil of an eye. She rose, her gaze shifting to the trail beyond the clearing. Tracks led further west, heavier now, as if someone—or something—had moved quickly through here after the battle.
+A rough ring of stones, a dying fire, two men hunched close and talking low and tense — one nursing a dark-stained arm, the other worrying at a dagger and glancing again and again into the trees. Bandits, poorly armed and poorly kept, and dangerous for all that in the way cornered things are dangerous. Near the fire lay a crude sack with its takings spilling out — tarnished silver, a small purse, a woman's brooch — and on the far side of the camp, half in shadow, a third figure: a woman, bound at the wrists and gagged, pale but sharp-eyed and very much awake. The sight of her put an edge on Celenneth's resolve and burned off the last of her hesitation. Whatever these men had done, they were not keeping this one.[^r-rescue]
 
-She stood in silence, weighing her options, her hand gripping the hilt of her sword as Nimroch pawed the ground beside her. Steeling herself, Celenneth led Nimroch further west, her footsteps light on the uneven ground. The tracks grew fresher, suggesting that whatever had passed here did so not long ago. The faint scent of smoke lingered in the air, growing stronger with every step.
+She went round the ring the long way, tree to tree, out of the firelight, until she was at the captive's back. The woman flinched as she came near; Celenneth pressed a finger to her lips, and knelt, and set her keen blade to the knots — worn rope, but strong — and cut through wrist and ankle in a few silent strokes. The woman drew a shaking breath of relief and rubbed her wrists, her eyes going to the bandits and back. "Stay quiet," Celenneth breathed against her ear, "and follow me. Now."
 
-As she approached a denser patch of woodland, she noticed the trail becoming harder to follow. The churned-up earth faded into rocky terrain, where footprints and signs of movement were less obvious. A thin fog had begun to settle over the area, further obscuring her view.
+The woman nodded, tentative but quick to obey, and Celenneth led her back the way she had come, careful as before. Nimroch was where she had left him, ears pricking as the two of them came out of the dark. She got the woman up first and swung on behind her, and the horse stood like stone while they mounted, as if he too understood what silence was worth just then. Then she turned him and they went, quiet grace beneath them, away from the fire and out into the wide safe dark — and only when the camp was well behind, past sight and past hearing, did she let herself breathe.
 
-She pressed forward, Nimroch following close behind. The scent of smoke grew stronger, mingling now with the faint, acrid tang of something burned—perhaps wood, or flesh. The air grew heavier, the fog clinging to her skin like a second cloak.
+The woman turned, still trembling. "Thank you," she whispered, shaky and sincere. "I thought I was done for."
 
-As the sun began to dip lower, casting long shadows through the trees, she spotted a faint glow in the distance. A fire. Celenneth dismounted, patting Nimroch’s neck reassuringly before tying the reins to a low branch. She moved forward on foot, her steps silent as she approached the source of the light.
+"You're safe now." A faint smile. "Who are you, and what were you doing out here?"
 
-Through the trees, she saw a small camp—a rough circle of stones with a dying fire at its center. Two figures sat hunched nearby, their voices low but tense. One man clutched his arm, a dark stain spreading across the tattered sleeve, while the other fidgeted with a dagger. Both were armed, though poorly, their armor mismatched and dented.
+The woman hesitated, her eyes on the black trees sliding past. "Linnea. We were attacked on the road — those men. They killed my father, and took me." Something cracked and steadied in her voice at once. "I didn't think anyone would come."
 
-Celenneth moved like a shadow, her steps noiseless on the damp ground. She slipped from tree to tree, staying out of the firelight’s reach, her sharp eyes taking in every detail. The two men were clearly bandits, their weapons poorly-kept but dangerous enough in experienced hands. One of them, nursing a wound, muttered curses under his breath while the other kept glancing nervously into the trees.
+"The roads aren't safe these days." Celenneth kept her own voice even, though the plain grief in the woman's went into her somewhere and lodged. "We'll find you a proper refuge."
 
-From her vantage point, Celenneth could see a crude sack lying near the fire, its contents spilling slightly: tarnished silverware, a small bag of coin, and what appeared to be a woman’s brooch. As Celenneth adjusted her position, she noticed a third figure hidden in the shadows on the far side of the camp. A woman, tied at the wrists and gagged, her face pale but alert. Her presence sharpened Celenneth’s resolve. This was no time for hesitation.
+She found them a hollow under an ancient oak as the moon climbed, and made Linnea a rough bed of dry leaves and moss, and the woman lay down and was asleep almost before she had finished, exhaustion taking her all at once. Nimroch stood sentinel at the edge of the light. Celenneth crouched by the cold camp with her sword across her lap and her eyes moving over the dark, and did not sleep; the bandits would find their captive gone by now, and desperate men sometimes chose to follow. Once Linnea stirred and her face pinched as though the dream had teeth, and Celenneth reached over and drew the cloak up over her shoulders. "Rest easy," she said, soft, to a woman who could not hear her. "You've been through enough." And she kept the watch through the cold hours, sharp-eared and still, while the forest gave up nothing but the small rustlings of its own night-creatures, and the stranger she had pulled out of the dark slept on beside her.
 
-Moving carefully, she circled around the edge of the camp until she was behind the captive. The woman flinched slightly as Celenneth approached, her eyes widening in alarm. Celenneth pressed a finger to her lips, signaling for silence. She knelt quickly, her hand reaching for the bonds at the woman’s wrists. The rope was tightly knotted, worn but strong. Celenneth’s keen blade worked swiftly and silently, slicing through the bonds at the wrists and ankles. The woman gave a faint gasp of relief, rubbing her sore wrists as she glanced nervously toward the bandits. Celenneth leaned in close, whispering, “Stay quiet and follow me. Quickly.”
-
-The woman nodded, her movements tentative but obedient. Celenneth led her back through the shadows, retracing her careful path around the camp. Nimroch waited where she had tied him, his ears twitching as the two figures emerged from the trees. Celenneth helped the woman mount first, then swung up behind her, the horse standing still as if sensing the importance of their silence.
-
-Celenneth urged Nimroch forward, her heart racing. The horse moved with a quiet grace, carrying them away from the camp and deeper into the safety of the night. Only when they were well beyond the bandits’ sight and hearing did she slow, allowing herself a brief moment of relief.
-
-The woman, still trembling, turned to Celenneth as they rode. “Thank you,” she whispered, her voice shaky but sincere. “I thought I was done for.”
-
-Celenneth offered a faint smile. “You’re safe now. Who are you, and what were you doing out here?”
-
-The woman hesitated before replying, her eyes darting to the forest around them. “My name is Linnea. We were attacked on the road. Those men... they killed my father and took me. I didn’t think anyone would come.”
-
-Celenneth nodded grimly. “The road isn’t safe these days. We’ll find you a proper refuge.”
-
-With the woman secured, Celenneth turned her attention back to the trail ahead. The night was calm now, but the dangers of the wilds were never far.
-
-As the moon climbed high into the sky, Celenneth found a small hollow beneath the shelter of an ancient oak where they could rest. The forest was quiet now, but her instincts told her to remain vigilant. She gathered dry leaves and moss to make a modest bed for Linnea, who lay down with a soft sigh, exhaustion overtaking her quickly.
-
-Nimroch stood nearby, ears flicking at the faintest sounds, a silent sentinel. Celenneth crouched beside the fireless camp, her sword resting across her lap. Her eyes roved the shadows, her every sense on edge. She knew the bandits would discover Linnea's absence by now and might decide to follow. Her hand tightened around the hilt of her sword at the thought.
-
-Linnea stirred briefly in her sleep, her face pinched as if she were dreaming of something unpleasant. Celenneth reached over, lightly adjusting the woman’s cloak to cover her better. “Rest easy,” she whispered softly. “You’ve been through enough.”
-
-The hours dragged on, the chill of the night biting at Celenneth’s exposed skin. Yet she did not allow herself to waver, her sharp eyes and ears catching every movement, every whisper of wind through the trees. The forest remained still, save for the occasional rustle of the nocturnal creatures.
+[^r-rescue]: **Tracking → Stealth** — Celenneth reads the sign from an abandoned camp to a bandit fire, and frees their captive, **Linnea**, unseen (the brigands killed her father on the road). The bandits bear the **eye-sigil** — the same mark as the pendant she found: the Shadow's reach, not mere banditry.
