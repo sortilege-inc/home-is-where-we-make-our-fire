@@ -1,45 +1,31 @@
 # Chapter 10: Autumn 2968
 
-*Book 7*
+*Narquelië 15, 2968*
 
-*Autumn 2968*
+Mornings in the wood had taken on a gentle rhythm since Celenneth began Brynja's training — though at not quite three years old, "training" was more a string of playful lessons than anything else. With the child's small hand wrapped safe in hers, she led her through the undergrowth, pointing out bright berries and soft leaves, teaching her which were good and which to leave be.
 
-Mornings in the forest had taken on a new, gentle rhythm since Celenneth decided to begin Brynja’s training—though at just three years old, “training” was more a series of playful lessons than anything else. With Brynja’s small hand safely wrapped in hers, Celenneth led her daughter through the undergrowth, pointing out bright berries and soft, edible leaves, teaching her which were safe and which to leave be.
+"See that bird?" she whispered, crouching by a fern, and Brynja followed her gaze, wide-eyed, to a sparrow flitting between branches. "Move very quietly, and you can watch it without frightening it away." Brynja crept on tiptoe, giggling into her mother's cloak whenever a twig cracked underfoot. In the afternoons, while Celenneth loosed arrows at a distance, Brynja stood close with a little wooden bow her mother had carved her — no string, only a curved stick for pretending — and "aimed" at pinecones, delighted whenever Celenneth praised her good eye. Linnea helped in quieter ways: taking Brynja home after the lessons, tending the small scrapes she earned tripping over roots, and after their bread and stew, curling beside her by the fire with simple stories of heroes who were kind, and lullabies about looking out for one another.
 
-“See that bird?” Celenneth whispered, crouching low beside a fern. Brynja followed her gaze, wide-eyed, as a sparrow flitted between branches. “If you move very quietly, you can watch it without scaring it away.” Brynja tried her best, creeping on tiptoes, giggling softly into her mother’s cloak whenever a twig snapped underfoot.
+⁂
 
-In the afternoons, while Celenneth practiced her own archery at a distance, Brynja stood close by, holding a tiny wooden bow Celenneth had fashioned for her. It had no string—just a curved stick meant for pretending. Brynja would “aim” at pinecones on the ground and giggle with delight when Celenneth praised her “good eye.”
+The night air over the Riddermark lay cool and still when Celenneth jolted awake, her heart slamming. Outside, the shapes of horses shifted in their corrals and the breath of sleeping riders drifted through the camp; inside, her own breath came ragged, her eyes still glittering with a terror she could not shake. The dreams had returned.
 
-Linnea helped in quieter ways. After the day’s gentle lessons, she would take Brynja back to their home, tending to any small scrapes the little girl got from tripping over roots. They would devour their bread and stew together, and afterward Linnea snuggled beside Brynja near the fire, telling simple stories of heroes who were kind, and singing lullabies about cooperation.
+Linnea was at her side in an instant, her hand hovering over Celenneth's shoulder, wanting nothing more than to still the tremors she could feel through the linen. "It's all right," she whispered. "It was only a dream." But Celenneth shook her head, caught still in whatever had seized her, her eyes unable to focus, her lips pressed thin. She swallowed hard and turned away, drawing her knees to her chest, and Linnea tried again — soft words, the warmth of her hand, a tune hummed low — and none of it reached past the wall of Celenneth's silence. Linnea's heart squeezed. She would have offered comfort until dawn, but she understood now that the old terrors would not yield to simple kindness; there were places in Celenneth's mind she could not follow. After a long moment Celenneth laid a hand over hers and gave it a single, understanding squeeze. Then she wrapped her cloak about herself and stepped out into the night.
 
-The night air over the Riddermark was cool and still when Celenneth jolted awake, heart pounding in her chest. Outside their small shelter, the distant shapes of horses shifted quietly in their corrals, the soft breath of sleeping riders drifting through the camp. But inside, Celenneth’s breathing came ragged, and her eyes glittered with some lingering terror. The dreams had returned.
+The moon was a thin shard over the plains. She moved quietly, drawn toward the circle of elders who kept watch over the Rohirrim — and by the far fires, beyond the sleeping horses, three still stirred: Eorlfryd, his beard braided, his hands weathered; Birgith, whose sightless gaze seemed to pierce the dark; and Hildis, who had steadied many a frightened heart with her even voice. They greeted her with kind nods and shifted to make room on a bench carved with running horses.
 
-Linnea was at her side in an instant, kneeling on the thin blanket, her hand hovering over Celenneth’s shoulder. She wanted nothing more than to calm the tremors she could feel through the linen of Celenneth’s nightclothes, to chase away the specters haunting her beloved’s mind.
+"I am troubled," Celenneth began, her voice tight. "Shadows have followed me from far lands, and in sleep they crowd my mind. I can't outrun them, nor cut them down with sword or bow. I don't know how to be rid of what stalks me in the dark."
 
-“It’s all right,” Linnea whispered, voice low and soothing. “It was just a dream.”
+Eorlfryd spoke first, low and rumbling. "We have seen warriors carry wounds no blade can heal. Some hurts cling like briars to the spirit."
 
-Celenneth shook her head, still ensnared by whatever vision had seized her. The flicker of firelight from the hearth lit her face in bronze and shadow, revealing eyes that would not focus, lips pressed thin. She swallowed hard, turning away, drawing her legs up to her chest. Linnea tried again—soft words, the warmth of her hand, even a gentle tune hummed under her breath. Nothing reached past the barrier of Celenneth’s silence.
+Birgith inclined her head. "Your dreams carry truth, Celenneth. They will not fade by force of will. They must be understood."
 
-Linnea’s heart squeezed tight. Though she would have offered comfort until dawn, she knew now the old terrors wouldn’t yield to simple kindness. There were places in Celenneth’s mind that Linnea could not follow. After a long moment, Celenneth laid a hand over Linnea’s and gave it a single, understanding squeeze. Without a word, Celenneth pulled her cloak around herself and stepped out into the night.
+Hildis laid a warm hand on Celenneth's wrist. "In Rohan we speak of dreams as visitors. Some bring warnings, some bring lessons. Few can be turned from the door without cost."
 
-The moon was a thin shard above the plains. She moved quietly, drawn by necessity toward the circle of elders who watched over the Rohirrim. By the far side of the campfires, beyond the sleeping horses, three elders still stirred. They were women and men who carried decades in their eyes: Eorlfryd, with his braided beard and weathered hands; Birgith, whose sightless gaze seemed to pierce the dark; and Hildis, who had guided many a frightened heart with her even voice.
+Celenneth lowered her eyes, the firelight dancing over cheeks that she wondered held the shine of tears. "I don't know how to understand this torment. I only know it grows heavier each night."
 
-Celenneth approached, her posture unsure but resolute. They greeted her with kind nods, shifting to make room on an old bench carved with running horses. The fire crackled softly, lighting their ancient faces in ochre and gold.
+"We will help you," Hildis said, quiet and certain. "Tell us what you can of these visions, as much as you are able — and then listen to what your heart, and the old wisdom of the Mark, tell you in return."
 
-“I am troubled,” Celenneth began, voice taut as a bowstring. “Shadows have followed me from distant lands, and in sleep they crowd my mind. I can’t outrun them, nor fight them with sword or bow. I do not know how to banish what stalks me in darkness.”
+At her words the weight on Celenneth's shoulders seemed to shift, just slightly. She glanced back to where Linnea stood at a distance — shadowed, concerned, waiting. Linnea's love was steadfast; but this burden asked a different strength. "I will try," she said, subdued but resolved. "If the way forward lies in facing these shadows, I'll face them. I have too much to protect, and too many at my side, to yield to fear." The elders nodded, their acceptance gentle and patient, and in time they would begin to guide her through the tangled country of her dreams.[^s-dreams]
 
-Eorlfryd spoke first, his voice rumbling low. “We have seen warriors who carry wounds no blade can heal. Some pains cling like briars to the spirit.”
-
-Birgith inclined her head. “Your dreams carry truth, Celenneth. They will not fade simply by force of will. They must be understood.”
-
-Hildis placed a gentle hand on Celenneth’s wrist, her grip warm and steady. “In Rohan, we speak of dreams as visitors. Some bring warnings, some bring lessons. Few can be denied without cost.”
-
-Celenneth lowered her eyes. The fire’s glow danced over her cheeks, and she wondered if it reflected the tears gathering at the corners of her eyes. “I do not know how to understand this torment. I only know it grows heavier with each passing night.”
-
-Hildis’s voice was quiet, certain. “We will help you. You must share what you can of these visions, as much as you are able, and then listen to what your heart and the Mark’s old wisdom tell you in return.”
-
-At her words, Celenneth’s posture eased, as if the weight pressing her down had shifted slightly. She glanced back over her shoulder, where Linnea stood at a distance—shadowed, concerned, and waiting. Celenneth knew Linnea’s love was steadfast, but this burden required a different kind of strength.
-
-“I will try,” she said softly, voice subdued but determined. “If my path forward lies in facing these shadows, then I will face them. I have too much to protect, and too many who stand beside me, to yield to this fear.”
-
-The elders nodded. Their acceptance was gentle and patient, a warmth as subtle as the fire’s glow on a cold night. In time, they would guide her through the tangled forests of her dreams.
+[^s-dreams]: **Shadow** — the Dol Guldur dreams that took root in Fangorn (and the cursed dagger's pull) return to plague Celenneth's sleep. Unable to fight them with blade or will, she turns to the elders of the Mark, who counsel that such dream-shadows must be understood rather than conquered, and take her under their guidance.

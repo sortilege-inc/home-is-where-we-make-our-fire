@@ -1,63 +1,51 @@
 # Chapter 3: Winter 2967
 
-*Book 7*
+*Nénimë 8, 2967*
 
-*Winter 2967*
+The days after Brynja's celebration passed in quiet contentment. Winter's grip began to ease, and Edoras turned its mind to the mending and readying that the turning seasons asked. For Celenneth and Linnea it was a time of taking root — of learning not only the ways of Rohan but the songs handed down through its generations.
 
-The days following Brynja’s celebration were marked by a quiet sense of contentment in the household. Winter’s grip began to loosen, and the people of Edoras turned their minds to the tasks of rebuilding and preparing for the seasons ahead. For Linnea and Celenneth, it was a time of integration—a time to learn not only the ways of Rohan but the songs that had been passed down through generations.
+It was Freowyn who first pressed it, humming over the hearth one evening as she kneaded dough. "If you're to live among us, you should learn our songs. They're more than music — they're our history, our stories, the heart of who we are."
 
-It was Freowyn who first suggested it, her voice lilting as she hummed a melody while tending the hearth. “If you’re to live among us,” she said one evening, her hands busy kneading dough, “you should learn our songs. They’re more than just music; they’re history, stories, and the heart of who we are.”
+Brynja took to it first, her small voice mimicking snatches of a Rohirrim lullaby. Linnea hung back, and later, helping Celenneth string bows, confided her hesitation. "I feel like I'm intruding. The songs of Rohan belong to its people. Who am I to take them for my own?"
 
-Brynja was the first to take an interest, her small voice mimicking Freowyn’s as she sang snippets of a Rohirrim lullaby. Linnea, however, hesitated. She stood back, watching as Freowyn guided Brynja’s attempts at the melody. Later that evening, she confided her reservations to Celenneth.
+Celenneth tilted her head. "And yet you sing the songs of Bree, far from Bree. You carry them because they're part of you. Why not let the songs of Rohan be part of what we're becoming?"
 
-“I feel like I’m intruding,” Linnea admitted, her voice quiet as she helped Celenneth string bows. “The songs of Rohan belong to its people. Who am I to take them as my own?”
+Linnea's hands stilled. "I hadn't thought of it that way."
 
-Celenneth tilted her head, her expression thoughtful. “And yet you sing the songs of Bree, even when you’re far from home. You bring them with you because they’re part of who you are. Why not let the songs of Rohan be part of who we’re becoming?”
+"Then try. No one asks you to claim them. But singing them doesn't take from their meaning. It adds to it."
 
-Linnea’s fingers stilled. “I hadn’t thought of it that way.”
+The next day Freowyn gathered a small circle in the hall — Celenneth and Linnea among them, and a few of the neighboring families. She began with the tale of Eorl the Young and the founding of Rohan, her voice ringing clear, weaving the words with such feeling that even Celenneth leaned forward, tapping the rhythm on her knee. "Now," Freowyn said as the last note faded, "your turn."
 
-“Then try,” Celenneth said, her tone gentle. “No one here expects you to claim them as your own. But singing them doesn’t take away from their meaning. It adds to it.”
+Linnea hesitated, then took a breath and gave a Bree ballad of a cunning fox that outwitted its hunters. Tentative at first, she found her feet as the room quieted in appreciation, and the Rohirrim laughed aloud at the clever ending, and Brynja clapped to hear her mother's voice rise above the hall. When Celenneth's turn came she hesitated for a different reason — the song in her chest was an old Northern one, of the Númenóreans risen to greatness and fallen to ruin, and it felt almost too sacred to spend. But Linnea's encouraging smile decided her. Her voice went low and steady, and the melody was a haunting thing, and for a moment the whole room fell silent under the weight of it, and when it ended even Freowyn seemed at a loss, her eyes bright.
 
-The next day, Freowyn gathered a small group in the hall, including Celenneth, Linnea, and a few other families from the nearby homes. The session began with Freowyn’s voice rising in a clear, ringing tone as she sang the tale of Eorl the Young and the founding of Rohan. Her voice wove the words with such emotion that even Celenneth found herself leaning forward, her fingers tapping rhythmically on her knee.
+"You've brought us something rare," Freowyn said after a moment. "But now you'll learn one of ours." They began with a simple children's tune of the swift horses of the Mark and the bond of rider and steed, and Brynja caught it faster than anyone, her voice high and clear, and Linnea's hesitance melted as the others drew her in, until the hall swelled with many voices woven together. As the days went on the lessons continued; Celenneth took to weaving her own Northern airs into the mix, her wariness giving way to a quiet pride, and one evening by the fire she caught herself humming a Rohirrim song under her breath.
 
-“Now,” Freowyn said, smiling as the last note faded, “it’s your turn.”
+Linnea glanced over, smiling. "It's growing on you."
 
-Linnea hesitated but was encouraged by Freowyn’s kind smile and the murmurs of reassurance from the others. Taking a deep breath, she began to sing a familiar Bree ballad about a cunning fox who outwitted hunters. Her voice was tentative at first, but as the room grew quiet in appreciation, she found her confidence. The Rohirrim listened attentively, their laughter ringing out at the clever ending. Brynja clapped her hands, delighted to see her mother’s voice rise above the room.
+Celenneth's eyes warmed. "Perhaps. But only because it's ours now, too."
 
-When Celenneth’s turn came, she hesitated for a different reason. Her fingers brushed the edge of her cloak, her gaze flicking to Linnea. She debated whether to share a song from the North that had been passed down through her people—a tale of the Númenóreans from an age long past. The story felt sacred, its weight heavy in her chest. But Linnea’s encouraging smile gave her the courage to begin.
+⁂
 
-Her voice was low and steady as she sang of a people who had risen to greatness and fallen to ruin, their deeds written in the stars above. The melody was haunting, and for a moment, the room fell utterly silent, the weight of the song settling over them like a blanket of starlight. When the last note faded, even Freowyn seemed at a loss for words, her eyes glistening.
+Linnea stood at the crest of the hill, the thin winter sun throwing long shadows over the snow, while a few steps off Celenneth crouched lashing a sled together for Brynja. The child stomped about in boots a size too big, a small bundle of energy against the white.
 
-“You’ve brought something special to us,” Freowyn said warmly after a moment. “But now it’s time you learn one of ours.”
+"You can't just pull her down a hill and call it parenting," Linnea said, arms crossed against the cold.
 
-They began with a simple melody, one often sung to children about the swift horses of the Mark and the bond between rider and steed. Brynja’s voice rose high and clear as she picked up the tune faster than anyone else. Linnea’s hesitancy melted away as Freowyn encouraged her to join in, and soon her voice blended with the others. Slowly, the room filled with the sound of many voices, each adding their own tone to the song until it swelled and echoed through the hall.
+Celenneth looked up, brow furrowing. "She asked for a sled ride. I'm giving her one. What's wrong with that?"
 
-As the days passed, the lessons continued. Celenneth found herself weaving some of her own Northern melodies into the mix, her initial hesitation replaced with a quiet pride. Linnea’s voice grew stronger, her ballads from Bree adding a lighthearted charm, and Brynja’s enthusiasm kept everyone laughing.
+"What's wrong," Linnea said, stepping closer, low and heated, "is that there's more to raising her than playing the hero. A few games in the snow don't make up for how long you were gone."
 
-One evening, as the family sat by the fire, Celenneth began humming one of the Rohirrim songs under her breath. Linnea glanced at her with a smile. “It’s growing on you, isn’t it?”
+The words struck deep. Celenneth straightened, the rope still in her hands, her jaw setting. "I'm doing what I can, Linnea. I came back. I'm here now."
 
-Celenneth chuckled, her eyes warm. “Perhaps. But only because it’s ours now, too.”
+"And still not fully here." Linnea gestured at Brynja, blithely unaware of them. "You think showing up means all's well? That she doesn't feel how little she knows you anymore?"
 
-Linnea stood at the edge of the hill, the thin winter sun casting long shadows over the snow-covered ground. Celenneth crouched a few steps away, her hands busy tying a sled together for Brynja. The child laughed as she stomped around in her too-big boots, a little bundle of energy against the stark white.
+Celenneth set the rope down and stepped toward her, steady but frustrated. "I'm trying. Maybe not perfectly, maybe not the way you'd have it — but I'm trying. Would you rather I didn't?"
 
-“You can’t just pull her down the hill and call it parenting,” Linnea said sharply, arms crossed against the cold.
+Linnea's face softened, though her shoulders stayed stiff. "I just need you to be careful. Not only with her — with us. You come back into our lives like a storm, and when you go, we're the ones left to gather up the pieces."
 
-Celenneth glanced up, her brow furrowing. “She asked for a sled ride. I’m giving her one. What’s wrong with that?”
+Celenneth's mouth opened to answer — but Brynja's voice cut across them. "Mama! Go now?"
 
-“What’s wrong,” Linnea said, stepping closer, her voice low but heated, “There’s more to raising a child than playing at being her hero. A few games in the snow does not make up for how long you’ve been gone.”
+Celenneth turned, and gave the child a smile that did not quite reach her eyes. "Almost, little one. A moment."
 
-The words struck deep, but Celenneth’s jaw set as she straightened, the rope still in her hands. “I’m doing what I can, Linnea. I came back. I’m here now.”
+Linnea sighed, her breath clouding. "She loves you, Celenneth. So do I. But love doesn't excuse carelessness."
 
-“And yet you’re still not fully *here,*” Linnea snapped, gesturing toward Brynja, who was blissfully unaware of the tension between the adults. “You think showing up means everything’s fine? That she doesn’t notice how little you know her anymore?”
-
-Celenneth dropped the rope and took a step toward Linnea, her voice steady but tinged with frustration. “I’m trying, Linnea. Maybe not perfectly, maybe not how you want, but I’m trying. Would you rather I didn’t?”
-
-Linnea’s expression softened for a moment, but her shoulders stayed stiff. “I just need you to be careful. Not just with Brynja, but with *us.* You crash back into our lives like a storm, and when you leave, we’re the ones who have to pick up the pieces.”
-
-Celenneth’s mouth opened as if to reply, but Brynja called out then, her little voice breaking the tension. “Mama! Are you ready?”
-
-Celenneth turned, giving the child a smile that didn’t quite reach her eyes. “Almost, Brynja. Just a moment.”
-
-Linnea sighed, her breath visible in the cold air. “She loves you, Celenneth. And so do I. But love doesn’t excuse carelessness.”
-
-Celenneth nodded in acquiescence. “You’re right. I’m sorry.” She hugged Linnea, who embraced her in return, and then turned back to Brynja. “Get ready to go fast!”
+Celenneth bowed her head. "You're right. I'm sorry." She drew Linnea into her arms, and Linnea held her back — and then she turned to the child, and the shadow lifted from her voice. "Ready to go fast?"

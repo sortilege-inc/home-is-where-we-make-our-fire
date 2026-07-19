@@ -1,85 +1,73 @@
 # Chapter 8: Spring 2968
 
-*Book 7*
+*Víressë 12, 2968*
 
-*Spring 2968*
+The training field hummed as Linnea pressed her thighs to her horse's flanks and urged it to a canter, the Rohirrim spurring forward all around her, hooves thunderous, a stout wooden target waiting ahead. She leaned low, the wind tugging her hair, her heart pounding in time with the drum of hooves, and loosed her arm — and the spear-tip met wood with a sharp splintering crack. She shouted in triumph and wheeled back toward the line, where Garin galloped up grinning.
 
-The training field hummed with energy as Linnea pressed her thighs against her horse’s flanks and urged it into a canter. All around her, the Rohirrim spurred their mounts forward, hooves thunderous against the earth. A stout wooden target stood ahead, waiting for her spear’s strike.
+"Not bad," Garin teased, "for someone who's spent more of her life on her feet than in a saddle."
 
-She leaned low, wind tugging her hair, heart pounding in time with the drumbeat of hooves. As she let her arm fly, the spear’s tip met wood with a sharp, splintering crack. Linnea shouted in triumph, guiding her horse back toward the line of onlookers. Garin approached at a gallop, grinning broadly.
+Linnea laughed, flushed. "I'm getting the hang of it. Though I'll always love a sword's hilt better."
 
-“Not bad,” Garin teased, her laughter bright. “For someone who’s spent more time on her feet than in a saddle.”
+"Give it time," Garin said, real pride in her face. "You've a fighter's spirit. That's half the battle won." They rode together again, side by side, Linnea steadier with each pass, buoyed by the company of these people who met every challenge head-on. By day's end her arms ached and her legs shook and her lungs drew the crisp air deep — tired, sore, and wholly alive. She swung down and stroked her horse's neck, murmuring thanks, and looked out past the fields to where her thoughts always went: to Celenneth and Brynja, and the future of safety and strength she was building toward, one honed skill at a time.
 
-Linnea laughed, her cheeks flushed with exertion. “I’m getting the hang of it,” she replied, adjusting her hold on the spear. “Though I’ll always favor the feel of a sword’s hilt.”
+⁂
 
-“Give it time,” Garin said, sincere pride lining her features. “You’ve got a fighter’s spirit, and that’s half the battle won.”
+That evening the hall was warm with good spirits, and Celenneth held the room. She stood by the long table, aglow, her voice carrying easily over the rumble of talk. "So there I was," she began, auburn hair catching the firelight as she spread her arms, "clinging to a sheer cliff, the wind shrieking in my ears — and one miserable little root between me and a very long fall." She pinched thumb and forefinger to show how scrawny it was, and the riders leaned in.
 
-They rode together again, side by side, Linnea growing steadier with each pass. The camaraderie of the Rohirrim lifted her spirits—these were people who embraced challenge and met it head-on. By the day’s end, her arms ached, her legs trembled, and her lungs drew crisp, invigorating air. She was tired, sore, and utterly alive.
+"You didn't fall?" a young one breathed.
 
-As the sun dipped behind the distant hills, Linnea dismounted and stroked her horse’s neck, murmuring her thanks. She gazed beyond the fields, her thoughts drifting to Celenneth and Brynja. Every effort made here, every skill honed, felt like a step toward a future of safety and strength—for herself and for the family waiting at home.
+"Not that time. But just as I lunged for the ledge, the root tore free. For a heartbeat I dangled there, thinking that was the end of me." She let the silence stretch until the fire's crackle was the loudest thing in the hall.
 
-The hall hummed with warmth and good spirits, light glinting off wooden beams as Celenneth held her audience captive. She stood by the long table, face aglow, her voice carrying easily above the steady rumble of conversation. At her feet, the fire cast leaping shadows, and on every side, curious eyes followed her every gesture.
+"Then what?" Garin demanded, and pulled everyone tighter into the lamplight.
 
-“So there I was,” she began, auburn hair catching the firelight as she spread her arms wide, “clinging to a sheer cliff face with the wind shrieking in my ears. Only one miserable little root stood between me and a very long fall.” She pinched her thumb and forefinger together to show just how scrawny it was. The riders leaned in, a chorus of disbelieving murmurs and half-smiles sparking among them.
+Celenneth clapped her hands together. "Out of the storm a hawk stooped down, shrieking — and startled a poor goat grazing above me. The creature bolted, kicking loose a scatter of stones that shifted my saddlebags and gave my rope just enough of a pull — and I hauled myself up." She ended in a flourish, and laughter and cheers filled the hall, tankards thumping the boards.
 
-“You didn’t fall?” asked one of the younger men, voice hushed and eyes shining.
+"Only you, Celenneth," a rider called through his guffaw, "would live thanks to a panicked goat."
 
-Celenneth’s grin flashed. “Not that time, at least. But just as I lunged for the ledge, the root tore free. For a heartbeat, I dangled there, thinking this was it.” She paused, letting the tension build, so quiet now that the crackle of the fire and the clink of a mug were the only sounds.
+She raised her mug. "Never underestimate the resourcefulness of desperate livestock."
 
-“Then what?” Garin cut through the silence, impatience pulling everyone tighter into the circle of lamplight.
+From a quieter corner Linnea watched, admiring — and, if she was honest, envying a little — how easily Celenneth lit a room, how every eye danced with the reflection of her smile. When the riders begged another tale, Linnea let the corner of her mouth quirk. "I'll grant her this," she murmured to the older rider beside her, "she spins a story well enough."
 
-Celenneth slapped her hands together. “Out of nowhere, a hawk stooped out of the storm, shrieking overhead. Startled a poor goat grazing above me. The frightened creature scrambled, kicking loose stones and shifting my saddlebags. It gave my rope just enough pull, and I heaved myself up!” Her words ended in a triumphant flourish.
+The woman nudged her, knowing. "You might as well just tell her you're proud. It's already written on your face."
 
-A burst of laughter and cheers filled the hall, tankards thumping the wooden boards. One rider’s hearty guffaw sent his ale sloshing over the rim, and as he wiped at the spill, he called, “Only you, Celenneth, would survive thanks to a panicked goat!”
+Linnea looked away, feigning indifference — and then leaned in despite herself as Celenneth launched into the next tale, of a flooded river and a half-drowned packhorse. She'd never hear the end of it if she said so aloud; but there was no denying it was a splendid tale.
 
-Celenneth raised her mug, eyebrows arched in good humor. “Never underestimate the resourcefulness of desperate livestock!”
+⁂
 
-From a quieter corner by the fire, Linnea watched the scene unfold. She admired, and envied, how easily Celenneth lit up the room, how each listener’s eyes danced with the reflection of her smile.
+Sunlight lay soft across the floors the next day as Celenneth stood at the small table carving careful slices from a bright red apple. Linnea watched from the doorway, half-amused, half-fond, as her partner mangled the fruit; from the next room Brynja's laughter rose and fell with Freowyn's. For once it was just the two of them in the kitchen, the world shrunk to a warm bubble.
 
-The riders begged for another story, their voices mingling into a single request. Linnea allowed the corner of her mouth to quirk upward, just slightly. “I’ll grant her this,” she murmured to the older rider beside her, “she can spin a tale well enough.”
+"You really do butcher that fruit," Linnea teased, coming to take a crooked slice. "How did you ever survive alone? I'd have thought you'd starve."
 
-The woman offered a knowing nudge. “You might as well tell her you’re proud, my friend. It’s already written on your face.”
+Celenneth popped a piece in her mouth, grinning. "Surviving was never about clean cuts. It's about stubbornness."
 
-Linnea looked away, pretending indifference. Yet as Celenneth launched into the next story—an escapade involving a flooded river and a half-drowned packhorse—Linnea found herself leaning in. She’d never hear the end of it if she admitted it aloud, but there was no denying it: it really was a splendid tale.
+Linnea rolled her eyes and took the knife. "Give it here." Under her sure hands even the simple task turned graceful, and Celenneth watched her, softening. "You're good at this."
 
-Sunlight spilled softly across the wooden floors, warming the quiet corners of their home as Celenneth stood at the small table, carving careful slices from a bright red apple. Leaning in the doorway, Linnea observed her partner’s clumsy cuts with half-amused, half-fond eyes. From the other room, Brynja’s gentle laughter rose and fell, as she and Freowyn turned their simple play into small, joyful music. For once, it was just the two of them here in the kitchen, the world shrunk to a warm, private bubble.
+"Someone has to be." Linnea offered her a perfect slice. "Try not to choke."
 
-“You really do butcher that fruit,” Linnea teased as she stepped forward, picking up a crooked slice. “How did you ever survive on your own? I’d think you’d have starved.”
+But what began light turned, as such talks did lately, toward the one thing they could not settle. Celenneth paced, her voice rising. "You can't shield her from everything. She needs to understand the dangers out there — to learn to stand on her own feet."
 
-A grin tugged at Celenneth’s lips as she popped a piece into her mouth. “Surviving’s never been about perfect cuts,” she said, chewing thoughtfully. “It’s about stubbornness.”
+"She's a child!" Linnea's voice cracked, fear and anger braided in it. "She doesn't need a sword in her hand before she can write her name."
 
-Linnea rolled her eyes in mock exasperation. “Oh, give it here.” She took the knife and began slicing with quiet efficiency. Under her sure hands, even the simplest task became something graceful. Celenneth watched, her expression softening.
+Celenneth halted, frustration in her face. "I'm not asking her to fight. I only want her ready. What if—"
 
-“You’re good at this,” she said, voice low.
+"What if she turns out like you?" The words were out before Linnea could catch them, and she regretted them the instant she saw the hurt spark in Celenneth's eyes.
 
-“Someone has to be,” Linnea replied, lips curving in a faint smile as she offered Celenneth a perfectly even slice. “Go on, try not to choke.”
+Celenneth stepped back, all the heat gone out of her. "I see. I push too hard."
 
-What began as a practical discussion had turned sharp-edged. Celenneth paced the small space, voice rising, while Linnea stood anchored in place, arms crossed and face set.
+Linnea closed the distance, her stance softening. "I'm sorry," she said, thick with remorse. "You're not wrong. I just can't bear the thought of her losing her childhood to our fears."
 
-“You can’t keep protecting her from everything,” Celenneth insisted, a note of urgency tightening her words. “She needs to understand the dangers out there, learn how to stand on her own two feet.”
+"I don't want that either," Celenneth said, quieter. "I only want her safe."
 
-“She’s a child!” Linnea’s voice cracked like a whip, anger and fear braided together. “She doesn’t need a sword in her hand before she can even write her name!”
+For a moment the tension hung — then Linnea reached for her hand. "We'll find the way. Together."
 
-Celenneth halted, meeting Linnea’s gaze, frustration etched in her features. “I’m not forcing her to fight. I just want her to be prepared. What if—”
+⁂
 
-“What if she turns out like you?” Linnea’s voice broke mid-sentence. She regretted it the instant she saw the hurt spark in Celenneth’s eyes.
+That night the firelight lay low and golden, and Linnea sat by the hearth mending a piece of Brynja's clothing, her hair loose around her shoulders. Celenneth lingered in the doorway, her eyes tracing every line of her.
 
-Celenneth stepped back, all heat drained from the argument. “I see,” she said, voice subdued. “I push too hard, and—”
+"You're beautiful," she said, barely a breath.
 
-Linnea closed the distance, her stance softening. “I’m sorry,” she murmured, words thick with remorse. “You’re not wrong. I just…can’t bear the thought of her losing her childhood to our fears.”
+Linnea looked up, coloring. "For a ranger, you're no good at sneaking around quietly." She set the sewing aside.
 
-Celenneth turned slowly, tired eyes meeting Linnea’s. “I don’t want that either,” she said, quieter now. “I just want her safe.”
+Celenneth crossed and knelt beside her, taking her hand. "I mean it. I've been away too much of late. And every time I come back, seeing you is like coming home."
 
-For a moment, the tension held. Then Linnea reached for her hand, a tentative olive branch. “We’ll figure it out,” she promised softly. “Together.”
-
-The firelight danced low and golden, its warmth embracing the quiet room. Linnea sat near the hearth, needle and thread in hand, mending a piece of Brynja’s clothing. Her hair fell loose around her shoulders, catching the glow as Celenneth lingered in the doorway, eyes tracing every gentle line of Linnea’s profile.
-
-“You’re beautiful,” Celenneth said, barely more than a breath.
-
-Linnea looked up, blushing. “You know, for a ranger, you’re no good at sneaking around silently,” she teased, setting aside her sewing.
-
-Celenneth closed the distance and knelt beside her, taking Linnea’s hand. “I mean it,” she said, voice hushed. “I’ve been away too often lately, and every time I return, seeing you is like coming home.”
-
-Linnea’s eyes glimmered as she leaned forward, resting her forehead against Celenneth’s. “You’re my home, too,” she whispered, words carrying all the intimacy of a secret vow.
-
-They met in a tender kiss, each press of their lips banishing the world outside. The fire crackled softly, scents of pine and wool mingling as Linnea’s fingers tangled in Celenneth’s hair. In this moment, after so many nights apart, they found their way back to each other’s warmth, love rediscovered beneath the hush of starlight and flame.
+Linnea leaned her forehead to Celenneth's. "You're my home, too," she whispered, the words carrying all the weight of a vow. They met in a tender kiss, each press of their lips shutting out the world, the fire soft beside them and the scents of pine and wool mingling as Linnea's fingers tangled in Celenneth's hair — two people finding their way back to each other's warmth after too many nights apart.

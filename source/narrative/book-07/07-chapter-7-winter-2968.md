@@ -1,55 +1,41 @@
 # Chapter 7: Winter 2968
 
-*Book 7*
+*Nénimë 10, 2968*
 
-*Winter 2968*
+Through the long frigid nights, Celenneth and Linnea and Brynja would settle by the fire, wrapped in thick furs against the cold, the flames throwing their shifting light on the walls of the small home. These evenings became a kind of sanctuary, a time for closeness.
 
-During the long, frigid nights of winter, Celenneth, Linnea, and Brynja would settle by the fire, wrapped in thick furs that shielded them from the cold. The flames crackled and danced, their warm light painting flickering shadows on the walls of their small home. These evenings became a sanctuary, a time for closeness and connection.
+Celenneth often took the lead, her voice low and steady as she spun tales of the rangers and their endless watch — of her younger sister, and of far lands she had crossed in her youth. Her words carried the weight of years, and yet came easy in the warmth of the hearth, her gaze drifting to the fire as she spoke, somewhere between memory and the present. Linnea sat close, her head on Celenneth's shoulder, sensing the love and loss woven under the stories, the truths that never quite surfaced; now and then she asked a soft question or laughed low, and in her steady presence Celenneth found herself sharing pieces she rarely showed. Brynja nestled between them clutching a small wooden carving, wide-eyed at each tale's beginning — though more often than not the rhythm of Celenneth's voice and the warmth of them lulled her to sleep.
 
-Celenneth often took the lead, her voice low and steady as she spun tales of the rangers and their endless watch. She spoke of her younger sister, her laughter like a summer breeze, and of distant lands she had traveled through in her youth. Her words carried the weight of years, and yet they flowed easily in the intimate warmth of their hearth. Her gaze often drifted to the fire as she spoke, her thoughts somewhere between memory and the present.
+"Do you think the stars truly guide us?" Linnea asked one evening, as a tale of the Northern skies ended.
 
-Linnea sat beside her, listening intently. Her head rested lightly on Celenneth’s shoulder, her expression a mix of curiosity and quiet reverence. She could sense the love and loss woven into Celenneth’s stories, the unspoken truths that lingered beneath the surface. Occasionally, Linnea would chime in with a question or a soft laugh, drawing Celenneth further into the telling. There was a steadiness to Linnea’s presence, a silent encouragement that allowed Celenneth to share parts of herself she rarely revealed.
+Celenneth's gaze lingered on the fire. "I think they remind us where we come from, and where we're going. Whether they guide us or not, they're always there. Watching over us."
 
-Brynja, nestled between them, clutched a small wooden carving in her hands, her eyes wide with wonder as she listened to the beginning of each story. But more often than not, the rhythm of Celenneth’s voice and the gentle warmth of their embrace lulled her to sleep. Her small body would relax against them, her breaths slow and even as she dreamed.
+Linnea smiled, her fingers brushing Brynja's hair. "Perhaps that's enough."
 
-“Do you think the stars truly guide us?” Linnea asked one evening, her voice soft and thoughtful as Celenneth finished a tale of the Northern skies.
+The nights fell into a ritual after that. Linnea told simple tales of Bree — cunning animals and busy markets that set Brynja giggling before she dozed — and Celenneth wove in her own of bravery and sorrow, steady even when the memories cut. One night Linnea told of her own losing: of leaving Bree behind, and the lively, mischievous cousins who had taught her the market songs and the secrets of the woods outside the village. Her voice softened as she owned how she missed them, the ache of it sharper each passing year. "Someday," she murmured, "I'd like to go back. It's been so long, and it hurts to think how much I've missed."
 
-Celenneth’s gaze lingered on the fire before she replied. “I think they remind us where we come from and where we’re going. Whether they guide us or not, they’re always there, watching over us.”
+Celenneth listened with the same care Linnea had always shown her. "It is hard to be far from those you love," she said when Linnea finished, her hand finding hers. "And I've no doubt they'd delight to see you again."
 
-Linnea smiled faintly, her fingers brushing against Brynja’s hair. “Perhaps that’s enough.”
+Linnea's smile was small and warm. "Not something we need do at once. But before Brynja gets too big."
 
-As the nights passed, these moments became a ritual. Linnea shared tales of Bree, simple stories of cunning animals and bustling markets that made Brynja giggle before she dozed. Celenneth would weave in her own tales of bravery and sorrow, her voice steady even when the memories carried pain. The firelight and their closeness made it easier to speak of things otherwise left unsaid.
+The fire settled, and Brynja shifted closer in her sleep, and Celenneth's arm wrapped around them both. Outside the world was cold and uncertain; within these walls there was something that would not be shaken — a family, and the strength to face what came.
 
-One night, Linnea ventured a story of her own struggles—of losing her home in Bree and finding her way in the wider world. She spoke of her cousins, lively and mischievous, who had taught her the songs of the market and the secrets of the woods outside the village. Her voice softened as she admitted how much she missed them, the pang of homesickness growing stronger with each passing year.
+⁂
 
-“Someday,” she murmured, her gaze drifting to the fire, “I’d like to go back. It’s been so long since I’ve seen them, and it hurts to think of how much I’ve missed.”
+A hush lay over the plains the morning the season's first snow softened every edge with white. Brynja all but danced at the town's edge, her mittened hand tugging Celenneth on, her laughter bright against the quiet.
 
-Celenneth listened with the same attentiveness Linnea had always shown her.
+"Mama — go see!" she cried, pointing at a little stand of trees ahead.
 
-“It is hard to be far from those you care about,” Celenneth said quietly when Linnea finished. Her hand found Linnea’s, their fingers intertwining. “And yet, I am certain that they would delight to see you again.”
+Celenneth smiled and snugged the cloak's collar around her daughter's rosy cheeks. "All right, little one. Mind your step — the ice is tricky underfoot." They went into the grove where the branches stood bare and frost-etched, and Brynja scampered ahead, boots crunching, and dropped to her knees over a frozen puddle, breath clouding its surface. "Look! Like glass!"
 
-Linnea’s smile was small but filled with warmth. “It's not something we need to do immediately. But before Brynja gets too big.”
+Celenneth crouched beside her and rested a gloved hand on the ice. "It is. But careful — ice is as slippery as it's pretty."
 
-The fire crackled softly as Brynja stirred in her sleep, shifting closer to Linnea’s lap. Celenneth’s arm wrapped around them both, her voice soft as she began another story. The world outside their home was cold and uncertain, but within these walls, surrounded by warmth and the sound of their voices, they found something unshakable—a sense of family, and the strength to face whatever came next.
+Brynja brushed the snow aside to peer deeper. "Fish inside? Like the story?"
 
-A gentle hush lay over the plains outside Edoras as the season’s first snowfall softened every edge with white. Brynja all but danced at the town’s border, her mittened hand tugging Celenneth forward. Her laughter rose like tiny bells, bright against the quiet winter world.
+"They're sleeping now," Celenneth said, tilting her head, "waiting for spring to free them. They hide under the ice — patient, and wise."
 
-“Mama, please—let’s go see!” she cried, pointing eagerly to the small thicket of trees ahead.
+Brynja looked up, her whole trust in her face. "You know lots, Mama."
 
-Celenneth smiled, pulling the cloak’s collar snug around her daughter’s rosy cheeks. “All right, little one, but mind your step. The ice is tricky underfoot.”
+Celenneth drew her close and kissed her brow. "Not everything, my love. Just enough to keep you safe."
 
-They ventured into the grove where branches stood bare, etched in frost and shimmering in the pale sunlight. Brynja scampered ahead, her boots crunching over fresh snow. Celenneth followed more slowly, but no less willingly, warmed by Brynja’s delight in a way no hearth could match.
-
-“Look!” Brynja knelt over a frozen puddle, her breath clouding its surface. “It’s like glass!”
-
-Celenneth joined her, resting a gloved hand lightly on the ice. “It is,” she agreed softly. “But be careful—ice can be as slippery as it is pretty.”
-
-Brynja’s eyes shone, her small hands brushing snow aside to peer deeper. “Do you think there are fish inside? Like in the stories?”
-
-Celenneth tilted her head and smiled. “They’re sleeping now, waiting for spring’s warmth to free them. They hide beneath the ice, patient and wise.”
-
-Brynja looked up, her gaze full of trust. “You know so much, Mama.”
-
-Celenneth drew her close, pressing a gentle kiss to her brow. “Not everything, my love. Just enough to keep you safe.”
-
-As the afternoon light began to fade, they turned back to Edoras. Brynja carried a small crooked stick she’d christened her “magic wand.” Celenneth felt her heart grow lighter with every snowy step, grateful for this quiet adventure and the soft bond that guided them home.
+As the light faded they turned back for Edoras, Brynja bearing a crooked stick she had named her wand, and Celenneth felt her heart grow lighter with every snowy step, warmed by the small adventure more than any hearth could have managed.

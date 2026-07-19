@@ -1,43 +1,39 @@
-# Chapter 12: Elrond’s Missive
-
-*Book 7*
+# Chapter 12: Elrond's Missive
 
 *Súlimë 3, 2969*
 
-The pale winter sun hung low on the horizon when the messenger appeared, a shadow against the frost-dusted road. His gray cloak rippled in the crisp breeze, blending almost seamlessly with the muted landscape. Celenneth spotted him first, her sharp eyes narrowing as she took in the rider’s swift, lean horse and the elegant tack that marked it as coming from Rivendell.
+The pale sun hung low over a road still dusted with late frost when the messenger appeared — a grey shape against the muted land, his cloak rippling, near seamless with the winter-worn country. Celenneth marked him first, her eyes narrowing at the lean, swift horse and the elegant tack that spoke of Rivendell. The Elf dismounted with a fluid, almost too-smooth grace, his gaze sweeping the small homestead, and the folk near the stable paused their work to watch the unlooked-for arrival.
 
-The elf dismounted with fluid grace, his movements almost too smooth for mortal eyes, and his gaze swept over the small homestead with an air of quiet precision. The gathering of people near the stable paused their tasks, curiosity tugging their attention to the unexpected arrival.
+"Celenneth of the Dúnedain?" he asked, his voice resonant even in its formality.
 
-“Celenneth of the Dúnedain?” the elf asked, his voice resonant and melodic even in its formality.
+She stepped forward, straight-backed, her auburn hair tied but tousled from the day's work. "I am she."
 
-Celenneth stepped forward, her posture straight, her auburn hair tied back but tousled from the day’s work. “I am she,” she answered, her tone calm but edged with curiosity.
+The Elf inclined his head and drew a cylindrical case from his saddlebag — dark wood inlaid with fine silver filigree, unmistakably Rivendell's work. "This missive comes from Lord Elrond. For your eyes alone."
 
-The elf inclined his head, drawing a cylindrical case from his saddlebag. It was a masterwork of Rivendell—dark wood inlaid with intricate silver filigree, the craftsmanship unmistakable. “This missive comes from Lord Elrond. It is for your eyes alone.”
+Surprise flickered across Celenneth's face before her reserve closed over it. She took the case and inclined her head. "You've come far. Will you not rest before your return?"
 
-Celenneth’s expression flickered briefly with surprise before she masked it behind her practiced reserve. Taking the case, she inclined her head in acknowledgment. “You’ve traveled far. Would you not rest before your return?”
+His lips curved faintly, his gaze flicking once to Linnea, who lingered a few steps behind, her hands tucked in her cloak, quietly watchful. "Your offer is generous, but my errand allows no delay. I bid you well." And without another word he mounted and turned toward the horizon and rode off as swiftly as he had come.
 
-The elf’s lips curved faintly, a smile touched with the subtle grace of his kind. His gaze flicked momentarily to Linnea, who lingered a few steps behind Celenneth, her hands tucked into her cloak and her expression quietly watchful. “Your offer is generous, but my errand allows no delay. I bid you well.”
+Celenneth watched him go, the case heavier in her hands than its size warranted.
 
-Without another word, the elf mounted his steed and turned it toward the horizon, riding away with the same swiftness with which he had arrived. Celenneth watched him go, the case in her hands feeling heavier than its size warranted.
+"What is it?" Linnea asked, stepping closer, wariness beneath the curiosity.
 
-“What is it?” Linnea asked, stepping closer. Her voice held an edge of wariness beneath her curiosity.
+Celenneth traced the smooth surface. "Something of weight, if it comes from Rivendell." She was already working it open. Within lay a single folded parchment, its edges finely scripted, sealed with Elrond's crest. She broke the wax and unfolded it, her eyes moving over the page, her focus deepening to a slow furrow.
 
-Celenneth’s fingers traced the smooth surface of the case. “Something significant, if it comes from Rivendell,” she said, already working to unseal it.
+"Celenneth?"
 
-Within was a single folded parchment, its edges adorned with elegant script and sealed with Elrond’s crest. She hesitated briefly, then broke the wax seal and unfolded the letter. Her eyes scanned the page, her expression shifting from sharp focus to a slow furrow of her brow.
+She let out a measured breath. "A summons," she said at last. "Elrond asks me to come to Rivendell. He writes of troubling movements in the east."
 
-“Celenneth?” Linnea’s voice softened, sensing the shift in her companion’s demeanor.
+Linnea's frown deepened. "Movements? What does he mean? Are you leaving?"
 
-Celenneth let out a measured breath, her fingers tightening on the parchment. “It’s a summons,” she said at last. “Elrond requests my presence in Rivendell. He writes of troubling movements in the east.”
+Celenneth met her gaze, a flicker of uncertainty in her own. "I don't know yet. But Elrond doesn't call without cause. I'll need time to think on it."
 
-Linnea’s frown deepened. “Movements? What does he mean? Are you leaving?”
+Linnea's jaw tightened. Her voice stayed steady, but it carried the weight of long familiarity. "You'll go."
 
-Celenneth turned to meet her gaze, a flicker of uncertainty in her eyes. “I don’t know yet. But if Elrond calls, it’s never without cause. I’ll need time to think on this.”
+"I haven't decided."
 
-Linnea’s jaw tightened. Her voice was steady, but her words carried the weight of familiarity. “You’ll go.”
+"You will," Linnea said quietly, a note of resignation in it as she turned back toward the house. "You always do."
 
-Celenneth tilted her head slightly, her gaze softening. “I haven’t decided.”
+Left alone in the cold, Celenneth stood a while with the letter in her hands, the wind tugging her cloak, the elegant script carrying its freight of duty. She had answered many summonses in her life, each one drawing her away from home toward the unknown. But this time, the thought of leaving sat heavier than it ever had.[^r-summons]
 
-“You will,” Linnea said quietly, a note of resignation in her tone as she turned and walked back toward the house. “You always do.”
-
-Left alone, Celenneth stood for a moment in the cold, the letter still in her hands. The wind picked up, tugging at her cloak, and she stared down at the elegant writing that carried with it the weight of duty. She had answered many summonses in her life, each one drawing her away from home and toward the unknown. But this time, the thought of leaving felt heavier than it ever had before.
+[^r-summons]: **Undertaking** — an Elf-messenger of Rivendell delivers a sealed summons: Lord Elrond calls Celenneth to Imladris, writing of troubling movements in the east. The call that will draw the family north — and open the next road.
