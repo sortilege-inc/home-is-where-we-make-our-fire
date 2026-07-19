@@ -176,9 +176,11 @@ canonical list when that book is resumed; the navigator is **not** "Isildur".
   Garin (a woman, rider of the Mark; her affection declined, gracefully); Orlen (Celenneth's past, now married to Maren).
 
 **Continuity-review queue** *(needs a working session, not a find-replace):*
-- **Book 9 cursed object:** a wooden **charm** (Ch3) vs. a metal **dagger** (Ch4). Ruling:
-  *both are cursed* — reconcile whether they are the same object or two, and make the text
-  consistent. **(Flagged for our continuity review.)**
+- **Book 9 cursed object — RESOLVED.** Linnea carries a wooden **charm** (of enslavement/
+  summoning), taken from the branded intruder in Ch3; that is *her* cursed object throughout.
+  The cursed **dagger** is Celenneth's, the rune-blade from **Fangorn** (Book 6) — there is no
+  separate second dagger. Ch4/Ch6's references to Linnea carrying a "dagger" were the error and
+  are corrected to the charm; the two cursed things (her charm, Celenneth's dagger) resonate.
 - The **Wyrmscale Sigil** relic (Book 9) and its through-line.
 - Any remaining date/season mismatches surfaced during the rewrite.
 
