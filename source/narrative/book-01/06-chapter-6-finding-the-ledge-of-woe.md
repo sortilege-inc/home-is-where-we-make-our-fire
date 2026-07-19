@@ -1,0 +1,21 @@
+# Chapter 6: Finding the Ledge of Woe
+
+*Book 1*
+
+*Súlìmë 28, 2965*
+
+The echo of footsteps resonated through the ancient halls of Moria as Celenneth and her new company made their way deeper into the heart of the dwarven kingdom. The goal was clear, though daunting: to find the Ledge of Woe, the place where they believed the prisoners were held. They could hear the faint cries echoing up from far below the chasm, but the way down remained elusive, the darkness of Moria offering no clear path.
+
+The first day of their journey took them through a maze of passages, the dwarves moving with a confidence born of familiarity with stone. It was Dagrin, her pipe smoke trailing behind her, who first spotted the forge—a modest one, not one of the mithril forges that Moria was famed for, but a proper dwarven forge nonetheless. Regan, with his keen eye for mechanisms, was able to get it working. The warmth of the forge fire was a welcome respite, its crackling flames a reminder of the dwarven spirit that refused to be extinguished.
+
+As they rested, Celenneth took the opportunity to learn more about her surroundings from her dwarven allies. She learned that the halls they had passed through earlier were known as the Halls of the Roadwarden, and that she had already seen the grandeur of the Second Hall as well as the Doors of Durin. She took care to memorize each new piece of knowledge, annotating her mental map of the complex chambers and tunnels.
+
+On the second day, they found themselves in a hall of records—a vast chamber carved entirely into the rock of the stone. But it was clear that the hall had suffered greatly; the walls were cracked, stone scattered across the floor, as if some immense force had shaken the very foundation of Moria. Regan was visibly distraught, his fingers tracing the broken edges of stone as he mourned the loss of so much dwarven history. Before they left, they marked the wall near the entrance, a small act to commemorate their passage.
+
+By the third day, the shadows had grown darker, and an oppressive sense of dread settled over the company. The deeper they went, the heavier the air seemed to become, the weight of the mountain pressing down upon them. The path narrowed, a sheer wall of rock rising on one side while the other dropped away into a seemingly endless chasm. As they made their way across, a sudden gust of air whooshed up from the depths below, snuffing out their torches. They were plunged into darkness, their breaths held as they painstakingly made their way across, step by careful step. The dread clung to them, each of them feeling the touch of shadow that lingered long after they reached the other side.
+
+On the fourth day, they kept up a good pace, but the journey was grueling. The passages twisted and turned, often leading them in circles, and they found themselves doubling back more than once. Fatigue began to set in, their bodies aching from the constant strain. It was late in the day when they finally emerged into a new chamber—an austere, solemn place that seemed to shine with an otherworldly light. The stonework was polished to a sheen, almost like glass, and the grandeur of the space suggested it had once been a forum, a place where dwarves had gathered for pronouncements or judgments. But now, it stood empty, the echoes of the past the only company they found there.
+
+The fifth day brought them to a series of flooded passages. The water was rank, a foul smell rising from the stagnant pools that filled the halls. Some of the passages were completely flooded, while others reached only to their hips, but the going was slow and the water was freezing. They trudged through, the chill seeping into their bones. In one of the chambers, they found what remained of an old wine cellar—barrels broken, their contents long gone, the wood charred as if the place had been raided and burned.
+
+Fatigue was wearing on them, their bodies heavy with exhaustion and their minds clouded with the effects of the Shadow. But despite the hardships, they pressed on. Somewhere ahead lay the Ledge of Woe, and the prisoners who needed them. And Celenneth knew, deep down, that they could not turn back—not now, not when they had come so far.
