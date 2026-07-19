@@ -1,31 +1,31 @@
 # Chapter 8: Scars
 
-*Book 8*
+*Víressë 26, 2969*
 
-*Víressë,  2969*
+Water sloshed softly in the tub as Linnea poured another cupful over Celenneth's hair, gentle and purposeful. Steam curled in the air, and the warmth soaked into them, a reprieve from the cool spring night; Linnea had insisted on helping her bathe, her hands careful as they worked the aches and the road's grime from Celenneth's body.
 
-The room was filled with the soft sound of water sloshing in the tub as Linnea poured another cupful over Celenneth’s hair, her touch gentle yet purposeful. Steam curled lazily in the air, and the warmth of the bath soaked into their skin, a reprieve from the cold outside. Linnea had insisted on helping her bathe, her hands careful as they worked to soothe the aches and dirt of the past weeks from Celenneth’s body.
+Running a cloth down her arm, Linnea paused over a faint, jagged scar on the inside of the forearm — old, its edges pale against tanned skin. "This one," she murmured. "I haven't seen it before."
 
-As she ran a cloth down Celenneth’s arm, Linnea paused, her fingers brushing over a faint, jagged scar hidden on the inside of her forearm. It was old, the edges pale against Celenneth’s tanned skin, but the story it told was still raw.
+Celenneth glanced at it, her expression going distant. "No. I don't show it often."
 
-“This one,” Linnea murmured, her voice quiet but curious. “I haven’t seen it before.”
+Linnea pressed a kiss to her shoulder. "Tell me. If you want to."
 
-Celenneth glanced at her arm, her expression softening into something distant. “No,” she said, her voice low. “I don’t show it often.”
+Celenneth leaned back, the water rippling around her. "It was a few years ago, in the Trollshaws," she began, steady but weighted with memory. "I'd been tracking a band of goblins raiding the outlying villages — not just stealing, but burning, killing without a thought. I couldn't let them go. I found their trail easily enough. What I didn't see was that they were expecting me. It wasn't a camp. It was an ambush. They surrounded me before I'd well reached it, too many to fight outright, so I did the only thing I could. I ran."
 
-Linnea pressed a kiss to her shoulder, her gaze warm and encouraging. “Tell me. If you want to.” Celenneth exhaled, leaning back slightly as the water rippled around her. “It was a few years ago, in the Trollshaws,” she began, her tone steady but tinged with the weight of memory. “I’d been tracking a band of goblins that had been raiding villages on the outskirts. They weren’t just stealing—they were burning, taking lives without a thought. I couldn’t let them go unchecked.”
+Her mouth twisted, wry. "Not my proudest hour. But the terrain was broken, and I knew I could lose them in the ravines."
 
-Linnea listened intently, her hands never ceasing their gentle work. “I found their trail easily enough,” Celenneth continued. “But what I didn’t realize was that they were expecting me. It wasn’t just a band of goblins—it was an ambush. I’d barely reached their camp when they surrounded me. There were too many to fight outright, so I did what I could—I ran.”
+"And the scar?"
 
-Her lips twisted into a faint, self-deprecating smile. “Not my proudest moment, but the terrain was treacherous, and I knew I could lose them in the ravines.” Linnea frowned, her grip on Celenneth’s arm tightening slightly. “And the scar?” “I misjudged a jump,” Celenneth said simply. “There was a narrow ledge, and I thought I could reach it, but my footing slipped. I fell hard—caught myself on a jagged rock. It sliced deep, and for a moment, I thought that was it. The goblins were closing in, and I was bleeding, half-dangling over the edge.”
+"I misjudged a jump. There was a narrow ledge — I thought I could reach it, but my footing slipped. I fell hard, caught myself on a jagged rock. It cut deep, and for a moment I thought that was the end of me — bleeding, half-hanging over the drop, the goblins closing in." Her gaze fixed on the rising steam. "I still don't know how I climbed out. Not strength — desperation. I reached the ledge, found a narrow cave, and hid there for hours, binding the arm as best I could. They searched, and moved on."
 
-Her voice grew quieter, her gaze fixed on the steam rising from the water. “I still don’t know how I managed to climb out. It wasn’t strength, not really. Just… desperation. I reached the ledge, found a narrow cave, and hid there for hours, wrapping my arm as best I could. They searched for me, but eventually, they moved on.”
+Linnea's thumb brushed the scar. "You were lucky."
 
-Linnea’s heart ached as she imagined Celenneth alone and bleeding in that dark cave. “You were lucky,” she said softly, her thumb brushing over the scar.
+"Luck, or stubbornness." Celenneth gave a faint laugh. "When I finally made it back to the village they didn't know me at first — half-starved, filthy, barely standing. But the goblins never raided them again. I saw to that."
 
-“Luck,” Celenneth said with a faint laugh, “or sheer stubbornness. When I finally made it back to the village, they didn’t recognize me at first. I was half-starved, dirty, and barely standing. But the goblins never raided them again. I made sure of that.”
+Linnea rested her forehead against Celenneth's temple. "You're too brave for your own good, you know that."
 
-Linnea leaned forward, resting her forehead against Celenneth’s temple. “You’re too brave for your own good, you know that?”
+"Or too reckless," Celenneth answered, her smile wry.
 
-“Or too reckless,” Celenneth replied, her smile wry.
+Linnea sighed, her lips brushing Celenneth's ear, and Celenneth turned her head to meet her gaze. "Thank you for the bath," she said softly. And Linnea pressed a kiss to the scar, as though sealing the old hurt over with her love.[^s-scar]
 
-Linnea sighed, her lips brushing Celenneth’s ear. Celenneth turned her head slightly, meeting Linnea’s gaze. “Thank you for the bath,” she said softly. Linnea pressed a kiss to the scar, as though sealing the memory with her love.
+[^s-scar]: **Scar** — the pale seam on Celenneth's inner forearm, from the Trollshaws goblin-ambush: cut on a jagged rock in a fall while breaking free of a trap. A permanent mark, and one of the oldest she carries.

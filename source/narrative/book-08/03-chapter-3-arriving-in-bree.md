@@ -1,55 +1,45 @@
 # Chapter 3: Arriving in Bree
 
-*Book 8*
-
 *Súlimë 30, 2969*
 
-The gates of Bree creaked open, and the familiar scent of damp earth and wood smoke rushed out to greet Linnea as if welcoming a long-lost child. She sat straight-backed on her Rohan mare, a green cloak draped over her shoulders, its edges rustling in the gentle breeze. At her side rode Celenneth, her auburn hair capturing the sunlight in fiery strands.
+The gates of Bree creaked open, and the familiar smell of damp earth and woodsmoke rushed out to meet Linnea like a welcome. She sat straight-backed on Eorlin, her green cloak stirring in the breeze, and beside her rode Celenneth, her auburn hair taking the sunlight in fiery strands. Brynja, three years old now, sat before Linnea and giggled each time the mare shifted beneath her, drinking in every sight and sound with an eagerness that drew smiles from even the busiest townsfolk.
 
-Brynja, now three years old, sat astride the mare before Linnea, giggling whenever the horse shifted beneath her small legs. The child looked about with wide, curious eyes, drinking in every sound and sight with an enthusiasm that drew smiles from even the busiest of townsfolk.
+"Here we are," Linnea said, bright. "Bree. Home sweet home."
 
-“Here we are,” Linnea said brightly, her gaze swinging back to Celenneth. “Bree. Home sweet home.”
+Celenneth chuckled — the mithril rings of her new armor glinting at her collar beneath the ranger cloak. Less taken than Linnea by the old town's rustic charms, she was warmed all the same by her partner's plain delight. "You speak of it like a kingdom," she teased.
 
-Celenneth let out a quiet chuckle. Her armor—mithril rings glinting at the collar—peeked from beneath her own ranger cloak. Though not as impressed by the old town’s rustic charms as Linnea, Celenneth found herself warmed by her partner’s obvious delight. “You speak of it as if it’s a kingdom,” she teased, voice light.
+Linnea beamed and guided Eorlin onto the main road. "To me it might as well be. There's the Prancing Pony — you'll find no better ale north of the White Mountains. And that bakery, just past the inn, where I used to sneak out to smell the bread before dawn. Smell it, Brynja?" She leaned to press her nose to the child's dark hair, and Brynja giggled and twisted to peer down the street after the yeasty scent.
 
-Linnea beamed, guiding her mare onto the main thoroughfare. “To me, it might as well be. Over there’s The Prancing Pony,” she announced, pointing toward the venerable old inn. “You won’t find better ale north of the White Mountains. And that bakery, just beyond the inn—where I used to sneak out to smell the bread before sunrise. Smell that, Brynja?” At this, she leaned forward, pressing her nose to Brynja’s soft hair. The child giggled, twisting in Linnea’s lap to peer down the street as though searching for the source of that yeasty aroma.
+They rode deeper into town, and Linnea felt the stares and murmurs follow them — some who knew her, others simply marking the two cloaked women and the lively child between them. Without Freowyn's familiar presence, the three of them seemed both more exposed and more striking in their difference.
 
-They continued deeper into town, Celenneth’s sharp eyes noting the stares and murmurs that followed their small entourage. Some recognized Linnea, others simply noted the two cloaked women—one clearly a seasoned warrior—and the lively toddler between them. Without Freowyn’s familiar presence, the pair seemed both more vulnerable and somehow more striking in their difference.
+She dismounted in the market square and swung Brynja down and set her firmly on her feet, and the child promptly wriggled free and toddled toward a stall bright with ribbons and painted toys. "Careful now," Linnea said, laughter in it, and Celenneth stepped close, ever watchful.
 
-Linnea dismounted smoothly in the bustling market square, then swung Brynja down and set her firmly on her feet. The child promptly wiggled free of Linnea’s grasp and toddled a few steps forward, her attention drawn by bright ribbons and painted wooden toys. “Careful now,” Linnea said, though there was laughter in her tone. Celenneth stepped closer, ever watchful, ready to guide the curious child away from anything too breakable.
+"Linnea Riverwain!" A middle-aged woman bustled from behind a stall, flour on her sleeves, and Linnea turned with a sheepish grin as she recognized Miss Calder. The older woman's eyes went over the Rohan cloak, over Celenneth's fine armor, and landed on Brynja, who had just discovered a spill of colored ribbons. "Bless me — is it really you, girl? Gone for years, and back now with a baby—" she caught herself, taking in Brynja's size "—a child, I mean, and a ranger out of a story at your side. What's come over you?"
 
-Just then, a familiar voice called out: “Linnea Riverwain!” A middle-aged woman in an apron bustled out from behind a stall, flour dusting her sleeves. Linnea turned, her grin turning sheepish as she recognized Miss Calder. The older woman’s eyes flicked over Linnea’s Rohan cloak, her traveling companion’s fine armor, and finally landed on Brynja, who had just discovered a particularly colorful array of ribbons.
+Linnea flushed. "Hello, Miss Calder. It's a long tale. This is Celenneth." She gestured with open warmth. "My partner."
 
-“Bless me,” Miss Calder exclaimed, “is it really you, Linnea? Gone for years and now returning with a baby—” She paused, catching herself as she took in Brynja’s size. “A child, I mean—and accompanied by a ranger like out of stories! Goodness, what’s come over you, girl?”
+"Scandals and wonders," Miss Calder muttered, not unkindly, peering at Brynja. "And this is your daughter?"
 
-Linnea flushed slightly. “Hello, Miss Calder. It’s a long story. This is Celenneth.” She gestured with open warmth toward her companion. “My partner,” she added gently.
+"Yes. This is Brynja." Linnea smoothed a dark curl from the girl's brow. "Curious about everything. I had to keep her close on the ride."
 
-“Scandals and wonders,” Miss Calder muttered, half to herself, though not unkindly. She peered curiously at Brynja, who by now had fixed her gaze on a cart brimming with bright apples. “And this must be your daughter?”
+Miss Calder's astonishment softened to something fond. "Well. You've explaining to do, but there's time enough for that." With a last glance at Celenneth — who returned a polite nod — she went back to her stall, calling over her shoulder, "Welcome home, Linnea."
 
-Linnea nodded. “Yes, this is Brynja.” She glanced down at the child and smoothed a curl of dark hair from the girl’s forehead. “She’s curious about everything. Had to keep her close on the ride, but now…” She laughed softly as Brynja hopped from one foot to the other, eager to explore.
+Linnea let out a breath, her cheeks still hot. Celenneth only gave her a faint, reassuring smile — and then Brynja tugged at the ranger's cloak, and Celenneth stooped and scooped her up so she could see the stalls from a better vantage, and the child squealed and patted her shoulder as though claiming a prize mount.
 
-Miss Calder’s astonishment softened to something affectionate, if still a bit astonished. “Well, you’ve some explaining to do, but I suppose there’s time enough for that.” With a final glance at Celenneth—who returned it with a polite nod—she moved off to tend her stall, calling over her shoulder, “Welcome home, Linnea.”
+They wandered the market, traders crying their wares, children weaving between the carts. A shopkeeper watched Brynja reach for a strand of Celenneth's hair. "Lively one," he remarked.
 
-Linnea let out a breath, turning to Celenneth. The situation, half-expected, still left her cheeks hot. But Celenneth merely offered a faint, reassuring smile. Brynja tugged at Celenneth’s cloak, and the warrior stooped gracefully, scooping the child up so she could see the stalls from a better vantage. Brynja let out a delighted squeal, patting Celenneth’s shoulder as if to claim her as some prized mount.
+"Curious as a fox," Celenneth agreed, gently freeing her fingers. "And stronger than she looks." Her voice was warm and proud, and Linnea felt something glad and full at how naturally Celenneth wore this gentler side, so unlike her composure on the road.
 
-They wandered through the market. Traders shouted their wares, while children weaved between carts, laughing and shrieking with the careless joy that Brynja’s bright eyes seemed eager to join. Though older women whispered behind raised hands, and a few men scratched their heads at the improbable trio, Celenneth remained serene. She held Brynja easily, the child’s legs dangling, tiny fists reaching out toward shiny trinkets and colorful scarves.
+A knot of children caught sight of Brynja, and one boy, freckle-nosed, pointed shyly. "Is that your baby?"
 
-“She’s a lively one,” commented a shopkeeper, observing how the tot reached for a strand of Celenneth’s auburn hair.
+Celenneth straightened, her voice kind and thoughtful. "She's my daughter, yes."
 
-“Curious as a fox,” Celenneth agreed, gently detangling Brynja’s fingers. “And stronger than she looks.” Her tone was proud and fond, and Linnea felt her heart swell at how naturally Celenneth embraced motherhood’s gentler side—so different from the warrior’s composure on the road.
+Another gaped. "But you're a ranger. How can you be a mother too?"
 
-As they moved on, a knot of children at the edge of the square caught sight of Brynja. One boy, freckles scattered across his nose, pointed. “Is that your baby?” he asked timidly, still struggling to reconcile the warrior-woman with the cheerful toddler she carried.
+A rare, gentle smile curved Celenneth's mouth. "Being a warrior doesn't mean I can't love or care for my child. It means I fight hard to keep her safe." She drew a soft green ribbon from a nearby basket and handed it to Brynja, who cooed and waved it like a banner. And Linnea stood beside them, her eyes bright, grateful for so perfect an answer.
 
-Celenneth straightened, her voice thoughtful and kind. “She is my daughter, yes.”
+A bold girl waved. "She's cute. What's her name?"
 
-Another child gaped. “But you’re a ranger or a soldier! How can you be a mother too?”
+"Brynja," Celenneth said. "And she's curious about everything."
 
-Celenneth’s lips curved into a rare, gentle smile. “Being a warrior doesn’t mean I cannot love or care for my child. It means I fight hard to keep her safe.” She reached into a basket of ribbons at a nearby stall and pulled out a soft green one, handing it to Brynja, who cooed and waved it like a victory flag. Linnea stood beside them, her eyes bright with emotion, grateful that Celenneth had offered such a perfect answer.
-
-A bold girl stepped forward, waving at Brynja. “She’s cute. What’s her name?”
-
-“Brynja,” Celenneth said, her voice warm. “And she’s curious about everything.”
-
-At that, Brynja twisted to look at the girl, giggling as the ribbon fluttered. The watching children smiled, and the tension melted into innocent fascination.
-
-or Linnea, there was comfort in old, familiar streets and in Celenneth’s steady presence at her side. For Celenneth, there was belonging in Brynja’s laughter and Linnea’s warm grin. And for Brynja, Bree was a whole new world to discover—one leaf, one ribbon, one kind face at a time.
+Brynja twisted to look at the girl, giggling, the ribbon fluttering, and the watching children smiled, and the last of the strangeness melted into an easy fascination. For Linnea there was comfort in the old familiar streets and in Celenneth steady at her side; for Celenneth, a belonging in Brynja's laughter and Linnea's warm grin; and for Brynja, Bree was a whole new world to be discovered — one leaf, one ribbon, one kind face at a time.

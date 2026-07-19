@@ -1,53 +1,39 @@
 # Chapter 9: Teasing
 
-*Book 8*
+*Lótessë 2, 2969*
 
-*Víressë,  2969*
+The fire crackled low in the hearth, its light flickering across the fur-lined bed they shared. Outside, the spring night lay cool and quiet over the Angle, only a faint chill seeping through the seams of the worn walls; within, there was warmth enough.
 
-The fire crackled softly in the hearth, sending warm light flickering across the small, fur-lined bed they shared. Outside, frost clung to the trees, turning the forest into a frozen, silent world, but within the cabin, the only cold came from the faint chill of the night air seeping through the seams of the worn wooden walls.
+Linnea lay stretched out on the thick blankets, her dark hair spilling in loose waves over the pelts, her breath slow and even — though it came a little faster when she caught the way Celenneth was watching her: intent, deliberate, a curiosity in it that was more than hunger.
 
-Linnea lay stretched out on the thick blankets, her dark hair spilling in loose waves over the soft pelts beneath her. Her breath came slow and even, though her chest rose just a bit faster when she saw the way Celenneth watched her—intense, thoughtful, and deliberate. There was something purposeful in her gaze, not driven by hunger alone, but by an intimate curiosity.
+Celenneth crawled over her with quiet, practiced grace, her thighs settling to either side of Linnea's hips, and leaned down to let her breath ghost across Linnea's cheek before setting a slow kiss just below her jaw. Linnea shifted, her fingers already reaching for Celenneth's waist — but Celenneth caught her wrists and pinned them gently to the furs.
 
-Celenneth crawled over her with quiet, practiced grace, her strong thighs settling on either side of Linnea’s hips. She leaned down, letting her breath ghost across Linnea’s cheek before she placed a slow, tender kiss just below her jaw. Linnea shifted beneath her, fingers already reaching for Celenneth’s waist, but before she could pull her down, Celenneth caught her wrists with firm, steady hands and pinned them gently against the furs.
+"You're being too patient," Linnea whispered, low and edged with wanting, her fingers flexing in Celenneth's grip but not breaking free. "Are you going to tease me all night?"
 
-“You’re being too patient,” Linnea whispered, voice low but edged with something close to desperation. Her fingers flexed in Celenneth’s grasp, testing, but not breaking free. “Are you going to keep teasing me all night?”
+Celenneth smiled faintly, her eyes gleaming in the firelight. "Maybe." Her breath brushed Linnea's throat, warm and maddeningly light. "Let me explore."
 
-Celenneth smiled faintly, her eyes gleaming in the low firelight. “Maybe.” Her breath brushed Linnea’s throat again, warm and maddeningly light. “Let me explore.”
+Linnea's breath hitched, and she nodded. Celenneth loosed her wrists but did not move far, her hands sliding down Linnea's arms in a slow, deliberate trace — the lines of muscle, the soft skin inside her elbows, where her fingers lingered until Linnea squirmed and a breath of laughter escaped her.
 
-Linnea’s breath hitched. She nodded, swallowing hard. Celenneth loosened her grip on Linnea’s wrists but didn’t move far, her hands sliding down her arms with a slow, deliberate touch, tracing the lines of muscle and the soft skin of her inner elbows. Her fingers lingered there, making Linnea squirm, a faint breath of laughter escaping her lips.
+"Ticklish?" Celenneth murmured, tilting her head as though filing the answer away.
 
-“Ticklish?” Celenneth murmured, tilting her head as though noting the response for future use.
+"No," Linnea said, fighting a grin, heat rising in her cheeks.
 
-Linnea tried to suppress a grin, heat rising in her cheeks. “No.”
+Celenneth chuckled and let her fingers drift lower, over the curve of Linnea's waist, and pressed her thumbs into the dip just above her hipbones — and felt her arch involuntarily. Subtle at first, only a tightening of breath; but when Celenneth pressed again, firmer, Linnea gasped, her hips shifting sharp against the blankets. Surprise crossed her face, and then something far deeper — need.
 
-Celenneth chuckled softly, her fingers drifting lower, gliding over the gentle curves of Linnea’s waist. She pressed her thumbs into the dip just above Linnea’s hips, feeling the way her partner arched involuntarily. The reaction was subtle at first—just a slight tightening of breath—but when Celenneth pressed again, more firmly this time, Linnea gasped, her hips shifting sharply against the blankets.
+"Gods—" Linnea breathed, her voice breaking. "What are you doing?"
 
-Surprise flashed across Linnea’s face, followed almost instantly by something much darker, deeper—need. Celenneth’s smile faded into something far more intent as she pressed slow, deliberate circles just above Linnea’s hip bones, feeling how the touch sent a shudder through her entire frame.
+Celenneth didn't answer at once. She studied Linnea's face — the widening of her eyes, the tremor in her breath. "Exploring," she said, low and reverent. "Learning." And she pressed slow, deliberate circles just above the hipbones, and each one sent a shudder through Linnea's whole frame. Linnea writhed under her, her fingers fisting in the furs, her body arching toward every point of contact, her hips rocking with a growing desperation as Celenneth returned again and again to that spot she had never known to find, teasing the fine line between pleasure and torment.
 
-“Gods…” Linnea breathed, her voice breaking on the word. “What… what are you doing?”
+"You didn't know about this," Celenneth murmured, sliding her hands up and pressing down once more with that same exquisite pressure.
 
-Celenneth didn’t answer right away. She studied Linnea’s expression, the widening of her pupils, the tremor in her breath. “Exploring,” she whispered, her voice low, reverent. “Learning.”
+"N-no—" Linnea stammered, trembling, her dark eyes blazing.
 
-Linnea let out a trembling exhale, her fingers digging into the furs beneath her as Celenneth continued her slow, torturous exploration. Every deliberate touch drew sharp gasps, helpless whimpers, and soft, broken pleas. Linnea writhed beneath her, her body arching toward every point of contact, hips rocking with increasing desperation as Celenneth traced the sensitive spot above her hips again and again, teasing the boundary between pleasure and frustration.
+Then Celenneth followed her hands with her mouth — slow, open kisses along Linnea's sides, tracing the delicate arc of her ribs before her tongue found that sensitive place her fingers had mapped, and Linnea cried out, her back arching helplessly. "Don't stop," she pleaded, raw and unguarded. Celenneth answered with a low, knowing hum and doubled her care, lips and tongue working in concert, until every touch spiraled Linnea deeper and her whole body yielded. Her head fell back, throat bared, and her fingers finally tore free of the blankets to clutch at Celenneth's shoulders, her body drawing taut, trembling on the edge of something vast.
 
-“You didn’t know about this, did you?” Celenneth murmured, letting her hands glide back up Linnea’s waist, only to press back down with the same exquisite pressure.
+"Please—" Linnea gasped. "I'm—"
 
-“N-no… gods…” Linnea stammered, trembling beneath her. Her dark eyes blazed with intensity, her mouth slightly parted as she gasped for air.
+Celenneth didn't let her finish. One last kiss, pressed just right, and Linnea broke — her cry torn from her throat, her body arching sharp as the pleasure crashed through her. Celenneth held her through it, her hands steady and grounding as the trembling slowly stilled, pressing soft kisses along her collarbone, gentle now, reverent in a different way.
 
-Celenneth’s mouth followed her hands, placing slow, open-mouthed kisses along Linnea’s sides, tracing the delicate arc of her ribs before returning to that sensitive spot with wicked precision. Her tongue traced heated paths where her fingers had been, making Linnea cry out, her back arching helplessly.
+Linnea let out a shaky laugh, still breathless. "You found something new."
 
-Linnea’s breath came faster, sharp and uneven. “Don’t… don’t stop…” she pleaded, her voice breaking with raw, unguarded need.
-
-Celenneth responded with a quiet, knowing hum, doubling her efforts, lips and tongue working together with practiced, reverent care. Every new touch, every subtle shift, sent Linnea spiraling deeper into sensation, her body yielding completely under Celenneth’s unrelenting touch.
-
-Her head fell back, neck exposed, and her fingers finally broke free from the blankets, clutching at Celenneth’s shoulders with desperate intensity. Her entire body tensed, trembling on the edge of something vast, overwhelming, and unstoppable.
-
-“Please…” Linnea gasped, barely able to form words. “I… I’m—”
-
-Celenneth didn’t let her finish. With one last perfectly placed kiss, she pressed just right, sending Linnea hurtling over the edge. Linnea’s cry was raw, torn from her throat, her body arching sharply as pleasure crashed through her like a tidal wave.
-
-Celenneth held her through it, her hands steady and grounding as Linnea’s trembling frame slowly stilled. She pressed soft, soothing kisses along Linnea’s collarbone, her touch gentle now, reverent in a different way.
-
-Linnea let out a shaky laugh, still breathless. “You… found something new.”
-
-Celenneth rested her forehead against Linnea’s, their breaths mingling, warm and steady once more. “You’re mine,” she whispered, her voice low, fierce, and certain.
+Celenneth rested her forehead against hers, their breath mingling and warm. "You're mine," she whispered, low and certain.

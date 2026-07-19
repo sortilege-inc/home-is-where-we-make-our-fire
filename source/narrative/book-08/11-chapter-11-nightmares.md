@@ -1,73 +1,29 @@
 # Chapter 11: Nightmares
 
-*Book 8*
+*Lótessë 14, 2969*
 
-*Lótessë,  2969*
+The cabin lay still under the hush of the spring night, the wind moving low through the branches outside, the fire in the hearth burned down to faint embers that threw dim, flickering shadows across the room.
 
-The cabin lay still beneath a canopy of frost-kissed silence. Outside, the wind whispered through skeletal branches, a low, hollow sound like a distant mourning cry. Inside, the fire in the hearth had burned down to faint embers, casting dim, flickering shadows across the room.
+Celenneth twitched in her sleep, her breath coming faster, shallow and uneven, her hands clenching the fur blankets as though gripping something that slipped away. Then a sharp, gasping sob tore out of her, and her body jerked against the blankets. "Linnea—" she choked, the name escaping like a broken prayer.
 
-Celenneth twitched in her sleep, her breath coming faster, shallow and uneven. Her hands clenched the thick fur blankets, gripping as though trying to hold on to something slipping away.
+She was back there. Dark water stretched endless before her, a vast expanse of cold nothing, its surface slick and black. And in the center of that terrible abyss Linnea struggled, her arms thrashing, her head breaking the surface only to be dragged under again. Celenneth screamed — but the sound died, swallowed by the hungry silence of the water. Her legs would not move; her body, strong and trained and unyielding, stood frozen as if rooted, her boots fixed to the cold stone shore, her arms locked useless at her sides. *Move,* she commanded herself, panic spiraling into terror. *Move, damn you.* But she could not. All she could do was watch — Linnea's dark hair spreading like spilled ink beneath the water, her wide eyes locking onto Celenneth's, pleading, as her body shuddered and fought and then went still, the black surface closing over her with a cold finality.
 
-Then came a sharp, gasping sob.
+"No!" Celenneth screamed — and jerked awake, her chest heaving, her hands clawing at the blankets as though still trapped in that frozen moment. "Linnea—" Her voice fractured as her wild gaze searched the dark room.
 
-Her face contorted in silent anguish, her mouth forming a wordless plea as she thrashed once, her body jerking violently against the blankets.
+"Hey. I'm here." A warm hand pressed firm against her arm.
 
-“Linnea—” she choked, her voice rough and raw, the name escaping her lips like a broken prayer.
+Celenneth's head snapped toward the voice. Linnea sat upright beside her, her eyes wide with concern but calm, her hands gentle and steady as they closed over Celenneth's trembling fingers. "You're safe," she whispered. "I'm safe."
 
-She was back there.
+Celenneth dragged in a ragged breath. "You were — you were drowning. I couldn't—"
 
-Dark water stretched endlessly before her, a vast expanse of cold nothingness. The surface was slick and black, rippling with a hateful stillness.
+Linnea cupped her face and held her gaze. "I'm here. Right here. You're not frozen. You're not trapped."
 
-And in the center of that terrible abyss, Linnea struggled, her arms thrashing, her head barely breaking the surface before she was dragged down again.
+Celenneth crumpled, the terror crashing over her again. "I couldn't move. I couldn't reach you."
 
-Celenneth screamed—but the sound didn’t carry. Her voice died, swallowed by the hungry silence of the dark waters.
+"But you're here now." Linnea brushed her thumbs across Celenneth's damp cheeks. "We're here. Together."
 
-Her legs refused to move. Her body—strong, trained, unyielding—stood frozen, as if rooted in place by some unseen force. Her boots were fixed to the cold, stony shore, her arms locked at her sides, useless.
+"It felt so real," Celenneth whispered. "Like you were gone."
 
-Move... she commanded herself, panic spiraling into terror. Move, damn you—
+Linnea wrapped her arms tight around her, holding her close. "I'm not gone. I'll never be gone. No matter what you see, no matter where your mind goes — you'll always find me." And Celenneth clung to her, shuddering, until her breathing slowed at last and the cold gave way to the warmth of Linnea's steadfast hold. The fire flickered faint but enduring in the hearth, and though the echo of the nightmare lingered like a distant storm, she held to the one constant she had ever fully trusted.[^s-nightmare]
 
-But she couldn’t.
-
-All she could do was watch.
-
-Linnea’s dark hair floated like spilled ink beneath the water as she was dragged down, her wide, panicked eyes locking onto Celenneth’s—pleading, desperate.
-
-Help me.
-
-Her lips moved, forming words, but Celenneth couldn’t hear them. She could only see the way Linnea’s body shuddered, fought, and then stilled, the water closing over her with a cold, unyielding finality.
-
-“No!” Celenneth screamed, her voice shattering with raw, helpless fury. But the water remained silent, the black surface smooth, empty, mocking.
-
-Celenneth jerked awake, her chest heaving as she gasped for air, her hands clawing at the blankets as though still trapped in that frozen moment.
-
-“Linnea—”
-
-Her voice fractured as her wild, disoriented gaze searched the room, her heart hammering, still caught in the terrible grip of the dream.
-
-“Hey... I’m here.”
-
-A warm hand pressed firmly against her arm, grounding her with steady reassurance.
-
-Celenneth’s head snapped toward the familiar voice. Linnea sat upright beside her, her dark eyes wide with concern but calm, her hands gentle but unyielding as they clasped Celenneth’s trembling fingers.
-
-“You’re safe,” Linnea whispered, soothing, steady. “I’m safe.”
-
-Celenneth shuddered, a sharp, ragged breath tearing from her lips. “You... you were—”
-
-Her voice broke, tears burning behind her eyes as she clutched Linnea’s hands like a lifeline. “You were... drowning. I... I couldn’t—”
-
-Linnea gently cupped Celenneth’s face, forcing her to look at her. “I’m here,” she said firmly, her gaze unflinching. “I’m right here. You’re not frozen, you’re not trapped.”
-
-Celenneth crumpled, the terror of the dream crashing over her like an unstoppable tide. “I... couldn’t move... I couldn’t reach you.”
-
-Linnea’s brow furrowed with fierce understanding. “But you’re here now.” She brushed her thumbs across Celenneth’s damp cheeks. “We’re here. Together.”
-
-Celenneth squeezed her eyes shut, her breath fracturing again. “It felt... so real. Like you were... gone.”
-
-Linnea wrapped her arms tightly around Celenneth, holding her close, grounding her with her presence. “I’m not gone,” she whispered fiercely. “I’ll never be gone. No matter what you see, no matter where your mind goes, you’ll always find me.”
-
-Celenneth clung to her, shuddering, until her breathing finally began to slow, the cold dissipating, replaced by the fierce warmth of Linnea’s steadfast embrace.
-
-The fire in the hearth flickered, faint but steady, enduring. And though the echo of the nightmare lingered like a distant storm, Celenneth held on to the only constant she had ever trusted.
-
-Linnea.
+[^s-nightmare]: **Shadow** — Celenneth's dream-torment, rooted in Fangorn and the cursed blade, twists now into a nightmare of losing Linnea: watching her drown, frozen and unable to move. An ordinary (if Shadow-fed) nightmare — no prophecy, but the fear it leaves is real. Linnea grounds her back to waking.

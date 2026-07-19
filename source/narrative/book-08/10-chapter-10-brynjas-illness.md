@@ -1,61 +1,47 @@
-# Chapter 10: Brynja’s Illness
+# Chapter 10: Brynja's Illness
 
-*Book 8*
+*Lótessë 10, 2969*
 
-*Lótessë,  2969*
+The forest hummed with insects and birdsong as they walked, Brynja darting along the path's edge to collect shiny pebbles and interesting leaves, testing Linnea's watchful eye at every turn. "Stay close, Brynja," Linnea called, firm but warm, while Celenneth walked ahead, reading the trail.
 
-The forest was alive with the soft hum of insects and the occasional trill of birdsong. Brynja had been darting around the edges of the path, her small hands collecting shiny pebbles and interesting leaves as they walked. Linnea kept a watchful eye on her, though Brynja’s curious streak often tested her vigilance.
+"I am, Mama!" Brynja called back from where she crouched by a cluster of mushrooms at the root of an old oak, her fingers brushing a cap. Linnea started to warn her — but the child darted back grinning, holding up a small cluster of red berries. "Look what I found!"
 
-“Stay close, Brynja,” Linnea called, her tone firm but warm. Celenneth walked a few paces ahead, her sharp eyes scanning the trail.
+Celenneth glanced over her shoulder, frowning. "Don't eat those. They might not be safe."
 
-“I am, Mama!” Brynja called back, crouched by a cluster of mushrooms growing near the roots of an old oak. Her fingers brushed one of the caps, her fascination evident.
+Brynja nodded and tucked them into her pouch, and Linnea made a silent note to check it later. The day passed easy, and they came home with Brynja chattering of all her finds.
 
-Linnea started to warn her, but Brynja darted back toward the path, a wide grin on her face. “Look what I found!” she said, holding up a small cluster of red berries.
+But that night, as the fire burned low, the child's bright energy drained away. She curled in Linnea's lap, cheeks flushed, brow damp — and when Linnea's hand found her forehead, her heart dropped at the heat of it. "Something's wrong," she said, tight. "She's burning up."
 
-Celenneth glanced over her shoulder, her brow furrowing. “Don’t eat those,” she warned. “They might not be safe.”
+Celenneth knelt and pressed a hand to Brynja's brow. "Feverish. Has she complained of anything? A stomachache?"
 
-Brynja nodded, tucking the berries into her pouch, but Linnea made a mental note to check it later. The day passed uneventfully, the group eventually returning home with Brynja chattering excitedly about her finds.
+"Not until now. She was fine. She ate—" Linnea froze. "The berries. She must have eaten one."
 
-That night, as the fire in the hearth burned low, Brynja’s cheerful energy began to wane. She sat curled in Linnea’s lap, her cheeks flushed and her forehead damp with sweat. Linnea’s hand brushed against Brynja’s brow, her heart sinking at the heat radiating from her skin.
+"Which ones?"
 
-“Something’s wrong,” Linnea said, her voice tight with worry. “She’s burning up.”
+"I don't know. She put them in her pouch. I should have checked—"
 
-Celenneth knelt beside them, her expression grave as she pressed a hand to Brynja’s forehead. “She’s feverish,” she said. “Has she complained about anything? A stomachache? Pain?”
+"Linnea." Celenneth's hand came steady to her shoulder. "No time for that. Focus. Can you describe them?"
 
-Linnea shook her head, her mind racing. “Not until now. She was fine earlier. She ate—” She froze, her breath catching. “Those berries. She must have eaten one.”
+Linnea shut her eyes, calling back the brief glimpse. "Small. Red. Clustered. Almost shiny."
 
-Celenneth’s jaw tightened. “Did she tell you which ones?”
+Celenneth nodded, her mind already working. "I know them. Fever, nausea, cramping — not lethal, if we treat it in time. There's an herb. Bitterroot. We'll want a poultice and a tea."
 
-“No,” Linnea said, guilt stabbing at her chest. “She tucked them into her pouch. I should’ve checked—”
+"I'll get it," Linnea said, passing Brynja gently into Celenneth's arms. "Stay with her."
 
-“Linnea,” Celenneth said firmly, her hand on Linnea’s shoulder. “We don’t have time for that. Focus. If it was the berries, we need to act quickly. Can you describe them?”
+"Go. I'll keep her safe."
 
-Linnea closed her eyes, thinking back to the brief glimpse she’d caught. “Small, red, clustered. Almost shiny.”
+Linnea threw on her cloak and ran into the night, retracing their steps by moonlight, fear pushed down beneath her purpose. She found the bitterroot near the stream where they'd stopped — its green leaves and pale yellow flowers unmistakable — plucked several stems with trembling fingers, and ran back. At the door Celenneth met her, Brynja still cradled close, her breathing shallow but steady. "Hurry."
 
-Celenneth nodded, her mind already working. “I know what they are. They cause fever, nausea, and cramping, but they’re not lethal if treated in time. There’s an herb—bitterroot. We’ll need to make a poultice and a tea.”
+Linnea ground the bitterroot into a paste at the table and steeped the rest in hot water, then knelt and pressed the poultice to Brynja's stomach and coaxed her to sip the tea, her voice soft despite the fear twisting in her. "Drink this, my little bird. It'll help. I promise." Brynja whimpered and clutched her hand and took slow, reluctant sips.[^r-heal]
 
-“I’ll get it,” Linnea said, gently passing Brynja to Celenneth’s arms. “Stay with her.”
+The hours stretched, the two of them taking turns at her side, and the fever broke just before dawn, Brynja's breath evening out, her color returning. Linnea sagged against Celenneth's shoulder, tears of exhaustion and relief in her eyes. "She's going to be all right."
 
-Celenneth nodded, her expression steady. “Go. I’ll keep her safe.”
+Celenneth's arm came around her. "You saved her."
 
-Linnea grabbed her cloak and darted into the night, her heart pounding as she retraced their steps through the forest. The moonlight filtered through the trees, casting eerie shadows, but she pushed her fear aside, her focus entirely on Brynja. She spotted the bitterroot near the stream where they’d stopped earlier, its distinctive green leaves and pale yellow flowers unmistakable.
+Linnea shook her head. "We saved her."
 
-She plucked several stems, her fingers trembling, and rushed back to the house. Celenneth met her at the door, Brynja still cradled in her arms, her breathing shallow but steady.
+As the first light crept in, Brynja stirred, her eyes fluttering open, her voice hoarse. "I'm sorry, Mama."
 
-“Hurry,” Celenneth said, stepping aside to let Linnea through.
+Linnea kissed her forehead. "There's nothing to be sorry for, my little bird. You're safe now. That's all that matters."
 
-Linnea moved to the table, quickly grinding the bitterroot into a paste for the poultice and steeping the rest in hot water for the tea. She knelt beside Brynja, gently pressing the poultice to her stomach and coaxing her to sip the tea, her voice soft and soothing despite the fear twisting in her chest.
-
-“Drink this, my little bird,” Linnea murmured, brushing a damp curl from Brynja’s forehead. “It’ll help you feel better. I promise.”
-
-Brynja whimpered, her small hands clutching Linnea’s as she took slow, reluctant sips. The minutes stretched into hours, Linnea and Celenneth taking turns watching over her. The fever broke just before dawn, Brynja’s breathing evening out as her color began to return.
-
-Linnea sagged in relief, her head resting on Celenneth’s shoulder as tears of exhaustion and gratitude filled her eyes. “She’s going to be all right,” Linnea whispered, her voice trembling.
-
-Celenneth’s arm wrapped around her, her own expression softening. “You saved her.”
-
-Linnea shook her head. “We saved her.”
-
-As the first light of morning crept into the room, Brynja stirred, her eyes fluttering open. She looked up at Linnea, her voice hoarse but steady. “I’m sorry, Mama.”
-
-Linnea smiled, pressing a kiss to her forehead. “There’s nothing to be sorry for, my little bird. You’re safe now, and that’s all that matters.”
+[^r-heal]: **Heal / Herb-lore** — Brynja eats an unknown red berry and takes a fever; Celenneth identifies the plant, and Linnea's herb-craft (a **bitterroot** poultice and tea, gathered by night) treats it in time. The fever breaks by dawn; no lasting harm.
