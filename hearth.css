@@ -282,6 +282,35 @@ blockquote{
 .chapter-head .cno{ color:var(--tan); font-family:var(--title); margin-right:0.6rem; }
 .chapter-date{ font-family:var(--caps); font-size:0.62rem; letter-spacing:0.18em; text-transform:uppercase; color:var(--ink-soft); margin:0 0 1.2rem; }
 
+/* footnote references + the actual-play Ledger */
+sup.fnref{ font-size:0.62em; line-height:0; vertical-align:super; margin-left:1px; }
+sup.fnref a{ text-decoration:none; color:var(--blood); border:none;
+  font-family:var(--caps); font-weight:600; padding:0 0.1em; }
+sup.fnref a:hover{ color:var(--blood-lit); }
+.fnref[id]{ scroll-margin-top:80px; }
+.ledger{
+  margin:2rem 0 0; padding:1.1rem 1.3rem 0.8rem;
+  background:linear-gradient(180deg, rgba(188,169,142,0.10), rgba(188,169,142,0.04));
+  border:1px solid var(--tan-soft); border-left:3px solid var(--tan);
+  border-radius:3px;
+}
+.ledger h4{
+  font-family:var(--caps); text-transform:uppercase; letter-spacing:0.18em;
+  font-size:0.66rem; color:var(--gold); margin:0 0 0.7rem;
+}
+.ledger .fnlist{ list-style:none; margin:0; padding:0; counter-reset:none; }
+.ledger .fnlist li{
+  display:grid; grid-template-columns:1.8rem 1fr auto; gap:0.5rem; align-items:baseline;
+  padding:0.35rem 0; border-top:1px solid var(--tan-hair);
+  font-family:"Iowan Old Style", Georgia, serif;
+  font-size:0.86rem; color:var(--ink-2); line-height:1.45; scroll-margin-top:80px;
+}
+.ledger .fnlist li:first-child{ border-top:none; }
+.ledger .fn-n{ font-family:var(--caps); font-weight:700; font-size:0.72rem; color:var(--blood); text-align:right; }
+.ledger .fn-t strong{ color:var(--ink); }
+.ledger .fn-back{ color:var(--tan); text-decoration:none; font-size:0.9rem; }
+.ledger .fn-back:hover{ color:var(--blood); }
+
 /* on-page table of contents */
 .toc{ font-family:var(--serif); margin:1.4rem 0; }
 .toc a{ display:block; padding:0.3rem 0; color:var(--blood); text-decoration:none; border-bottom:1px solid var(--tan-hair); }

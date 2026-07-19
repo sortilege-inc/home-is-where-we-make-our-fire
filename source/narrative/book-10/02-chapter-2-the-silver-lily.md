@@ -4,7 +4,7 @@
 
 *Nénimë 16, 2970*
 
-Late afternoon light stretched across the muddy lanes of Gelden Hollow, turning puddles into pale gold mirrors. Linnea guided her mare, Eorlas, at an easy walk, scanning the shabby fronts of shops and houses. Celenneth rode beside her on Nimroch, the white horse’s coat dusty from travel. They’d arrived just as the sun dipped low, hoping to find someone Celenneth once met—someone who might know more about Brandor and Orlec’s trail.
+Late afternoon light stretched across the muddy lanes of Gelden Hollow, turning puddles into pale gold mirrors. Linnea guided her mare, Eorlin, at an easy walk, scanning the shabby fronts of shops and houses. Celenneth rode beside her on Nimroch, the white horse’s coat dusty from travel. They’d arrived just as the sun dipped low, hoping to find someone Celenneth once met—someone who might know more about Brandor and Orlec’s trail.
 
 Gelden Hollow felt tucked away from the world, neither large nor important. The buildings were simple—timber frames, thatched roofs, with crooked signs above a few doors. A blacksmith’s forge smoked in the distance, and somewhere a soft lullaby drifted from a closed window. Nothing grand, but not exactly hostile either.
 
@@ -14,7 +14,7 @@ They turned a corner and spotted a low building that matched Celenneth’s memor
 
 Linnea glanced around. The street was calm—an old man shuffled by with a sack of oats, barely acknowledging them. A woman sweeping her stoop gave them a faint nod. Good. They didn’t need attention.
 
-They dismounted near a modest stable behind the building. Linnea patted Eorlas’s neck, while Celenneth led Nimroch inside. The stableboy wasn’t around, but they found empty stalls and fresh hay. With horses settled, they returned to the Silver Lily’s front door.
+They dismounted near a modest stable behind the building. Linnea patted Eorlin’s neck, while Celenneth led Nimroch inside. The stableboy wasn’t around, but they found empty stalls and fresh hay. With horses settled, they returned to the Silver Lily’s front door.
 
 Linnea studied Celenneth’s face. “You sure we’ll find something here?”
 
@@ -98,7 +98,7 @@ They finished quietly, then went upstairs to their small room. Linnea lit a cand
 
 Celenneth nodded. “It does. But she might know shortcuts, safe routes. She has a reason to help. And maybe this journey will help her too.”
 
-Linnea trusted Celenneth’s judgment. They blew out the candle and slept. The night passed without trouble. In the early dawn, they rose and packed, ate a crust of bread, and went out to the stable. Eorlas and Nimroch were rested, nickering softly as they saddled up.
+Linnea trusted Celenneth’s judgment. They blew out the candle and slept. The night passed without trouble. In the early dawn, they rose and packed, ate a crust of bread, and went out to the stable. Eorlin and Nimroch were rested, nickering softly as they saddled up.
 
 A soft step behind them: Eira appeared, cloak and pack ready, her hair braided back, a dagger at her hip. She gave them a tentative smile. “I’m ready.”
 

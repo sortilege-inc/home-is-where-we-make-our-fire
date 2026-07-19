@@ -16,7 +16,7 @@ Thalion nodded, his gaze shifting to the ancient trees that surrounded them. "Th
 
 Linnea stepped forward, her eyes shining with with accomplishment. "We are grateful, Lord Thalion," she said, her voice filled with emotion. "The people of Rohan must know what is coming. The alliance of the Free Peoples must hold, now more than ever."
 
-Thalion smiled broadly. "Indeed, brave Linnea," he said. "You will carry with you the blessings of Thalion and Bard, and the blessing of the forest. You will find safe passage through our lands, and our scouts will see you safely to the borders of Rohan. From there, I trust in your courage and determination to see this journey through."
+Thalion smiled broadly. "Indeed, brave Linnea," he said. "You will carry with you the blessings of Thalion and Bain, and the blessing of the forest. You will find safe passage through our lands, and our scouts will see you safely to the borders of Rohan. From there, I trust in your courage and determination to see this journey through."
 
 He raised a hand, gesturing for Eryndor and Arannis to step forward. "In the meantime, rest and gather your strength. There is still time before you must depart, and we would see you leave our realm refreshed and ready for what lies ahead." He paused, his eyes warm as he looked upon them. "You are friends of the woodland, and you will always find sanctuary here."
 

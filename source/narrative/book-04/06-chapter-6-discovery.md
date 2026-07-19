@@ -52,7 +52,7 @@ Linnea stepped forward, her voice steady despite the nervousness she felt. "My l
 
 Thalion raised an eyebrow, a bemused smile playing on his lips. "The alliance, yes. It exists, of course. But I see no reason for it to be utilized. The Greenwood remains untouched, and the borders of Dale are distant."
 
-Celenneth frowned slightly but maintained an even tone. "My lord, we have seen signs of danger. The Shadow of Dol Guldur grows. The scouts of Dale and I have encountered orcs moving through the forest. They are testing our defenses, probing for weakness." She unrolled a map, stepping forward to show Thalion the marked locations. "We have encountered magical wards wards in the Mirkwood, and our sightings indicate organized movements of orcish troops. The Shadow is not content to remain dormant."
+Celenneth frowned slightly but maintained an even tone. "My lord, we have seen signs of danger. The Shadow of Dol Guldur grows. The scouts of Dale and I have encountered orcs moving through the forest. They are testing our defenses, probing for weakness." She unrolled a map, stepping forward to show Thalion the marked locations. "We have encountered magical wards in the Mirkwood, and our sightings indicate organized movements of orcish troops. The Shadow is not content to remain dormant."
 
 Thalion's expression shifted, the amusement fading from his eyes. He studied the map, his brow furrowing. "This is troubling indeed," he said quietly. "If true, there is much here to concern ourselves with." He paused, then looked up, his gaze serious. "I will need to confer with my council."
 

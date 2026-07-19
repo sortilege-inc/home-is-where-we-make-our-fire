@@ -10,7 +10,7 @@ Brynja, now three years old, sat astride the mare before Linnea, giggling whenev
 
 “Here we are,” Linnea said brightly, her gaze swinging back to Celenneth. “Bree. Home sweet home.”
 
-Celenneth let out a quiet chuckle. Her armor—mithral rings glinting at the collar—peeked from beneath her own ranger cloak. Though not as impressed by the old town’s rustic charms as Linnea, Celenneth found herself warmed by her partner’s obvious delight. “You speak of it as if it’s a kingdom,” she teased, voice light.
+Celenneth let out a quiet chuckle. Her armor—mithril rings glinting at the collar—peeked from beneath her own ranger cloak. Though not as impressed by the old town’s rustic charms as Linnea, Celenneth found herself warmed by her partner’s obvious delight. “You speak of it as if it’s a kingdom,” she teased, voice light.
 
 Linnea beamed, guiding her mare onto the main thoroughfare. “To me, it might as well be. Over there’s The Prancing Pony,” she announced, pointing toward the venerable old inn. “You won’t find better ale north of the White Mountains. And that bakery, just beyond the inn—where I used to sneak out to smell the bread before sunrise. Smell that, Brynja?” At this, she leaned forward, pressing her nose to Brynja’s soft hair. The child giggled, twisting in Linnea’s lap to peer down the street as though searching for the source of that yeasty aroma.
 

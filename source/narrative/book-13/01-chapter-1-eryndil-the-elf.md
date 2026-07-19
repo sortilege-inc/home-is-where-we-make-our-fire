@@ -64,7 +64,7 @@ Eryndil had been invited to stay inside their home, an offer she accepted with t
 
 As the afternoon lengthened, and while Hallas dozed in his cradle, the elf spoke quietly of news beyond their peaceful refuge. Her voice was calm and resonant, as though shaped by distant waves, yet now it carried the weight of tidings from distant lands.
 
-“I bring word from Rivendell,” she began, her gaze touching Celenneth, then Linnea. “Before I left, Elrond’s halls were filled with whispers of trouble in the south. Dol Guldur—dark and ancient—had stirred again. For a time, the shadow deepened. Orcs and foul things crept through Mirkwood, and the Elves of Thranduil’s realm struggled to contain them. For a season it seemed the tide would not turn.”
+“I bring word from Rivendell,” she began, her gaze touching Celenneth, then Linnea. “Before I left, Elrond’s halls were filled with whispers of trouble in the south. Dol Guldur—dark and ancient—had stirred again. For a time, the shadow deepened. Orcs and foul things crept through Mirkwood, and the Elves of Thalion’s realm struggled to contain them. For a season it seemed the tide would not turn.”
 
 Linnea paused, cradling a pot of dried herbs. Celenneth came closer, arms folded, listening with solemn attention.
 

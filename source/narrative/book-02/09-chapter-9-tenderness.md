@@ -56,7 +56,7 @@ For a moment, Celenneth didn’t respond. Her sharp eyes remained fixed on Linne
 
 “Linnea,” Celenneth said finally, her tone calm but firm. “You’ve been through so much. It’s natural to feel gratitude, even attachment, for someone who’s helped you. But…” She shook her head slightly, looking away toward the fire. “This road, this life—it’s no place for... attachments like that.”
 
-Linnea blinked, her chest tightening. “It’s not gratitude,” she said quietly, her voice tinged with hurt. “It's deeper than that.
+Linnea blinked, her chest tightening. “It’s not gratitude,” she said quietly, her voice tinged with hurt. “It's deeper than that.”
 
 Celenneth closed her eyes briefly, as though trying to steady herself. When she looked back at Linnea, there was a vulnerability in her gaze that the younger woman hadn’t seen before. “I do know,” she admitted softly. “And that’s why this is so difficult.”
 

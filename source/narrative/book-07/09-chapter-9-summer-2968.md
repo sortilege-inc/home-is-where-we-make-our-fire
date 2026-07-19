@@ -6,9 +6,9 @@
 
 The sun dipped low over the wide, golden fields of the Riddermark, gilding the gathered Rohirrim in a warm, honeyed light. They formed a broad circle—riders and their proud mounts—all turned inward toward the center, where two figures stood. Linnea stood straight-backed, her dark hair whispering over her shoulders in the breeze. Not far from her, Celenneth watched quietly, arms folded, a faint smile playing at her lips.
 
-At the forefront of the circle stood Eadwyn, helm cradled in the crook of her arm, her face lit by the sunset. She raised his voice so that all might hear:
+At the forefront of the circle stood Eadwyn, helm cradled in the crook of her arm, her face lit by the sunset. She raised her voice so that all might hear:
 
-“We Eorlingas do not give our honors lightly,” she began, his gaze sweeping over the listeners. “Blood ties us together—but so, too, does shared purpose and earned trust. Though Linnea was not born to the Riddermark, she has ridden with us, learned our ways, and shown her heart to be true. She has tended to the needs of our people and proved herself in the saddle and at the bow.”
+“We Eorlingas do not give our honors lightly,” she began, her gaze sweeping over the listeners. “Blood ties us together—but so, too, does shared purpose and earned trust. Though Linnea was not born to the Riddermark, she has ridden with us, learned our ways, and shown her heart to be true. She has tended to the needs of our people and proved herself in the saddle and at the bow.”
 
 A murmur of assent moved through the riders. Linnea’s cheeks warmed, and she lowered her eyes for a moment, feeling their regard as a weight and a blessing.
 

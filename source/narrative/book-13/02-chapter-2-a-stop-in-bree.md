@@ -78,7 +78,7 @@ Linnea sighed. “Not everyone was angry, sweetheart. Some people are just curio
 
 “I just—wanted to say, I admire what you’re doing. Being open about who you are. It’s… not something I’ve managed yet.” He glanced around, as if afraid of being overheard. “What you said out there—it means a lot. Maybe someday… well, maybe I can find that courage too.”
 
-Linnea’s heart gave a tug. She nodded, voice gentle. “I hope you do. I believe you have that capacity  for courage inside you.”
+Linnea’s heart gave a tug. She nodded, voice gentle. “I hope you do. I believe you have that capacity for courage inside you.”
 
 The man nodded quickly, eyes shining with gratitude before he slipped back into the crowd.
 

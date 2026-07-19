@@ -1,10 +1,10 @@
-# Chapter 12: Bryna’s Fall
+# Chapter 12: Brynja’s Fall
 
 *Book 8*
 
 *Lótessë,  2969*
 
-The sun hung high in the sky, casting dappled gold through the canopy of rustling leaves. The forest was alive with the sounds of birdsong and the distant hum of running water. Brynja skipped a few paces ahead, her auburn curls bouncing as she darted from tree to tree with boundless energy. Her small bow rested snugly across her back, next to a pouch brimming with treasures—a smooth stone, a bright red leaf, and a tiny bird’s nest she had promised to show Linnea later.
+The sun hung high in the sky, casting dappled gold through the canopy of rustling leaves. The forest was alive with the sounds of birdsong and the distant hum of running water. Brynja skipped a few paces ahead, her dark curls bouncing as she darted from tree to tree with boundless energy. Her small bow rested snugly across her back, next to a pouch brimming with treasures—a smooth stone, a bright red leaf, and a tiny bird’s nest she had promised to show Linnea later.
 
 Celenneth walked a short distance behind, her sharp eyes scanning the forest for signs of danger. Linnea brought up the rear, her gaze lingering on Brynja with a mixture of fond amusement and mild apprehension.
 

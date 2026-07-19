@@ -44,7 +44,7 @@ Eorlas knelt beside her and looked ahead at the path. His expression darkened. "
 
 Celenneth rooted through her bag, and pulled out the strange pendant of the eye, the cool metal radiating faint warmth in her hand. There was a malevolence to it, and she wondered if they might not be some sympathy there. She stepped cautiously toward the ward, her sharp eyes tracing the subtle distortions in the air. The pendant pulsed faintly, its soft glow illuminating intricate runes etched into the ground.
 
-"It is a ward," she murmured, her voice steady. "Intended to distorient or harm."
+"It is a ward," she murmured, her voice steady. "Intended to disorient or harm."
 
 Eorlas watched as she knelt, holding the pendant close to the runes. Linnea stayed back, her bow ready, her face tense with worry. Celenneth focused, murmuring words of protection she had learned long ago, the pendant amplifying her intent. Slowly, the dark magic unraveled, the runes flickering and fading like dying embers.
 

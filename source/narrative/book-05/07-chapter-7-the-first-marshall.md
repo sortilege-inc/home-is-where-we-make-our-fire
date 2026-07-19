@@ -8,7 +8,7 @@ Celenneth and Linnea were escorted into the heart of the Riddermark, passing thr
 
 The guards led them through the great hall's entrance, where they were met by a sharp-eyed man with graying hair. His stance was straight and commanding despite his years—this was Eofred, first marshal of the Riddermark, standing in for the king while he was away. He regarded Celenneth and Linnea with a blend of curiosity and suspicion.
 
-"Travelers from the north," he said, his voice deep and steady. "You’ve come far to reach Rohan. What brings you to Rhovania?"
+"Travelers from the north," he said, his voice deep and steady. "You’ve come far to reach Rohan. What brings you to Rhovanion?"
 
 Celenneth stepped forward, her presence calm but commanding. "We bring a warning," she said, her voice carrying urgency. "The shadow of Dol Guldur stirs once again."
 
@@ -28,7 +28,7 @@ Eofred's gaze softened slightly as he looked at Linnea. "You are brave, and your
 
 Celenneth frowned. "Are you arguing for a proactive strike on Dol Guldur?"
 
-Eofred shook his head, his tone measured. "No, I mean we should be proactive in defending Rhovania, in engaging any enemies that cross our borders—not extend beyond."
+Eofred shook his head, his tone measured. "No, I mean we should be proactive in defending Rhovanion, in engaging any enemies that cross our borders—not extend beyond."
 
 He gestured to one of his captains, who stepped forward with a respectful nod. "I will send riders to Dale affirming increased patrols and our active defense. We will ensure Dol Guldur's influence doesn't spread unchecked—but I am not yet committing riders to Dale or the Woodland Realm."
 
@@ -44,8 +44,7 @@ Linnea stepped beside Celenneth, resting her good hand lightly on her companion'
 
 Eofred studied her for a moment. "I will not risk Rohan's strength without understanding." He rose, his frame casting a long shadow in the firelight. "Rest here for the winter," he said, his tone final but welcoming. "Your warning will not go unheeded. By spring, we will know the truth—and we will act."
 
-________________________________________
-
+⁂
 With the promise of Rohan's vigilance, Celenneth and Linnea were given the hospitality of the hall. As they sat near the hearth, Linnea leaned back in her chair, distractedly tracing patterns on the long wooden table. "Well," she said, breaking the silence, "that could have gone worse."
 
 Celenneth didn't reply immediately, her sharp eyes fixed on the flames. The firelight cast her tense jaw in relief "It could have gone better," she said finally, her voice low. "He's too cautious."

@@ -42,7 +42,7 @@ The woman offered a knowing nudge. “You might as well tell her you’re proud,
 
 Linnea looked away, pretending indifference. Yet as Celenneth launched into the next story—an escapade involving a flooded river and a half-drowned packhorse—Linnea found herself leaning in. She’d never hear the end of it if she admitted it aloud, but there was no denying it: it really was a splendid tale.
 
-Sunlight spilled softly across the wooden floors, warming the quiet corners of their home as Celenneth stood at the small table, carving careful slices from a bright red apple. Leaning in the doorway, Linnea observed her partner’s clumsy cuts with half-amused, half-fond eyes. From the other room, Brynja’s gentle laughter rose and fell, as she and Freowen turned their simple play into small, joyful music. For once, it was just the two of them here in the kitchen, the world shrunk to a warm, private bubble.
+Sunlight spilled softly across the wooden floors, warming the quiet corners of their home as Celenneth stood at the small table, carving careful slices from a bright red apple. Leaning in the doorway, Linnea observed her partner’s clumsy cuts with half-amused, half-fond eyes. From the other room, Brynja’s gentle laughter rose and fell, as she and Freowyn turned their simple play into small, joyful music. For once, it was just the two of them here in the kitchen, the world shrunk to a warm, private bubble.
 
 “You really do butcher that fruit,” Linnea teased as she stepped forward, picking up a crooked slice. “How did you ever survive on your own? I’d think you’d have starved.”
 

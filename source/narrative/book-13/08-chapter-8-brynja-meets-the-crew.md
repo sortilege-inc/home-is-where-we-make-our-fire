@@ -50,7 +50,7 @@ Scents of freshly baked bread wafted from an open hatch where a plump elf man in
 
 ### Thalandir (Deckhand)
 
-In a shady corner, an elf man with a securely-bound row of potted** **herbs and an eyepatch meticulously watered his seedlings. The sight reminded Brynja of a humble gardener rather than a seafarer.
+In a shady corner, an elf man with a securely-bound row of potted herbs and an eyepatch meticulously watered his seedlings. The sight reminded Brynja of a humble gardener rather than a seafarer.
 
 “Hi,” she said quietly, tilting her head at his eyepatch. “Are you growing plants?”He paused in his watering, smiling gently. “I am. Does my patch surprise you? My name is Thalandir”Brynja nodded solemnly. “What are you growing?” She peered at the tiny buds in their pots.A soft chuckle escaped him. “Mostly hardy herbs. I try to keep something growing whenever I’m at sea. Reminds me that life always finds a way.”She thought that was beautiful—an odd, tender dream amid a rough, ocean-bound life.
 

@@ -60,8 +60,7 @@ Ellarien inclined her head. “I’ll see it done.”
 
 Thalanar mounted his horse again, his gaze sweeping across the thinning trees as if searching for one last threat. With a final nod, he turned and disappeared into the shadows of Mirkwood, leaving the party to face the open plains ahead.
 
-________________________________________
-
+⁂
 The transition from the dark, tangled forest to the rolling grasslands of Rhovanion was almost disorienting. The plains stretched endlessly before them, the grass shimmering golden under the sunlight. Linnea inhaled deeply, the scent of wildflowers and open air a welcome change from the damp decay of Mirkwood.
 
 Ellarien rode close to Linnea, her presence steady and reassuring. “Mareth will stay with you until we reach Rohan,” she said, patting the mare’s neck. “Once you’ve arrived safely, she’ll know the way back with me.”

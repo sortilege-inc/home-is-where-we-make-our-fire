@@ -78,7 +78,7 @@ Brynja shifted closer to Celenneth, her small fingers slipping into her mother�
 
 Linnea looked to Celenneth. “You know Gandalf far better than I; what do you think?”
 
-Celenneth sighed, her shoulders slumping slightly. “If he says you need to go, you need to go. Bryna and I will take care of things here.”
+Celenneth sighed, her shoulders slumping slightly. “If he says you need to go, you need to go. Brynja and I will take care of things here.”
 
 Linnea stepped closer to Celenneth, her fingers intertwining with hers. “I’ll be back soon,” she promised quietly. “Always.”
 

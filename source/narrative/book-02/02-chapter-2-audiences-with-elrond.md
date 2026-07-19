@@ -78,8 +78,7 @@ She dipped her quill and began.
 
 Celenneth folded the letter carefully, sealing it with wax and pressing the sigil of the Rangers into the soft red surface. She would entrust it to one of Rivendell’s messengers, ensuring it found its way to Bree. Rising, she cast a glance out the window toward the horizon, her thoughts still lingering on the one who held a piece of her heart.
 
-________________________________________
-
+⁂
 Unbeknownst to Celenneth, Orlen responds with the following:
 
 **Bree, Cermië 16, 2965
@@ -96,6 +95,5 @@ May the road rise to meet you, wherever it may lead. And should you ever return 
 
 With respect, Orlen
 
-________________________________________
-
+⁂
 The horse’s name is Nimroch, meaning "Pale Horse" in Sindarin. It reflects the grace and ethereal quality of an elven steed. Nimroch is a sturdy, silver-gray steed with a flowing mane that catches the light like moonlit water. A gift from Rivendell, Nimroch is calm under pressure, nimble-footed, and has an uncanny sense of direction. This horse embodies the enduring spirit of the Free Peoples, loyal to Celenneth and unyielding in the face of danger.

@@ -1,4 +1,4 @@
-# Chapter 1: The Bandits at Sarn Ford, and the Cursed Diadem.
+# Chapter 1: The Bandits at Sarn Ford
 
 *Nénimë 6, 2965*
 

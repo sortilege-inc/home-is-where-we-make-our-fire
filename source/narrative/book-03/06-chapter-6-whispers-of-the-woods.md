@@ -90,30 +90,27 @@ As Linnea ventured deeper, the sounds of the forest changed. The gentle rustling
 
 “Just a little farther,” the voice urges, though its sweetness now feels cloying, almost suffocating.
 
-________________________________________
-
+⁂
 Nimroch snorted again, his restlessness stirring Celenneth from her uneasy sleep. She sat up quickly, her ranger’s instincts sharp as she scanned the camp. The fire was low, and Eorlas remained asleep nearby, but Linnea’s place was empty.
 
 “Linnea?” Celenneth called out softly, her voice carrying an edge of alarm. There was no response.
 
-Her gaze dartedto the edge of the camp, and she noticed faint footprints leading into the forest. Without hesitation, Celenneth grabbed her weapons and rose, her heart pounding. The memory of the elf’s warning rushes back: “The whispers prey on those who wander alone.”
+Her gaze darted to the edge of the camp, and she noticed faint footprints leading into the forest. Without hesitation, Celenneth grabbed her weapons and rose, her heart pounding. The memory of the elf’s warning rushes back: “The whispers prey on those who wander alone.”
 
 “Linnea!” she called, her tone sharp enough to cut through the forest’s unnatural silence. “Linnea! Come back!”
 
-She kneelsed and roused Eorlas, her hand firm on his shoulder. “Linnea’s gone into the woods,” she said tersely. “The whispers have taken her.”
+She knelt and roused Eorlas, her hand firm on his shoulder. “Linnea’s gone into the woods,” she said tersely. “The whispers have taken her.”
 
 Eorlas awakened quickly, immediately grasping the gravity of the situation. He grabbed his staff, expression grim. “Then we must act swiftly. The forest does not forgive hesitation.”
 
-________________________________________
-
+⁂
 Farther in the forest, Linnea faltered at the sound of Celenneth’s voice. For a moment, the figure ahead flickered, edges indistinct. But then the voice of her “father” returned, drowning out her doubt.
 
 “Do not listen to them,” the voice pleaded, tinged with desperation. “Stay with me, my child. You’re almost home.”
 
 Linnea hesitated, torn between the love in the voice and the fear creeping into her heart.
 
-________________________________________
-
+⁂
 The forest seems to close in around them, the oppressive whispers rising and falling like the breath of a great unseen beast. But Celenneth was unyielding, her focus cutting through the haze as she followed Linnea's trail. Ahead, she spotted Linnea’s form through the tangled trees. The young woman stood frozen, her gaze locked on a flickering figure that shifted unnaturally in the shadows. Her bow hung loosely in her hand, and her face was a mixture of longing and confusion.
 
 “Linnea!” Celenneth called out again, her voice firm and steady. “It’s not real. Come back to us!”

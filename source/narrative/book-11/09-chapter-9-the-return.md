@@ -34,7 +34,7 @@ Lothair watched, transfixed. “By the stars,” he breathed. “You must be Dú
 
 Celenneth inclined her head modestly. “I am Dúnedain. It’s in my blood to know these lands.”
 
-“That explains your skill,” Lothair replied, gratitude shining in his gaze. “You’ve given me direction again. Allow me to return the favor.” He rummaged in his pack until he found a second sheet of parchment, more dog-eared than the first, and tapped at a symbol drawn with careful, if shaky, precision. “There’s a shrine somewhere south of here. Dunédain work, or so I believe. I’ve never visited—too prone to wandering off-course—but travelers have spoken of it, calling it the ‘Shrine of the Steadfast.’ It might be on your route, given the way you carry yourselves. If you have time, you might find it worth a look. Some say it’s a place of rest and reflection, touched by old blessings.”
+“That explains your skill,” Lothair replied, gratitude shining in his gaze. “You’ve given me direction again. Allow me to return the favor.” He rummaged in his pack until he found a second sheet of parchment, more dog-eared than the first, and tapped at a symbol drawn with careful, if shaky, precision. “There’s a shrine somewhere south of here. Dúnedain work, or so I believe. I’ve never visited—too prone to wandering off-course—but travelers have spoken of it, calling it the ‘Shrine of the Steadfast.’ It might be on your route, given the way you carry yourselves. If you have time, you might find it worth a look. Some say it’s a place of rest and reflection, touched by old blessings.”
 
 Linnea’s face lit with interest, and Celenneth felt a quiet stirring at the mention of Dúnedain legacy in the wilds. “A shrine,” she said thoughtfully. “We’ll keep it in mind. Thank you, Lothair.”
 

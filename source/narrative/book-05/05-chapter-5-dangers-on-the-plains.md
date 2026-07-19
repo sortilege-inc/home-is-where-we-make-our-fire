@@ -144,8 +144,7 @@ The orcs roared in frustration, clambering after her as she disappeared over the
 
 The orcs emerged from the depression too late, their leader bellowing in fury as he saw the group disappearing into the distance. The uneven terrain and the bottleneck had cost them precious time, and their prey was now well beyond reach.
 
-________________________________________
-
+⁂
 As the plains stretched out before them, the group slowed, their breaths ragged but relieved. Linnea turned to Celenneth, her face a mix of anger and awe. “That was reckless,” she said, her voice shaking. “But it worked.”
 
 Celenneth gave a faint, tired smile, her hands steady on Nimroch’s reins. “Sometimes, the best fight is the one you don’t have to finish.”

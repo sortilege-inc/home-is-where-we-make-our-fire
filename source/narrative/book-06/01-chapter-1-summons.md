@@ -12,8 +12,7 @@ Celenneth inclined her head respectfully. "What is it you wish of me, Marshal?"
 
 Eofred gestured to the map, motioning for her to step closer. “The orcs have been quiet through the snows, but that will not last. Scouts report movement along the edges of the Greenwood. I believe Dol Guldur is testing the resolve of the free peoples—seeking cracks in our defenses, alliances left unattended.”
 
-________________________________________
-
+⁂
 He pointed to several locations on the map. “There are three paths forward. First, we need clearer intelligence on their movements. A mission into the Greenwood to observe their numbers and strategies would be invaluable. You’ve worked with the elves of Mirkwood before. I would ask you to go to them again.”
 
 Celenneth studied the map, her sharp eyes tracing the points he indicated. “A dangerous path,” she said. “But necessary. What of the other options?”
@@ -24,8 +23,7 @@ Eofred’s hand shifted to the west. “Second, Rohan must strengthen its ties w
 
 Eofred’s expression darkened slightly as he moved his finger to the northeast. “The men of Dale and the dwarves of Erebor have their own concerns. Their distance from Dol Guldur has made them cautious. I need someone to remind them that the shadow’s reach does not stop at their borders. Convincing their leaders to commit resources—or riders—will not be easy.”
 
-________________________________________
-
+⁂
 Celenneth crossed her arms, her gaze thoughtful as she considered the paths laid before her. “Each mission has its risks,” she said. “And all are vital.”
 
 “Indeed,” Eofred agreed. “But the Riddermark cannot spare you for all three. The spring will come quickly, and you must choose where your skills will best serve.”
@@ -34,16 +32,14 @@ She looked up at him, her expression resolute. “And what do you think, Marshal
 
 Eofred hesitated, then gave a faint smile. “I value your insight, ranger. I called you here not to command you but to counsel with you. Where do you believe your efforts will do the most good?”
 
-________________________________________
-
+⁂
 Celenneth’s gaze lingered on the map, her thoughts turning to the challenges ahead. The Greenwood’s dark edges, where orcs and darker things lurked. The distant towers of Minas Tirith, where politics could sway armies. The mountain halls of Erebor and Dale, whose leaders’ trust must be earned.
 
 She straightened, meeting Eofred’s gaze. “If I am to undertake one of these missions, it must be the one that will unite our strength against Dol Guldur. Let me consider.”
 
 Eofred nodded, his respect for her evident in his steady gaze. “Take a day, but spring waits for no one.”
 
-________________________________________
-
+⁂
 The decision weighed heavily on Celenneth’s shoulders as she sat by the hearth in their shared quarters, the firelight flickering over her tense features. Linnea sat across from her, holding Brynja close. The baby slept peacefully, her small fingers curled around a corner of Linnea’s cloak. But the warmth of the moment couldn’t pierce the growing chill between the two women as the silence stretched.
 
 Finally, Linnea spoke, her voice quiet but firm. “You’ve already decided, haven’t you?”
@@ -60,8 +56,7 @@ Celenneth closed her eyes, drawing in a shaky breath. “I can’t promise that 
 
 Linnea shook her head, tears brimming in her eyes. “You always have to be the one to carry the weight, don’t you? You can’t just... let someone else take the burden for once.”
 
-________________________________________
-
+⁂
 The room fell into silence, broken only by the crackling fire and Brynja’s soft breaths. After a moment, Linnea sighed, her voice softer now. “I’ll stay,” she said, her words slow and deliberate. “For a season. Until Brynja is strong enough to ride with us. Freowyn can help, and I can keep training with Eadwyn. But Celenneth... if you don’t come back...”
 
 Celenneth rose from her seat, crossing the room to kneel beside Linnea. She placed a hand gently on Linnea’s arm, her voice low and raw. “I will come back."

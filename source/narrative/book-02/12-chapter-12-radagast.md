@@ -80,4 +80,4 @@ Celenneth hesitated, her sharp eyes softening slightly as she turned to face Lin
 
 Linnea’s lips pressed into a thin line. “It’s not exactly comforting, knowing there’s some kind of prophecy hanging over me.”
 
-“Prophecies are rarely comforting,” Celenneth said wryly. Then her tone softened. “But you don’t have to face it alone"
+“Prophecies are rarely comforting,” Celenneth said wryly. Then her tone softened. “But you don’t have to face it alone.”

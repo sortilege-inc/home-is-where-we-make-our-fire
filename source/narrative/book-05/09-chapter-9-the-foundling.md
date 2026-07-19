@@ -80,8 +80,7 @@ The relief in Linnea’s expression was mirrored in Celenneth’s posture as she
 
 As the infant settled into Freowyn’s arms, its cries quieted as it nursed for the first time in days, Celenneth and Linnea exchanged a glance.
 
-________________________________________
-
+⁂
 The firelight flickered low in the hearth of their room, casting long shadows on the wooden walls. Linnea sat cross-legged on the fur-covered floor.
 
 “We could have kept her,” Linnea said suddenly, breaking the silence. Her voice was soft but tinged with a quiet intensity.

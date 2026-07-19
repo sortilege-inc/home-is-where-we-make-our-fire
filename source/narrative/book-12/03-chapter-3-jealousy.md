@@ -32,7 +32,7 @@ The words hung heavy in the air, but Celenneth didn’t flinch. Instead, her exp
 
 Linnea leaned into Celenneth’s touch, her eyes brimming with unspoken emotion. “But I’m not the one carrying this child. You’re becoming a mother, and I’m… I don’t know. I feel like I’m on the outside of something I’ve always wanted.”
 
-Celenneth frowned slightly, her hand slipping down to cover Linnea’s. “You’re not on the outside. Linnea, you’re already a mother—to Brynja, in a thousand ays. This child may be growing inside me, but they will be yours just as much as they are mine.”
+Celenneth frowned slightly, her hand slipping down to cover Linnea’s. “You’re not on the outside. Linnea, you’re already a mother—to Brynja, in a thousand ways. This child may be growing inside me, but they will be yours just as much as they are mine.”
 
 “It’s not the same, though,” Linnea whispered, her voice breaking. “I want to carry this too, Celenneth. I want to feel them move inside me, to know what it’s like. I feel like I’m missing something that I can never have.”
 

@@ -50,8 +50,7 @@ Celenneth’s lips curved into the faintest smile. “Years of practice. And rem
 
 Linnea absorbed the words, her admiration for the ranger growing with each passing day. The firelight reflected in her eyes as she spoke softly, “I’m glad I’m not making this journey alone.”
 
-________________________________________
-
+⁂
 The fire burned low, casting long, flickering shadows across the grove. Celenneth sat quietly by its warmth, maintaining her sword with slow, deliberate movements. Nimroch grazed nearby, his soft snorts and the rustle of the stream providing a soothing backdrop to the stillness of the night.
 
 Linnea sat beside her, their conversation having faded into a companionable silence. Exhaustion finally overtook the younger woman, her head nodding slightly as she fought to stay awake. Before Celenneth could say anything, Linnea shifted, leaning against her side, and then, with a soft sigh, settled her head into Celenneth’s lap.

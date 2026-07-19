@@ -318,7 +318,7 @@ Merla’s mouth opened—but no words came.
 
 “We fed her, carried her... kept her warm through the dead of winter,” Linnea continued, her voice rough. “We survived.”
 
-Raising Brynja Harvin shook his head slowly, still struggling to absorb it all. “You... raised her.”
+Harvin shook his head slowly, still struggling to absorb it all. “You... raised her.”
 
 “Yes.” Linnea’s voice softened, even as her heart ached. “She’s... ours.”
 
@@ -564,7 +564,7 @@ He took a small, hesitant step back, as though unwilling to break the fragile mo
 
 Then, with one last, lingering glance, he turned and disappeared into the darkened path—back toward the cold, unyielding world he couldn’t change.
 
-Aftermath Linnea crumpled to her knees again, tears spilling unchecked down her face. “He... he cared.”
+Linnea crumpled to her knees again, tears spilling unchecked down her face. “He... he cared.”
 
 Celenneth knelt beside her, pulling her close with fierce, protective tenderness. “Yes.”
 

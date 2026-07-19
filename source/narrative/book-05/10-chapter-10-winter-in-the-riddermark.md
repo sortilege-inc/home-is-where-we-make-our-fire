@@ -30,13 +30,13 @@ Linnea kissed the top of Brynja's head, her heart full despite the ache in her m
 
 The sound of boots crunching on the frost outside drew Linnea’s attention, and her heart quickened as the door creaked open. Celenneth stepped inside, her frame illuminated briefly by the cold blue light of the evening before the door closed behind her. She looked winded but radiant, her cheeks flushed from the ride, and her auburn hair escaped in wild strands from beneath her cloak.
 
-“You’re back!” Linnea exclaimed, a smile lighting up her face. She scooped up Ríanna, standing to meet Celenneth. “I wasn’t expecting you for another two days.”
+“You’re back!” Linnea exclaimed, a smile lighting up her face. She scooped up Brynja, standing to meet Celenneth. “I wasn’t expecting you for another two days.”
 
 Celenneth smiled softly, a rare tenderness in her eyes. “I rode hard,” she said simply, her gaze flicking to Brynja. “I missed you both.”
 
 After shedding her cloak and boots, Celenneth approached Linnea, who held Brynja securely in her arms. She placed a hand on Linnea’s shoulder and leaned down to kiss Brynja's head, her expression softening even further as the baby cooed in recognition.
 
-Linnea chuckled, shifting Ríanna to her other arm. “She missed you too, though she’s been perfectly spoiled by Freowyn.”
+Linnea chuckled, shifting Brynja to her other arm. “She missed you too, though she’s been perfectly spoiled by Freowyn.”
 
 “I’m sure she has,” Celenneth said, her tone light. “But tonight, it’s your turn to be spoiled.”
 
@@ -66,8 +66,7 @@ Linnea laughed softly, her forehead resting against Celenneth’s. “You’ve s
 
 Celenneth smirked, her arms slipping around Linnea’s waist. “I look forward to it.”
 
-________________________________________
-
+⁂
 The morning air was sharp, biting but invigorating, as the sun cast its golden light over the snow-draped fields of Rohan. The snow glittered like stars fallen to earth, a quiet blanket softening the world. Celenneth stood beside Nimroch, the stallion’s breath clouding the frosty air, as she finished tying the last of the bindings that secured Brynja snugly to her chest. The baby was swaddled warmly in layers of wool, her tiny face peeking out, pink from the cold and wide with wonder at the bright, shimmering landscape.
 
 Linnea emerged from Freowyn’s house, bundled in a thick cloak borrowed from their hosts. She paused at the sight before her: Celenneth, standing tall and resolute, the baby nestled close, and Nimroch pawing the snowy ground impatiently. Linnea smiled, her heart warming despite the chill. “You look like a proper mother wolf with her cub,” she teased, adjusting her cloak.

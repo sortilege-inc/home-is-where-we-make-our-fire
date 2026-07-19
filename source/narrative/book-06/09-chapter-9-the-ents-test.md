@@ -36,7 +36,7 @@ For a moment, they stood locked in stillness, ancient and mortal staring across 
 
 The Ent finally spoke, its voice a deep, resonant rumble like the groaning of old trees in a fierce wind:
 
-**“Hoooom… a *****wanderer*****... far from where she belongs.”**
+**“Hoooom… a wanderer... far from where she belongs.”**
 
 Its words resonated through the clearing, measured and timeless.
 
@@ -44,7 +44,7 @@ Celenneth lowered her staff, her voice rough with exhaustion but steady. “I...
 
 The Ent’s golden eyes gleamed thoughtfully, as if considering something far beyond her simple plea. Its immense limbs shifted slowly, roots pulling free from the earth with a deep, echoing *crack.*
 
-**“Shelter... is not freely *****given***** in Fangorn.”**
+**“Shelter... is not freely given in Fangorn.”**
 
 Its gaze lingered on her broken leg, the worn scars of chains on her wrists, and the dark, cursed blade strapped to her belt.
 
@@ -52,7 +52,7 @@ Its gaze lingered on her broken leg, the worn scars of chains on her wrists, and
 
 The ground trembled faintly as the Ent took a slow, deliberate step forward.
 
-**“Come... the *****forest***** will decide... whether you remain.”**
+**“Come... the forest will decide... whether you remain.”**
 
 With no other choice, Celenneth steadied herself on her makeshift crutch and stepped forward, leaving the ruined traps and strange tracks behind.
 
@@ -84,7 +84,7 @@ A deep groan echoed through the grove, vibrating through the soil beneath her bo
 
 The Ent raised one massive arm, its bark-covered hand brushing the low-hanging branches above.
 
-**“You bear... *****marks...*****”** It rumbled, its gaze lingering on the dark scars across her wrists—remnants of Dol Guldur’s chains.
+**“You bear... marks...”** It rumbled, its gaze lingering on the dark scars across her wrists—remnants of Dol Guldur’s chains.
 
 *Accusing.*
 
@@ -92,7 +92,7 @@ The Ent raised one massive arm, its bark-covered hand brushing the low-hanging b
 
 The ancient being studied her fiercely, unmoved by mortal emotion.
 
-**“Escape... does not cleanse... what *****clings.*****”**
+**“Escape... does not cleanse... what clings.”**
 
 The cursed dagger at her side pulsed faintly, cold against her hip. She gritted her teeth, knowing she could not explain its presence.
 
@@ -124,7 +124,7 @@ Celenneth *fought.*
 
 She ripped the spectral chains from her wrists with a desperate scream, raw fury igniting within her. Her pain, her fear—*none of it would control her.*
 
-**“I *****escaped!*****”** she roared, shattering the illusion through sheer force of will.
+**“I escaped!”** she roared, shattering the illusion through sheer force of will.
 
 Her breath hitched as she was *pulled* back into the living world, knees pressed into damp earth, the forest still wrapped around her. Her body ached, her head swam, her leg throbbed*.*
 
@@ -134,7 +134,7 @@ The trees’ groaning ceased. Fangorn exhaled.
 
 The Ent inclined its massive head ever so slightly, as though acknowledging something unseen.
 
-**“You… *****fight.*****”**
+**“You… fight.”**
 
 Its voice softened—just enough to hint at approval.
 

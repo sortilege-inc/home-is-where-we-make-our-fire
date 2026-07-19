@@ -1,4 +1,4 @@
-# Chapter 7: Lost in Fanghorn
+# Chapter 7: Lost in Fangorn
 
 *Book 6*
 

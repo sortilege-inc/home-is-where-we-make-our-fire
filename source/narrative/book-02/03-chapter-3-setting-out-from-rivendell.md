@@ -10,7 +10,7 @@ The golden light of dawn spilled across Rivendell as Celenneth saddled Nimroch. 
 
 The morning was cool, a light mist clinging to the ground as Celenneth and Nimroch pressed onward. The path led them through rolling hills, where the grass grew long and wildflowers brushed against their boots and hooves. The stillness of the land was both a comfort and a warning; the wilds had grown quiet—perhaps too quiet.
 
-Brightmane proved invaluable, discovering a narrow deer trail that cut through a dense thicket, allowing Celenneth to bypass a rocky incline. As they neared a gentle river crossing, Celenneth noticed signs of game trails and a fox den, small markers that suggested the land here remained untouched by Shadow. Resting beneath a weathered oak tree, she felt a fleeting sense of hope.
+Nimroch proved invaluable, discovering a narrow deer trail that cut through a dense thicket, allowing Celenneth to bypass a rocky incline. As they neared a gentle river crossing, Celenneth noticed signs of game trails and a fox den, small markers that suggested the land here remained untouched by Shadow. Resting beneath a weathered oak tree, she felt a fleeting sense of hope.
 
 As night fell, Celenneth drifted into an uneasy sleep beneath the vast canopy of stars. The dream took hold of her mind, shifting her into a shadowy, surreal world.
 

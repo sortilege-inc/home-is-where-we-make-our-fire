@@ -56,7 +56,7 @@ Celenneth met her gaze, her expression serious. “Yes.”
 
 Linnea nodded slowly, her hand resting lightly on Brynja’s soft hair. “Then let’s hope this journey is worth it.”
 
-As the traveled, they took opportunities along the way to introduce Brynja to the skills of journeying. One evening, under a golden sunset, Celenneth knelt beside Brynja, showing her how to hold a small bow. Brynja’s laughter rang out as her first arrow veered far off course, embedding itself in a patch of moss. Linnea sat nearby, stitching a tear in Celenneth’s cloak, her smile soft as she watched her daughter’s delight.
+As they traveled, they took opportunities along the way to introduce Brynja to the skills of journeying. One evening, under a golden sunset, Celenneth knelt beside Brynja, showing her how to hold a small bow. Brynja’s laughter rang out as her first arrow veered far off course, embedding itself in a patch of moss. Linnea sat nearby, stitching a tear in Celenneth’s cloak, her smile soft as she watched her daughter’s delight.
 
 “Almost had it that time,” Celenneth encouraged, adjusting Brynja’s grip. “Try again. Steady this time.”
 

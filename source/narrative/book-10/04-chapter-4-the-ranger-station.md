@@ -4,7 +4,7 @@
 
 *Nénimë 24, 2970*
 
-The northern wind was merciless, hurling needles of ice against thick cloaks and stinging exposed skin. Celenneth guided Nimroch steadily across a barren field of snow, the horse’s hooves crunching dully in the silence. Linnea rode beside her on Eorlas, both women hunched low against the gusts. Eira followed a short distance behind, her hood pulled down tight, saying nothing as the day’s last light weakened against the endless white.
+The northern wind was merciless, hurling needles of ice against thick cloaks and stinging exposed skin. Celenneth guided Nimroch steadily across a barren field of snow, the horse’s hooves crunching dully in the silence. Linnea rode beside her on Eorlin, both women hunched low against the gusts. Eira followed a short distance behind, her hood pulled down tight, saying nothing as the day’s last light weakened against the endless white.
 
 They had come north in search of knowledge—and perhaps salvation. Rumors, scattered and half-remembered, had led them here. Celenneth sought information about two rangers—Brandor and Orlec—who had vanished years ago. Linnea followed because she would not let Celenneth face this alone. Eira had joined them for reasons of her own, a companion gained through tangled circumstances.
 

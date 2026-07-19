@@ -1,31 +1,35 @@
-# Chapter 2: Gandalf’s Request
+# Chapter 2: Gandalf's Request
 
-*Book 1*
+*Súlimë 8, 2965*
 
-*Súlìmë 8, 2965*
+Word reached her in Bree that Gandalf the Grey had come through, bound west, and Celenneth did not sit on it. She took up her pack and went out to find him on the road, and near midday she did — a tall grey figure on a wagon behind a stout pony, rolling unhurried toward the Shire.
 
-While in Bree, Celenneth heard rumors of Gandalf the Grey passing through. The news stirred something within her, a sense of urgency that would not allow her to sit idly by. She hurried to catch him on the road, leaving Bree with only her pack and her instincts to guide her. It was near midday when she finally spotted him—a tall figure in grey, riding a wagon drawn by a stout pony, headed towards the Shire.
+She came up quiet, but he had marked her long before she called; his eyes had a way of finding a thing before it announced itself. He slowed the wagon and let her fall in at the wheel.
 
-Celenneth approached the wagon cautiously, her footsteps crunching softly on the road. Gandalf turned his head slightly, his sharp eyes noticing her long before she called out. He slowed the wagon, and she fell in step beside it, walking alongside as he resumed his journey.
+"Celenneth." There was curiosity in it. "It is not often a ranger runs me down on the open road. And with such purpose."
 
-"Celenneth," Gandalf greeted, his voice tinged with curiosity. "It is not often I am pursued by a ranger, especially one with such urgency."
+"I hoped to catch you. I've come from the ruins south of here — there were things in them worth the telling. And I found these." She tipped her chin at her feet.
 
-She smiled faintly, keeping pace with the wagon. "I heard you were passing through and hoped to speak with you, Gandalf. There are things I have discovered—secrets buried in the ruins to the south, and... well, I have found these." She gestured towards her feet, the fine Númenórean boots that had carried her swiftly across the treacherous landscape.
+Gandalf's glance dropped to the boots, and his eyes narrowed with interest. "Ah. The work of Númenor — made for the long road and the hurts it deals. A rare find. They'll carry you well."
 
-Gandalf glanced down, his eyes narrowing thoughtfully as he examined the boots. "Ah, indeed," he said, nodding. "A remarkable find, Celenneth. They bear the mark of Númenor—crafted for travel and resilience. They will serve you well, I think."
+She told him the rest as they went: the brigands on the Baranduin, the drowned hall, the tower and the curse cut into its stone, the lady bound there in her grief and the crown she had drawn from a dead king's skull. She did not name the thing the cursed hall had left in her, but she felt it still — a cold lodged somewhere beneath the breastbone that had not thawed. Gandalf listened the way he did, eyes on the road, a low sound of acknowledgement now and then, giving nothing back until he was ready.
 
-As they walked, Celenneth recounted her recent journey—the brigands, the ruined city, the haunted tower, and the curse she had uncovered. She spoke of the wraith, of the heavy weight of Shadow that seemed to cling to her still. Gandalf listened in his characteristic silence, his gaze fixed on the road ahead, only occasionally nodding or making a low sound of acknowledgment.
+When she had finished he was quiet a long while.
 
-When Celenneth finished, Gandalf remained quiet for a long moment, his brow furrowed in thought. Eventually, he spoke, his voice calm but with an edge of gravity. "You have grown much in the year since we last met. I believe you were but a child then, albeit one with responsibilities upon your shoulders. Now, you've matured in years, wisdom, and ability."
+"You have grown," he said at last. "When we last spoke you were near a child — a child with a grown woman's burdens laid on her, but a child. You are neither now."
 
-He paused, his eyes meeting hers. "I have a discreet task that may suit you well—a message that needs relaying. Balin the dwarf attempted to make contact with the dwarves of Moria, and I've not heard back from him or these potential allies. Should they be well, I ask that you relay this message to them. If they've met some untoward fate, I ask that you return and inform me."
+He let the wagon roll a few turns of the wheel.
 
-Celenneth's breath caught at the mention of Moria, a place wrapped in both legend and darkness. Gandalf continued, his tone grave. "Moria is not for the faint of heart—it is perilous. Exercise discretion; do not charge in headlong. If I haven't heard from you in four months' time, I will seek you out."
+"I have an errand that might suit you. A quiet one." His voice took on weight. "Balin the dwarf went to treat with the folk of Moria, and neither he nor they have sent me word since. If they are well, I would have my message reach them. If some ill has found them, come back and tell me of it."
 
-She was awestruck that Gandalf would entrust her with such a mission, her heart swelling with both pride and apprehension. She nodded, her voice steady as she replied, "I will deliver the message to Balin or to the dwarves of Moria, whatever state they may be in."
+*Moria.* The name went through her like cold water, and Gandalf saw it land.
 
-Gandalf smiled, though there was a hint of sadness in his eyes. He reached into his cloak and produced a small, bound parchment, sealed with wax and marked with symbols that shimmered faintly with a magic she could not understand. He handed it to her carefully. "Take this. It bears words for Balin. Guard it well, for it must not fall into the wrong hands."
+"It is no place for the bold," he said. "It is perilous in ways that have nothing to do with courage. Go carefully. Do not walk in as though the dark owed you passage. And if four months pass with no word of you, I will come looking."
 
-Celenneth accepted the message, tucking it safely into her pack. They continued on together for a while longer, their conversation turning to lighter topics—the Shire and its hobbits, the simple joys Gandalf spoke of with a glimmer of fondness. Eventually, their paths diverged, Gandalf continuing towards the Shire, and Celenneth turning back towards Bree.
+That he would set such a thing in her hands — she felt the size of it, pride and unease in the same breath, and let neither reach her face. "I'll see it to Balin," she said, "or to whoever holds Moria now. Whatever state I find them in."
 
-She returned to the village with renewed purpose. Over the next few days, she prepared for the journey ahead. She sharpened her sword, checked her supplies, and gathered what provisions she would need for the long road south and then east, towards the Misty Mountains. The thought of Moria filled her with a mixture of dread and determination, but she knew this was her path.
+Gandalf smiled, and there was something sad at the edge of it. He drew a small sealed parchment from his cloak, the wax stamped with marks that caught the light strangely, and set it in her hand as though it might bruise. "For Balin's eyes. Guard it well — it must not fall to the wrong ones."
+
+She stowed it deep in her pack. They went on together a little farther, and the talk eased — the Shire, its hobbits, small green comforts he spoke of with unexpected fondness — until the road forked and took them apart, him west toward the Shire, her back toward Bree.
+
+She returned with the errand already turning in her. Over the next days she made ready: an edge put back on her sword, her stores checked and made good, provisions laid in for the long road south and then east, to the roots of the Misty Mountains. Moria sat in her thoughts like a stone in a boot — dread and resolve together. But it was her road now. She had said as much.

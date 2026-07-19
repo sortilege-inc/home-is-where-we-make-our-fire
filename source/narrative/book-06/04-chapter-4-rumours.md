@@ -34,4 +34,4 @@ Celenneth nodded, filing the information away. “And now?”
 
 That night, as she lay in her rented room, the sounds of the city fading into the stillness of her thoughts, Celenneth weighed her options. She had come to Minas Tirith to warn Gondor, but the Steward’s hesitation left her with a choice: return north and regroup, or follow this thread and uncover what the orcs were doing near the Entwash.
 
-The decision came swiftly. She had seen too much of the Shadow’s cunning to dismiss this as chance. If Gondor couldn’t spare the men to investigate, she would go herself. It was a slight detour on her was back to Edoras, but if she couldn’t get an affirmation from the steward, perhaps this service would be equally useful to the Free Peoples.
+The decision came swiftly. She had seen too much of the Shadow’s cunning to dismiss this as chance. If Gondor couldn’t spare the men to investigate, she would go herself. It was a slight detour on her way back to Edoras, but if she couldn’t get an affirmation from the steward, perhaps this service would be equally useful to the Free Peoples.

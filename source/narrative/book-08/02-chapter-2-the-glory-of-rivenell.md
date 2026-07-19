@@ -38,9 +38,9 @@ Elrond inclined his head. “He spoke of you with trust and respect. Gandalf sen
 
 Celenneth’s throat tightened as memories surfaced—Balin’s laughter, his unyielding spirit, the way he spoke of his dreams for Khazad-dûm. “He was a good friend,” she said quietly. “And a better leader than most gave him credit for.”
 
-An elf stepped forward, bearing a long, cloth-wrapped bundle. Elrond gestured toward it. “There is more. The mithral Balin entrusted to us has been crafted into armor—a gift in his memory and a token of gratitude for your service.”
+An elf stepped forward, bearing a long, cloth-wrapped bundle. Elrond gestured toward it. “There is more. The mithril Balin entrusted to us has been crafted into armor—a gift in his memory and a token of gratitude for your service.”
 
-The cloth was unwrapped, revealing a gleaming breastplate of mithral, its surface etched with swirling designs that caught the light like water under moonlight. Celenneth’s breath caught as she stepped closer.
+The cloth was unwrapped, revealing a gleaming breastplate of mithril, its surface etched with swirling designs that caught the light like water under moonlight. Celenneth’s breath caught as she stepped closer.
 
 “It is light yet strong,” Elrond said reverently. “A protection worthy of one who walks in shadow to guard the light.”
 
@@ -50,7 +50,7 @@ Elrond inclined his head solemnly. “Let it serve you well, Celenneth of the D�
 
 Celenneth lifted the armor, feeling its strength and the weight of her resolve. “Thank you, Lord Elrond. For this, and for remembering him.”
 
-As she turned to leave, the mithral caught the glow of the firelight, casting faint reflections on the walls. Though her loss lingered, Celenneth felt a renewed strength, the memory of Balin now a shield for the challenges ahead.
+As she turned to leave, the mithril caught the glow of the firelight, casting faint reflections on the walls. Though her loss lingered, Celenneth felt a renewed strength, the memory of Balin now a shield for the challenges ahead.
 
 The soft murmur of Rivendell’s streams filled the air as Linnea sat beneath an ancient elm, Brynja asleep against her chest. The child’s even breathing matched the rhythmic cadence of the waterfalls, offering a rare moment of stillness. A few steps away, Celenneth stood speaking with one of Elrond’s advisors, her posture confident, her presence magnetic.
 

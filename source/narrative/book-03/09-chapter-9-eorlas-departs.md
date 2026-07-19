@@ -26,7 +26,7 @@ Linnea nodded, her voice soft. “Thank you, Eorlas. For everything. I've learne
 
 Eorlas reached into his satchel and produced a small vial filled with a faintly glowing liquid. “This is for you,” he said, handing it to Celenneth. “An elixir brewed from the light of the golden clearing. It will restore strength in your darkest hour.”
 
-As he began to walk away, he paused and turned back to Celenneth. “When you reach Dale,” he said, his voice carrying over the wind. “Seek out a woman named Elenna, in the market. Tell her that Farnath is save, that Eorlas still walks, and that there is a light against the Shadow.”
+As he began to walk away, he paused and turned back to Celenneth. “When you reach Dale,” he said, his voice carrying over the wind. “Seek out a woman named Elenna, in the market. Tell her that Farnath is safe, that Eorlas still walks, and that there is a light against the Shadow.”
 
 Celenneth nodded, committing the name and message to memory. “I will,” she promised.
 

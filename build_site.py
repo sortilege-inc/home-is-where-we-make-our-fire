@@ -58,10 +58,15 @@ def md_to_html(text, img_prefix="../assets/images/"):
     Handles: ### headings, ![](..img..) images, '- ' lists, paragraphs
     with **bold**/*italic*.  Blocks are separated by blank lines."""
     out = []
+    # ensure a scene-break sentinel is always its own block
+    text = re.sub(r"(?m)^[ \t]*⁂[ \t]*$", "\n\n⁂\n\n", text)
     blocks = re.split(r"\n\s*\n", text.strip())
     for b in blocks:
         b = b.strip()
         if not b:
+            continue
+        if b == "⁂":  # normalized scene break
+            out.append('<div class="scene-break"></div>')
             continue
         # image-only block (may be one or more image lines)
         img_lines = [l for l in b.splitlines() if l.strip()]
@@ -84,6 +89,50 @@ def md_to_html(text, img_prefix="../assets/images/"):
         para = " ".join(l.strip() for l in b.splitlines() if l.strip())
         out.append(f"<p>{inline(para)}</p>")
     return "\n".join(out)
+
+# ------------------------------------------------------------------ footnotes (the actual-play Ledger)
+FN_DEF = re.compile(r"^\[\^([\w-]+)\]:\s?(.*)$")
+FN_REF = re.compile(r"\[\^([\w-]+)\]")
+
+def md_with_footnotes(text, prefix):
+    """Markdown -> (body_html, ledger_html). Footnote definitions
+    `[^id]: text` are pulled from the body; inline `[^id]` references become
+    numbered superscripts linking to a per-chapter Ledger of game-mechanical
+    events (see STORY-BIBLE.md section 5)."""
+    defs, body_lines = {}, []
+    for l in text.split("\n"):
+        m = FN_DEF.match(l.strip())
+        if m:
+            defs[m.group(1)] = m.group(2).strip()
+        else:
+            body_lines.append(l)
+    body = "\n".join(body_lines)
+    order = []
+    for m in FN_REF.finditer(body):
+        if m.group(1) not in order:
+            order.append(m.group(1))
+    num = {fid: i + 1 for i, fid in enumerate(order)}
+    html_body = md_to_html(body)  # refs survive escaping as literal [^id]
+
+    def _ref(m):
+        fid = m.group(1)
+        n = num.get(fid)
+        if n is None:
+            return ""  # dangling reference: drop it
+        return (f'<sup class="fnref" id="{prefix}-ref-{fid}">'
+                f'<a href="#{prefix}-fn-{fid}">{n}</a></sup>')
+    html_body = FN_REF.sub(_ref, html_body)
+
+    ledger = ""
+    if order:
+        items = ""
+        for fid in order:
+            items += (f'<li id="{prefix}-fn-{fid}"><span class="fn-n">{num[fid]}</span>'
+                      f'<span class="fn-t">{inline(defs.get(fid, ""))}</span>'
+                      f'<a class="fn-back" href="#{prefix}-ref-{fid}" title="back to text">↩</a></li>')
+        ledger = (f'<aside class="ledger"><h4>Ledger</h4>'
+                  f'<ol class="fnlist">{items}</ol></aside>')
+    return html_body, ledger
 
 # ------------------------------------------------------------------ page chrome
 NAV = [
@@ -133,6 +182,7 @@ def crumb(depth, *trail):
 # ------------------------------------------------------------------ narrative model
 def read_book(bookdir):
     """Return (intro_html, [chapters]) for a book directory."""
+    bn = int(re.search(r"book-(\d+)", bookdir).group(1))
     intro = []
     chapters = []
     for fn in sorted(os.listdir(bookdir)):
@@ -141,18 +191,26 @@ def read_book(bookdir):
         raw = open(os.path.join(bookdir, fn), encoding="utf-8").read()
         lines = raw.splitlines()
         h1 = lines[0][2:].strip() if lines and lines[0].startswith("# ") else fn
-        # strip the '# heading' line and the '*Book N*' echo line
+        # strip the '# heading' line and the '*Book N*' echo — but keep the dateline
         body_lines = lines[1:]
         while body_lines and (not body_lines[0].strip()
-                              or re.match(r"^\*.*\*$", body_lines[0].strip())):
+                              or re.match(r"^\*Book\b.*\*$", body_lines[0].strip(), re.I)):
             body_lines.pop(0)
+        # a leading italic line is the chapter dateline
+        cdate = ""
+        if body_lines and re.match(r"^\*[^*]+\*$", body_lines[0].strip()):
+            cdate = body_lines.pop(0).strip().strip("*").strip()
+            while body_lines and not body_lines[0].strip():
+                body_lines.pop(0)
         body = "\n".join(body_lines)
         if "DRAFT DO NOT READ" in h1:
             continue
         m = re.match(r"Chapter\s+(\d+)\s*[:.]\s*(.+)", h1)
         if m:
-            chapters.append({"num": int(m.group(1)), "name": m.group(2).strip(),
-                             "html": md_to_html(body)})
+            cnum = int(m.group(1))
+            cbody, cledger = md_with_footnotes(body, f"b{bn}c{cnum}")
+            chapters.append({"num": cnum, "name": m.group(2).strip(),
+                             "html": cbody, "ledger": cledger, "date": cdate})
         else:
             intro.append(md_to_html(body))
     return "\n".join(intro), chapters
@@ -488,9 +546,10 @@ def build_chronicle():
                       for c in chapters)
         secs = ""
         for c in chapters:
+            datep = f'<p class="chapter-date">{html.escape(c["date"])}</p>' if c.get("date") else ""
             secs += (f'<section class="chapter" id="ch-{c["num"]}">'
                      f'<h2 class="chapter-head"><span class="cno">{c["num"]}</span>{html.escape(c["name"])}</h2>'
-                     f'{c["html"]}</section>')
+                     f'{datep}{c["html"]}{c.get("ledger","")}</section>')
         intro_html = f'<div class="panel">{intro}</div>' if intro.strip() else ""
         # pager
         prev_a = (f'<a href="book-{books[i-1][0]:02d}.html"><span class="dir">‹ Previous</span>{books[i-1][1]}</a>'

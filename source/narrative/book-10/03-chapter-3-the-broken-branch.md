@@ -12,13 +12,13 @@ As they crossed into Tarnath’s outskirts, Linnea noticed the shift in atmosphe
 
 Celenneth had warned them about Tarnath: it was a crossroads town with a hard reputation, a place mercenaries and cutthroats passed through. But word had it that Brandor and Orlec once stopped here too. They needed confirmation, maybe even a map or name from the tavern known as the Broken Branch.
 
-They led their horses—Nimroch for Celenneth, Eorlas for Linnea, and Eira’s borrowed mare—toward the old tavern at the end of Tarnath’s main row. The Broken Branch sign hung crookedly, paint chipped, barely readable. Even from outside, laughter rang out, harsh and rowdy, mixed with curses and the slam of mugs on tables. The late afternoon light did little to soften the place’s rough edges.
+They led their horses—Nimroch for Celenneth, Eorlin for Linnea, and Eira’s borrowed mare—toward the old tavern at the end of Tarnath’s main row. The Broken Branch sign hung crookedly, paint chipped, barely readable. Even from outside, laughter rang out, harsh and rowdy, mixed with curses and the slam of mugs on tables. The late afternoon light did little to soften the place’s rough edges.
 
 Linnea’s shoulders tightened. She remembered the Silver Lily’s warmth and discreet comfort. This would be nothing like that. Celenneth caught her eye, giving a small nod of reassurance. Eira remained quiet, but Linnea noticed her hand hovering near her belt, where a dagger was sheathed.
 
 “Let’s tie the horses around back,” Celenneth said softly, voice steady. “We won’t linger long.”
 
-They found a rail behind the tavern. A few other horses stood there, thick-shouldered animals that looked well-used by hard riders. Linnea patted Eorlas, whispering a soothing word. Eira scanned the alley with a wary gaze. Satisfied, they made their way to the front door. The building’s weather-beaten planks creaked underfoot.
+They found a rail behind the tavern. A few other horses stood there, thick-shouldered animals that looked well-used by hard riders. Linnea patted Eorlin, whispering a soothing word. Eira scanned the alley with a wary gaze. Satisfied, they made their way to the front door. The building’s weather-beaten planks creaked underfoot.
 
 Inside, the Broken Branch smelled of old ale, cheap pipeweed, and sweat. Lamplight cast shadows over worn tables, and the hearth’s smoke hung in the air. Mercenaries in battered leather armor crowded around small tables, nursing drinks and grunting through broken-toothed smiles. The noise dipped slightly as the trio entered. Eyes turned their way: Linnea’s slender frame, Celenneth’s confident posture, Eira’s calm watchfulness. Three women who didn’t fit the usual mold of this place.
 
@@ -94,7 +94,7 @@ Outside, the fading daylight felt cleaner. The tension ebbed as they stepped awa
 
 Eira sighed softly. “That could have gone worse.”
 
-Linnea nodded, checking Eorlas’s girth. “Yes, but we got what we needed.”
+Linnea nodded, checking Eorlin’s girth. “Yes, but we got what we needed.”
 
 Celenneth mounted Nimroch, looking off to the north where the hills would rise unseen in the gloom. “We’ve a rough route now,” she said quietly. “Between this and what we learned from the Lily, we’re closer to tracing Brandor and Orlec’s steps.”
 
