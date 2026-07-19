@@ -1,81 +1,67 @@
 # Chapter 6: Discovery
 
-*Book 4*
-
 *Narquelië 17, 2965*
 
-The clearing in the daylight was a world transformed. The sun had climbed above the horizon, casting long, golden rays that filtered through the gaps in the treetops, illuminating the grasses and wildflowers that swayed gently in the morning breeze. The oppressive heat of the night had lifted, replaced by a cool freshness that seemed to breathe new life into the clearing. The river flowed nearby, its waters glittering in the light, a soft gurgling that was both peaceful and steadying. Birds flitted through the branches above, their songs weaving together to create a gentle chorus that added to the tranquility of the scene. Everything felt soft, renewed, as though the earth itself had decided to grant them a reprieve after the fevered intensity of the night before.
+By daylight the clearing was another country. The sun stood well up, pouring gold through the gaps in the canopy onto grass and wildflowers that stirred in a cool morning breeze; the oppressive heat of the night had burned off entirely, and the river ran bright and easy beside them. Birds sang overhead — a sound they had not heard since they entered the deep wood. Everything felt scrubbed clean, as though the land had granted them a reprieve after the fever of the dark.
 
-Celenneth stirred first, her body stiff but her mind at ease. She sat up slowly, her eyes taking in the beauty of the clearing, the sunlight warming her skin, and for a moment, the events of the night before seemed like a distant dream. Beside her, Linnea lay wrapped in their cloak, her breathing slow, her face softened by sleep. Celenneth smiled, reaching out to brush a stray lock of hair from Linnea's forehead, her fingers lingering as she took in the serenity that seemed to radiate from her lover.
+Celenneth woke first, stiff but easy in her mind. Beside her Linnea lay wrapped in the cloak, her face soft with sleep, and Celenneth brushed a strand of hair from her brow and let her fingers rest there a moment before she rose. They dressed slowly, packed without hurry, traded small smiles that wanted no words, and set off following the river upstream, the air sweet with damp earth and blossom.
 
-They dressed slowly, taking their time as they packed away their few belongings, their movements unhurried, each glance and smile between them filled with a tenderness that needed no words. The world felt still, hushed, as if holding its breath, allowing them this moment to bask in each other's presence. Once Nimroch was ready, they set off, following the river upstream, the path dappled with sunlight, the air fragrant with the scent of damp earth and blooming flowers.
+The peace did not hold long. As they went on the trees drew close again, the canopy thickened, and the old feeling of being watched returned — but changed now, less a threat than a curiosity. Celenneth and Linnea exchanged a glance, hands drifting to their weapons.
 
-The tranquility of the morning did not last long. As they continued their journey, the trees began to grow denser, the forest closing in around them, the shadows lengthening as the canopy grew thicker. The path narrowed until it was barely a trail, and the sense of being watched returned, though this time it was different—less threatening, more curious. Celenneth and Linnea exchanged glances, their hands resting instinctively on their weapons as they moved, their eyes scanning the forest around them.
+A rustle in the underbrush, and then laughter — light, musical, unmistakably mischievous. Linnea's head snapped round, and before she could place it an arrow whipped through the air and buried itself in a trunk a hand's breadth from her head. More laughter followed, delighted with itself.
 
-Suddenly, there was a rustle in the underbrush, followed by the sound of laughter—light, musical, and unmistakably mischievous. Linnea's head snapped around, her eyes narrowing as she tried to locate the source of the sound, but before she could react, an arrow whizzed through the air, embedding itself in a tree trunk just inches from her head. A burst of laughter followed, and Celenneth's eyes widened, her hand tightening on her bow.
+From the shadows stepped a band of Elves, bows slung careless over their shoulders, their clothes the greens and browns of the wood so that they seemed half made of it. One came forward — tall, with hair the color of turning leaves — his grin flicking between the two women.
 
-From the shadows stepped a group of elves, their faces adorned with playful smiles, their eyes sparkling with amusement. They moved gracefully, their bows slung casually over their shoulders, their clothes blending almost seamlessly with the greens and browns of the forest. One of them, a tall elf with hair the color of autumn leaves, stepped forward, his gaze flicking between Celenneth and Linnea, his lips curling into a grin.
+"Good morning, travelers," he said, brimming with mirth. "We couldn't help but mark the delightful performance you gave us last night. Truly — a spectacle worthy of a song."
 
-"Good morning, travelers," he said, his voice dripping with mirth. "We couldn't help but notice the... delightful performance you two gave us last night. Truly, it was a spectacle worthy of song." He winked, his companions snickering behind him, their laughter soft, lilting, echoing among the trees.
+Celenneth's face heated; beside her Linnea had gone crimson. "You were *watching?*" Linnea managed, caught between mortification and outrage.
 
-Celenneth's cheeks flushed, her eyes widening as she glanced at Linnea, whose face had turned a deep shade of crimson. "You were watching?" Linnea managed, her voice a mixture of embarrassment and indignation.
+"Indeed we were." He bowed slightly, eyes dancing. "The stars, the drums, the passion — a fine show. We rarely see travelers give themselves to the wood so freely. Consider it your welcome to the realm of the Woodland Elves."
 
-The elf laughed, nodding. "Indeed we were. The stars, the drums, the passion—it was quite the show. Though I must say, we rarely see such... unrestrained displays from travelers in these woods." He bowed slightly, his eyes twinkling with mischief. "Consider it a welcome to the realm of the woodland elves."
+A second Elf stepped forward before Celenneth could find a reply — a woman with long silver hair, her smile gentle though her eyes were sharp. "Don't be shamed by it," she said. "The forest is alive, and it loves those who love deeply. You honored it, and it has granted you safe passage in return."
 
-Celenneth opened her mouth to respond, but another elf, a woman with long, silvery hair, stepped forward, her smile gentle but her eyes sharp. "Do not be embarrassed," she said, her tone softer, though no less teasing. "The forest is alive, and it loves those who love deeply. You honored it last night, and it has granted you safe passage in return."
+Linnea swallowed, and a hesitant smile tugged at her. "Then — I suppose we should thank you."
 
-Linnea swallowed, her gaze flicking to Celenneth, a hesitant smile tugging at her lips. "Well, I suppose... we should thank you then," she said, her voice still shaky, her cheeks still flushed.
+"Think nothing of it." The autumn-haired Elf stood aside and gestured them on. "The river runs to our halls. Perhaps, if you'd like, we'll show you more of what this wood has to offer. Eryndor, I'm called." He winked.
 
-The lead elf nodded, his grin widening. "Think nothing of it," he said, stepping aside and gesturing for them to pass. "The river leads to our halls. Perhaps, if you wish, we might show you more of the delights this forest has to offer. My name is Eryndor, by the way." He winked, his eyes twinkling with amusement.
+The silver-haired woman inclined her head. "And I am Arannis. We'll take you to our lord. There is much to discuss — and perhaps more to enjoy."
 
-Celenneth glanced at Linnea, her expression caught between exasperation and amusement. She gave a small nod, her lips curving into a smile. "Lead on, then," she said, her voice steady, though her eyes still held a hint of embarrassment.
+They followed. The trees grew taller as they went, ancient trunks thick as towers, their high leaves whispering; Eryndor led with an easy grace, breaking now and then into a snatch of song that seemed to quiet the wood around him, and Arannis walked beside the two women with a curious, warm attention.
 
-The elf woman with the silvery hair stepped forward, her eyes warm as she introduced herself. "I am Arannis," she said, her voice gentle. "We will take you to our lord. There is much to discuss, and perhaps more for you to enjoy."
+At last the forest opened, and the halls of the Woodland Elves lay before them — a lattice of platforms and slung bridges woven high into the branches, silver lanterns glowing amid the leaves, the whole of it grown into the trees rather than built upon them. They climbed a stair that spiraled the trunk of a vast oak, wide-eyed, and were brought at the top to a great pavilion roofed in living boughs, where a tall figure waited.
 
-Together, they followed the elves, their footsteps light on the forest floor, the laughter of their mischievous guides echoing around them as they moved deeper into the heart of the woodland realm.
+Thalion, lord of the Woodland Realm, stood with the ease of long authority — hair golden as sunlight, eyes deep as forest pools, robed in green, a slender crown of woven leaves at his brow. He smiled as Eryndor and Arannis brought the travelers before him.
 
-The journey through the woods was a strange blend of serenity and anticipation. The trees grew taller, their trunks thick and ancient, their leaves whispering secrets high above. Eryndor led them with an easy grace, his voice occasionally breaking into song, the words fluid and haunting, carrying a magic that seemed to calm the forest itself. Arannis moved beside them, her presence reassuring, her gaze lingering on Celenneth and Linnea with curiosity.
+"Welcome," he said, his voice rich and low. "I am Thalion. Word of your coming reached me. You have my hospitality while you tell me the cause of it."
 
-Eventually, the forest opened up into a great clearing, and before them lay the halls of the woodland elves—a network of tree-top platforms and suspended bridges, all hidden within the branches of the ancient forest. The structures were elegant, woven into the trees as if they had grown there naturally, lanterns of silver light glowing amidst the foliage.
+Celenneth bowed her head. "My lord. I am Celenneth, of the Dúnedain, and this is my companion Linnea, and my horse Nimroch, gift of Elrond in Imladris. We come bearing a message from the King of Dale."
 
-Eryndor gestured for them to ascend a winding staircase that spiraled around the trunk of a massive oak. Celenneth and Linnea climbed, their eyes wide as they took in the beauty of the elven settlement. At the top, they were led to a large pavilion, its ceiling woven from living branches, where a tall figure awaited them.
+Thalion's brows lifted a fraction. "Dúnedain, Dale, and Imladris — a curious weave. What matter carries you so far?"
 
-The lord of the woodland elves, a striking figure with hair as golden as sunlight and eyes deep forest pools, stood with an air of authority. He wore robes of deep green, and around his brow was a delicate crown of woven leaves. He smiled as Eryndor and Arannis led Celenneth and Linnea before him.
+Linnea stepped up, steady despite her nerves. "Bain, King of Dale, seeks assurance of your alliance, my lord. With new shadows stirring, he thinks it wise to see old bonds reaffirmed."
 
-"Welcome, travelers," he said, his voice rich and melodic. "I am Thalion, lord of this woodland realm. I have heard of your journey, and I grant you hospitality while you explain your presence.."
+"The alliance exists," Thalion said, a bemused smile playing at his mouth. "But I see little cause to call upon it. The Greenwood stands untouched, and Dale's borders are far."
 
-Celenneth bowed her head slightly, her voice steady as she spoke. "My lord Thalion, we are grateful for your welcome. I am Celenneth, of the Dúnedain, and I come with my companion, Linnea, and my horse, Nimroch, which I received from Elrond in Imladris. We come to relay a message from the king of Dale.
+Celenneth kept her tone even. "We've seen the cause with our own eyes, my lord. The Shadow of Dol Guldur is waking. I have crossed this forest with the King's scouts and found orcs moving through it in ordered bands — testing, probing for weakness — and wards of dark sorcery laid across the paths." She unrolled the map and stepped forward to show him the marks. "This is no idle raiding. It is a thing being made ready."
 
-Thalion's eyes widened slightly, surprise flickering across his features. "Dúnedain, Dale, and Imladris," he mused. "A curious combination. What matter could have brought you all the way from Dale to our realm?"
+Thalion's amusement drained as he studied the map, his brow drawing down. "This is troubling indeed," he said quietly. "If it is as you show me, there is much here to weigh." He looked up, grave. "I must take counsel with my council before I answer."
 
-Linnea stepped forward, her voice steady despite the nervousness she felt. "My lord, Bain, the king of Dale, wishes reassurance regarding your alliance. With the rumors of new threats, he believes it wise to reaffirm your bonds."
+Then, as if setting the matter deliberately aside, the ease returned to him, and a glint of mischief with it. "But you are weary from a hard road. Tell me — have you tasted the joys of the Elves?"
 
-Thalion raised an eyebrow, a bemused smile playing on his lips. "The alliance, yes. It exists, of course. But I see no reason for it to be utilized. The Greenwood remains untouched, and the borders of Dale are distant."
+Celenneth traded a glance with Linnea; both shook their heads. "We have not, my lord."
 
-Celenneth frowned slightly but maintained an even tone. "My lord, we have seen signs of danger. The Shadow of Dol Guldur grows. The scouts of Dale and I have encountered orcs moving through the forest. They are testing our defenses, probing for weakness." She unrolled a map, stepping forward to show Thalion the marked locations. "We have encountered magical wards in the Mirkwood, and our sightings indicate organized movements of orcish troops. The Shadow is not content to remain dormant."
+His smile widened. "Then you must, and fully. Rest, and take your pleasure of my halls, while I see to this. When I am ready to give you my mind, you will be summoned." He gestured to Arannis and Eryndor. "My friends will see to your every comfort."
 
-Thalion's expression shifted, the amusement fading from his eyes. He studied the map, his brow furrowing. "This is troubling indeed," he said quietly. "If true, there is much here to concern ourselves with." He paused, then looked up, his gaze serious. "I will need to confer with my council."
+⁂
 
-After a moment, his demeanor changed, the tension in his posture easing. He smiled, a hint of mischief returning to his eyes. "But come, you must be weary from your journey. Are you familiar with the joys of the elves?"
+Arannis and Eryndor led them away along paths that wound through gardens grown wild and lovely, and brought them at last to a secluded lawn and a spring lit with a soft, unearthly light, the air heavy with the scent of blossom.
 
-Celenneth exchanged a glance with Linnea, both of them shaking their heads slightly. "We are not, my lord," she replied.
+"Here you may wash the road from you," Eryndor said, teasing. "Allow us to help."
 
-Thalion's smile widened. "Then you must experience them fully. Rest and enjoy yourselves while I see to this matter. When I am ready to declare my intent, I will summon you." He gestured to Arannis and Eryndor. "My friends will be your companions. They will show you every hospitality our halls can offer."
+Celenneth hesitated, and found Linnea's eyes, and the warmth in Arannis's steadied her; she nodded, and the Elves came forward, and undressed them with light, respectful, unhurried hands. The water was warm as they stepped in, and the last of the journey's ache went out of them. Arannis poured a fragrant oil into the spring and worked her fingers through Celenneth's hair, kneading her scalp until she sighed; Eryndor did the same for Linnea, humming low under the rustle of the leaves. They bathed the two women with a care that was luxurious and strange and wholly disarming, as if the wood itself had gathered them up to be tended.
 
-With that, Thalion dismissed them, turning away to study the map more closely, his expression pensive.
+When they were clean the Elves wrapped them in soft embroidered cloth and led them on to where garments waited — robes of green and silver, light as water, worked with patterns of leaf and vine. Arannis fastened Celenneth's clasps, her eyes meeting Celenneth's with a soft smile. "You are a guest of the Woodland Elves now," she murmured. "Tonight you will dine. And tomorrow, perhaps, you will dance."
 
-Arannis and Eryndor led Celenneth and Linnea away, their footsteps soft on the wooden platforms. "Come," Arannis said gently, her voice warm. "There are many delights in our halls, and you are our honored guests." Celenneth and Linnea followed, their minds still lingering on the gravity of their meeting with Thalion, but allowing themselves to be led deeper into the heart elvish woodlands.
+Eryndor dressed Linnea, his grin never far. "The forest has seen your passion," he said. "Tonight let it see your joy. Come — let us show you the beauty of our halls."[^r-welcome]
 
-The two elves led Celenneth and Linnea along a path that wound through seemingly endless gardens, until they ended at a small lawn and secluded spring. The water shimmered with an ethereal light, surrounded by lush greenery, the air filled with the scent of blooming flowers. Eryndor gestured toward the water, his grin widening. "This is where you may cleanse yourselves of the dust of travel," he said, his tone teasing. "Allow us to help."
-
-Celenneth hesitated for a moment, her gaze meeting Linnea's, but there was a warmth in Arannis's eyes that reassured her. Slowly, she nodded, and the elves moved forward, their hands gentle as they helped Celenneth and Linnea undress, their touches light, respectful, yet intimate.
-
-The water was warm, enveloping them as they stepped in, the tension of their journey melting away with each step. Arannis poured a fragrant oil into the water, the scent rising around them, her fingers working through Celenneth's hair, massaging her scalp with a tenderness that made her sigh softly. Eryndor did the same for Linnea, his hands moving with a practiced ease, his voice humming a soft tune that blended with the rustle of leaves above.
-
-The elves bathed them with care, their hands gliding over their skin, washing away the grime of their travels, the warmth of the water lulling them into a state of complete relaxation. It was an experience unlike any Celenneth had known—luxurious, almost otherworldly, as if the very forest was cradling them, offering them peace.
-
-Once they were clean, Eryndor and Arannis helped them from the water, wrapping them in soft, embroidered towels. They were led to another part of the elven halls, where beautiful garments awaited them—robes of green and silver, flowing and light, adorned with delicate patterns of leaves and vines.
-
-Arannis dressed Celenneth, her hands gentle as she fastened the clasps of her robe, her eyes meeting Celenneth's with a soft smile. "You are a guest of the woodland elves now," she said, her voice barely above a whisper. "Tonight, you will dine, and tomorrow, perhaps, you will dance."
-
-Eryndor dressed Linnea, his grin ever-present, his fingers brushing against her skin as he adjusted her robe. "The forest has seen your passion," he said, his voice teasing. "Tonight, it will see your joy. Come, let us show you the beauty of our halls."
+[^r-welcome]: **Fellowship / Courtesy** — the party reaches the Woodland Realm and gains audience with **Thalion**. He withholds his answer pending his council but extends the full hospitality of his halls. The captured map and Celenneth's eyewitness account are laid before him; the alliance hangs in the balance (resolved in the audience to come).
