@@ -1,119 +1,65 @@
 # Chapter 2: A Bloody Discovery
 
-*Book 3*
-
 *Úrimë 3, 2965*
 
-At dawn, the group stirred. Eorlas stretched, wincing at the stone bed's discomfort, while Linnea hummed softly, repacking her herbs. Celenneth, ever watchful, scanned the area for signs of danger.
+The camp stirred at dawn — Eorlas stretching and wincing at the stone bed, Linnea humming as she repacked her herbs, Celenneth already up and reading the treeline out of habit. They ate quick and went on, the air cool and clean, and Eorlas led them onto a faint deer-trail that promised a swifter way through the wood. It kept its promise; the trail slid around the hard ground, Nimroch went easy, and the morning smelled of pine and wet earth as they wove between the trees. They passed an old stone marker whose weathered runes spoke of a road that had once joined Mirkwood to Dale — the bones of a busier age — and Eorlas stopped to name bright flowers against the green while Linnea gathered samples under his eye, surer with every lesson. By dusk the forest thinned and the rolling plains showed gold in the distance.
 
-After a quick meal, they set out again, the air cool and invigorating. Eorlas led them along a subtle deer trail, promising a faster route through the woods.
+They camped in a quiet glade with the plains glowing in the last light and the wind bringing wildflower-scent off them, and while Eorlas set a small fire and hummed some old tune, Linnea came to Celenneth with a question in her.
 
-They moved swiftly, thanks to Eorlas's keen guidance. The trail avoided difficult terrain, and Nimroch navigated smoothly. The morning air smelled of pine and damp earth as they wove through the dense forest.
+"You've carried that bow since we met." She nodded at it. "I've watched how you use it. Could I learn?"
 
-They passed an ancient stone marker. Its weathered runes spoke of a long-abandoned road connecting Mirkwood to Dale—a reminder of the civilization that once thrived here. Eorlas paused to examine bright flowers standing out against the green foliage. Linnea eagerly gathered samples under his watchful eye, her confidence growing with each lesson. By dusk, the forest thinned, revealing rolling plains in the distance.
+Celenneth smiled, the warmth breaking through the sternness. "Every ranger must know the bow. Come."
 
-They found a quiet glade to camp. The plains ahead glowed golden in the fading sunlight, a breeze carrying the scent of wildflowers. Eorlas set up a fire, preparing a simple meal, humming an old tune. After tending to Nimroch, Linnea approached Celenneth with curiosity.
+She named its parts, and let Linnea feel its weight, and drew an arrow and ran her fingers down the fletching. "The shaft straight, the feathers true. Everything working together, or it fails in the air." In the fading light she set the woman's stance with gentle hands. "Feet apart, steady. You don't just hold the bow — it should feel like an extension of your own body." Linnea nocked and drew slow. "Elbow high. Breathe with the tension. Don't think of the arrow — think of where you want it to go."
 
-"You've carried that bow since we met," Linnea said, gesturing to it. "I've seen how you handle it. Could I learn?"
+Linnea sighted a distant tree, breathed out, loosed — and the arrow sailed wide and buried itself short in the earth. She huffed; Celenneth laughed, low and kind. "No one strikes true the first time. It wants patience. Again." And again, and with each try the woman's form smoothed and settled, until Eorlas called from the fire, amusement in his eye, "A good teacher, and a stubborn student both," and at last an arrow bit the trunk with a solid *thunk*, and Linnea spun round grinning. "I did it!"
 
-Celenneth smiled, warmth breaking through her usual sternness. "Every ranger must know the bow. Come, I’ll show you."
+"You did." Pride, plain in Celenneth's face. "Tomorrow again. And the day after. Until it's as natural to you as your own hands."
 
-She pointed out the parts, letting Linnea hold it to feel its weight. Celenneth retrieved a quiver of arrows, selecting one, her fingers tracing the fletching. "The shaft must be straight, the feathers balanced. Everything must work together, or it will fail in flight."
+The next morning began wrong. The birdsong was gone, and in its place black birds wheeled and cried overhead, their harsh caws breaking the dawn, and the sound of them put a shiver down Linnea's back as she rolled her bedroll. Eorlas sat with his staff across his knees and watched them, and the calm went out of his face. Celenneth came to his shoulder, hand at her sword. "What do you see?"
 
-Under the fading light, Celenneth guided Linnea, adjusting her stance with gentle hands. "Feet apart, steady. The bow isn’t just held—it feel like an extension of your body."
+"Carrion crows." Grim. "But not just feeding. See how they hold the circle? Something in the land ahead is drawing them."
 
-Linnea nodded, her brow furrowed in concentration. She nocked an arrow as Celenneth showed her, drawing the string back slowly. "Elbow high. Breathe with the tension. Do not worry about the arrow, focus on its intended destination."
+They broke camp quick and subdued and went on toward the birds, Celenneth ahead with her bow strung, Linnea and Nimroch close, Eorlas at the rear with his eyes on the sky. Where the path bent toward the wheeling crows she stopped and put out a hand. "Wait here. I'll see what draws them."
 
-Linnea aimed at a distant tree, exhaled, and released. The arrow veered wide, sinking into the earth short of the target. She huffed in frustration, but Celenneth laughed softly.
+Linnea's face pinched, but she nodded. "Be careful."
 
-"You won't strike true on your first try," she said. "It takes patience. Again."
+Celenneth stroked Nimroch's neck once and slipped into the trees, and the crows' crying grew louder as she came to it. The wood opened on a small clearing and a shattered wagon lying overturned, its frame splintered as though struck by something with no patience — and around it three bodies, two men and a woman, clothes torn, the ground gone dark with old blood, the earth churned with the signs of a struggle. She crouched among them and read it. A few days dead, faces gone pale. And the wounds were wrong — not brigand-work, not beast: jagged, deep, deliberate, savage. And there was a deeper wrongness under that, one that raised the hair on her arms: the scavengers would not touch them. The crows cried over the dead and would not come down to feed.
 
-With each attempt, Linnea's form improved, her movements becoming fluid. Eorlas watched from the fire, amusement twinkling in his eye. "You’ve a good teacher," he called out. "And a determined student."
+She rose slow, and her eye went to the clearing's edge, where tracks led into the brush — orc-prints, unmistakable in their crookedness, and mixed among them something larger, clawed and heavy, and drag-marks in the disturbed earth where something, or someone, had been pulled away alive. The crows were not mourning. They were warning.
 
-After countless tries, Linnea released an arrow that struck the tree trunk with a satisfying thunk. Her face lit up, and she turned to Celenneth, grinning.
+She went after it careful, all her senses up, following broken foliage and deep prints deeper into the wood until the canopy closed and the crows' cries fell behind. The trail brought her to a thicket, and she looked through it onto a crude camp: three orcs around a dying fire, harsh with laughter, and a great warg prowling restless at the edge of the light, its yellow eyes hunting the dark. And bound and gagged against a tree — a boy and an older man, bruised but living, their eyes wide and casting about the camp.
 
-"I did it!"
+She breathed, and steadied, and marked the warg for the first shaft — the one threat that might scent her or run her down — and while the orcs laughed on, oblivious, she loosed. The arrow went through the beast's skull clean, and it dropped near the fire without a sound, and the orcs never turned. She held her place. One rose and moved off from the fire, and she drew again and put the shaft through his throat, and he crumpled, silenced. Then she came in on soft feet, and drawing her sword she stepped up behind the second and drew the edge across its throat, clean — and the last one knew her at last and snatched up an axe and swung it heavy at her, and she slipped the blow, the blade whistling past, and pivoted and let her sword arc round and find its mark. The orc fell, and the wood went still but for the fire's small crackle.[^r-camp]
 
-Celenneth nodded, pride in her eyes. "You did. Tomorrow, we’ll try again. And the next day. Until the bow feels as natural as your own hands."
+The captives stared at her out of desperate eyes. She went to them and cut the bonds and looked over their hurts. "You're safe now. Can you walk?" The boy nodded, legs trembling; the older man grimaced at his ribs but rose with her arm under him.
 
-*Úrimë 4, 2965*
+She knelt by the man as he caught his breath. "Who were they? Why take you?"
 
-The morning began with an eerie quiet. The usual birdsong was absent, replaced by the sharp cries of black birds circling above. Their discordant caws shattered the dawn's peace, sending a shiver down Linnea's spine as she rolled up her bedroll.
+"Orcs." A rasp. "Out of the hills. We were bound for Dale — merchants, my brother and his wife and the two of us." His voice broke; he gestured weakly at the clearing. "They killed them. Took what they wanted, dragged us here. I think they meant to — to eat us."
 
-Eorlas, sitting with his staff across his knees, watched the birds intently. His calm demeanor darkened, his sharp eyes narrowing. Celenneth noticed and stepped closer, her hand resting on her sword hilt.
+The boy, barely lifting his eyes, said, "They spoke of others. Bigger plans. Said their leader would pay them for bringing captives." He shuddered. "We thought we were dead."
 
-"What do you see?" she asked quietly.
+Celenneth's frown deepened. Orcs this far east was ill news enough; orcs taking prisoners, for a leader, spoke of something larger behind them.
 
-Eorlas pointed upward. "Carrion crows," he said grimly. "But they're not just scavenging. See how they circle? Something in the land ahead draws them."
+She had no time to ask more, for Nimroch nickered soft behind her, and she turned to see Linnea and Eorlas come into the clearing — and Linnea's eyes went wide at the sight of it, three orcs dead and the warg's bulk among them and the blood on the ground. "*Celenneth.*" Horror in it. "What have you done?"
 
-The group broke camp quickly, subdued by the ominous sign. Celenneth walked ahead, her bow at the ready, Linnea and Nimroch following close. Eorlas brought up the rear, his eyes scanning the skies for more ill omens.
+Eorlas took it in grim and went straight to the boy and the man, low-voiced, his hands already at their hurts. But Linnea came straight to Celenneth, pale with fury. "You went in alone. You didn't tell us. You could have been *killed.* What were you thinking?"
 
-As their path turned towards the corvids, Celenneth halted, her gaze fixed. She gestured for Linnea and Eorlas to stay behind. "Wait here," she said, her voice low but firm. "I'll see what's drawing them."
+Celenneth sheathed the sword, and the guilt showed in her even as she answered. "I couldn't wait. They had prisoners. If I'd hesitated—" she nodded at the two survivors.
 
-Linnea looked worried but nodded, trusting Celenneth’s skill. "Be careful."
+"That's not the *point.*" Linnea's voice shook. "You gave us no chance to help. And if you hadn't come back? What would we have done then?"
 
-Nimroch whinnied softly, sensing the tension. Celenneth stroked his mane before slipping silently into the trees. The cries of the crows grew louder, more insistent, as she approached their source.
+The clearing went quiet but for the fire and the murmured thanks of the rescued. Eorlas glanced at the two women and kept to his work. Linnea's hands trembled where she crossed her arms. "You can't carry the whole weight of it alone, Celenneth. Let us help you."
 
-The forest opened into a small clearing. A shattered wagon lay overturned, its frame splintered as if struck with great force. Around it were three bodies—two men and a woman, their clothes torn and bloodied. The ground was dark with dried blood, signs of struggle evident in the churned earth and broken branches.
+And Celenneth met her eyes, and the hardness went out of her. "You're right," she said, low. "I acted rashly. But I couldn't let them die."
 
-Celenneth crouched, her sharp eyes noting the details. The bodies were at most a few days old, faces pallid and lifeless. The wounds weren't from brigands or beasts—jagged cuts and deep gouges suggested something savage, deliberate. But more than that, something was deeply wrong about them; the scavengers refused to pick at them, and their bodies were unmolested.
+The anger bled out of the moment, and she took charge again, calm and sure. "Eorlas — take these two to safety. Make for Dale. They need care, and you'll go faster on foot."
 
-She rose slowly, her gaze shifting to the clearing's edge, where faint tracks led into the underbrush. Orc prints, unmistakable in their irregular shape, were mixed with something larger—clawed, heavy. Her stomach tightened; the crows weren't just mourning the dead—they were warning of danger.
+Eorlas hesitated, glancing at the horse. "And Nimroch?"
 
-Celenneth moved deliberately, her senses heightened. The trail of broken foliage and deep imprints led deeper into the woods. The cries of the crows faded as the canopy thickened, shadows deepening around her.
+She laid a hand on his neck. "He stays with us. We may need to move quick, if this turns dire."
 
-The orc prints grew more defined, their erratic pattern betraying haste. Alongside them, the clawed tracks continued, deep gouges hinting at the creature's weight. Celenneth's breath slowed as she knelt by disturbed earth—drag marks. Something, or someone, had been pulled this way.
+Eorlas nodded, reluctant, and helped the boy find his feet while the older man leaned on his staff; and with a last look at Celenneth he began to guide them away. "Don't linger long," he said.
 
-She followed the trail to a thicket, and peered through the branches. A crude campsite lay ahead. Three orcs sat around a dying fire, their guttural voices filled with harsh laughter. A massive warg prowled restlessly nearby, its yellow eyes gleaming with menace.
-
-Celenneth's sharp eyes caught movement—a young boy and an older man, bound and gagged against a tree. They were bruised but alive, their terrified eyes scanning the camp.
-
-From the underbrush, Celenneth steadied her breathing. She aimed for the warg, recognizing it as the most singular threat. As the orcs laughed, oblivious, she let her arrow fly.
-
-The arrow struck true, piercing the warg's skull through, killing it, miraculously, silently. The beast collapsed, its body sprawling near the fire. Celenneth stayed hidden, her position secure. The orcs, still unalerted, were vulnerable.
-
-One orc rose, moving away from the fire. Celenneth seized the opportunity, drawing another arrow. She let it fly, striking the orc in the throat. The creature crumpled, again silenced before it could cry out.
-
-With swift, silent steps, Celenneth closed in. Drawing her sword, came up behind the second orc and pulled the blade across its throat, cutting cleanly. The final orc, aware of the danger, snarled and grasped an axe, swinging heavily at Celenneth. She sidestepped easily, the heavy blade whistling past. She pivoted and her sword arced through the air, finding its mark with deadly precision.
-
-The orc fell heavily, silenced forever. The forest grew eerily quiet, save for the crackle of the dying fire.
-
-Celenneth surveyed the campsite, her sword still in hand. The prisoners stared at her, their eyes wide with desperation. She moved to their side, cutting their bonds and inspecting their injuries.
-
-"You're safe now," she said, her voice calm but firm. "Can you walk?"
-
-The boy nodded, though his legs trembled. The older man grimaced, clutching his ribs, but rose with her help.
-
-Celenneth knelt beside the man as he caught his breath. "Who were they? Why did they take you?"
-
-The man winced, pressing a hand to his ribs. "Orcs," he rasped. "Came from the hills. We were traveling to Dale—merchants, just the three of us. They killed my brother and his wife..." His voice broke, gesturing weakly toward the clearing. "Took what they wanted, dragged us here. I think they meant to... eat us."
-
-The boy, barely meeting her gaze, added, "They talked about others. Bigger plans. Said their leader would reward them for... bringing captives." He shuddered. "We thought we were dead."
-
-Celenneth frowned. Orc activity this far east was troubling, but capturing prisoners hinted at a larger threat.
-
-Before Celenneth could ask further, she heard Nimroch's soft nicker. Turning, she saw Linnea and Eorlas entering the clearing. Linnea's eyes widened at the sight: three orcs lay dead, blood pooling on the ground, the warg's hulking corpse nearby.
-
-"Celenneth!" Linnea's voice rose, horror evident as she took in the scene. "What... What have you done?"
-
-Eorlas looked grim, his gaze flicking between the dead and the living. He began tending to the boy and the man, speaking in low tones. Linnea, however, strode straight to Celenneth, her face pale with fury.
-
-"You went in alone," she snapped, her voice trembling. "You didn't tell us. You could have been killed! What were you thinking?"
-
-Celenneth sheathed her sword calmly, though guilt flickered in her eyes. "I couldn't risk waiting. They had prisoners. If I'd hesitated, they might have been..." She gestured to the survivors.
-
-"That's not the point!" Linnea cut her off. "You didn't give us a chance to help. What if you hadn't come back? What would we have done then?"
-
-The clearing fell silent, save for the crackle of the fire and the murmured thanks of the rescued captives. Eorlas glanced at the women but kept his focus on the injured, his expression unreadable.
-
-Linnea's hands shook as she crossed her arms. "You can't carry the weight alone, Celenneth. Let us help you."
-
-Celenneth met Linnea's gaze, her expression softening. "You're right," she admitted quietly. "I acted rashly. But I couldn't let them die."
-
-As the tension settled, Celenneth took charge, her voice calm but resolute. "Eorlas, take these two to safety. Head for Dale. They need care, and you'll make better time on foot."
-
-Eorlas hesitated, glancing at Nimroch. "And the horse?"
-
-Celenneth placed a hand on Nimroch’s neck. “Nimroch stays with us. We may need to move quickly if things turn dire.”
-
-Eorlas nods reluctantly, helping the boy steady himself while the older man leans on his staff. With a final glance toward Celenneth, he begins guiding the captives away. “Don’t linger long.”
+[^r-camp]: **Combat (stealth)** — Celenneth alone against an orc-and-warg camp holding two captives. The warg dropped first with a single silent shaft, then the three orcs one by one; the prisoners freed. The slain merchants nearby bear savage, deliberate wounds the scavengers will not touch — the mark of something worse than orcs behind the raids.
