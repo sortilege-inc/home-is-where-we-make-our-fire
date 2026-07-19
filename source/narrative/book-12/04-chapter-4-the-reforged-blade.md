@@ -1,31 +1,31 @@
 # Chapter 4: The Reforged Blade
 
-*Book 12*
+*Narquelië 10, 2970*
 
-*N, 2970*
+The weeks turned, and Celenneth's belly grew heavy with the child. Then came the day Eadric's word reached her—urgent, and eager beneath it—and she went to the forge with Linnea at her side, her gait slow now but no less certain. Beside Eadric stood a Dúnedain woman: tall, weathered, iron-grey hair bound back in a plain braid. Niril, the master-smith whose name was passed in half-whispers through the wilds. Her hands were old, but the strength of the craft still lived in them, and her eyes held the sharpness of one who knew the weight of what she made.
 
-Weeks passed, and Celenneth’s belly grew heavy with her child. The day came when Eadric sent for her, his message urgent but eager. She arrived at the forge with Linnea at her side, her gait slow but determined. Waiting beside Eadric was a Dúnedain woman—tall and weathered, with iron-gray hair tied back in a simple braid. Her name was Niril, a master smith with a reputation whispered in the wilds. Her hands, though aged, held the strength of her craft, and her eyes glinted with the sharpness of someone who knew the weight of legacy.
+"You carry a blade out of an elder age," Niril said, her voice like steel wrapped in silk, "and one worth the honoring. It was forged to shield the line of Arnor's kings, and there is a magic in it wrought by the old hands of Númenor. Making it whole again was no light task."
 
-“You bear a blade with an old name, and one worth honoring,” Niril said, her voice like steel wrapped in silk. “Nurhael’s Warden Blade. Its purpose was to protect the line of Arnor’s kings, and it carries within it a magic wrought by the old hands of Númenor. Reforging it was no easy task.”
+Eadric stepped forward and held it out. Where the steel had been broken it now ran unbroken, a clean line of Númenórean work, the runes along its length glowing faintly in the forge-light. The hilt had been remade—rich leather, silver at the guard—and its balance sat true in a way only a master could reach.
 
-Eadric stepped forward, holding out the blade. Where it had once been fractured, it now shone with new life—a perfect line of Númenórean craftsmanship, its runes glowing faintly in the forge light. The hilt was reforged, wrapped with rich leather and silver inlays, its balance true in a way only a master could accomplish.
+"Much of the shaping was Eadric's," Niril said, meeting Celenneth's eyes. "The heart of it—the making beneath the making—I saw kept whole. It will serve you as it once served kings. Wield it with purpose, Ranger. Its long years in shadow are ended."
 
-Niril continued, meeting Celenneth’s eyes. “Eadric did much of the shaping, but the magic, the heart of it, I ensured would remain. It will serve you well, as it once served the line of kings. Wield it with purpose, Ranger, for its time in shadow has ended.”
+Eadric laid the blade in Celenneth's hands, and it settled there with a weight both familiar and somehow more awake than steel had any right to be. The runes along the edge seemed to stir, whispering a promise she felt rather than heard.
 
-Eadric handed Celenneth the blade, its weight familiar but somehow more alive in her hands. The runes along the edge seemed to shimmer, whispering their silent promise of strength.
+"Its edge bites hardest at whatever dwells in shadow," Niril went on. "It will part the malice of corrupted men and the cold stillness of the dead alike. And it is balanced to your hand—one, or both, as the moment asks of you."
 
-“Its edge will strike hardest against those who dwell in shadow,” Niril explained. “It will pierce through the evil of men and the unnatural stillness of the dead. And should you need it, its balance will allow you to wield it as you see fit—one hand or two.”
+Celenneth raised it, the forge's glow sliding along the steel and catching in her green eyes. "It's a gift I won't squander. You have my thanks—both of you."
 
-Celenneth raised the blade, the soft glow of the forge reflecting in her green eyes. “It is a gift I will not squander. You have my thanks. Both of you.”
+Niril inclined her head, and something in her face eased a fraction. "It was no gift, Ranger. It was a duty. Such work is not ours to hoard—it is ours to pass on, that it might be wielded by hands that will honor it. And honor it, you will."
 
-Niril inclined her head, her expression softening ever so slightly. “It was not done as a gift, Ranger. It was done as a duty. Such works are not ours to hoard—they are ours to pass on, to see wielded by those who will honor them. And honor it, you will.”
+Celenneth sheathed the blade with care, its weight a quiet comfort against her hip, and turned to Eadric, offering her hand. He clasped it firmly.
 
-Celenneth sheathed the blade with care, its weight a comfort against her hip. She turned to Eadric, offering her hand, which he clasped firmly.
+"You've given me back a piece of my people," she said. "My family."
 
-“You’ve given me back a piece of my people. My family.”
+He smiled, faint and true. "And you'll pass it down, one day. May it keep you—and all you love—when the need comes."
 
-Eadric smiled faintly. “And you’ll pass it down, one day. May it protect you—and all those you love—when the time comes.”
+With that she stepped out, Linnea falling in beside her, her hand brushing Celenneth's arm as they went into the cool autumn air. "A kingly blade," Linnea murmured, "remade for a queen." She meant it lightly, but pride ran under it.
 
-With that, Celenneth stepped away, Linnea falling into step beside her, her hand brushing Celenneth’s arm. “A kingly blade, remade for a queen,” Linnea teased softly, though her voice was filled with pride.
+Celenneth's mouth curved, her gaze steady on the road ahead. "And one day, perhaps, for our princess. Or for this one."[^t-warden]
 
-Celenneth smiled, her gaze steady as they stepped into the cool afternoon air. “And someday, perhaps for our princess, or this one.”
+[^t-warden]: **Reward — the reforged Warden Blade.** The Númenórean warden-blade, mended by the Dúnedain master-smith Niril with Eadric's hand at the forge, its enchantment preserved. A hand-and-a-half sword that hews with special virtue against shadow-touched foes and the undead; an heirloom of Arnor whose full name and maker are yet to be learned, now Celenneth's to carry and to pass on.

@@ -1,89 +1,79 @@
-# Chapter 8: Appreciation
+# Chapter 7: Appreciation
 
-*Book 12*
+*Hísimë 20, 2970*
 
-The wind outside roared like some distant, forgotten beast, clawing at the canvas walls of their tent. Inside, there was only warmth—a fragile, defiant thing built of shared breath and slow, steady touches.
+Outside, the wind came off the autumn hills and worried at the canvas of the tent like some low, hungry thing. Inside there was only warmth—a small, defiant warmth built of shared breath and slow hands.
 
-Celenneth lay stretched out beneath the thick furs, her back resting against the soft pelts they’d layered for comfort. The brazier’s dim glow cast flickering shadows across her bare skin, illuminating the gentle swell of her belly, the curves she hadn’t yet learned to see as beautiful. Her hands rested at her sides, fingers curling slightly, as if unsure whether to relax or resist.
+Celenneth lay stretched beneath the thick furs, her back cushioned on the pelts they had layered against the cold ground. The brazier's dim glow moved over her bare skin, catching the gentle swell of her belly, the curves she had not yet learned to see as anything but strange. Her hands rested at her sides, fingers half-curled, caught between wanting to relax and wanting to cover herself.
 
-Linnea knelt beside her, her dark hair spilling in soft waves over her shoulders. Her sharp, watchful eyes traced every line, every curve of Celenneth’s body—not with scrutiny, but with reverence.
+Linnea knelt beside her, dark hair spilling in soft waves over her shoulders, her sharp eyes tracing every line of her—not weighing, not measuring, only looking, as at something worth the looking.
 
-Celenneth’s breath hitched, her gaze shifting downward to where the swell of her pregnancy stretched her skin, unfamiliar and unyielding. She crossed her arms loosely over her midsection, a defensive gesture she hadn’t intended. “I’m… different now.” Her voice was quiet but edged with vulnerability.
+Celenneth's breath caught. Her gaze slid down to where the pregnancy had stretched her, unfamiliar and unyielding, and her arms crossed loosely over her middle before she had decided to move them at all. "I'm different now," she said, low, the words rough with a vulnerability she rarely let show.
 
-Linnea caught her wrists gently, her grip steady but careful. “You are.” She leaned down, brushing her lips across Celenneth’s knuckles, holding her gaze with fierce intensity. “You’re more.”
+Linnea caught her wrists, gently, and held them. "You are." She bent and brushed her lips across Celenneth's knuckles, holding her gaze. "You're more."
 
-Celenneth’s lips parted, but whatever protest she might have voiced was swallowed by Linnea’s slow, deliberate movement downward. She pressed a lingering kiss to the inside of Celenneth’s wrist, her warm breath chasing away the chill of self-consciousness.
+Whatever protest Celenneth might have made was swallowed as Linnea drew her hands away and pressed a slow kiss to the inside of her wrist, her warm breath chasing off the chill of self-consciousness.
 
-“You’ve always been strong,” Linnea murmured, trailing soft kisses up the length of Celenneth’s forearm, savoring the faint scars etched there—remnants of countless battles fought and survived. “Every mark, every line—this is the story of your survival.”
+"You've always been strong," Linnea murmured, trailing her mouth up the length of Celenneth's forearm, over the faint pale scars written there—the leavings of old battles fought and outlived. "Every mark. Every line. This is the story of your surviving."
 
-Celenneth’s chest rose sharply with her next breath, her eyes stinging with unshed emotion as Linnea’s lips brushed the sensitive hollow of her elbow. “But I don’t… look the same,” she whispered. “Not like before.”
+Celenneth's chest rose sharply. Her eyes stung. "But I don't look the same," she whispered. "Not like before."
 
-Linnea stilled, her dark eyes blazing with quiet intensity. “Good.” Her voice was low but steady, weighted with conviction. “I don’t want ‘before.’ I want you. All of you.”
+Linnea went still, her dark eyes lifting, fierce and quiet. "Good." Her voice was low and certain. "I don't want before. I want you. All of you."
 
-Before Celenneth could respond, Linnea dipped lower, pressing her lips against the curve of Celenneth’s shoulder. Her fingers traced slow, reverent paths down her sides, pausing at her ribcage where the swell of her breasts began—fuller now, softer than she remembered.
+Before Celenneth could answer she dipped lower and set her lips to the curve of her shoulder, her fingers drawing slow reverent paths down her sides, pausing where the fuller weight of her breasts began—heavier now, softer than she remembered them.
 
-“You’re beautiful here,” Linnea whispered, her hands framing Celenneth’s sides with careful tenderness. “You hold life here.” Her thumbs brushed upward, teasing the sensitive skin just beneath her breasts. “How could that be anything but sacred?”
+"You're beautiful here," Linnea said, framing her ribs with careful hands. "You hold life here. How could that be anything but sacred?"
 
-Celenneth’s breath shuddered, her hands slowly uncurling from their defensive posture. She reached for Linnea, threading her fingers through her dark hair, anchoring herself with the familiar feel of its silky weight.
+Celenneth's breath shuddered, and her hands slowly uncurled from where they had guarded her. She reached for Linnea instead, threading her fingers into the dark hair, anchoring herself in its familiar silk-weight.
 
-Linnea pressed deeper kisses along Celenneth’s sternum, following the path of her hand, her mouth lingering over her heartbeat. “This strength… it’s not just yours anymore,” she whispered. “It’s ours.”
+Linnea pressed her kisses lower, down the line of her, her mouth lingering a moment over the beat of her heart. "This strength isn't only yours anymore," she whispered. "It's ours."
 
-Celenneth exhaled a shaky breath, her chest rising beneath Linnea’s touch. There was no hesitation, no rush—only patient, deliberate affection.
+There was no hurry in her, no urgency—only patient, deliberate tenderness. She went on down, her lips grazing the soft rise of Celenneth's belly, and there she paused, resting her cheek against the warm swell as if listening for something only she could hear.
 
-Slowly, Linnea continued downward, her lips grazing the slight curve of Celenneth’s stomach. She paused there, resting her cheek against the soft, warm expanse as if listening for something only she could hear.
+"You carry the future here," she said, her voice breaking on it. "A future we made together—even if it came to us through them." She pressed a kiss to the curve, infinitely careful. "I love you."
 
-“You carry the future here,” Linnea whispered, her voice breaking with emotion. “A future we made together… even if it came from them.” Her lips brushed over the swell again, a reverent kiss pressed with infinite care. “I love you.”
+Celenneth choked on a soft, disbelieving laugh, her hands trembling on Linnea's shoulders. "Even now?"
 
-Celenneth choked on a soft, disbelieving laugh, her hands trembling where they rested on Linnea’s shoulders. “Even now?”
+Linnea rose just enough to meet her eyes. "Especially now."
 
-Linnea rose just enough to meet her gaze, her eyes fierce and unwavering. “Especially now.”
+With unhurried patience she drew Celenneth's hands from their guarding, laced their fingers, and pressed them gently to the pelts beside her head. Her mouth traced the dip of Celenneth's hip, her breath warm against the sensitive skin.
 
-With infinite patience, she guided Celenneth’s hands away from their protective posture, lacing their fingers together and pressing them gently to the ground beside her head. Her mouth traced the dip of Celenneth’s hip, her breath warming the sensitive skin.
+"This body has carried you through war and wild country," she said softly, her kisses moving lower. "It's fought, and endured, and outlasted all of it. And now it's making something new."
 
-“This body has carried you through war and wilderness,” Linnea said softly, her kisses trailing downward. “It’s fought, endured, survived. And now… it’s creating something new.”
+Celenneth's breath caught again—but not from fear this time, nor doubt. From the sheer force of being seen. No part of her hidden, no imperfection passed over or waved away; every touch, every whispered word, said the same thing: *you are worth this.* Not the fighter. Not the shield. Only herself.
 
-Celenneth’s breath hitched again, but this time it wasn’t from fear or doubt—it was from the sheer intensity of being seen. No part of her was hidden, no imperfection ignored or dismissed. Every touch, every whispered word reaffirmed her worth—not as a fighter or protector, but simply as herself.
+"Let me show you how much I love all of you," Linnea murmured against her skin, and Celenneth reached for her with no hesitation left in her at all—only trust, and want, and love.
 
-Linnea kissed lower, her mouth tracing the edge of her hip, her voice roughened with desire and devotion. “Let me show you how much I love all of you.”
+Linnea kissed lower, along the curve of her thigh, her fingers following in slow strokes that left no part of her untouched. Celenneth's breath fractured as those hands cradled her hips with a steady, knowing strength; there was no haste in it, only certainty. Linnea set her mouth to the tender hollow where thigh met body, her tongue teasing lightly at skin warmed by the brazier's glow.
 
-And this time, when Celenneth reached for her, there was no hesitation—only trust, only surrender, only love.
+"You're beautiful," she said against her, roughened now. "Not in spite of how you've changed. Because of it." Her breath ghosted closer, and Celenneth arched into it before she could think.
 
-Linnea pressed another lingering kiss to Celenneth’s hip, her breath warm against her skin, sending a slow shiver coursing through her. Her lips traveled lower, tracing the curve of Celenneth’s thigh with reverence, her fingers following in soft, deliberate strokes that left no inch unexplored.
+Her fingers tightened in Linnea's hair, her head falling back against the furs. "Linnea—" Half a plea, half a confession.
 
-Celenneth’s breath caught as Linnea’s hands slid upward, cradling her hips with steady, familiar strength. There was no urgency in her touch—only purpose, only knowing. Linnea kissed the sensitive hollow where Celenneth’s thigh met her pelvis, her tongue teasing lightly against skin warmed by the brazier’s glow.
+Linnea answered with her mouth, finding the heat of her with a slow, sure sweep of her tongue, drinking in every shiver she drew out of her. Celenneth's thighs trembled under her hands, her breath breaking ragged as her body strained toward sensation, toward surrender.
 
-“You are beautiful,” Linnea murmured against her skin, her voice roughened by emotion and restrained desire. “Not in spite of how you’ve changed—but because of it.” Her lips brushed closer, her breath teasing Celenneth’s center, making her arch involuntarily into the touch.
+"You're safe," Linnea whispered against her, and the words sent sparks racing over her already-quickened skin. "You're mine. You always have been."
 
-Celenneth’s fingers tightened in Linnea’s hair, her head falling back against the furs as her chest rose with a trembling breath. “Linnea…” Her voice was half a plea, half a confession.
+Something long locked away beneath years of steel and duty came loose at that. Celenneth's hips lifted, seeking, needing—needing Linnea. And Linnea gave her all of it, her tongue moving in slow deliberate circles, easing and pressing by turns, her hands firm against Celenneth's thighs to steady her even as she drew her higher.
 
-Linnea answered with action—her mouth finding Celenneth’s heat with practiced precision, her tongue sweeping slow and sure, drinking in every shudder and gasp she drew from her lover. Celenneth’s thighs trembled under Linnea’s firm grip, her breath coming in ragged bursts as her body surged toward sensation, toward surrender.
+Celenneth gasped sharply, her back arching, her breath fraying into a broken moan as that unwavering care carried her up and up. It was worship, fierce and patient both, and it took down every wall she had ever raised around herself.
 
-“You’re safe,” Linnea whispered against her, her breath sending sparks through Celenneth’s already-sensitized skin. “You’re mine. You’ve always been.”
+"Let go," Linnea urged, low and thick. "Let me have all of you."
 
-The words unraveled something deep inside Celenneth, something she had long kept locked away beneath layers of steel and duty. Her hips lifted, seeking more, needing more—needing Linnea.
+With a cry torn out of her Celenneth obeyed, her body arching as the pleasure went through her like fire, fierce and consuming. Her thighs shook under Linnea's steadying hands, her breath spilling out of her in ragged bursts, wave upon wave until she finally stilled, undone and trembling.
 
-Linnea answered that silent plea with fierce devotion, her tongue working in slow, deliberate circles, alternating pressure with practiced care. Her hands pressed gently against Celenneth’s thighs, steadying her even as she pulled her closer, grounding her in the rising tide of sensation.
+For a long moment there was only their mingled breathing, the low crackle of the brazier, and the lonely howl of the wind beyond the canvas. Celenneth lay boneless against the furs, flushed, her eyes still heavy.
 
-Celenneth gasped sharply, her back arching, her breath fracturing into a desperate moan as Linnea’s relentless care drove her higher. The warmth of her mouth, the press of her tongue—it was worship, fierce and unwavering, and it shattered every wall Celenneth had ever built around herself.
+Linnea rose slowly, her dark eyes gleaming—tenderness, and beneath it something fiercer and more protective, that had nothing to do with wanting and everything to do with love. She leaned down and brushed her lips to Celenneth's trembling mouth, a kiss soft and slow and wholly given.
 
-“Let go,” Linnea urged softly, her voice thick with emotion. “Let me have all of you.”
+"I've got you," she whispered, her brow resting against Celenneth's. "I always will."
 
-With a broken cry, Celenneth obeyed, her body arching as pleasure surged through her like fire, fierce and consuming. Her thighs quaked beneath Linnea’s steady grip, her breath spilling in ragged bursts as wave after wave of release tore through her.
+Celenneth lifted her hands and traced Linnea's face, learning it again, every familiar line. "I love you," she said, rough with weariness and past all doubting.
 
-Linnea never faltered, holding her through the storm with unyielding strength, her mouth drawing out every tremor, every shudder, until Celenneth finally stilled beneath her touch, breathless and undone.
+Linnea smiled, her thumb stroking Celenneth's cheek. "And I you."
 
-For a long moment, there was only the sound of their mingled breathing, the crackling of the distant brazier, and the faint, lonely howl of the wind beyond the tent walls. Celenneth lay boneless against the furs, her skin flushed, her eyes still heavy with lingering sensation.
-
-Linnea rose slowly, her dark eyes gleaming with tenderness and something deeper—something fierce and protective that had nothing to do with desire and everything to do with love. She leaned down, brushing her lips against Celenneth’s trembling mouth in a kiss that was soft, slow, and infinitely giving.
-
-“I’ve got you,” Linnea whispered, her forehead resting against Celenneth’s. “I always will.”
-
-Celenneth’s hands came up slowly, tracing Linnea’s face with reverent fingers, memorizing every line, every familiar curve. “I love you,” she whispered, the words roughened by exhaustion but filled with unshakable truth.
-
-Linnea smiled, her thumb brushing tenderly across Celenneth’s cheek. “And I you.”
-
-They lay together, limbs tangled, hearts steadying into a shared rhythm. Linnea drew the thick furs over them both, cradling Celenneth securely in her arms as if shielding her from the harsh world outside. Her hand drifted instinctively to the swell of Celenneth’s belly, resting there with quiet purpose.
+They lay tangled together, their hearts slowing into one shared rhythm, and Linnea drew the furs up over them both, cradling Celenneth against her as though to shield her from the whole hard world outside. Her hand came to rest, of its own accord, on the swell of Celenneth's belly, and stayed there, quiet and sure.
 
 Safe. Loved. Held.
 
-And for the first time in what felt like a lifetime, Celenneth allowed herself to believe it.
+And for the first time in what felt like a very long while, Celenneth let herself believe it.

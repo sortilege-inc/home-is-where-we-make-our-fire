@@ -171,6 +171,10 @@ canonical list when that book is resumed; the navigator is **not** "Isildur".
 - **Oath:** the *Binding of Aegis* between Celenneth and Linnea, Yule (Ringarë) 2965.
 - **Gifts/relics:** Nimroch (from Elrond); Eorlin (from Rohan); the empathy ring (plains
   spirit); the "feystone's gift"; the reforged Warden Blade; the star-pendant/cloak.
+  - *Warden Blade naming:* Brandor passes the broken blade in Book 10; it is reforged in
+    Book 12, known then only as a **warden-blade of Arnor**. Its full name/title —
+    *Nurhael's Warden Blade* — is **not discovered until later** (Book 13). Do not attribute
+    it to "Nurhael" in prose or ledger before that reveal.
 - **Wounds/scars:** Celenneth's forearm scar (Trollshaws goblin-ambush); broken leg (Fangorn).
 - **Relationships:** Celenneth ⇄ Linnea (aegis-bound); Damrod & Hallas (polyamorous bond);
   Garin (a woman, rider of the Mark; her affection declined, gracefully); Orlen (Celenneth's past, now married to Maren).

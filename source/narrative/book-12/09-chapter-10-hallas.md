@@ -1,141 +1,139 @@
-# Chapter 10: Hallas
+# Chapter 9: Hallas
 
-*Book 12*
+*Ringarë 29, 2970*
 
-The labor began quietly enough, in that strange hush after nightfall when the world outside seemed to be holding its breath. Snow drifted gently against the cabin’s shuttered windows, the only sound a soft hush of flakes landing on the sill. Inside, the hearth’s glow painted the walls in gentle, flickering patterns, its warmth pushing back the winter chill. Celenneth lay on the bed, propped up on pillows, her auburn hair hanging loose around her flushed cheeks. She breathed slowly, her gaze occasionally flicking toward Linnea, who moved through the small room with calm intention.
+The labor began quietly enough, in that strange hush after nightfall when the whole world seemed to be holding its breath. Snow drifted against the shuttered windows, the only sound the soft settle of flakes on the sill. Inside, the hearth painted the walls in slow, flickering gold and pushed the winter back to the door. Celenneth lay propped on pillows, her auburn hair loose about her flushed cheeks, breathing carefully, her gaze drifting now and again to Linnea, who moved through the small room with calm intention.
 
-Brynja was safe at the Aldions’ home—Eadric, Lira, and Elys had welcomed her eagerly for the night. Linnea had insisted on this arrangement hours ago, anticipating that the birth might begin soon. Now that the pains had arrived, Celenneth was grateful to know their daughter slept soundly under a kind neighbor’s roof, free from worry or fear.
+Brynja was safe at the Aldions' for the night—Eadric, Lira, and little Elys had taken her in gladly. Linnea had seen to it hours ago, reading the signs before Celenneth had wanted to believe them. Now that the pains had truly come, Celenneth was grateful past saying to know their daughter slept warm under a kind neighbor's roof, past all worry and fear.
 
-Linnea stepped closer, brushing Celenneth’s damp hair back from her forehead. “You’re doing fine,” she said softly. “It’s early yet. The first pains are always strange and uncertain, but you’re strong, Cel. Remember to breathe.”
+Linnea stepped close and brushed the damp hair from her brow. "You're doing fine," she said softly. "It's early yet. The first pains are always strange and uncertain—but you're strong, Cel. Breathe."
 
-Celenneth nodded and closed her eyes, focusing on the steady in and out of her lungs. The contractions were mild at first, more like a tightness than true pain, giving her hope that this might not be as harrowing as some had warned. She tried to relax her shoulders. The baby would come in its own time. She pictured the small form nestled inside her, waiting to emerge into the firelit glow of their home. Linnea’s presence was steadying—her partner’s hand pressed lightly to her arm, her voice always low, patient, reassuring.
+Celenneth nodded and shut her eyes and gave herself over to the slow work of her own breath. The contractions were mild at the start, more a tightening than a true pain, and she let herself hope it might not be so hard a road as some had warned her. She tried to loosen her shoulders. The child would come in its own time. She pictured the small form waiting inside her, ready to be born into the firelight of their home, and Linnea's hand pressed light to her arm, and her voice stayed low and patient and near.
 
-For the first hour, they talked quietly between contractions. Celenneth’s voice trembled sometimes, but Linnea coaxed her into calm. They spoke of simple things: how Brynja would react to a sibling, what new lullabies they might sing, and how they would celebrate once the storms passed and spring returned. Celenneth managed a strained smile at the thought of Brynja peering curiously at the new baby, Elys bouncing on her toes with excitement. The world beyond their door felt distant, softened by the lull of snowfall.
+For the first hour they talked between the pains, of small and ordinary things—how Brynja would take to a brother or sister, what new songs they might learn to sing, how they would mark the day come spring, when the storms had gone. Celenneth managed a strained smile at the thought of Brynja peering wide-eyed at the baby, Elys bouncing on her toes beside her. The world past their door felt far off, softened under the falling snow.
 
-Gradually, the contractions began to tighten. Celenneth’s breath caught more frequently, and Linnea noticed the way her knuckles whitened against the bedding. As the second hour approached, Linnea prepared more hot water near the hearth and gathered extra cloths. Celenneth’s sweat glistened at her temples, and her sighs turned into small, gasping moans when the contractions peaked.
+Then, by slow degrees, the contractions began to tighten. Celenneth's breath snagged more often, and Linnea marked the way her knuckles whitened in the bedding. As the second hour came on, Linnea set more water to heat by the hearth and gathered clean cloths. Sweat stood at Celenneth's temples, and her sighs broke into small gasping sounds when the pains crested.
 
-Linnea crouched beside her. “You’re managing well,” she murmured. “Try changing positions. Let’s prop you up a bit more.” She helped Celenneth shift, sliding pillows behind her back, adjusting blankets to keep her warm. Outside, the wind picked up, rattling the shutters gently. Celenneth shivered at the sound, imagining the deep drifts that would greet them come morning.
+Linnea crouched beside her. "You're managing well," she murmured. "Let's move you—prop you up a little more." She eased pillows behind Celenneth's back and drew the blankets close to keep her warm. Outside the wind rose, rattling the shutters, and Celenneth shivered at the sound, imagining the deep drifts that would meet them come morning.
 
-The second hour crawled on, each contraction intensifying. Celenneth gritted her teeth through one particularly strong surge of pain, tears gathering in the corners of her eyes. “It’s getting worse,” she said, voice tight. “I knew it would, but… oh, Linnea, this is different from any pain I’ve known.”
+The second hour dragged, and each pain bit harder than the last. She gritted her teeth through one long surge, tears gathering at the corners of her eyes. "It's getting worse," she said, tight. "I knew it would, but—oh, Linnea, this is unlike any pain I've known."
 
-Linnea took her hand, letting Celenneth squeeze as hard as she needed. “I know. But this pain is purposeful. You’re making room for our child. Let it come, love, don’t fight it. If you tense against it, it’s harder. Try to yield, as if you’re letting the pain pass through you.” She pressed a cool cloth to Celenneth’s forehead, her other hand gentle at the nape of her neck.
+Linnea took her hand and let her crush it. "I know. But this pain has a purpose. You're making room for our child. Let it come, love—don't fight it. If you set yourself against it, it only bites the deeper. Yield to it. Let it pass through you." She pressed a cool cloth to Celenneth's brow, her other hand gentle at the nape of her neck.
 
-Celenneth tried to follow this advice, breathing through the next contraction, attempting to imagine it as a wave rolling through her body, not just pain but progress. Between contractions, Linnea coaxed her to sip warm tea, and Celenneth took it gratefully, the steam warming her face. Another half-hour passed like this, with Linnea offering quiet encouragement. The room smelled faintly of chamomile and woodsmoke, and the baby moved within Celenneth, a subtle reassurance that all was still as it should be.
+Celenneth tried to do as she said, breathing through the next contraction, willing herself to feel it as a wave rolling through her—not only pain, but progress. Between the surges Linnea coaxed her to sip warm tea, and she took it gladly, the steam warming her face. Another half-hour passed so, with Linnea's quiet encouragement, and the room smelled of chamomile and woodsmoke, and the baby moved once within her, a small reassurance that all was still as it should be.
 
-By the end of the second hour, the contractions were closer together, the pain sharper. Celenneth’s voice broke on a cry as a powerful contraction gripped her, leaving her trembling. Linnea reacted swiftly, applying gentle pressure to Celenneth’s lower back, recalling advice learned from older rangers’ wives and midwives who had shared their lore. “Breathe,” Linnea reminded, again and again. “You can do this.”
+By the end of the second hour the pains came closer together and sharper. Celenneth's voice broke on a cry as one powerful contraction seized her and left her shaking. Linnea moved at once, pressing firm at the small of her back, drawing on the lore of older rangers' wives and the midwives who had shared what they knew. "Breathe," she said, over and over. "You can do this."
 
-Celenneth’s eyes shone with tears. “I feel like I can’t, Linnea,” she whispered when the contraction eased. “It’s too strong, it’s just… it’s so much.”
+Celenneth's eyes shone. "I feel like I can't," she whispered when the pain let go. "It's too strong. It's too much."
 
-Linnea leaned close, pressing her forehead lightly against Celenneth’s. “You can,” she murmured. “Think of all we’ve done. We’ve faced winter storms with scant shelter, we’ve stood against beasts and beasts in human form. You have more strength in you than you know. This child… this is the reward for all that hardship. Focus on that.”
+Linnea leaned close and set her brow lightly to Celenneth's. "You can. Think of all we've come through. We've weathered winter storms with scarcely a roof; we've stood against beasts, and against beasts wearing the shapes of men. You hold more strength than you know. This child—this is the reward for all of it. Hold to that."
 
-Celenneth closed her eyes, nodding, letting Linnea’s words anchor her. The third hour began, and with it came a certain pattern: intense pain, then a brief lull, then pain again. Linnea suggested they try to move around if possible. With effort, Celenneth rose to her feet, leaning heavily on Linnea’s shoulder. They paced slowly around the small cabin, pausing near the hearth. The fire crackled, embers shifting, sending sparks dancing upward. Standing upright changed the sensations slightly, allowing gravity to assist. Celenneth found it marginally easier to breathe through some contractions, though her legs trembled with effort.
+Celenneth closed her eyes and nodded and let the words anchor her. The third hour began, and with it a pattern set in: the fierce pain, then a short mercy, then the pain again. Linnea urged her to move if she could. With effort Celenneth rose to her feet, leaning hard on Linnea's shoulder, and together they paced the small room and stopped near the hearth. The fire cracked, embers shifting, sparks lifting. Standing changed the feel of it, let the weight of the child work with her, and she found it a little easier to breathe through some of the pains, though her legs shook beneath her.
 
-While they walked, Celenneth whispered, “I’m scared.” Her voice was barely audible over a gust of wind outside.
+As they walked she whispered, "I'm afraid." Her voice barely carried over a gust of wind.
 
-“I know,” Linnea answered, voice steady. “It’s all right to be scared. You’re doing something extraordinary. But look at how far you’ve come. We are closer now. Each contraction brings the baby nearer to our arms.”
+"I know," Linnea answered, steady. "It's all right to be afraid. You're doing something extraordinary. But look how far you've come. We're closer now. Every pain brings the baby nearer to our arms."
 
-Celenneth nodded, leaning her head against Linnea’s shoulder, taking strength from her partner’s unwavering calm. They swayed gently in the warmth of the firelight until another contraction forced Celenneth to clutch at Linnea’s tunic. She cried out, tears slipping down her face, and Linnea held her, murmuring soft words of love and encouragement, her hand firm against the small of Celenneth’s back, massaging slow circles.
+Celenneth nodded and rested her head on Linnea's shoulder and took strength from her partner's unshaken calm. They swayed together in the firelight until another contraction bent Celenneth over Linnea's arm. She cried out, tears sliding down her face, and Linnea held her and murmured love and courage against her hair, her hand working slow circles at her back.
 
-They tried changing positions again—kneeling on the bed, resting Celenneth’s arms over a pillow, anything to ease the pressure. Linnea spoke in low tones about the baby’s future—how they would sing songs by the river, show the child the constellations on a clear night, and teach them the paths through the Angles’ gentle hills. Celenneth listened, focusing on these images of a peaceful future, using them as a lifeline through each wave of pain.
+They tried other positions—kneeling on the bed, Celenneth's arms folded over a pillow, anything to ease the press of it. Linnea spoke low of the child's days to come: how they would sing by the river, and show the little one the constellations on a clear night, and walk them along the gentle hills of the Angle. Celenneth listened, holding to those pictures of a quiet future, using them as a line to pull herself through each wave.
 
-As the third hour wore on, Celenneth began to feel an overwhelming urge to push. It surprised her with its force, like a command from her own body that she couldn’t ignore. Linnea, noticing the change, knelt at Celenneth’s side. “It’s good,” she said softly. “That means the baby is descending. But let’s be sure it’s time.”
+As the third hour wore on, an overwhelming urge to push rose in her, startling in its force—like a command her own body gave that she had no power to refuse. Linnea saw the change and knelt at her side. "That's good," she said softly. "It means the baby is coming down. But let's be sure it's time."
 
-Celenneth nodded, struggling for breath. “Please, check,” she managed, voice thin.
+Celenneth nodded, struggling for breath. "Please. Check."
 
-Linnea, never one to hesitate, did so quickly and gently. A small smile curved her lips, though her eyes held fierce concentration. “The baby’s close, Cel,” she said. “You’re nearly there. It might still be a while—don’t rush it, but when you feel that urge, let your body guide you.”
+Linnea did, quick and gentle, and a small smile touched her lips, though her eyes held fierce focus. "The baby's close, Cel. You're nearly there. It may be a while yet—don't rush it. But when the urge takes you, let your body lead."
 
-The relief and fear mingled in Celenneth’s eyes. Another hour passed—four hours now since those first mild contractions. The cabin’s darkness pressed close around them, the storm’s whispers blending with Celenneth’s moans. In that fourth hour, the pain reached a crescendo. Celenneth’s cries were louder, her voice echoing in the small space. Linnea supported her through each push, sweat beading along her own brow from the effort of holding Celenneth up and steady.
+Relief and fear mingled in Celenneth's eyes. Another hour passed—four now, since those first mild pains. The dark of the cabin pressed close, the storm's whisper braiding through her cries. In that fourth hour the pain reached its height. Her cries came louder, ringing in the small room, and Linnea held her through each push, sweat standing on her own brow from the effort of bearing her up.
 
-At one point, Celenneth collapsed back onto the bed, sobbing, “I can’t, Linnea, I can’t… it’s tearing me apart.”
+Once Celenneth fell back onto the bed, sobbing, "I can't, Linnea. I can't—it's tearing me apart."
 
-Linnea gripped Celenneth’s hand firmly. “You can,” she insisted, her voice firm but compassionate. “You’re stronger than this pain. It’s at its worst now because the baby is right there, ready to be born. Trust me.”
+Linnea gripped her hand hard. "You can," she insisted, firm and full of compassion both. "You're stronger than this pain. It's worst now because the baby is right here, ready to be born. Trust me."
 
-Celenneth’s face twisted with another contraction, and she bore down, pushing with a desperate strength. Linnea’s encouragement wove through the agony like a steady chant: “That’s it. Good. Breathe. Push again when you’re ready.”
+Celenneth's face twisted with another contraction, and she bore down, pushing with a desperate strength. Linnea's voice wove through the agony like a steady chant: *that's it—good—breathe—again, when you're ready.* Between the pushes Celenneth wept, overcome by the sheer size of what was happening to her, and Linnea kissed her damp brow and whispered promises that it would soon be over. The firelight wavered over them, shadows moving on the walls, as though the world itself had stopped to watch.
 
-Between pushes, Celenneth wept softly, overcome by the sheer intensity of what she was experiencing. Linnea kissed her damp forehead, whispering endearments and promises that it would soon be over. The firelight flickered over them, shadows dancing on the cabin walls, as if the world itself held its breath.
+At last, somewhere in the fifth hour—time gone shapeless under the weight of effort—Linnea's face lit with relief and wonder. "I can see the head," she said, her voice near to breaking. "You're nearly done, Cel. One more good push."
 
-Eventually, in the fifth hour—time blurring under the weight of effort—Linnea’s eyes lit with relief and excitement. “I can see the head,” she said, voice almost breaking with emotion. “You’re nearly done, Cel. One more good push.”
+Celenneth gathered everything she had left. She pushed, teeth clenched, tears streaming, while Linnea guided the child gently, speaking clear and calm. There came a sudden release, a moment when all the strain gave way at once, and after it a strange, ringing astonishment.
 
-Celenneth summoned everything she had left. She pushed, gritting her teeth, tears streaming, while Linnea guided the baby gently, speaking calmly and clearly. There was a sudden release, a moment when the tension snapped, replaced by a quiet sense of astonishment.
+A thin, fragile cry cut through the hush.
 
-A tiny, fragile cry cut through the silence.
+Celenneth gasped and sobbed, relief and a great flood of love breaking over her together. Linnea worked swiftly, wiping the newborn clean with a soft cloth and wrapping him in a warm blanket, her own eyes bright with tears as she turned back.
 
-Celenneth gasped, sobbing with relief and an overwhelming wave of love. Linnea worked swiftly, wiping the newborn clean with a soft cloth, then wrapping them in a warm blanket. Her own eyes were bright with tears as she turned back to Celenneth.
+"You did it, Cel," she said, thick with joy. "Our baby is here. A little boy."
 
-“You did it, Cel,” she said, voice thick with joy. “Our baby is here. A little boy.”
+Celenneth reached out with trembling arms to take the small bundle Linnea laid against her chest. He squirmed and cried again, a thin wavering sound that seemed to her the sweetest she had ever heard. She kissed the top of his head and breathed in that indescribable newborn scent, her chest heaving with gratitude.
 
-Celenneth reached out, arms trembling, to accept the small bundle Linnea placed against her chest. The baby squirmed and cried again, a thin, wavering sound that seemed the sweetest music Celenneth had ever heard. She kissed the top of the baby’s head, inhaling that indescribable newborn scent, her chest heaving with relief and gratitude.
+Linnea knelt by the bed, one hand resting on Celenneth's arm, her face radiant. "He's perfect," she whispered. "Just like you."
 
-Linnea knelt beside the bed, resting one hand on Celenneth’s arm. She smiled, her face radiant with pride. “They’re perfect,” she whispered, voice trembling. “Just like you.”
+Celenneth closed her eyes and held him close. The pain was behind her now, already fading into memory; all that was left was this fragile new life and the warmth of Linnea beside her. Outside the storm went on whispering at the shutters, but within the cabin it felt as though a new star had risen into their small sky.
 
-Celenneth closed her eyes, cradling the infant close. The pain was behind her now, fading into memory. All that remained was this fragile new life and the warmth of Linnea’s presence. Outside, the storm continued to whisper against the shutters, but inside the cabin, it felt as if a new star had been born into their small universe.
+⁂
 
-She pressed another kiss to the baby’s downy head, then looked to Linnea, eyes shining. “Thank you,” she breathed, voice almost inaudible. “For believing in me.”
+The morning light crept gently through the trees, laying pale gold along the path, and Linnea's breath came in small clouds on the crisp air as she carried Brynja home through a world hushed under fresh snow. The little girl was bundled to the eyes in a thick coat, only her bright gaze showing, full of questions she did not yet have the words for. They had passed the night at the Aldions'—Eadric and Lira and Elys taking Brynja in with easy warmth, so that Celenneth and Linnea might face the long hours in peace. Now, after a night that had felt at once endless and miraculous, Linnea was bringing their daughter back.
 
-Linnea stroked Celenneth’s cheek gently. “Always, love. Always.”
+As the cabin came into sight her heart beat quicker. Inside, Celenneth would be resting with the baby—their son, come just before the dawn after a long and beautiful struggle. The memory of Celenneth's courage swelled in Linnea's chest. She had been gone only a short while, to thank the Aldions and fetch Brynja, but it felt far longer, as though the whole world had shifted while her back was turned.
 
-As Celenneth drifted toward a well-earned rest, the baby nestled peacefully in her arms, Linnea tended the fire, stirred the embers, and let the world narrow to this moment of fullness and peace. The hours of pain were over, and in that quiet cabin, under the hush of a snowfall, their family had grown by one tiny, perfect life.
+The door stood ajar, warmth spilling out into the cold. Linnea nudged it wide with her shoulder. The single room smelled of woodsmoke and the faint sweetness that comes after a birth—clean cloth, warm wool, something new past naming. The hearth crackled softly, and there in the bed Celenneth rested against a heap of pillows, her face spent but serene, cradling a tiny bundle swaddled in soft wool. The baby's breathing was the quietest whisper in the still of the morning.
 
-The morning light crept gently through the trees, painting the path in pale gold. Linnea’s breath formed tiny clouds in the crisp air as she carried Brynja in her arms, making their way back home through a world still hushed by fresh-fallen snow. Brynja was bundled in a thick coat, only her bright eyes peering out, full of questions she didn’t yet know how to ask. They had spent the night at the Aldions’ home—Eadric, Lira, and Elys had taken in Brynja with cheerful ease so Celenneth and Linnea could face the long hours ahead in peace. Now, after a night that felt both endless and miraculous, Linnea was bringing their daughter back.
+Linnea set Brynja down and pressed a kiss to her temple. The little girl looked about her with wide eyes. She had gone off the night before with only the promise of a great surprise by morning, and though she had been beside herself with the thought of a brother or sister, now that the moment stood before her, her steps went careful. She crept forward, her small boots tapping on the boards.
 
-As they neared the cabin, Linnea’s heart beat faster. Inside, Celenneth would be resting with the new baby, their son, who had arrived just before dawn after a fierce and beautiful struggle. The memory of Celenneth’s courage swelled in Linnea’s chest. She’d left only for a short while, to thank the Aldions and bring Brynja home, but it felt like longer, as if the world had shifted in their absence.
+Celenneth smiled and lifted her free arm. "Brynja, my brave star," she said, her voice still hoarse from strain and tears. "Come here, sweet one."
 
-The door stood slightly ajar, warmth spilling out into the cold morning. Linnea nudged it open with her shoulder. The cabin’s single room smelled of woodsmoke and the faint sweetness of birth—clean cloth, warm blankets, and something indescribably new. The hearth crackled softly, and inside the bed, Celenneth rested against a pile of pillows, her face exhausted but serene, cradling a tiny bundle swaddled in a soft, woolen wrap. The baby’s gentle breathing was the quietest of whispers in the hush of the morning.
+Brynja came to the bedside, glancing between her mother's face and the small bundle in her arms. Linnea's hand steadied her as she climbed up and settled into the familiar crook of Celenneth's side. For a moment she only stared, her breath catching at the sight of the tiny sleeping form.
 
-Linnea lowered Brynja to the floor, pressing a brief kiss against her temple. The little girl looked around with wide, curious eyes. She’d left last night with only the promise of a big surprise come morning. Brynja had been so excited at the idea of a sibling, but now that the moment was here, her steps were tentative. She moved forward softly, her boots tapping lightly on the wooden floor.
+"Is—is that him?" Brynja whispered, soft as the snowfall.
 
-Celenneth smiled, lifting her free arm. “Brynja, my brave star,” she said softly, voice still hoarse from strain and tears. “Come here, sweet one.”
+Celenneth nodded. "Your little brother. He came just before the dawn."
 
-Brynja approached the bed, glancing between her mother and the small bundle in her arms. She climbed up beside Celenneth, guided gently by Linnea’s hand, and settled into the familiar crook against her mother’s side. For a moment, she just stared, her breath catching at the sight of the tiny form dozing peacefully.
+Brynja leaned in until her nose nearly brushed his downy head. He smelled of milk and warmth, and he was so very small. She had pictured a baby a hundred ways, but this was different—more fragile, more real than any daydream. Her heart thumped with a careful excitement, as though the least wrong move might disturb him.
 
-“Is… is that him?” Brynja whispered, her voice as soft as the snowfall outside.
+"He's smaller than I thought," she murmured, awe and a fierce little protectiveness mingling in it.
 
-Celenneth nodded. “Your little brother.” Her eyes brimmed with tenderness. “He arrived just before the dawn.”
+Celenneth laughed low, weariness and contentment shining in her eyes. "You were that small once, though I can hardly believe it myself."
 
-Brynja leaned closer, her nose almost touching the baby’s downy head. He smelled like milk and warmth, and he was so incredibly small. She had imagined what a baby would look like—but this was different, more fragile and real than her daydreams. Her own heart thumped with careful excitement, as if the slightest wrong move might disturb this precious creature.
+Linnea knelt by the bed, her hand finding Celenneth's shoulder, the long night's hours—the pain, the patience, the whispered words—still lingering at the back of her mind. But all she felt now was gratitude. The family they had made by love and by choice had grown by one.
 
-“He’s smaller than I thought,” Brynja murmured, awe and a hint of protectiveness mingling in her tone.
+"Would you like to hold him?" she asked gently.
 
-Celenneth chuckled softly, fatigue and contentment shining in her eyes. “You were that small once, though I can hardly believe it myself.”
+Brynja hesitated, glancing to Celenneth, who gave a reassuring nod. "Yes," she said softly. "I'd like that."
 
-Linnea knelt beside the bed, her hand finding Celenneth’s shoulder in a quiet gesture of pride and relief. The memories of the long night—the hours of pain and patience, the whispered encouragements—lingered in the back of her mind, but now all she felt was gratitude. The family they’d shaped through love and choice had grown by one.
+Linnea lifted the baby with care, cradling his small head, and guided him into Brynja's waiting arms while Celenneth shifted so her daughter could hold him safe, Linnea's hands hovering close. The baby stirred, one tiny fist uncurling in the new warmth, a sleepy sigh escaping him.
 
-“Would you like to hold him?” Linnea asked gently, her gaze shifting to Brynja. The little girl’s eyes danced with mixed emotions: excitement, nervousness, love.
+Brynja's face lit with wonder. She had held kittens before, and once a baby chick, but never anything so precious. "Hello," she whispered down at him. "I'm Brynja. I'm your big sister."
 
-Brynja hesitated, glancing at Celenneth, who gave a reassuring nod. “Yes,” she said softly. “I’d like that.”
+The baby did not open his eyes, but he settled, as if soothed by her voice. Brynja swallowed hard, her heart full to bursting, and looked up at her mothers. Celenneth smiled and nodded; Linnea's eyes glistened, and she did not bother to hide it.
 
-Linnea carefully lifted the baby from Celenneth’s arms, supporting his tiny head, and guided him into Brynja’s waiting embrace. Celenneth repositioned herself so that Brynja could cradle him safely, Linnea’s arms hovering close to help if needed. The baby stirred, one small hand uncurling in the new warmth, a sleepy sigh escaping his lips.
+"You'll help us care for him, won't you?" Linnea asked.
 
-Brynja’s face lit with wonder. She’d held kittens before, and once a baby chick, but never something this precious. She stared down at her brother, eyes shining. “Hello,” she whispered. “I’m Brynja. I’m your big sister.”
+Brynja nodded, solemn. "I will. I promise." She bent and pressed a gentle kiss to his forehead. The room seemed to warm all at once, as if a window had opened onto a spring day, and outside the snow still fell in silence, but within, time slowed to a moment of pure grace.
 
-The baby didn’t open his eyes, but he settled contentedly, as if comforted by her voice. Brynja swallowed hard, her heart full to bursting. She looked up at her mothers, searching their faces. Celenneth smiled softly, nodding her approval. Linnea’s eyes glistened with tears she didn’t bother to hide.
+⁂
 
-“You’ll help us care for him, won’t you?” Linnea asked quietly.
+The following morning the sun came through the small windows and laid warm gold across the floorboards. The scent of fresh bread and brewed tea drifted from the hearth, and a lingering hint of herbs beneath it. Everything felt settled now, and full of promise.
 
-Brynja nodded solemnly. “I will. I promise.” Her gaze drifted back to the baby, and she leaned down to plant a gentle kiss on his forehead. The room felt warmer suddenly, as if a window had opened onto a spring day. Outside, the snow still fell silently, but inside, time seemed to slow in a moment of pure grace.
+Celenneth sat propped against pillows at the end of the table, her hair brushed back from her face, a quiet glow to her cheeks. She was nursing their son, cradling him with a protective tenderness; he latched without fuss, small and perfect, his tiny hands curled against her skin as though claiming this safe harbor for his own.
 
-In that tender hush, they remained close, a family bound by more than blood—by shared trials, whispered vows, and the love that had guided them home through storms. The baby breathed steadily in Brynja’s arms, Celenneth’s eyes closed in weary relief, Linnea’s hand steady on her shoulder.
+Linnea stood near, one hand light on Celenneth's shoulder, having only just guided Brynja to her seat across the table. Brynja, awake and curious, wore a look of quiet awe, still finding her way into the truth of the new baby's being there. She balanced a slice of bread in her small hands and buttered it in slow, careful strokes, as if the ritual carried some new weight on this first morning as a family of four. Outside a faint breeze tapped the window; within there was only warmth—firelight, fresh bread, Linnea's low voice now and again offering a word of reassurance. Nothing was hurried. Nothing needed to be.
 
-The following morning, sunlight filtered through the small windows, painting the wooden floor with warm, golden stripes. A comforting fragrance drifted from the hearth—freshly baked bread, brewed tea, and a lingering hint of herbs. Everything felt calmer now, settled and full of promise.
+At length Celenneth looked up from the baby, meeting Brynja's watchful eyes, then Linnea's steady gaze. She had carried this quietly for some time now, turning it over through the long weeks. In her heart she had come to feel, the way a mother comes to know a thing without proof of it, whose son this was—and word had reached the Angle before the first snows, carried out of the east by Damrod's own hand: that Hallas had fallen, hunting the blight they had ridden away to hunt, down to its very den. He had gone into the dark so that the North might sleep easier, and he would never look on the child now sleeping at her breast.
 
-Celenneth sat propped against several pillows at one end of the table. Her hair, though still a bit tousled, had been brushed back from her face, and her cheeks held a subdued glow of peace. She was nursing their newborn son, cradling him in her arms with a protective tenderness. He latched without fuss, small and perfect, his tiny hands curled against her skin as if claiming this safe haven for himself.
+She had grieved him through the winter, and the child with her. And now she knew what she would do.
 
-Linnea stood close by, her hand lightly resting on Celenneth’s shoulder. Her other arm had only just guided Brynja to her seat across the table. Brynja, awake and curious, wore a look of quiet awe, still adjusting to the reality of the new baby’s presence.
+"I've been thinking," she began, her voice low, carrying the warmth of a thing long held and only now spoken aloud, "about his name."
 
-Brynja balanced a slice of bread in her small hands, slathering it with butter in careful strokes. She took her time, as if the ritual itself carried some new weight on this first morning as a family of four. Outside, a faint breeze tapped at the window, but inside all was warmth—firelight, fresh bread, and the soft murmur of Linnea’s low voice now and then, offering reassurance or a gentle suggestion. Nothing felt rushed. Nothing needed to be.
+Linnea tilted her head, curiosity lighting her eyes. Brynja paused mid-bite, the butter-knife hovering. Even the baby seemed to still, as if listening for the hush in his mother's voice.
 
-Eventually, Celenneth looked up from the baby, meeting Brynja’s watchful eyes, then Linnea’s steady gaze. The newborn, sated for the moment, suckled quietly with the contentment of one who trusts the world completely. Celenneth’s voice was low, carrying the warmth of a secret finally spoken aloud. “I’ve been thinking,” she began, her words soft, “about his name.”
+Celenneth drew a breath, her gaze moving from Brynja's earnest face to Linnea's quiet support. "I want to give him his father's name," she said, and chose each word with care. "I want him to carry Hallas's name."
 
-Linnea tilted her head slightly, curiosity lighting her eyes. Brynja paused mid-bite, butter knife hovering above her bread. Even the baby to listen  to the hush in his mother’s voice.
+Linnea's hand tightened gently on her shoulder. "Hallas," she repeated softly, as if tasting the sound of it. "It's right. Strong, and honest—just as he was."
 
-Celenneth drew a breath, glancing from Brynja’s earnest face to Linnea’s gentle support. “I want to name him after his father,” she said, each syllable chosen carefully. “I want him to carry Hallas’s name.”
+Celenneth looked down at the small face against her, her eyes misting with a gentle sorrow. "Hallas and Damrod were good to us both. I want our son to know that same strength. That same gentleness. That same willingness to give of himself—and to make it his own."
 
-Linnea smiled, her hand giving a reassuring squeeze at Celenneth’s shoulder. “Hallas,” she repeated softly, as if tasting the sound. “It’s perfect. Strong and honest—just like he was.”
+Brynja set her knife down with a soft clink and leaned forward. She was young, but not too young to feel the weight moving through her mothers' words. "Hallas," she echoed, her small voice steady. Her approval came plain and honest: "I like that name." She reached out, fingertips barely grazing the blanket. "He'll be brave. Like us. Like you taught me, Mama."
 
-Celenneth looked down at the small face against her breast, eyes misting with a gentle sadness. “Hallas and Damrod were good to us. I want our son to know that same strength, that same gentleness, that same selflessness, and shape it into his own story.”
+Celenneth's heart squeezed with love, and she brushed a strand of hair back from Brynja's brow. Linnea bent and pressed a kiss to Celenneth's temple, then met her eyes. "Hallas," she agreed, husky with feeling. The baby stirred, as if nudged by their voices, and Linnea offered him a finger; his tiny hand, no bigger than a sprig of thyme, closed tight around it. Her smile deepened. "Our little Hallas," she said. "Welcome to our family."
 
-Brynja, who had been listening quietly, leaned forward, her butter knife clinking softly as she set it down. “Hallas,” she echoed, her small voice steady. She was young, but not so young as to miss the emotion swirling through her mothers’ words. Her approval came simply and honestly: “I like that name.” She reached out, fingertips barely grazing the blanket that wrapped around her brother. “He’ll be brave, like us. Like you taught me, Mama.”
+Celenneth shifted him against her, feeling the warmth of him, the slow dreamy pull of his nursing gone gentle now. Brynja took a bite of her bread, an ordinary comfort in an extraordinary morning. Linnea settled onto the bench beside Celenneth, close enough that their shoulders touched. The boy would know the stories of Hallas one day—of the man whose name he carried, and what that name had cost. He would know the laughter of a sister, and the love of two mothers who had made their family of choice and intention. The moment stretched golden and quiet, each heartbeat measured against the soft rhythm of their breathing—Linnea, Celenneth, Brynja, and small Hallas—four threads woven into one enduring cloth.[^m-hallas]
 
-Celenneth’s heart squeezed with pride and love. She reached to brush a strand of Brynja’s hair back from her forehead. Linnea bent closer, pressing a gentle kiss to Celenneth’s temple before meeting her eyes. “Hallas is a fitting name for him,” she agreed, her voice husky with feeling. The baby stirred slightly, as if nudged by their voices, and Linnea extended a finger for him to grasp. His tiny hand, no bigger than a sprig of thyme, wrapped around it, holding tight. Linnea’s smile deepened, a quiet joy filling her chest. “Our little Hallas,” she said softly, “welcome to our family.”
-
-Celenneth adjusted the baby against her, feeling the warmth of him, the steady pull of his nursing now slowed and dreamy. Brynja took a bite of her bread, a reassuring normalcy in this extraordinary morning. Linnea settled onto the bench beside Celenneth, close enough so their shoulders touched. The baby would know stories of Hallas one day. He would know the laughter of sisters and the comfort of mothers who forged their family from love and intention. The moment stretched, golden and quiet, each heartbeat measured against the softness of their breathing. Linnea, Celenneth, Brynja, and little Hallas—four threads woven into a tapestry of family, hope, and enduring love.
+[^m-hallas]: **A son is born and named.** Celenneth is safely delivered of a boy after a long night's labor, with Linnea attending. She names him **Hallas**, for his father—the ranger Hallas (Damrod's companion), who fell in the east hunting the corruption to its source and did not live to see him. The child grows up bearing a fallen father's name, second of the family's children with Brynja.

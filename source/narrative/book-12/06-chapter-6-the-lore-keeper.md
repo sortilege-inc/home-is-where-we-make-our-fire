@@ -1,63 +1,57 @@
 # Chapter 6: The Lore-Keeper
 
-*Book 12*
+*Hísimë 14, 2970*
 
-*N, 2970*
+The road to the loremaster's door was no road at all by its end. It had begun plainly enough, a track through the thinning autumn woods, but with every mile it grew fainter, swallowed by leaf-fall and reaching bramble, until Celenneth was reading the way by old signs rather than by any path—a cairn gone green, a blaze grown over on a beech. A day's ride and more it took them, Celenneth riding careful with the weight she carried and Linnea keeping easy watch at her flank, and the deeper they went the quieter the forest grew, until the cottage rose out of a glade so hidden it might have kept itself secret on purpose. Smoke curled from a crooked chimney. The place felt untouched—a small pocket of the world the years had passed over.
 
-The secluded cottage stood nestled deep in the forest glade, smoke curling lazily from its crooked chimney. The road had turned faint and overgrown long before Celenneth and Linnea reached it, but the place felt safe—a timeless haven untouched by the chaos of the world.
+They knocked, and the door creaked open on an old woman with sharp grey eyes that missed nothing and silver hair braided long and loose. A heavy woolen shawl hung from her narrow shoulders. Her look held a faint suspicion until it fell on Celenneth's cloak and the way she stood.
 
-When they knocked, the door creaked open to reveal Almedra—an old woman with sharp gray eyes that missed little and silver hair woven into a long, loose braid. She wore a heavy woolen shawl draped over her narrow shoulders, her expression one of faint suspicion until she recognized Celenneth’s cloak and bearing.
+"Well, there's no mistaking you for aught but one of our own, Ranger. Come in—you look burdened. Let's see if we can't lighten it."
 
-“Well, there’s no mistaking you for anything but one of our own, ranger. Come in. You look burdened—let’s see if we can lighten it.”
+From behind her a man's voice rasped out, low and gravelly, muffled by the walls. "Another of your scroll-collectors, Almedra? Tell them I want more tea."
 
-Behind her, the voice of a man called out—a low, gravelly sound muffled by the walls. “Is it another of your scroll collectors, Almedra? Tell them I need more tea.”
+"Hush, Berthor. You've had tea enough for three men." Almedra shook her head, a faint smile tugging at her, and waved them in.
 
-“Hush, Berthor, you’ve had enough tea for three men.” Almedra smiled faintly, shaking her head as she gestured for Celenneth and Linnea to enter.
+Inside, the cottage was warm and close and crowded. Shelves lined every wall, bowed under scrolls and manuscripts and aged tomes, their spines faded, their edges soft with handling. A small table by the hearth held an inkpot and stacked parchment, half-covered in a tight, precise hand. At the far end sat Berthor—a tall man gone frail, his large hands idle in his lap, reclined in a chair heaped with blankets. His blue eyes, weary as they were, tracked the strangers with care.
 
-Inside, the cottage was warm, though crowded. Shelves lined every wall, buckling under the weight of scrolls, manuscripts, and aged tomes, their spines faded and edges worn. A small table beside the hearth held an inkpot and stacks of parchment, half-scribed with tight, precise handwriting.
+"We've found something," Celenneth began, setting down her pack. "Relics of the old world. Númenórean, we believe—out of the ice, from a ruin that has forgotten its own name. But we don't understand all of what we carry."
 
-At the far end of the room sat Berthor, a tall man now frail with age, his large hands resting idly in his lap as he reclined in a chair piled with blankets. His sharp blue eyes, though weary, tracked them carefully.
+She drew them out and laid them across the table: a silver-bound book, a rolled scroll, and a strange dark shard. Almedra's breath went sharp, and she leaned close, her fingers trembling over the silver bindings.
 
-“We’ve found something,” Celenneth began as they set their packs down. “Relics from the old world—Númenórean, we believe. But their nature isn’t fully clear to us.”
+"Stars above. Where did you come by these?"
 
-She withdrew the silver-bound lorebook, the scroll, and the strange shard, carefully laying them across the table. Almedra’s sharp intake of breath was immediate as she leaned closer, fingers trembling over the silver bindings.
+"In a place best left buried," Linnea said quietly, and the reverence in her voice was shot through with unease.
 
-“Stars above, where did you find these?”
+"And you'd know what they are." Almedra's tone dropped low, her eyes fixed on the table. "I've not laid eyes on the like since I was a girl—not in the flesh. Give me the night. My library will have answers, if I ask it rightly."
 
-“In places that have forgotten their own names,” Linnea said softly, her voice carrying both reverence and unease.
+Celenneth settled into a chair while Linnea set water for tea from the herbs they carried, and Berthor offered up dry, grumbling commentary from his blankets, though Linnea's wit soon had him half-charmed despite himself. The night wore on to the rustle of parchment and the scrape of a quill. Now and then Almedra muttered to herself, pulling books from precarious stacks, squinting at runes by candlelight. Linnea dozed by the fire. Celenneth watched the old woman's shadow move steady across the wall, and found something steadying in it—a quiet, patient strength, bent to its work.
 
-“And you wish to know what they are.” Almedra’s tone was hushed, her sharp eyes fixed on the items. “I’ve not seen anything like this since I was a girl—not in the flesh. I need time. My library will have answers. If you’ll give me the night, I’ll learn what I can.”
+As grey dawn began to seep through the shutters, Almedra emerged from her books weary and triumphant, an open volume in her arms with loose pages tucked between the leaves.
 
-Celenneth nodded, settling into a nearby chair while Linnea began brewing tea from the bundle of herbs they carried. Berthor offered dry, grumbling commentary from his chair, though Linnea’s wit kept him entertained as the fire burned low.
+"You've brought me relics of a forgotten age, Celenneth. Listen well."
 
-The night passed with the faint sounds of rustling parchment and the scrape of a quill as Almedra worked. At times, the old woman would mutter to herself, pulling books from precarious stacks or squinting at runes by the light of a candle. Linnea dozed near the fire while Celenneth watched Almedra’s silhouette move steadily in the dim light, her dedication a quiet, steady strength.
+She laid a hand on the silver-bound book first, her voice gone reverent. "This is the lorebook of Arnenir—one of Númenor's great loremasters. He set down not only their journeys into Eriador but their secrets: hidden paths, buried ruins, knowledge meant for his own kin. His legacy lives in these pages. Read it well, and it will guide you when every other map has failed."
 
-As the dawn began to seep through the cracks in the shutters, Almedra emerged, weary but triumphant, carrying an open book with loose papers tucked between its pages.
+She set it aside with care and turned to the scroll, tracing its runes with a fingertip, whispering as she read. "This is a ward. Old magic—practical, not lofty. These marks were carved to turn back corruption and intrusion. Used wisely, they'll shield a place, or a person, for a while at least."
 
-“You’ve brought me relics from a forgotten age, Celenneth. Listen well.”
+Last she took up the shard, narrowing her eyes as she tilted it to the light. "And this—this is part of something greater. A key, yes. But a seal, too—made to lock a thing away, or to guide one to places of power. Its work is unfinished. But the magic in it holds."
 
-She gestured to the silver-bound lorebook first, her voice reverent. “This is the Lorebook of Arnenir—one of Númenor’s great loremasters. He chronicled not only their expeditions into Eriador but their secrets: paths, ruins, and lost knowledge meant for his kin alone. This book carries his legacy. Use it well, and it will guide you when all other maps fail.”
+Celenneth listened, the weight of the things on the table growing heavier as she came to understand them. At last she rose and reached for the silver-bound book, lingering over its bindings, and turned back to Almedra.
 
-Almedra carefully set the book aside, her gaze falling on the scroll. She traced the runes with her fingertips, whispering softly to herself. “This scroll is a ward. Old magic—practical, not lofty. These runes were carved to protect against corruption and intrusion. Use them wisely, and they’ll shield a location or a person, at least for a time.”
+"This should stay here. With you, and with Berthor. You've earned it—and you'll keep it as it was meant to be kept."
 
-Finally, Almedra held up the shard, her eyes narrowing as she tilted it in the light. “This… this is part of something greater. A key, yes, but it’s also a seal—used to lock away or guide someone to places of power. Its work is unfinished, but it still holds its magic.”
+Almedra blinked, caught off her guard. "Celenneth—you can't mean that. It's a priceless thing—"
 
-Celenneth listened intently, the weight of the relics growing heavier with understanding. Finally, she stood and reached for the Lorebook of Arnenir, lingering over its silver bindings before turning back to Almedra.
+"And it belongs with one who can preserve it, and pass its wisdom to those who'll need it. I'll carry away what I've learned. But its home is here."
 
-“This book should stay here, with you and Berthor. You’ve earned it, and you’ll care for it as it was meant to be cared for.”
+For the first time the old woman looked unsteady. "You honor us," she said softly. "Truly. It will be cared for. I swear it."
 
-Almedra blinked, clearly caught off guard. “Celenneth, you can’t mean that. It’s a priceless treasure—”
+From his chair, Berthor cleared his throat loudly. "Well. If nothing else, it'll keep her busy. I've run clean out of ways to entertain her."
 
-“And it belongs with someone who can preserve it, who can share its wisdom with those who will need it. I’ll take what I’ve learned, but its home is here.”
+Linnea laughed and shouldered her satchel. "Then let it keep the pair of you out of trouble a while."
 
-For the first time, Almedra looked unsteady, her voice soft as she murmured, “You honor us, Celenneth. Truly. It will be cared for, I swear it.”
+They stepped out into the morning, and the forest was loud with birdsong, and the weight they carried felt somehow lighter for the leaving of the book. Linnea's fingers strayed to the shard-key where it hung at her belt. "Are you certain? Leaving it behind?"
 
-Berthor, from his chair, cleared his throat loudly. “Well, if nothing else, it’ll keep her busy. I’ve run out of ways to entertain her.”
+Celenneth nodded, her gaze on the trees ahead. "Its knowledge is safe, and that's what matters. What we carry now will serve us—and those who come after us."[^t-relics]
 
-Linnea laughed, shaking her head as she shouldered her satchel. “Then let this keep you both out of trouble for a while.”
-
-As they stepped out into the morning light, the forest was alive with birdsong, and the weight of the journey felt somehow lighter. Linnea glanced at Celenneth, her fingers brushing the Frostward Key where it hung from her belt.
-
-“Are you certain about leaving the book?”
-
-Celenneth nodded, her gaze on the road ahead. “Its knowledge is safe, and that’s what matters. What we carry now will serve us—and those who come after.”
+[^t-relics]: **Reward / Lore — the relics of the ice named.** The loremaster **Almedra** (with her housemate **Berthor**) identifies three finds carried out of the Frost Maw: the *Lorebook of Arnenir*, a Númenórean loremaster's chronicle of hidden paths and ruins; a rune-scroll of warding against corruption; and a shard that is at once a key and a broken seal (the *Frostward Key*), its purpose yet unfinished. Celenneth leaves the priceless lorebook in the loremaster's keeping.
