@@ -155,8 +155,24 @@ Rohan, Edoras, Minas Tirith, Fangorn (never "Fanghorn"), Mirkwood, the **Grey Ha
 later settles in **the Angle** — Dúnedain country, still "near Bree" relative to the far
 reaches of the journey (Moria, Rohan, the Grey Havens).
 
-**Deferred:** Book 13's Elven ship crew (Calion, navigator, quartermaster, cook, …) — pin a
-canonical list when that book is resumed; the navigator is **not** "Isildur".
+**Book 13 canon (pinned during the rewrite):**
+- **Eryndil** — Elf of **Lindon**, sent by Elrond; bears a Númenórean adamant relic and leads
+  Celenneth's family west. Her mare is **Silmë**.
+- **The ship: *Eärlindë*** (of the Grey Havens / Mithlond, Círdan's). Her **crew** — a dozen,
+  fixed spellings:
+  **Calion** (captain, starseer) · **Ithildur** (navigator; tattooed, once shadow-touched —
+  *never* "Isildur"/"Ithildor") · **Lindarë** (quartermaster) · **Nithrandir** (surgeon) ·
+  **Eärion** (boatswain; his bird is **Tuila**) · **Celebrin** (deckhand) · **Galaniel**
+  (cook — the Ch7 "Laerion" is the same role, folded into Galaniel) · **Thalandir** (deckhand,
+  eyepatch/herbs) · **Voriel** (lookout) · **Mallor** (carpenter) · **Elenmir** (sailmaker) ·
+  **Silivren** (deckhand, twin runed swords).
+- **Almedra** the loremaster is **widowed** by Book 13 (spring 2971): her husband **Berthor**
+  (the frail companion of Book 12 Ch6) died over the winter. She keeps the *Lorebook of
+  Arnenir* Celenneth left with her (Book 12).
+- **Warden Blade name:** its full title **Nurhael's Warden Blade** is *discovered here* — Círdan
+  names it for Celenneth at the Havens. Before Book 13 it is only "a warden-blade of Arnor."
+- **Ending is unfinished:** Ch10 "Shore Leave" is an empty stub; the voyage never reaches the
+  island. The arrival/finale remains to be written.
 
 ## 7. Calendar & Continuity
 
