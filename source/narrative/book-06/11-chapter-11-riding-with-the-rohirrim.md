@@ -1,73 +1,63 @@
 # Chapter 11: Riding with the Rohirrim
 
-*Book 6*
-
 *Cermië 1, 2966*
 
-The plains of Rohan stretched wide and golden before her, a stark contrast to the dense, shadowed confines of Fangorn. Each step through the open grasslands felt like a blessing, the cool wind carrying the scent of earth and wildflowers. Celenneth moved slowly, favoring her injured leg, but her determination kept her going. Her supplies were meager, and the ache in her leg was a constant reminder of her vulnerability. Still, the thought of reaching Edoras, of seeing friendly faces and finding rest, spurred her onward.
+The plains of Rohan opened wide and golden before her, a mercy after the shadowed press of Fangorn. Every step through the open grass felt like a blessing, the cool wind carrying earth and wildflower. Celenneth moved slow, favoring the leg, her supplies meager and the ache in it a constant reminder — but the thought of Edoras, of friendly faces and rest, drew her on.
 
-It was on the third day that she saw the riders. At first, they were no more than distant figures on the horizon, their shapes silhouetted against the setting sun. Celenneth hesitated, her hand instinctively falling to the hilt of her sword. But as the riders drew closer, she recognized the familiar banners of Rohan, the green and gold shimmering in the breeze.
+Riders came into view on the far horizon, dark shapes against a low sun. Her hand went to her sword out of habit — until she made out the green and gold of Rohan on their banners. She stood tall as the patrol slowed and approached, and a broad-shouldered rider at their head raised a hand to halt them.
 
-She waited, standing tall despite her weariness, as the patrol approached. The riders slowed as they neared, their mounts snorting and pawing at the ground. A tall, broad-shouldered man at the front raised a hand, signaling the group to halt.
+"You there," a woman's voice called, firm but not unkind. "Who are you, so far from any road?"
 
-“You there!” he called, his voice firm but not unkind. “Who are you, and what brings you so far from the road?”
+"Celenneth of the Dúnedain. I've traveled far, and have need of rest. I seek Edoras."
 
-“I am Celenneth of the Dúnedain,” she replied, her voice steady despite her fatigue. “I’ve traveled far and have need of rest. I seek Edoras.”
+The riders traded glances. Then the one who had called swung down and came to her — tall and lean, her dark hair braided tight, keen blue eyes that took in Celenneth's every worn detail. "Garin, rider of the Mark," she said. "You've the look of someone dragged through the fires of Mordor. What happened to you?"
 
-The riders exchanged glances, their expressions ranging from curiosity to suspicion. Before anyone could speak, a woman dismounted and approached her. She was tall and lean, her dark hair braided tightly, and her sharp blue eyes seemed to take in every detail of Celenneth’s worn appearance.
+"A long tale," Celenneth said, a faint smile touching her lips. "One I'd gladly share over a fire. For now, I'd be grateful for your aid."
 
-“I am Garin, rider of the Mark,” she said, her tone measured. “You look like you’ve been through the fires of Mordor. What happened to you?”
+Garin studied her a moment more, then nodded and gestured to her horse, a sturdy bay mare. "You'll ride with me. Come — I'll help you up." Celenneth hesitated, unused to leaning on anyone, but the pain in her leg humbled her, and she let Garin hand her up into the saddle, wincing. Garin swung up behind her and took the reins, and the patrol resumed, closing loosely around them.
 
-“It’s a long tale,” Celenneth said, allowing a faint smile to touch her lips. “One I’d gladly share over a fire, but for now, I’d be grateful for your aid.”
+"Lucky we found you," Garin said after a while. "This country looks peaceful, but it's been restless of late — orcs, wolves, more than we've seen in years."
 
-Garin studied her for a moment longer before nodding. “You’ll ride with me,” she said, her voice leaving no room for argument. She turned and gestured to her horse, a sturdy bay mare with intelligent eyes. “Come, I’ll help you up.”
+"I've seen it myself," Celenneth said, her eyes on the horizon. "The Shadow stirs, and the world is ill at ease."
 
-Celenneth hesitated, unused to accepting help, but the pain in her leg humbled her and she accepted the aid. She winced as Garin hoisted her over the saddle. The mare shifted slightly but settled quickly under the combined weight.
+Garin was quiet a moment. "We'll get you to Edoras."[^r-garin]
 
-The patrol resumed its pace, the riders falling into a loose formation around her. Garin sat behind her, her hands steady on the reins as they moved across the plains. “You’re lucky we found you,” she said after a time. “These lands may look peaceful, but they’ve been restless of late. Orcs, wolves—more than we’ve seen in years.”
+⁂
 
-Celenneth nodded, her eyes scanning the horizon. “I’ve seen it myself. The Shadow stirs, and the world is ill at ease.”
+Riding with the Rohirrim was a strange comfort after so long alone. The patrol moved with practiced ease, but their days were never simple — scouting a ridge for orc-sign, carrying word to scattered farmsteads, reading the aftermath of a wolf-raid. Celenneth kept mostly to herself, riding before Garin on her bay, but Garin seemed set on drawing her out. She had a quick wit and a ready laugh, and she told stories — of her family, her years in the saddle, the old lore of the Mark.
 
-Garin was silent for a moment, her gaze distant. “We’ll get you to Edoras,” she said finally.
+"You know," she said one evening at their fire, "the horses of Rohan are the finest in Middle-earth. Better even than Gondor's."
 
-Traveling with the riders of Rohan was a stark contrast to Celenneth’s solitary wanderings. The patrol moved with practiced efficiency, their horses swift and sure-footed across the rolling plains. Yet their duties were never straightforward. Each day brought a new task—scouting a distant ridge for signs of orc encampments, delivering messages to scattered farmsteads, or inspecting the aftermath of a wolf raid. The riders worked seamlessly, their camaraderie evident in every exchanged word or gesture.
+Celenneth glanced up from restringing her bow. "I've seen them outrun storms and ford rivers as if it were nothing. I'll not argue."
 
-Celenneth, though grateful for their company, kept mostly to herself, riding behind Garin on her sturdy mare. Garin, however, seemed determined to draw her out. The Rohirrim woman had a quick wit and a ready smile, her laughter bright against the somber backdrop of their mission. She spoke often, telling stories of her family, her exploits as a rider, and the lore of Rohan.
+Garin grinned and leaned in. "And their riders? Do they not impress you as well?"
 
-“Did you know,” Garin said one evening as they made camp, “that the horses of Rohan are the finest in Middle-earth? Better even than those of Gondor.”
+"Your riders are skilled," Celenneth said, thoughtful. "Strong, loyal, brave. It's plain why Rohan holds them so dear."
 
-Celenneth, sitting cross-legged by the fire as she worked on restringing her bow, glanced up. “I’ve seen them outrun storms and ford rivers effortlessly,” she replied. “I wouldn’t argue.”
+Garin's smile turned sly. "And this rider in particular? Does she meet your high standards?"
 
-Garin grinned, leaning closer. “And what of their riders? Do they not impress you as well?”
+Celenneth tilted her head, puzzled. "I'm not sure what you mean."
 
-Celenneth blinked, her expression thoughtful. “Your riders are skilled,” she said after a pause. “Strong, loyal, brave. It’s clear why the people of Rohan value them so highly.”
+Garin laughed and shook her head. "Sharp as an arrow when it comes to danger, Celenneth — but blunt as a practice-sword when someone pays you a compliment."
 
-Garin’s smile grew sly, and she nudged Celenneth lightly with her shoulder. “And what of this rider in particular? Does she meet your high standards?”
+"A compliment?"
 
-Celenneth frowned slightly, tilting her head. “I’m not sure what you mean.”
+"Never mind," she said, still laughing, teasing. "I'll have to try harder, it seems."
 
-Garin chuckled, shaking her head. “Oh, Celenneth, you’re as sharp as an arrow when it comes to spotting danger, but when someone pays you a compliment, you’re as dull as a blunted sword.”
+Over the days that followed her easy warmth went on — a hand offered as Celenneth dismounted, an extra portion of food pressed on her, a stray strand of hair brushed from her face with a casual familiarity. Celenneth remained politely oblivious, her mind on the road and her mending leg. The other riders noticed, trading knowing looks and half-hidden smiles, but none said a word.
 
-Celenneth blinked, her brow furrowing. “A compliment?”
+The patrol's errands slowed their progress, and Celenneth did not mind; the rhythm of it — the scouting, the shared meals, the camaraderie — steadied her after Fangorn and the captivity before it, and the constant motion strengthened her leg for all the ache. One evening, as the sun went gold across the plains, Garin rode beside her in a rare quiet, her usual play gone from her voice. "You've come a long way," she said. "Where will you go, once we reach Edoras?"
 
-“Never mind,” Garin said with a laugh, her tone teasing. “I’ll have to try harder, it seems.”
+The question caught Celenneth off guard. "I don't know," she admitted. "Rest there a while. I never stay anywhere more than a season."
 
-Over the days that followed, Garin’s lighthearted remarks and small gestures continued—offering Celenneth a hand as she dismounted, sharing an extra portion of food, or brushing stray hair from Celenneth’s face with a casual familiarity. Celenneth, for her part, remained politely oblivious, focusing on their journey and her recovery. The other riders seemed to notice, exchanging knowing glances and occasional smirks, but no one said anything outright.
+Garin nodded slowly. "Well — wherever you go, I hope you'll remember Rohan fondly. And perhaps its people."
 
-The patrol’s duties slowed their progress, but Celenneth didn’t mind. The rhythm of their work—the scouting, the camaraderie, the shared meals—felt oddly comforting after the chaos of Fangorn and her captivity. Garin’s mare carried them steadily, and Celenneth’s leg began to heal, the constant motion strengthening her despite the lingering pain.
+Celenneth gave her a small, genuine smile. "I already do."
 
-One evening, as the sun dipped below the horizon and bathed the plains in gold, Garin rode beside her in a rare moment of quiet. “You’ve traveled far,” she said softly, her tone lacking its usual playfulness. “But where will you go when we reach Edoras?”
+The lights of Edoras came into view after a week and more of travel, the Golden Hall glimmering atop its hill. Relief washed through her at the sight. Garin reined in and looked at her with a wry smile. "Welcome to Edoras. Try not to get lost in all the excitement."
 
-Celenneth glanced at her, the question catching her off guard. “I don’t know,” she admitted. “I think I need to rest there for a time, but I never stay in a place more than a season.”
+Celenneth laughed softly, the warmth in her chest unfamiliar but welcome. "Thank you, Garin. For everything."
 
-Garin nodded, her expression thoughtful. “Well, wherever you go, I hope you’ll remember Rohan fondly. And… perhaps its people.”
+And the riders began their descent toward hearth and home — and for Celenneth, a step closer to healing, and to whatever waited beyond it.
 
-Celenneth gave her a small, genuine smile. “I already do.”
-
-The lights of Edoras finally came into view after nearly two weeks of travel, the Golden Hall glimmering atop its hill like a beacon. As the patrol crested the ridge, Celenneth felt a sense of relief wash over her. The journey wasn’t over, but for the first time in months, she felt like she had reached a place where she could rest, however briefly.
-
-Garin reined in her horse, looking at Celenneth with a wry smile. “Welcome to Edoras, Celenneth. Try not to get lost in all the excitement.”
-
-Celenneth chuckled softly, the warmth in her chest unfamiliar but welcome. “Thank you, Garin. For everything.”
-
-The riders began their descent, the promise of hearth and home drawing them forward. For Celenneth, it was a step closer to healing—and to discovering what lay ahead.
+[^r-garin]: **Fellowship** — crossing back into Rohan on her mended leg, Celenneth is found by a patrol of the Mark led by **Garin**, who takes her up and escorts her to Edoras. Over the ride Garin's regard for her warms toward something more than a rider's courtesy — which Celenneth, bent on getting home, does not perceive.

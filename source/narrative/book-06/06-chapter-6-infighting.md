@@ -1,127 +1,61 @@
 # Chapter 6: Infighting
 
-*Book 6*
+*Súlimë 21–26, 2966*
 
-*Súlimë 21-26, 2966*
+The blindfold pressed at her eyes as the march dragged on, each step a fight against hunger and fatigue and the orcs' relentless prodding. She had learned to count the hours by the rhythm of their travel and the turning of the air — cold mornings, warm afternoons, the biting chill of dusk. And she had learned her captors: their voices, their tempers, the grudges seething under their crude hierarchy. They were far from united. If she played it carefully, that could be a blade she need not hold in her hands.
 
-The blindfold had become a cruel companion, pressing against Celenneth’s eyes as the march dragged on. Each step was a struggle against fatigue, hunger, and the relentless prodding of the orcs. She had learned to count the hours by the rhythm of their movements and the changes in the air—cold mornings, warmer afternoons, and the biting chill of dusk.
+It was at an evening halt that Morga made his move. She heard the whip-orc's lash trailing the ground as he sauntered up, and straightened where she sat bound against a tree.
 
-It was during one of these evening rests, the group huddled around a small, smoky fire, that Morga made his move. The whip-wielding orc sauntered toward her, the rhythmic crack of his lash against the ground a warning of his approach. Celenneth, bound and seated against a tree, straightened her posture, refusing to show weakness.
+"Still so quiet, ranger," he said, his Westron unpleasantly smooth. He crouched close, his breath washing over her. "Halfway to Dol Guldur, and not a word. Must be that stubborn Dúnedain blood. Tell me why a lone ranger wanders so far south. Spying for Gondor? Plotting with the horse-lovers?"
 
-“Still so quiet, ranger,” Morga said, his Westron surprisingly smooth. He crouched in front of her, his beady eyes glinting with malice. “We’re halfway to Dol Guldur, and you’ve not told us a thing. Must be that stubborn Dúnedain blood.”
+"I have nothing to say to you," she said, level.
 
-Celenneth kept her face impassive, her jaw set. The other orcs were grumbling among themselves, paying little attention, but she knew Grusk wouldn’t be far. Morga’s whip coiled loosely in his hand, its barbed end brushing the dirt.
+He flicked the whip, the barbs hissing across the dirt near her face. "Grusk wants you alive. He didn't say pretty." When her silence only bored him he stood. "Fine. You'll have time to regret it when the master has you." He turned to go.
 
-“Maybe you’ll speak for me, eh?” Morga leaned closer, his foul breath washing over her. “Tell me why a lone ranger is wandering so far south. What’s your game? Spying for Gondor? Plotting with those horse-lovers in Rohan?”
+"You're afraid," Celenneth said.
 
-“I have nothing to say to you,” Celenneth replied evenly, her voice calm despite the anger simmering in her chest.
+He froze. "What did you say?"
 
-Morga chuckled, a low, guttural sound. “Oh, you’ve plenty to say. You just need a little… encouragement.” He flicked the whip lightly, the barbs scraping across the ground with a grating hiss. “You see, Grusk may want you alive, but he didn’t say anything about keeping you pretty.”
+"You're afraid. You keep the whip close, but you don't strike — not unless you're sure the others won't laugh when you fail."
 
-Celenneth tensed as he raised the whip, her heart pounding. She braced herself, but the strike didn’t come. Instead, Morga brought the whip’s barbs close to her face, letting them hang in the air between them. “Maybe you’ll tell me about those boots you’re so proud of,” he sneered. “Look like old work. Númenórean? Bet they’ve got a story.”
+His eyes narrowed, and for a moment she thought the lash would come. Instead he leaned in, inches away. "We'll see who's afraid, when you're begging in Dol Guldur." And he stalked off, his whip cracking the empty air, while the others watched and said nothing. It was a small thing. It was a beginning.
 
-Her silence only seemed to amuse him. “Fine, don’t talk. You’ll have plenty of time to regret it when the master gets ahold of you.” He stood, his whip snapping inches from her cheek. “But if you want to make it there in one piece, ranger, you’d better learn to answer when you’re spoken to.”
+⁂
 
-He turned to leave, but Celenneth’s voice stopped him. “You’re afraid.”
+Over the nights that followed she worked at the cracks. To Snaga, the wiry scavenger sulking at the edge of the fire: *They laugh at you, don't they? They call you the runt, the rat, when they think you can't hear.* To Uglat, the huge one with the stone-grafted arm, when he stomped past: *You're the strongest here, and everyone knows it — even Grusk. That's why he keeps you on such a short leash. He's afraid of what you'd do if you saw you didn't need him.* And to Morga again, low: *You follow him like a hound, but you're the cleverer. Grusk's pride will get you all killed.*
 
-Morga froze, his back stiffening. Slowly, he turned to face her, his expression darkening. “What did you say?”
+Each seed she planted with just enough detachment to leave doubt and deny nothing. And they grew. Snaga muttered louder and glanced at Uglat; Uglat sharpened his weapon with unnecessary force; Morga's whip cracked at every startle, his eyes flicking to Grusk more and more. Even silent Zograt withdrew, and Rukha traded jeers with the others where before there had been only sullen obedience. Only Grusk held his composure — though she could feel his frustration thickening with each day, his orders sharper, his glares more suspicious.
 
-“You’re afraid,” she repeated, her tone steady despite the risk. “You keep your whip close, but you don’t strike. Not unless you’re sure the others won’t laugh at your failure.”
+It came to a head on the last night. She heard Grusk stand apart, working a whetstone along Bite-Blood with slow, deliberate care, and then his heavy tread crossing to her. The others fell silent as he stopped over her.
 
-The orc’s eyes narrowed, and for a moment, she thought he might lash out. But instead, he leaned in, his face inches from hers. “We’ll see who’s afraid when you’re begging for mercy in Dol Guldur,” he hissed.
+"You've a clever tongue, ranger," he said, low and dangerous. "Stirring my lads against each other. You think it saves you?"
 
-Celenneth held his gaze, refusing to flinch. “We’ll see,” she said quietly.
+"Perhaps," she said, calm as a still pool. "Or perhaps I only see the cracks you're trying to hide."
 
-With a snarl, Morga stepped back and stomped away, his whip cracking against the air in frustration. The other orcs glanced at him but said nothing, their focus returning to the meager fire. Celenneth leaned back against the tree, her breathing measured as she steadied herself. Morga’s threats were empty bluster—for now. But she knew he wouldn’t let the exchange go unanswered.
+He growled, the sound rumbling in his chest. "I've seen your kind before. Full of pride, till it's beaten out of you."
 
-The camp was quiet, save for the crackle of the fire and the low grumbling of the orcs. Celenneth sat where they had left her, bound and blindfolded, but her senses were sharp. She had listened carefully over the past days, memorizing voices, tones, and the subtle hierarchy that ruled her captors. They were far from a united front—ambition and grudges seethed beneath the surface. If she played it right, she could use that.
+"Then why haven't you?" She leaned forward as far as the ropes allowed. "You've had days to break me, to kill me. Here I am. You're afraid, Grusk. Afraid that if you spill my blood, your precious plan comes apart in your hands."
 
-Her first target was Snaga. The wiry, scavenging orc was sulking nearby, muttering curses under his breath. Celenneth tilted her head slightly, her voice calm but audible enough to reach him. “They laugh at you, don’t they?”
+The clearing seemed to freeze. His iron jaw clenched, and she braced for the blow — but he only leaned close, his rancid breath on her face. "Watch yourself. You think you've won something. All you've done is sign your death warrant." He straightened and rounded on the others. "Get your heads straight! I don't care what grudges you're nursing — we take her to Dol Guldur, and if any of you thinks of crossing me, you'll wish you hadn't." None dared answer him openly. But the tension held, thicker than ever, and beneath her blindfold Celenneth allowed herself the smallest smile.
 
-The muttering stopped. A moment later, Snaga’s voice hissed back, low and venomous. “Shut your mouth, ranger.”
+⁂
 
-“You’re the runt of the pack,” she said evenly, her blindfolded gaze seemingly fixed on him. “They mock you when you’re not listening. Call you weak. Useless. I can hear it in their voices.”
+It was Uglat's watch that night. She could feel him pacing near her, restless, unable to settle — the stone-arm rasping against the ground as he moved. An opportunity she would not waste.
 
-“Lies!” he spat, though the crack in his tone betrayed doubt.
+"You're restless, Uglat," she said, low but clear. "Thinking what you'd do if Grusk weren't around?"
 
-“Am I lying?” she asked, her voice soft but pointed. “Why do they send you to fetch firewood while they sit by the fire? Why does Grusk call you ‘rat’ when he thinks you’re out of earshot?”
+His steps stopped. "Keep talking, ranger. It'll be your last."
 
-Snaga hissed in frustration, and she heard the scrape of his claws against the dirt. “You don’t know anything,” he growled, though the bitterness in his voice told her she’d struck a nerve.
+"It must gnaw at you. Everyone knows you're the strongest here — Grusk most of all. Why else keep you on watch while he sleeps sound? You're the only one who could take him, and he knows it."
 
-Next was Uglat. When the larger orc stomped past her, his heavy footsteps shaking the ground, she called out, “You’ve wanted to kill me since the first day.”
+His boots came closer, deliberate. "Shut your mouth before I do it for you."
 
-Uglat halted abruptly. She could feel his glare, the weight of his anger pressing down on her. “Keep talking, and I just might,” he growled.
+"Go on, then." Her voice went soft, taunting. "Do what you've wanted since the first day. Kill me. Show him you're not his puppet."
 
-“Then why don’t you?” she said, her tone laced with mockery. “You’re strong enough, aren’t you? Or does Grusk keep you on a short leash?”
+For a moment, only silence. Then he lunged.
 
-The silence was heavy. Then, Uglat’s voice rumbled, low and dangerous. “You’d best watch your tongue.”
+She had been ready — every muscle coiled for it. In the days of the march she had worked her wrists raw against the ropes, and now she twisted her hands free of the loosened bonds and rolled aside as his stone-arm crashed into the tree, splintering the bark where her head had been. She swept her legs under him and he stumbled; she seized the jagged shard of stone she had palmed and hidden, and drove it up beneath his jaw. His roar choked to a gurgle. He swung wild; she ducked under it, twisted the shard, and used his own weight to bring him down. He fell heavy, and lay still.[^r-escape]
 
-“You’re the strongest here,” she continued, feigning ignorance of his warning. “Everyone can see it. Even Grusk knows it. That’s why he keeps you in line—he’s afraid of what you’ll do if you ever realize you don’t need him.”
+She stood over him, breath ragged, and wiped the shard on the grass and gripped it like a dagger. The camp was quiet — the others deep in exhausted sleep, or careless. She knelt and stripped Uglat of his belt-knife, a crude but welcome blade, then took up her bearings in the dark. Her bonds were gone, a weapon in her hand, one captor dead and the rest turned against each other. The odds were still against her. But the balance had shifted — and she slipped from the ring of firelight and vanished into the night.
 
-Uglat snarled, and she heard the sharp scrape of his stone-arm against a nearby rock. “Grusk ain’t afraid of nothing,” he snapped, though his words lacked conviction.
-
-Later, when Morga passed by her, she couldn’t resist planting another seed. “How long will you serve Grusk?” she asked, her voice barely above a whisper.
-
-The whip cracked next to her ear, startling her. “Keep quiet, or I’ll make you wish you had.”
-
-She smiled faintly, despite the tension in her chest. “You follow him like a dog, but you’re smarter than he is. You must see it. Grusk will get you all killed—he’s blinded by his pride.”
-
-“You don’t know anything about me, ranger,” Morga snarled, but his steps faltered as he walked away.
-
-By the time the camp settled for the night, the air was thick with tension. Snaga muttered louder than usual, shooting nervous glances at Uglat, who sat sharpening his weapon with unnecessary force. Morga remained unusually quiet, his whip coiled and forgotten at his side. Even Grusk seemed aware of the shift, barking orders more frequently and glaring at his subordinates with suspicion.
-
-Celenneth allowed herself a small, satisfied smile as she rested her head against the tree. The seeds had been planted. All she had to do now was wait for them to grow.
-
-The discord among the orcs festered like an open wound. Each night, their arguments grew louder, their jabs at one another more pointed. Celenneth stoked the flames carefully, a word here, a subtle provocation there, always delivered with just enough detachment to leave uncertainty and deniability.
-
-Snaga was the easiest to manipulate, his insecurities making him a frequent target for the others’ mockery. “You’ll get us all killed with your sniveling,” Uglat had snarled one evening, his jagged stone-arm striking the ground near Snaga’s feet. Snaga had hissed in reply, but his retort was weak, his usual bluster undermined by Celenneth’s earlier insinuations.
-
-Morga, meanwhile, grew increasingly tense, his whip cracking at any sound or movement that startled him. Once so confident in his sadism, he now snapped at anyone who questioned him, his eyes flicking nervously toward Grusk more often than not. “Keep your mouth shut, or you’ll taste the lash,” he had growled at Rukha during an argument, only for Rukha to laugh and mutter, “Not so tough now, are you?”
-
-Even Zograt, silent and watchful, seemed more withdrawn, his usual air of menace diminished by the chaos. Only Grusk maintained his composure, though Celenneth could feel the weight of his frustration growing heavier with each passing day. The leader barked orders with increasing impatience, his attempts to reassert control meeting resistance from Uglat and thinly veiled mockery from Snaga.
-
-It came to a head on the sixth night. The campfire burned low, casting flickering shadows across the clearing. Grusk stood apart from the group, sharpening Bite-Blood with deliberate care. Celenneth sat bound and blindfolded near the edge of the firelight, her breathing steady despite the weight of the orcs’ hostility hanging thick in the air.
-
-Finally, Grusk turned toward her, his heavy footsteps crushing the brittle grass beneath him. The others fell silent as he approached, their gazes shifting between their leader and the captive. He stopped just short of her, towering over her like a storm cloud about to break.
-
-“You’ve got a clever tongue, ranger,” Grusk said, his voice low and dangerous. “Stirring up trouble, turning my lads against each other. You think it’ll save you?”
-
-Celenneth tilted her head slightly, as though considering his words. “Perhaps,” she said, her voice calm but sharp as a blade. “Or perhaps I just see the cracks you’re trying to hide.”
-
-Grusk growled, the sound rumbling deep in his chest. “You think you’re smart, don’t you? But I’ve seen your kind before—full of pride until it’s beaten out of you. You’re no different.”
-
-“Then why haven’t you done it?” Celenneth retorted, leaning forward as much as her bonds allowed. “You’ve had days to break me, to kill me, but here I am. You’re afraid, Grusk. Afraid that if you spill my blood, your precious plan will fall apart.”
-
-The air seemed to freeze, the other orcs holding their breath as they watched the exchange. Grusk’s iron-plated jaw clenched, and for a moment, Celenneth thought he might strike her. But instead, he leaned in close, his rancid breath washing over her.
-
-“Watch yourself, ranger,” he snarled. “You think you’ve won something, but all you’ve done is sign your death warrant. Dol Guldur will see to that.”
-
-He straightened, glaring at the others. “You lot—get your heads on straight! I don’t care what grudges you’ve got. We’re taking her to Dol Guldur, and if any of you so much as think about crossing me, you’ll regret it.”
-
-The orcs exchanged uneasy glances, but none dared challenge him openly. Grusk stomped back to the fire, his presence a heavy shadow over the group. The tension remained, thicker than ever, but Celenneth allowed herself a faint smile beneath the blindfold. She had pushed him to the edge, and the cracks in his authority were beginning to show.
-
-The night was heavy with silence, broken only by the occasional crackle of the dying fire and the rhythmic rasp of Uglat’s stone-arm dragging across the ground. Celenneth could feel his presence nearby, pacing like a predator unable to settle. It was his turn to stand watch, and she could sense his irritation—whether with the task or with her, she wasn’t sure. Either way, it was an opportunity she couldn’t let pass.
-
-She shifted slightly against the tree where she was bound, the movement deliberate enough to catch his attention. “You’re restless, Uglat,” she said, her voice low but clear enough to cut through the night. “Thinking about what you’d do if Grusk weren’t around?”
-
-Uglat’s footsteps stopped abruptly. She couldn’t see him, but she could feel the weight of his glare. “Keep talking, ranger,” he growled. “It’ll be the last thing you do.”
-
-She leaned her head back against the tree, her voice calm, almost amused. “It must gnaw at you, being his lapdog. Everyone knows you’re the strongest here. Even Grusk. That’s why he keeps you in check.”
-
-The heavy thud of his boots moved closer, each step deliberate. “You don’t know anything,” he spat. “Grusk knows his place. Same as you.”
-
-“Does he?” Celenneth tilted her head, her tone sharp. “If he weren’t afraid of you, why would he keep you on watch while he sleeps soundly? You’re the only one who could challenge him, and he knows it.”
-
-The fire popped, casting flickering shadows over the clearing. Uglat’s voice was closer now, almost a growl. “Shut your mouth before I do it for you.”
-
-“Go on, then,” she said, her voice soft but taunting. “Do what you’ve wanted to do since the first day. Kill me. Show him you’re not his puppet.”
-
-For a moment, there was only silence. Then Uglat lunged. Celenneth had been ready, every muscle coiled despite her exhaustion. As he reached for her, she twisted her bound wrists, slipping her hands free from the loosened ropes she had been working at for days. She rolled to the side just as his stone-arm crashed into the tree, splintering the bark where her head had been.
-
-He snarled, caught off guard, and she didn’t hesitate. Using the momentum from her roll, she swept her legs under him, throwing him off balance. Uglat stumbled, and she seized the moment to grab the jagged shard of stone she had palmed earlier from the camp’s edge. As he turned to recover, she drove the shard upward into the exposed flesh beneath his jaw.
-
-His roar of rage turned into a choked gurgle as the shard pierced deep. He swung wildly with his stone-arm, but she ducked under the blow, her movements quick and precise. Twisting the shard, she pushed him backward, using his weight against him. He collapsed with a heavy thud, his body twitching as the life drained from his bloodied form.
-
-Celenneth stood over him, her breaths ragged but her mind sharp. She wiped the shard on the grass before securing it in her hand like a dagger. The camp was still quiet, the others deep in sleep—or too exhausted to care. She knelt quickly to strip Uglat of his belt knife, its crude blade a welcome addition to her makeshift arsenal.
-
-Her bindings gone, her weapons reclaimed, and one of her captors dead, Celenneth felt a flicker of hope. The odds were still against her, but the balance had shifted, however slightly. She glanced at the campfire, the shadows of her remaining captors cast against the flickering flames, before disappearing into the night.
+[^r-escape]: **Insight / Battle** — over several nights Celenneth sows discord through Grusk's band (playing Snaga, Uglat, and Morga against their leader), working her bonds loose all the while. She goads the strongest, **Uglat**, into attacking her, kills him with a palmed stone shard, arms herself from his corpse, and escapes the camp under cover of the chaos she has made.

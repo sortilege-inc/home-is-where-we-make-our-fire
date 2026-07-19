@@ -1,153 +1,101 @@
-# Chapter 12: Home is who you have
-
-*Book 6*
+# Chapter 12: Home Is Who You Have
 
 *Cermië 11, 2966*
 
-As the patrol rode through the gates of Edoras, the city buzzed with life. Townsfolk cheered their return, waving from windows and doorways. The riders, dusty and weary, basked in the warmth of the welcome. Garin dismounted and turned to help Celenneth down, her hands steady as she gripped Celenneth’s arms to ensure she landed without faltering.
+The patrol rode in through the gates of Edoras to a city alive with welcome, townsfolk waving from windows and doorways. Garin swung down and turned to help Celenneth from the saddle, her hands steady at Celenneth's arms until her feet found the ground.
 
-“Come,” Garin said, her voice warm as she gave Celenneth’s shoulder a friendly squeeze. “You’ve earned a place at our feast tonight. Let’s show you how Rohan celebrates its own.”
+"Come," Garin said, giving her shoulder a friendly squeeze. "You've earned a place at our feast tonight. Let us show you how Rohan honors its own."
 
-Celenneth hesitated, her thoughts pulling toward Linnea and Brynja. But Garin’s eyes held a quiet encouragement, and the smell of roasting meats and spiced mead was almost too tempting to ignore. She nodded. “I will join you briefly, but then I need to find someone to let them know I’ve returned.” Celenneth limped after Garin into the Golden Hall.
+Celenneth hesitated, her thoughts already pulling toward Linnea and Brynja — but the smell of roasting meat and spiced mead was hard to refuse, and Garin's eyes held an easy encouragement. "Briefly," she allowed. "Then I need to find someone, to let them know I've come back." And she limped after Garin into the Golden Hall.
 
-Inside, the feast was already in full swing. The hall was alive with laughter and song, the long tables groaning under the weight of platters of breads, cheeses, and roasted meats. Garin led her to a spot near the central fire, clapping her on the back as she handed her a cup of mead. The golden light danced off Garin’s face as she leaned in close, her voice just audible over the din.
+Inside, the feast was in full swing — laughter and song, long tables groaning under bread and cheese and roasted meat. Garin brought her to a place near the central fire and pressed a cup of mead into her hand. "Try to enjoy yourself," she said, teasing. "Whatever the wild threw at you is behind you now."
 
-“Try to enjoy yourself tonight,” she said with a teasing smile. “Whatever challenges the wilderness threw at you are behind you now.”
+Celenneth managed a laugh, and her shoulders eased as she drank — and then, across the hall, her gaze caught on a figure she knew. Linnea stood near the far wall, Brynja on her hip, the baby's small fist curled in the collar of her dress. Linnea's face was pale, her eyes wide and fixed on Celenneth. The cup nearly slipped from Celenneth's fingers.
 
-Celenneth managed a small laugh, her shoulders relaxing slightly as she sipped the mead. But as she looked around the room, her gaze landed on a familiar figure near the far end of the hall. Linnea stood with Brynja by her side, the child’s small hand clutching her mother’s skirt. Linnea’s face was pale, her eyes wide as they locked onto Celenneth. The cup nearly slipped from Celenneth’s fingers.
+"I have to go," she said, setting it down.
 
-“I have to go,” Celenneth said abruptly, setting the cup down and stepping away.
+Garin blinked. "What—"
 
-Garin blinked, confused. “What’s—”
+"My family," Celenneth murmured, thick with feeling. "I need to see them." She was already moving, and did not see the way Garin's warm expression faltered as her gaze followed Celenneth's to Linnea and the child, nor the quiet understanding that settled over her. "Go, then," Garin said softly, to her back.
 
-“My family,” Celenneth murmured, her voice thick with emotion. “I need to see them.”
+⁂
 
-Garin followed her gaze, her warm expression faltering as she took in Linnea and the child. “Your family,” she said softly, as though testing the words. “I… see.” Her voice held a note of something unreadable, but she quickly masked it, giving Celenneth a nod. “Go, then.”
+Linnea stood frozen, watching Celenneth cross the hall. She had not let herself believe she would see her again. For months she had half-convinced herself that Celenneth was dead, her heart breaking a little more with every silent week. And here she was — alive, whole, walking toward her with that same determined stride, favoring one leg.
 
-Celenneth nodded distractedly, missing the disappointment in Garin’s eyes as she hurried away.
+And yet Linnea's eyes cut to the rider Celenneth had just left, the way the woman had touched her shoulder, the closeness of them. Relief and joy and a hot thread of jealousy tangled in her chest, and her hand tightened on Brynja.
 
-Linnea stood frozen, her mind a storm of emotions as she watched Celenneth cross the hall. She hadn’t dared to believe she would see her again. For months, she had convinced herself that Celenneth was dead, her heart breaking a little more with each passing day. But now here she was—alive, whole, and walking toward her with that same determined stride, albeit favoring one leg.
+"Linnea," Celenneth said as she reached them, quiet with wonder. Her gaze dropped to the baby, and softened, and she sank carefully to a knee. "And you. Look at you."
 
-And yet… Linnea’s eyes darted to the woman Celenneth had just been speaking to. She had seen the way the Rohan woman had embraced Celenneth, the closeness between them. A pang of jealousy and anger flared alongside the overwhelming relief and joy at seeing her alive. Her hands trembled as she gripped Brynja’s shoulder, pulling the child closer.
+Brynja regarded her with a baby's solemn, uncertain stare — four months was a long time in a life so short, and there was no knowing in the small face, only wariness at a stranger. Something in Celenneth's chest cracked at that. She held out a hand, slow, and let the child decide; and after a long moment Brynja's fingers closed around one of hers, and a bubbling, wet sound that was almost a laugh broke out of her, and she reached to fist a hand in Celenneth's hair. Celenneth shut her eyes and pressed her brow gently to the baby's, her own tears slipping loose. "I'm here," she whispered. "I'm here."
 
-“Linnea,” Celenneth said as she reached them, her voice filled with quiet wonder. Her gaze softened as it fell on Brynja, and she knelt, opening her arms. “Brynja.”
+When she rose, Linnea's eyes were wet too — but the anger she had held so long broke its banks all the same.
 
-The child hesitated for a moment, glancing up at her mother, before rushing forward. “Mama!” she cried, her small arms wrapping tightly around Celenneth’s neck.
+"Where have you been?" Her voice shook.
 
-Celenneth closed her eyes, holding her daughter close, her own tears slipping silently down her cheeks. “I’m here,” she whispered. “I’m here.”
+"It's a long story—"
 
-Linnea watched, her heart caught in her throat. The sight of them together was enough to bring tears to her eyes, but the anger she had tried to suppress bubbled to the surface. When Celenneth finally looked up at her, Linnea couldn’t hold back.
+"No. Not this time. No stories, no 'I'll explain later.' You were gone for months, Celenneth. We thought you were dead."
 
-The noise of the Golden Hall faded into an indistinct hum as Linnea stood before Celenneth, heart pounding in her chest. Relief warred with anger, disbelief tangled with joy. Celenneth was *alive.* After months of silence, of fearing the worst, she was *here.*
+"I never meant to be gone so long," Celenneth said. "There was no way to send word. I tried—"
 
-But *why now?* And *why like this?*
+"Tried? Did you ever once think we needed to know you were alive? I waited. I thought—" Her voice cracked. "You left us."
 
-Her breath hitched as she stepped closer, voice tight with restrained emotion. “*Where have you been?*”
+"I never meant to. I was captured. I escaped. I—" Celenneth reached for her.
 
-Celenneth’s eyes softened, full of quiet regret. “It’s… a long story.”
+But something past Celenneth's shoulder drew Linnea's eye: the rider, lingering at the edge of the firelight, tall and watchful. Her stomach twisted. "Who is that?"
 
-“No.” Linnea’s voice sharpened, trembling. “Not this time. No stories, no ‘I’ll explain later.’ You’ve been gone for *months,* Celenneth. We thought you were *dead.*”
+Celenneth glanced back, caught off guard. "Garin. She helped me, after I crossed the plains."
 
-Celenneth nodded slowly, as though expecting this. “I never meant to be gone so long. There was no way to send word… I tried.”
+Linnea's eyes narrowed. "And what was she to you?"
 
-Linnea clenched her fists. “*Tried?* How? Did you ever *once* think we needed to know you were alive? I *waited*... I thought… Brynja thought—” Her voice cracked, raw with anguish. “You *left us.*”
+"A friend. A rider of the Mark."
 
-“I *never* meant to,” Celenneth said, stepping closer. “I was captured. I escaped. I—”
+"A friend." Linnea's voice dropped. "She's watched you this whole time. She looks at you like a woman whose heart is breaking."
 
-Something over Celenneth’s shoulder drew Linnea’s gaze, cutting through her swirling emotions like a blade. A figure lingered at the edge of the firelight—tall, broad-shouldered, familiar. *Watching.*
+Celenneth's brow furrowed, and she opened her mouth to answer — and faltered. Her mind ran back over things she had waved away: the lingering glances, the ready hand, the teasing, the way Garin had never quite let her out of her sight. *Had she?*
 
-Linnea’s stomach twisted. She took a slow breath, gesturing sharply toward the woman. “Who… *is that?*”
+"No," she said, quiet but firm. "It wasn't like that."
 
-Celenneth blinked, caught off guard. “Garin. She—she helped me after I crossed the plains of Rohan.”
+"Maybe you didn't see it," Linnea said, arms crossed, trembling with anger and something deeper. "But she did."
 
-Linnea’s eyes narrowed. “And what, exactly, was she to you?”
+Memories surfaced unbidden — Garin's hand at her waist as she dismounted, her fingers brushing her hair back, her laughter chasing off the shadows of Fangorn. Celenneth's breath caught. Garin had cared, and she had never noticed.
 
-Celenneth’s confusion deepened. “A friend. A rider of the Mark.”
+"I didn't see it," she admitted, stunned. "Because I was too set on getting back to you."
 
-“A *friend?*” Linnea’s voice dropped, tight with suspicion. “She’s been *staring* at you this whole time.”
+Linnea stared at her, raw and open. "You didn't see it?"
 
-Celenneth’s brow furrowed. “She’s… concerned, I suppose.”
+"Because my heart was here." Celenneth held her gaze. "It was always here. With you."
 
-Linnea let out a bitter laugh, anger flaring. “*Concerned?* Celenneth, she looks at you like someone whose heart is breaking.”
+The fight drained from Linnea's shoulders, and left something more fragile behind. For a moment neither moved — and then Linnea surged forward and wrapped her free arm around Celenneth, fierce and desperate, Brynja squashed happily between them. "I thought I'd lost you."
 
-Celenneth opened her mouth to respond but faltered. Her mind reeled back over moments she had dismissed: Garin’s lingering glances, her steady hand always ready to help, her lighthearted teasing… *the way she never quite let Celenneth out of her sight.*
+"You never did," Celenneth said into her hair, holding them both, her tears falling silent. "I'm home."
 
-*Had she…?*
+⁂
 
-“No.” Celenneth’s voice was quiet but firm. “It wasn’t… like that.”
+When the storm had passed and only the trembling relief was left, Linnea looked across the hall to where Garin still stood by the hearth, and squeezed Celenneth's hand. "Introduce us."
 
-Linnea crossed her arms, her voice trembling with both anger and something deeper. “Maybe *you* didn’t see it… but *she* did.”
+Surprise crossed Celenneth's face, but she nodded and guided them through the crowd. Garin straightened as they neared, her shoulders squared as if for a reckoning, and her sharp gaze gentled as it took in Linnea and the baby clinging to Celenneth's side.
 
-Memories surfaced unbidden: Garin’s warm smile as she helped Celenneth down from her horse, her soft touch brushing hair from Celenneth’s face, her laughter that had chased away the shadows of Fangorn.
+"Garin," Celenneth said, steady and warm. "There's someone I'd have you meet. This is Linnea — my oathsworn." The words carried a quiet pride, a plain statement of where she belonged. "And our daughter, Brynja."
 
-Celenneth’s breath caught. *She cared.* And she… *hadn’t noticed.*
+Linnea inclined her head, cautious but civil. "It's good to meet you."
 
-“I—” Celenneth exhaled, stunned. “I didn’t *see it.*”
+Garin bowed her head. "Linnea. Brynja." Her tone was measured, and genuine. "Seeing you makes it far plainer why she fought so hard to come home." A brief quiet stretched between them — neither hostile nor guarded, only weighted with an understanding that needed no words.
 
-Linnea stared at her, raw vulnerability flickering in her eyes. “You didn’t *see* it?”
+"I'm grateful," Linnea said, softer now. "For helping her back to us."
 
-Celenneth met her gaze, her voice steady despite the storm in her chest. “Because I was too focused on *coming back to you.*”
+"It was an honor," Garin said, and hesitated only a moment. "And a privilege." The meaning was clear enough — but there was no possessiveness in it, only respect, and Linnea met her eyes steadily and found the reassurance she had needed. Whatever had lived in Garin's heart, it belonged to the past now, and she laid it down with grace.
 
-Linnea’s breath shuddered as her walls cracked. “But she—”
+Celenneth offered Linnea a small, knowing smile. "We should get home."
 
-“*Meant well,*” Celenneth said gently, regret edging her voice—not for herself, but for what she might have unknowingly inspired. “But my heart… it was always *here.* With *you.*”
+Garin put out her hand, a last gesture of closure. "Safe roads, wherever they take you. And good fortune."
 
-The fight drained from Linnea’s shoulders, replaced by exhaustion and something far more fragile—*hope.*
+Celenneth clasped it firmly. "Thank you. For everything."[^r-garin-close]
 
-For a moment, they stood on the edge of something fragile—neither daring to move, neither daring to *believe.*
+They stepped out of the Golden Hall into the cool night, and Linnea leaned into Celenneth's side — no longer out of wariness, but trust. "I believe you," she said quietly.
 
-Then Linnea *surged* forward, wrapping her arms around Celenneth in a fierce, desperate embrace. “I thought I’d *lost* you.”
+Celenneth let out a slow breath. "Thank you."
 
-Celenneth held her just as tightly, her voice thick with emotion. “You *never* did.”
+Brynja had gone heavy and drowsy against Linnea's shoulder, one small hand still tangled loosely in Celenneth's sleeve, unwilling even in sleep to let the returned stranger go. Celenneth gathered her up despite the ache in her leg, and the child settled against her chest with a soft, contented sound. "Let's go home, little star," she murmured, and the three of them walked out together into the quiet, the warm light of the hall fading behind them.
 
-Brynja darted forward, flinging herself into the embrace with all the strength her small arms could muster. “*Mama!*”
-
-Celenneth let out a breathless laugh, clutching them both as tears slipped silently down her cheeks. “I’m *home.*”
-
-From across the hall, Garin lingered just long enough to *see*—to *understand.* No bitterness clouded her gaze, only quiet acceptance tempered with sorrow.
-
-The warmth of the embrace lingered as Celenneth finally loosened her hold on Linnea and Brynja, though she kept their hands firmly in hers. The storm of emotions still crackled faintly in Linnea’s chest—relief, joy, and the fading sting of jealousy—but it was slowly settling into something steadier.
-
-Celenneth followed Linnea’s gaze across the hall, where Garin still lingered near the central hearth. Their eyes met across the distance—Garin’s expression unreadable but calm.
-
-Linnea squeezed Celenneth’s hand. “Introduce us.”
-
-Surprise flashed across Celenneth’s face, but she nodded, gently guiding Linnea and Brynja through the bustling crowd. As they neared, Garin straightened, her shoulders squared as though preparing for an inevitable reckoning.
-
-“Garin.” Celenneth’s voice was steady but warm. “There’s someone I’d like you to meet.”
-
-Garin’s sharp gaze softened as she took in Linnea and Brynja—especially the way Brynja clung protectively to Celenneth’s side.
-
-“This is Linnea... my oathsworn.” The words carried quiet pride, a firm declaration of where she belonged. “And our daughter, Brynja.”
-
-Linnea inclined her head with cautious politeness. “It’s... good to meet you.” Her voice held steady, though her grip on Brynja’s shoulder remained protective.
-
-Garin bowed her head respectfully. “Linnea. Brynja.” Her tone was measured but genuine. “Seeing you makes it far clearer why Celenneth fought so hard to return.”
-
-A brief, quiet moment stretched between Garin and Linnea—neither hostile nor defensive, but laden with unspoken understanding.
-
-“I’m... grateful,” Linnea said carefully, her voice softer now. “For helping her get back to us.”
-
-Garin inclined her head. “It was an honor.” She hesitated only a moment before adding, “And a privilege.”
-
-The meaning was clear—but there was no edge of possessiveness, only respect. Linnea met her gaze steadily, her mind settling into the quiet reassurance that she had needed. Whatever feelings might have lingered in Garin’s heart belonged to the past.
-
-Celenneth shifted subtly, offering Linnea a small, knowing smile. “We should get home,” she said quietly, her voice laced with quiet longing.
-
-“Of course.” Linnea nodded, releasing some of the tension she hadn’t realized she still held.
-
-Garin extended a hand toward Celenneth—a final gesture of camaraderie, of closure. “Safe journeys, wherever they may take you... and good fortune.”
-
-Celenneth clasped her hand firmly, gratitude shining in her eyes. “Thank you. For everything.”
-
-As Celenneth, Linnea, and Brynja left the Golden Hall, stepping into the cool night air, Linnea leaned subtly against Celenneth’s side—no longer out of wariness, but out of trust.
-
-“I *believe* you,” Linnea said quietly, squeezing her hand.
-
-Celenneth exhaled slowly, relief washing through her. “Thank you.”
-
-Brynja tugged on Celenneth’s cloak, beaming. “Are we *really* going home?”
-
-“Yes, little star.” Celenneth smiled, lifting Brynja into her arms despite the lingering ache in her leg. “We’re going *home.*”
-
-The warm glow of the Golden Hall faded into the distance as they walked together into the quiet night—*together at last.*
+[^r-garin-close]: **Fellowship — Garin's affection, gracefully closed.** At the reunion Linnea's jealousy surfaces; Celenneth realizes only now the regard Garin bore her. She names Linnea her oathsworn and Brynja their daughter, and Garin — with no bitterness — accepts it with respect and lets the matter rest. A rival turned, gently, to an ally left behind.

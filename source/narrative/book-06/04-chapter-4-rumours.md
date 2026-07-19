@@ -1,37 +1,35 @@
 # Chapter 4: Rumours
 
-*Book 6*
+*Súlimë 9–14, 2966*
 
-*Súlimë 9-14, 2966*
+The days after her audience passed in a slow, restless rhythm. Celenneth moved through the levels of the White City like a shadow, taking in its sights while keeping her ears open. The streets teemed — merchants crying wares, smiths at their forges, children darting between armored legs — and beneath the bustle ran that same undercurrent of unease, taut and waiting.
 
-The days that followed her meeting with the Steward passed in a slow, restless rhythm. Celenneth moved through the levels of Minas Tirith like a shadow, taking in the sights and sounds of the White City while keeping her ears open for whispers of information. The streets were alive with activity—merchants hawking their wares, smiths hammering out tools and weapons, children darting between the legs of armored soldiers. Yet beneath the bustle, she sensed an undercurrent of unease, like the hum of a bowstring drawn too tight.
+She spent her mornings on the stone parapets above the Pelennor Fields, her bow and sword laid beside her, their familiar weight a small comfort. Her afternoons she gave to the winding streets, lingering near the markets and taverns where news moved freely.
 
-She spent her mornings in quiet contemplation, perched on the stone parapets overlooking the Pelennor Fields. Her bow and sword were laid out beside her, their edges sharpened, their weight familiar. The tools of her trade offered a measure of comfort, a reminder of her purpose. In the afternoons, she roamed the city’s winding streets, her steps unhurried as she lingered near markets and taverns where news flowed freely.
+It was in the shadowed corner of an inn, over the clink of mugs, that she first caught it — two soldiers, their voices low.
 
-It was in the shadowed corners of an inn, over the low murmur of voices and the clink of mugs, that she first heard of the patrol.
+"Strangest thing," one said. "We reckoned the orcs were thick along the Anduin or up in Ithilien. But there they were, all the way out by the Entwash. What draws them there?"
 
-“Strangest thing,” one soldier said, his voice carrying just enough for her to catch. “We thought the orcs were thick along the Anduin or near Ithilien, but there they were, all the way near the Entwash. What would bring them there?”
+"Desperation, maybe," said the other. "Or something worse. Captain said they weren't passing through — they'd a camp. A proper one."
 
-“Desperation, maybe,” another replied. “Or something darker. Captain said they weren’t just passing through—they had a camp. A proper one.”
+Celenneth kept her eyes on her cup and her ears open.
 
-Celenneth leaned closer, her heart quickening. She kept her expression neutral as she sipped from her cup, listening intently.
+"Find anything in it?"
 
-“Did they find anything in the camp?” the first soldier asked.
+"Nothing of use. Captain had us torch the lot, leave no sign. Still doesn't sit right. Orcs that far north-west — it's too bold by half."
 
-“Nothing of use,” came the reply, though the speaker’s tone was uncertain. “The captain ordered us to torch it all. Didn’t want any signs left behind. Still, it doesn’t sit right with me. Orcs that far northwest? It’s too bold.”
+The talk moved on, but the seed was planted. She finished her drink and slipped out, her mind turning. The Entwash lay far from any orc's usual haunt; a deliberate move there spoke of a purpose she could not yet see.
 
-The conversation moved on, but the seed of curiosity had been planted. Celenneth finished her drink and slipped away, her mind racing. The Entwash was far from the usual orc territories, but the soldier’s words painted a troubling picture. A deliberate move suggested a greater purpose, a piece of a puzzle she couldn’t yet see.
+The next day, walking the outer wall, she sought out more — careful, casual — and found a weathered soldier at his whetstone. "I hear your patrols have been busy," she said. "Orcs near the Entwash?"
 
-The next day, as she walked along the outer walls, she sought out more information, careful not to draw attention. She approached a soldier sharpening his blade, his face weathered but kind.
+He looked up, frowning. "Aye. Strange business. We drove them off, but they'd made a foothold. Like they were waiting on something. Or someone."
 
-“I hear your patrols have been busy,” she said, her tone casual. “Something about orcs near the Entwash?”
+"And now?"
 
-The man looked up, his brow furrowing. “Aye,” he said, his voice low. “Strange business, that. We drove them out, but they’d made a foothold there. Like they were waiting for something—or someone.”
+"Quiet. Too quiet, if you ask me. But we've no orders to pursue. Not the men to spare."
 
-Celenneth nodded, filing the information away. “And now?”
+That night in her rented room, the city's noise fading, she weighed it. She had come to warn Gondor, and the Steward had heard her and done nothing. She could turn north and regroup — or follow this thread and learn what the orcs wanted by the Entwash.
 
-“Quiet,” he replied. “Too quiet, if you ask me. But we’ve no orders to pursue. Not enough men to spare.”
+The decision came quickly. She had seen too much of the Shadow's cunning to call this chance. If Gondor could not spare the men, she would go herself; it was little enough out of her way back to Edoras, and if she could not win the Steward's word, perhaps this service would prove worth as much to the Free Peoples.[^r-rumour]
 
-That night, as she lay in her rented room, the sounds of the city fading into the stillness of her thoughts, Celenneth weighed her options. She had come to Minas Tirith to warn Gondor, but the Steward’s hesitation left her with a choice: return north and regroup, or follow this thread and uncover what the orcs were doing near the Entwash.
-
-The decision came swiftly. She had seen too much of the Shadow’s cunning to dismiss this as chance. If Gondor couldn’t spare the men to investigate, she would go herself. It was a slight detour on her way back to Edoras, but if she couldn’t get an affirmation from the steward, perhaps this service would be equally useful to the Free Peoples.
+[^r-rumour]: **Insight / investigation** — Celenneth gleans on tavern and wall-side talk to piece together a report: orcs had built a deliberate camp far out by the Entwash, since torched by a Gondorian patrol, seemingly waiting on "something, or someone." She resolves to investigate the site herself on her way north.

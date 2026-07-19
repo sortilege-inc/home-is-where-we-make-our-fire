@@ -1,103 +1,32 @@
 # Chapter 10: Gaining Strength
 
-*Book 6*
+*Víressë 4, 2966*
 
-*Víressë, Lótessë, Nárië, Loëndë (Mid-Year’s Day) 2966*
+Days stretched into weeks beneath Fangorn's dark canopy, marked by quiet determination. Celenneth's broken leg mended slowly, the ache a constant reminder of her fragility, but in time she could limp farther, extending her range for foraging and traps. The forest gave little and allowed enough — small game in cunning loops, roots dug from mossy ground, bitter herbs brewed thin to dull the throb. She rose before every dawn and reinforced her shelter beneath the ancient ash against the creeping chill. Survival was no longer a desperate scramble; it had become her life.[^r-recover]
 
-Days stretched into weeks beneath Fangorn’s dark canopy, marked by quiet determination and relentless will. Celenneth’s broken leg mended slowly, though the ache remained a constant reminder of her fragility. She limped but could now cover more ground, extending her range for foraging and setting traps.
+Sometimes she saw the Ent — through a mist-wreathed glade, or past a gnarled trunk that seemed to twist at the edge of her sight — always watching, never approaching. It never spoke to her again. But once she came back from her traps to find a pile of dry kindling stacked by her fire-ring, gathered by no hand of hers; another time the stream near her camp ran clearer and stronger, its stones subtly shifted. She never spoke to the forest, but she always whispered her thanks.
 
-The dense forest offered little but allowed enough—small game snared in cunning loops, edible roots dug from mossy ground, and bitter herbs brewed into thin infusions to dull the constant throb in her leg.
+The dreams returned on a moonless night, the cursed dagger burning cold at her side like a poisoned heartbeat.
 
-Each day, she rose before dawn, unwilling to surrender to exhaustion or pain. She reinforced her shelter beneath the ancient ash’s twisted roots, adding thick leaves and woven branches to keep out the chill of autumn’s creeping fingers. Survival was no longer a desperate scramble—it had become her life.
+*She stands again in Dol Guldur, its cruel towers scraping a blackened sky, and a hooded figure extends the dagger toward her, its dark blade glistening with promise. "Take it," the voice hisses, seductive and sharp. "The power is yours to command." Her fingers brush the hilt — and recoil, haunted by the memory of iron on her wrists. "You have no power over me," she snarls, and the dream shatters like glass.*
 
-Sometimes, she saw *it.*
+She woke trembling in the cold, her hand closed white-knuckled around the dagger's hilt. She hurled it into the shadows. But it would return. It always did.[^s-dagger]
 
-Through distant, mist-wreathed glades or past gnarled trunks that seemed to twist in her peripheral vision, the Ent appeared—*watching.*
+⁂
 
-It never approached directly. Once, while returning from checking her traps, she found a pile of fresh kindling stacked near her campfire ring—weathered wood dry enough to burn, though she had never gathered it.
+One night a sound that was not the Ent's slow tread brought her alert — a snap, the shuffle of heavy feet on dry leaves. She crept to the edge of her shelter and saw torches flickering between the trees. Orcs — four at least, hunters, fanning out with brutal purpose, their torchlight raking the hollows. Running was impossible with her leg; they were too close.
 
-Another time, the shallow stream near her camp ran clearer and stronger than usual, its course subtly altered by carefully shifted stones.
+Then the groaning began. The ground beneath the orcs shuddered, small at first, then deepened to a low resonant creak full of malice. One snarled and raised its blade — and thick roots erupted from the earth and coiled about its legs and dragged it screaming into the dark. The others scattered, hacking at branches that clawed for them with deadly precision, at bark that seemed to twist into glaring faces. One stumbled back into a rotting log, and the log snapped open into jagged bark-lined jaws, and his torch guttered out in the wet earth. Then silence. When it lifted, the clearing was still, and the orcs were simply gone — no bodies, no dropped blades, only disturbed earth and faint trails of crushed leaves.
 
-She never spoke to the forest—but she always whispered *thank you.*
+Celenneth understood the truth of it then, watching. The forest had not defended her. It had defended itself, because the orcs did not belong. There would be no alliance with this ancient place — only a shared survival, hers a season's, Fangorn's an age's. It would never fight for men or elves or any mortal cause; but it would fight for itself, with an implacable and patient strength.
 
-One moonless night, the *dreams returned.*
+⁂
 
-The cursed dagger burned cold at her side, throbbing faintly like a poisoned heartbeat. In her sleep, she saw herself back in Dol Guldur, its jagged, cruel towers scraping a blackened sky.
+More weeks passed, and her strength returned in slow, painful increments, until her leg — scarred and stiff, but whole — could bear her weight along the paths she had come to know. She mapped Fangorn as best she could, learned its best foraging and avoided the places that felt wrong, and felt always beneath it the wood's old, patient, unyielding purpose. One night she whispered into the dark, "You may never trust me. But I know now you will never fall." And for the first time, the woods fell utterly still, as though listening.
 
-A twisted, hooded figure extended the dagger toward her—its dark blade glistening with *promise.*
+The cursed dagger stayed at her side, a burden she could not be rid of; each time she flung it into a shadowed glade she woke with its cold weight against her hip again, as though the forest meant it to leave with her.
 
-*"Take it,"* the voice hissed, seductive and sharp. *"The power is yours to command..."*
+By midsummer she stood at the forest's edge, a sturdier ash staff in her hand, her camp dismantled and its traces erased from a hunter's habit. Behind her Fangorn stood dark and silent and watchful. "You were never my friend," she said. "But you let me live." A breeze stirred faintly through the leaves — acknowledgment, perhaps. Perhaps not. She wrapped her cloak close and turned toward the open plains of Rohan. Home was far, but no longer unreachable.
 
-Her fingers brushed its hilt—then recoiled, haunted by the memory of iron chains around her wrists. *“You have no power over me,”* she snarled in response.
-
-The dream *shattered* like broken glass, leaving her breathless, trembling in the cold.
-
-When she awoke, her hand rested on the dagger’s hilt, her knuckles white. She hurled the weapon into the shadows—but it would return. It always did.
-
-Celenneth stirred at the edge of sleep, alert even in her exhaustion. The fire she had built earlier crackled softly, sending faint warmth through the cool night air.
-
-*Then—a sound.*
-
-A distant *snap* echoed through the woods, followed by the harsh shuffle of heavy feet across dry leaves. Celenneth tensed, instinctively reaching for her staff. *Not the Ent.* Its approach was always slow, measured, impossible to mistake.
-
-She crept to the edge of her makeshift shelter, her breath steady despite her pounding heart. Through the twisted roots and low-hanging branches, faint torches flickered between the trees—*fire.*
-
-*Orcs.*
-
-Their guttural speech rolled through the forest like jagged stones. Celenneth counted at least four, possibly more—hunters, cruel and efficient. She tightened her grip on her weapon. Running was impossible with her leg still healing, and she was too far from familiar terrain to find higher ground.
-
-The orcs fanned out, moving with brutal purpose, their torches illuminating hollowed stumps and gnarled trunks. They were searching—and they were close.
-
-*Too close.*
-
-Suddenly, the *groaning* began.
-
-The ground beneath the orcs shuddered faintly—small at first, like shifting roots disturbed by a passing breeze. Then it deepened into a low, resonant creak, ancient and full of malice.
-
-One of the orcs snarled, raising its crude blade, torchlight flickering across scarred faces. “What’s this?”
-
-Before it could speak again, thick roots *exploded* from the earth, twisting around its legs like vengeful serpents. It bellowed in rage, hacking at the living wood, but the roots *tightened,* dragging it screaming into the shadows.
-
-The others howled, scattering in panicked retreat. They slashed wildly at grasping branches that clawed toward them with deadly precision. Firelight flashed across ancient bark that seemed to *move,* twisting into grotesque, glaring faces as if the trees themselves judged these intruders unworthy.
-
-Celenneth stared, frozen in place. The *forest was fighting back.*
-
-One last orc, torch in hand, stumbled backward into a rotting log—but the log *shifted,* snapping open into jagged, bark-lined jaws. The torch fell, sputtering out in the wet earth.
-
-*Silence.*
-
-The clearing stood still again, leaving only the fading groans of settling wood. All traces of the orcs were gone—swallowed whole by Fangorn.
-
-Breathing hard, Celenneth forced herself to her feet, leaning on her staff as she limped to the edge of the now-silent clearing. She saw no bodies, no dropped blades—just disturbed earth and faint, winding trails of crushed leaves.
-
-The *forest* had defended itself—not for her, not out of mercy, but because the orcs *did not belong.*
-
-The ground trembled faintly beneath her, a slow exhale of something far deeper than breath. Celenneth stared into the still, twisted grove, understanding the harsh truth for the first time.
-
-*Fangorn was no ally.*
-
-It would never fight for men, elves, or any mortal cause—but it would fight *for itself,* with ruthless, implacable strength.
-
-There would be *no alliances* with this ancient place. Only mutual survival—hers temporary, Fangorn’s eternal.
-
-Weeks passed. Celenneth’s strength returned in slow, painful increments. Her leg, though scarred and stiff, could now bear her weight as she limped steadily through the forest paths she had come to know.
-
-She mapped Fangorn as best she could, marking out its shifting paths and tracking familiar landmarks. She learned where the best foraging grounds lay and avoided places that felt *wrong.*
-
-The deeper she ventured, the more she felt Fangorn’s purpose—*old, patient, and unyielding.* The trees whispered secrets she couldn’t understand, rooted in an ancient will far beyond mortal concerns.
-
-One night, she whispered into the dark: *“You may never trust me… but I know now you will never fall.”*
-
-For the first time, the woods fell utterly still—*listening.*
-
-The cursed dagger still rested at her side—*a burden she could not discard.* She had tried more than once to leave it behind, hurling it deep into shadowed glades. Each time, she awoke with its familiar cold presence against her hip, as though it would *never* let her go. It seemed to her that the forest wanted it to leave with her.
-
-The dawn after mid-year’s day, she stood at the forest’s edge, her crude staff replaced by a sturdier staff carved from ash-wood. Her camp was dismantled, its traces carefully erased—*a hunter's habit.*
-
-Behind her, Fangorn stood dark and silent, unmoving yet *watchful.*
-
-Celenneth exhaled slowly. "You were never my friend... but you let me live."
-
-The breeze stirred faintly through the leaves—*acknowledgment?* Perhaps. Perhaps not.
-
-With her cloak wrapped tightly around her and her staff steady in her hand, she turned toward the open plains of Rohan. *Home was far... but not unreachable.*
+[^r-recover]: **Recovery** — over weeks in Fangorn Celenneth's broken leg knits; she survives by trap and forage, quietly aided by the Ent (kindling left, the stream cleared). By midsummer she can travel again, though the leg is left permanently scarred and stiff.
+[^s-dagger]: **Shadow** — the cursed Fangorn dagger tempts her in recurring dreams (rendered in the vision mode) to take its power; she refuses each time. It will not be discarded — it always returns to her side.

@@ -173,7 +173,7 @@ canonical list when that book is resumed; the navigator is **not** "Isildur".
   spirit); the "feystone's gift"; the reforged Warden Blade; the star-pendant/cloak.
 - **Wounds/scars:** Celenneth's forearm scar (Trollshaws goblin-ambush); broken leg (Fangorn).
 - **Relationships:** Celenneth ⇄ Linnea (aegis-bound); Damrod & Hallas (polyamorous bond);
-  Garin (his affection declined, gracefully); Orlen (Celenneth's past, now married to Maren).
+  Garin (a woman, rider of the Mark; her affection declined, gracefully); Orlen (Celenneth's past, now married to Maren).
 
 **Continuity-review queue** *(needs a working session, not a find-replace):*
 - **Book 9 cursed object:** a wooden **charm** (Ch3) vs. a metal **dagger** (Ch4). Ruling:

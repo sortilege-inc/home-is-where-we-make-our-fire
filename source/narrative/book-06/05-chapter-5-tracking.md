@@ -1,67 +1,30 @@
 # Chapter 5: Tracking
 
-*Book 6*
+*Súlimë 15–20, 2966*
 
-*Súlimë 15-20, 2966*
+The plains west of the Entwash ran green and gold to the horizon, rippling in the spring wind. Celenneth kept to the river's edge, reading the faint ground, the soldiers' words in her mind: a deliberate camp, torched and abandoned. Even the most thorough burning left traces for a patient eye.
 
-The plains west of the Entwash stretched out like a sea of green and gold, rippling in the spring breeze. Celenneth strode carefully along the edges of the great river, her eyes scanning the horizon for any sign of movement. Though the path she followed was faint, she trusted her instincts to guide her. The soldiers’ descriptions lingered in her mind: a deliberate encampment, torched and abandoned. Yet even the most thorough destruction left traces for a keen eye to uncover.
+She foraged well as she went — roots and wild greens from the thawing soil, a grouse taken clean off its nest — and camped the first night beneath the stars with the Entwash's swollen roar for company, its current fat with mountain snowmelt. She kept it in sight but not close.
 
-The first day passed in a rhythm of steady progress and fruitful foraging. The land here was abundant, the thaw of spring bringing new life to the plains. Celenneth gathered roots and wild greens from the fertile soil, her trained eye quickly spotting edible plants among the undergrowth. She even chanced upon a nesting grouse, her aim with the bow as sure as ever. The fresh game promised a hearty supper as she camped beneath the stars.
+The searching grew deliberate as the ground near the water softened, footprints held in the mud. Before midday she found what she sought: the charred bones of the camp, crude structures and fire-pits stark against the fertile earth. The soldiers had done their work, but not perfectly — and among the ashes were fresh signs, prints leading north, recent. Someone had come back to this place, and meant to again.
 
-She moved cautiously, keeping the river within sight but not venturing too close to its banks. The Entwash’s current was swift, swollen with the runoff from distant mountain snows. Its roar carried across the open land, a constant reminder of nature’s power. Yet the day was unmarred by danger, and as the sun dipped below the horizon, Celenneth allowed herself a rare moment of calm. The orcs’ trail would wait for morning.
+Her pulse quickened. Whoever it was had not been content to abandon the position. She followed the tracks toward the river, reading a small group moving quick and precise — worth the risk of return, whatever they came for. But the afternoon darkened with the promise of a storm, and the Entwash grew louder, churning against its banks.
 
-On the second day, her search grew more deliberate. The ground near the river grew softer, footprints preserved in the mud like fleeting memories. Celenneth followed these faint marks until, just before midday, she found it: the remnants of the orc encampment. The charred remains of crude structures and fire pits marred the landscape, their outlines stark against the fertile earth. She crouched low, her fingers brushing the scorched ground as she inspected the site.
+Then a deeper rumble than thunder reached her, and the ground trembled underfoot. The spring flood broke its bounds. A wall of water surged down the channel, carrying broken trees and torn shrubs in its fury, devouring the banks. Celenneth cursed and scrambled for higher ground, her feet pounding the uneven earth, and gained a rocky outcrop just as the flood tore past where she had stood. The trail she had followed was gone in an instant, erased — and with it any hope of the orcs' purpose.[^r-flood]
 
-It was clear the soldiers had done their work, but not thoroughly. And amongst the ashes and broken stakes, Celenneth found fresh signs of disturbance—footprints leading away from the site, heading north. Someone had been here recently, and judging by the evidence, they meant to return.
+The waters raged two days more, carving the land, and she pressed upstream in search of a crossing, finding none — the Entwash had become a leviathan, and any attempt at it would have been suicide. The country grew wilder as she climbed, rocky and thicketed, the nights cold and damp, and exhaustion crept in like a thief and dulled her edge. She made her camps in hidden places and kept her watch — but no ranger, however skilled, can guard every hour.
 
-Her pulse quickened. Whoever had been here wasn’t content to abandon the position entirely. They had a purpose, and it wasn’t hard to guess who they were. Orcs rarely acted without some malign intent, especially this far from their usual haunts.
+They came in the last dark before dawn, moving like wraiths over the wet earth. She woke to a hand clamped over her mouth and her arms wrenched behind her, and though she kicked and twisted, the grip was iron.
 
-The prints grew clearer as she ventured closer to the river, their path weaving between patches of soft earth and denser vegetation. The signs pointed to a small group, moving quickly, their movements precise. Whatever they sought to retrieve or secure, it was worth the risk of returning.
+"Lively one," an orc sneered, breath foul against her ear. "Bind her, quick."
 
-The air grew heavy as the afternoon wore on, the sky darkening with the promise of a storm. The roaring Entwash had grown louder, its waters churning violently against the banks. Celenneth paused, her brow furrowing as she glanced toward the river. The spring floods had begun, and the rising water could quickly transform this landscape into a death trap.
+They lashed her wrists and ankles, tore her weapons from her, rifled her pack. One yanked her head back by the hair, blackened teeth bared. "A ranger. Thought you were clever, poking where you don't belong." Her only answer was a glare, and he struck her across the face hard enough to leave her reeling. "We'll see how clever, when the masters are done with you." They hauled her up, blindfolded her with rough cloth, and drove her forward with jabs of their weapons into a muffled, disorienting dark.[^r-taken]
 
-A distant rumble reached her ears, deeper and more resonant than thunder. She turned sharply, her instincts flaring as the ground seemed to tremble beneath her boots. The Entwash was spilling its bounds, its swollen current devouring the banks with terrifying speed. A wall of water surged downriver, carrying debris—broken trees, uprooted shrubs—in its furious wake.
+She walked blind for days. She fixed on her breathing, on the ground shifting beneath her boots — soft loam, then rock, then whispering grass — on the fragments of speech that reached her. Most was the harsh guttural tongue, but Westron words broke through: *Dol Guldur,* spoken often, with grim laughter; *ranger,* and *spy,* with venom and a flicker of fear. One voice stood apart, deeper and raspier, giving orders the rest obeyed without question — Grusk, the leader. Always their march bent northward, toward the dark fortress she had warned Gondor of, and she understood: she was their prize, and they were carrying her to it.
 
-Cursing under her breath, Celenneth scrambled for higher ground, her feet pounding the uneven terrain as the floodwaters rushed closer. Her heart raced, the roar of the river drowning out all other sounds. The trail she had been following was gone, erased in an instant, and with it any hope of finding the orcs’ purpose. She reached a rocky outcrop just as the waters surged past, the force of the flood a humbling reminder of nature’s power.
+They pushed her hard, and her endurance seemed to gall as much as impress them. "Strong, this one," one muttered, grudging. "Stronger than you," another jeered, and earned a snarl. Celenneth held to her pride like a stubborn flame, and to something colder and more useful: every sound, every scent, every shift of the wind became a clue, and she filed each away — their voices, their patterns, the cadence of their watches — and waited.
 
-Panting, she crouched low, her knuckles white as she gripped the edge of the stone. The flood’s fury left no doubt: she was stranded, cut off from her path. The land around her was a churning sea of muddy water and debris, and the orcs’ trail had disappeared into its depths. Celenneth clenched her jaw, her mind racing as she assessed her situation.
+One night, feigning sleep, she caught two of them talking low of something stirring in the shadows, a power that would rise again — *the sorcery,* one said, and *a master's will* — and the words settled a sick dread in her that only confirmed her fears. She clenched her jaw against the ache in her legs and marched on, and turned her whole mind to the one thing that mattered: finding the crack she would slip through.
 
-She was alone, surrounded by treacherous waters, and the shadow of the orcs lingered somewhere beyond her reach. Whatever they were planning, the flood had bought her time—but at what cost?
-
-The floodwaters raged for two more days, their relentless current carving deep scars into the land. Celenneth pressed upstream, her movements careful as she searched for a fordable crossing. The Entwash was no gentle stream; it had become a roaring leviathan, its swollen banks and churning waters rendering any direct attempt to cross suicidal. Every step northward felt like a gamble, the trail she once followed erased by the river’s fury.
-
-The terrain grew wilder as she climbed, the open plains giving way to rocky outcroppings and dense thickets. The nights were cold, the air damp. Celenneth made her camps in hidden places, her instincts sharp as she kept watch for signs of danger. Yet exhaustion crept in like a thief, dulling her senses. Her progress was slow, and the strain of constant vigilance began to take its toll.
-
-On the fourth night, as she nestled beneath the shelter of a low overhang, sleep finally overtook her. The fire she had kindled burned low, its embers casting faint shadows on the stone. Her bow and sword lay within arm’s reach, her pack secured beside her. But even the most skilled ranger could not guard against every threat.
-
-They came in the hour before dawn, when the stars were fading and the world lay in stillness. The orcs moved like wraiths through the gloom, their steps muffled by the wet earth. Celenneth stirred, her instincts warning her of danger, but it was too late. A calloused hand clamped over her mouth as another wrenched her arms behind her back. She struggled fiercely, her heart pounding as she kicked and twisted, but the orcs’ grip was iron.
-
-“Got ourselves a lively one,” one of them sneered, his breath hot and foul against her ear. “Don’t waste time, bind her.”
-
-They worked quickly, securing her wrists and ankles with coarse ropes. Her weapons were torn from her grasp, her pack rifled through with crude efficiency. Celenneth bit back a cry as one of them yanked her head back, his blackened teeth bared in a grimace of triumph.
-
-“A ranger,” he growled, his tone laced with disdain. “Thought you were clever, didn’t you? Poking where you don’t belong.”
-
-Her glare was her only reply, defiance burning in her eyes. The orc snarled and struck her across the face, the blow leaving her dazed. “We’ll see how clever you are when the masters are done with you.”
-
-They hoisted her to her feet, their rough hands dragging her forward. Celenneth stumbled, her mind racing as she fought against the ropes cutting into her flesh. The orcs wasted no time. They bound a crude blindfold over Celenneth’s eyes, the rough fabric scratching against her skin as they pulled it tight. The world became a muffled, disorienting blur of sound and movement, her steps guided only by the harsh jabs of their weapons. Each stride was an exercise in trust—or defiance—against the uneven terrain and their cruelty.
-
-Celenneth focused on her breathing, the rhythm of her steps, and the faint sounds around her. The air grew cooler as they climbed, and she could feel the shift beneath her boots—from soft loam to rocky paths to patches of grass that whispered as they brushed her legs. Her captors kept her moving relentlessly, their guttural commands driving her forward whenever her pace faltered.
-
-Through the din of their movements and the occasional clash of equipment, snatches of their language reached her ears. Most of their speech was unintelligible, a harsh and guttural tongue, but the occasional word or phrase in Westron broke through. "Dol Guldur" came often, accompanied by grim laughter or muttered curses. She also caught the words "ranger" and "spy," spoken with venom and a flicker of fear. The fragments painted a grim picture: these orcs weren’t simply wandering brigands. They were messengers, perhaps even part of something larger—something calculated.
-
-One voice stood out, deeper and raspier than the others. Grusk seemed to command the group, issuing orders in sharp barks that the others obeyed without question. Celenneth focused on his tone, piecing together his intentions as best she could. The direction of their march—always northward—confirmed her growing suspicion. They were heading toward Dol Guldur, the dark fortress she had warned Gondor about, and she was their prize.
-
-Her stamina did not go unnoticed. The orcs pushed her hard, their cruel taunts and occasional blows testing her endurance. Yet she kept pace, her steps steady despite the aches in her body and the hunger gnawing at her stomach. She could feel their eyes on her, a mix of grudging respect and irritation at her resilience.
-
-“She’s strong, this one,” one of them muttered, his tone begrudging.
-
-“Stronger than you,” another jeered, eliciting a snarling reply.
-
-Celenneth bit back a grim smile, her pride flickering like a stubborn flame in the dark. Every step she took, every ounce of endurance she showed, was a small victory—a reminder to her captors that she was not broken. Yet the weight of the journey pressed heavily on her. The path northward seemed endless, and the blindfold robbed her of any sense of time or distance.
-
-At night, they made camp in secluded hollows or beneath dense canopies of trees, their fires casting a faint heat that never seemed to reach her. They fed her scraps, barely enough to stave off weakness, and kept her wrists bound even as she slept. The ground was cold, and her body ached, but her mind refused to yield. Every sound, every scent, every vibration through the earth became a clue to her surroundings. She listened intently, memorizing their patterns and movements, the cadence of their voices, and the way the wind shifted as they traveled.
-
-The second night brought whispers she could not ignore. She lay motionless, feigning sleep as two orcs spoke in hushed tones nearby. The rasp of their language was harsh, but she caught enough to chill her blood. They spoke of something stirring in the shadows—a power that would rise again. The phrase “the sorcery” slipped through their guttural words, along with references to “a master’s will.” The fragments filled her with a sickening dread, confirming her fears.
-
-As they broke camp the next morning and the march resumed, Celenneth clenched her jaw against the growing ache in her legs. Her body screamed for rest, but she pushed forward, her spirit refusing to bow. The orcs’ plans were becoming clearer, even if the details eluded her. They were taking her to Dol Guldur, likely to break her or parade her as a trophy. But she was determined to find a way out, no matter how slim the chance.
+[^r-flood]: **Journey hazard** — the Entwash spring flood breaks its banks and erases the orcs' trail as Celenneth tracks it, stranding her on the wrong side of an impassable river. The purpose of the returning orc-party is lost.
+[^r-taken]: **Combat / capture** — worn down by days of hard, wet travel, Celenneth is ambushed and taken in her sleep by a Dol Guldur orc-band under **Grusk**. Bound and blindfolded, she is marched north toward the fortress as a prize. (GM: a raised Eye — the Shadow's hand tightening.)

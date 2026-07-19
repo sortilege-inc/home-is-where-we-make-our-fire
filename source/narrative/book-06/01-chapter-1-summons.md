@@ -1,64 +1,43 @@
 # Chapter 1: Summons
 
-*Book 6*
-
 *Súlimë 4, 2966*
 
-The great hall of Eofred’s keep was quiet but for the low murmur of voices from his captains and the steady crackle of the central hearth. Celenneth strode inside, her steps purposeful, the warmth of the fire brushing against her travel-worn cloak as she approached the marshal. Eofred stood near the head of the long table, his brow furrowed as he reviewed a map spread before him, the weight of the Riddermark's defense evident in his posture.
+Eofred's hall was quiet but for the murmur of his captains and the crackle of the central hearth. Celenneth crossed it at a purposeful stride, the fire's warmth brushing her travel-worn cloak, and found the marshal at the head of the long table, bent over a map with the weight of the Riddermark's defense in the set of his shoulders.
 
-He glanced up as she approached, his sharp gaze meeting hers. "Celenneth," he said, his voice steady. "I’ve been considering the road ahead. Dol Guldur’s shadow stretches far, and while winter has given us time to prepare, the spring will demand action."
+He looked up as she reached him. "Celenneth. I've been weighing the road ahead. Dol Guldur's shadow reaches far, and though winter bought us time, the spring will ask for action." He gestured her closer, and laid three fingers on three points of the map.
 
-Celenneth inclined her head respectfully. "What is it you wish of me, Marshal?"
+"There are three roads I could send you down. First — we need clearer eyes on the enemy. A watch kept on the Greenwood, to number them and read their intent. You've worked with Thalion's folk before; you could go to them again." His hand slid west. "Second, Rohan's ties to Gondor want tending. Their vigilance on the Anduin matters as much as our patrols. A messenger to Minas Tirith, to lay what we know before Steward Turgon and ask his aid in kind — you've earned the trust to carry that with weight." His finger moved north-east, and his face darkened. "Third, Dale and the dwarves of Erebor sit far enough from Dol Guldur to think themselves safe. Someone must remind them the Shadow's reach doesn't stop at their borders — and that will not be an easy telling."
 
-Eofred gestured to the map, motioning for her to step closer. “The orcs have been quiet through the snows, but that will not last. Scouts report movement along the edges of the Greenwood. I believe Dol Guldur is testing the resolve of the free peoples—seeking cracks in our defenses, alliances left unattended.”
+Celenneth studied the three points. "Each has its risk. And each is worth the taking."
 
-⁂
-He pointed to several locations on the map. “There are three paths forward. First, we need clearer intelligence on their movements. A mission into the Greenwood to observe their numbers and strategies would be invaluable. You’ve worked with the elves of Mirkwood before. I would ask you to go to them again.”
+"Indeed. But the Mark cannot spare you for all three, and spring comes quickly. You must choose where your skill will serve best." He paused. "I called you here not to command you, ranger, but to counsel with you. Where do you believe you'll do the most good?"
 
-Celenneth studied the map, her sharp eyes tracing the points he indicated. “A dangerous path,” she said. “But necessary. What of the other options?”
+She let her gaze travel the map — the dark eaves of the Greenwood where orcs and worse things stirred; the white towers of Minas Tirith, where a word in the right ear could move armies; the mountain-halls whose lords must be won one wary conversation at a time. "If it's to be one," she said at last, meeting his eyes, "let it be the one that binds our strength together against Dol Guldur. Give me a day to think on it."
 
-Eofred’s hand shifted to the west. “Second, Rohan must strengthen its ties with Gondor. Their vigilance on the Anduin is as critical as our patrols here. A messenger would need to travel to Minas Tirith, offering what we know and asking for aid in kind from Steward Turgon. You’ve traveled far and earned trust. You could deliver this message with weight.”
-
-“And the third?” Celenneth asked, her voice steady but curious.
-
-Eofred’s expression darkened slightly as he moved his finger to the northeast. “The men of Dale and the dwarves of Erebor have their own concerns. Their distance from Dol Guldur has made them cautious. I need someone to remind them that the shadow’s reach does not stop at their borders. Convincing their leaders to commit resources—or riders—will not be easy.”
+Eofred nodded, his respect plain. "Take it. But spring waits for no one."
 
 ⁂
-Celenneth crossed her arms, her gaze thoughtful as she considered the paths laid before her. “Each mission has its risks,” she said. “And all are vital.”
 
-“Indeed,” Eofred agreed. “But the Riddermark cannot spare you for all three. The spring will come quickly, and you must choose where your skills will best serve.”
+The choice sat heavy on her that evening, by the hearth of the quarters she shared. Linnea sat across from her with Brynja asleep in her arms, the baby's small fingers curled into the corner of her cloak — and for all the warmth of the scene, a chill had opened in the quiet between them.
 
-She looked up at him, her expression resolute. “And what do you think, Marshal? Where would you send me?”
+"You've already decided," Linnea said. Not a question.
 
-Eofred hesitated, then gave a faint smile. “I value your insight, ranger. I called you here not to command you but to counsel with you. Where do you believe your efforts will do the most good?”
+Celenneth's eyes stayed on the flames. "Eofred's right. Gondor has to know what's coming. If they falter, the Shadow spreads unchecked. And I'm a ranger, a messenger — this is the thing I was made for."
 
-⁂
-Celenneth’s gaze lingered on the map, her thoughts turning to the challenges ahead. The Greenwood’s dark edges, where orcs and darker things lurked. The distant towers of Minas Tirith, where politics could sway armies. The mountain halls of Erebor and Dale, whose leaders’ trust must be earned.
+Linnea's jaw tightened. She looked down at Brynja and smoothed her dark hair. "And us? And her? You'll just ride off and leave us. Why does it have to be you?"
 
-She straightened, meeting Eofred’s gaze. “If I am to undertake one of these missions, it must be the one that will unite our strength against Dol Guldur. Let me consider.”
+Celenneth flinched, and made herself meet Linnea's eyes. "It isn't about leaving you. It's about protecting you. Both of you. Rohan needs its riders here, and we've been the thread between these peoples — I can carry this where others can't. I don't believe this is the great trial we're meant to face together. And if Brynja can't have us both on this road, she should at least have you."
 
-Eofred nodded, his respect for her evident in his steady gaze. “Take a day, but spring waits for no one.”
+"And if something happens to you out there?" Linnea's voice cracked. "What then? What happens to her when she loses a mother before she ever knew her?"
 
-⁂
-The decision weighed heavily on Celenneth’s shoulders as she sat by the hearth in their shared quarters, the firelight flickering over her tense features. Linnea sat across from her, holding Brynja close. The baby slept peacefully, her small fingers curled around a corner of Linnea’s cloak. But the warmth of the moment couldn’t pierce the growing chill between the two women as the silence stretched.
+Celenneth drew a shaking breath. "I can't promise nothing will happen. But I can promise every step I take will be for her, and for you. I wouldn't ride into danger if I thought it was for nothing."
 
-Finally, Linnea spoke, her voice quiet but firm. “You’ve already decided, haven’t you?”
+Linnea shook her head, tears standing in her eyes. "You always have to be the one to carry it. You can't ever let someone else take the weight."
 
-Celenneth nodded, her gaze fixed on the flames. “Eofred is right—Gondor must know what’s coming. If they falter, the shadow will spread unchecked. And I’m... I’m a ranger. A messenger. This is what I am made for.”
+The fire filled the silence, and Brynja's soft breathing. At last Linnea let out a slow breath. "I'll stay," she said, deliberate. "For a season. Until Brynja's strong enough to travel with us. Freowyn can help, and I can keep training with Eadwyn. But Celenneth — if you don't come back—"
 
-Linnea’s jaw tightened, and she looked down at Brynja, stroking the baby’s soft hair. “And what about us? What about her? You’re just going to ride off and leave us? Why does it have to be you?”
+Celenneth crossed the room and knelt beside her and set a hand on her arm, her voice low and raw. "I will come back."
 
-Celenneth flinched at the accusation, her eyes finally meeting Linnea’s. “It’s not about leaving you,” she said, her voice thick with emotion. “It’s about protecting you. Protecting her. Rohan needs its riders here. We've been the link between these civilizations. I do not think this the great trial we are to stand against together; and if Brynja cannot have us both, she should at least have you.”
+Linnea turned to her, a tear slipping loose. "You'd better," she whispered. "Because I don't know that I can do this without you."[^r-summons]
 
-“And what happens if something happens to you out there?” Linnea snapped, her voice breaking. “What then, Celenneth? What happens to Brynja when she loses her mother before she even knows you?”
-
-Celenneth closed her eyes, drawing in a shaky breath. “I can’t promise that nothing will happen. But I can promise that every step I take will be for her, and for you. I wouldn’t ride into danger if I thought it was for nothing.”
-
-Linnea shook her head, tears brimming in her eyes. “You always have to be the one to carry the weight, don’t you? You can’t just... let someone else take the burden for once.”
-
-⁂
-The room fell into silence, broken only by the crackling fire and Brynja’s soft breaths. After a moment, Linnea sighed, her voice softer now. “I’ll stay,” she said, her words slow and deliberate. “For a season. Until Brynja is strong enough to ride with us. Freowyn can help, and I can keep training with Eadwyn. But Celenneth... if you don’t come back...”
-
-Celenneth rose from her seat, crossing the room to kneel beside Linnea. She placed a hand gently on Linnea’s arm, her voice low and raw. “I will come back."
-
-Linnea turned to face her, a tear slipping down her cheek. “You’d better,” she whispered, her voice trembling. “Because I don’t know if I can do this without you.”
+[^r-summons]: **Fellowship / Undertaking** — Marshal Eofred lays out three errands (watch the Greenwood, treat with Gondor, rouse Dale and Erebor) and leaves the choice to Celenneth. She chooses **Gondor** — to carry Rohan's warning to Steward Turgon at Minas Tirith. Linnea remains at Edoras with the infant Brynja for the season.
