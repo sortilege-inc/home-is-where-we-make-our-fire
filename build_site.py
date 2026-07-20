@@ -46,6 +46,10 @@ def val(x):
         return x.get("value")
     return x
 
+def strip_html(t):
+    t = re.sub(r"<[^>]+>", " ", t or "")
+    return re.sub(r"\s+", " ", t).strip()
+
 def inline(t):
     t = html.escape(t, quote=False)
     t = re.sub(r"\*\*\*(.+?)\*\*\*", r"<strong><em>\1</em></strong>", t)
@@ -481,7 +485,7 @@ DP_FOES = ["the-orcs"]
 
 # ------------------------------------------------------------------ build
 def wipe_and_dirs():
-    for d in ["chronicle", "company", "dramatis-personae", "timeline", "atlas", "assets"]:
+    for d in ["chronicle", "company", "dramatis-personae", "timeline", "atlas", "assets", "play"]:
         p = os.path.join(ROOT, d)
         if os.path.isdir(p): shutil.rmtree(p)
         os.makedirs(p, exist_ok=True)
@@ -586,12 +590,16 @@ def person_page(slug, meta, section_label, section_href):
     if meta.get("pdf") and SHEETS_BASE_URL:
         pdf = (f'<p><a class="pdf-link" href="{SHEETS_BASE_URL}/{meta["pdf"]}">'
                f'⬦ Full Character Sheet (PDF)</a></p>')
+    play = ""
+    if slug in PLAY_SLUGS:
+        play = (f'<p><a class="play-btn" href="../play/{slug}.html">'
+                f'<span class="pb-ico">✦</span> Open the Playable Character Sheet</a></p>')
     body = (crumb(1, (section_label, section_href), (name,))
             + f'<h1 class="pagetitle">{html.escape(name)}</h1>'
             + (f'<p class="pagesub">{html.escape(meta["role"])}</p>' if meta.get("role") else "")
             + '<div class="flourish small"></div>'
             + '<article>' + portrait_html(meta, bio) + body_html + '</article>'
-            + pdf + sheet)
+            + play + pdf + sheet)
     write(f"{section_href.split('/')[0]}/{slug}.html",
           page(name, body, section_label, depth=1,
                desc=f"{name} — {meta.get('role','a figure in the chronicle of Celenneth')}."))
@@ -618,7 +626,13 @@ def build_company():
             + '<p class="pagesub">Those who make the fire — Celenneth and the family she '
               'gathered against the dark.</p>'
             + '<div class="flourish small"></div>'
-            + f'<div class="pgrid">{cards}</div>')
+            + f'<div class="pgrid">{cards}</div>'
+            + '<div class="group-h">The Crew of the Eärlindë</div>'
+            + '<p class="group-sub">Círdan\'s Elven crew of the voyage west, run as a Band '
+              'after the Moria solo-play rules — a shared pool of Allies with a Readiness '
+              'rating and five Dispositions.</p>'
+            + '<p><a class="play-btn" href="../play/earlinde.html">'
+              '<span class="pb-ico">✦</span> Open the Band Sheet</a></p>')
     write("company/index.html", page("The Company", body, "Company", depth=1,
           desc="Celenneth and her companions — the heart of the chronicle."))
 
@@ -743,6 +757,181 @@ def build_home(books, n_tl):
             f'<div class="grid">{cards}</div>')
     write("index.html", page("", body, "Home", depth=0, desc=SITE_TAG))
 
+# ------------------------------------------------------------ playable sheets
+# Slugs (from COMPANY) that carry Foundry character data get an interactive sheet.
+PLAY_SLUGS = [s for s in COMPANY if CHARS[s].get("foundry")]
+
+# The One Ring 2e rules, synthesized by titterpig-synthesist (see source/rules/).
+def _load_rules():
+    p = os.path.join(ROOT, "source", "rules", "tor2e-0.4.resolved.json")
+    if not os.path.isfile(p):
+        return {}
+    data = json.load(open(p, encoding="utf-8"))
+    return {e["name"]: e for e in data.get("entities", [])}
+RULES = _load_rules()
+
+def _coerce(p):
+    """Resolved-JSON values are all strings; cast by the DSL's declared type."""
+    t = (p.get("type") or "").upper()
+    v = p.get("value")
+    if not isinstance(v, str):
+        return v
+    if t == "INTEGER":
+        try: return int(v)
+        except ValueError:
+            try: return float(v)
+            except ValueError: return v
+    if t == "LIST":
+        try: return json.loads(v)
+        except (ValueError, TypeError):
+            return [x.strip().strip('"') for x in v.strip("[]").split(",") if x.strip()]
+    return v
+
+def _props(name):
+    ent = RULES.get(name)
+    return {p["name"]: _coerce(p) for p in ent.get("properties", [])} if ent else {}
+
+# The twelve of the Eärlindë (Book 13).
+CREW_ROSTER = [
+    ("Calion", "Captain · starseer"), ("Ithildur", "Navigator"),
+    ("Lindarë", "Quartermaster"), ("Nithrandir", "Surgeon"),
+    ("Eärion", "Boatswain"), ("Celebrin", "Deckhand"),
+    ("Galaniel", "Cook"), ("Thalandir", "Deckhand"),
+    ("Voriel", "Lookout"), ("Mallor", "Carpenter"),
+    ("Elenmir", "Sailmaker"), ("Silivren", "Deckhand"),
+]
+
+def tor_actor_to_sheet(actor, cid, name):
+    """Flatten a TOR2e Foundry character actor into the JSON the sheet JS consumes."""
+    s = actor.get("system", {})
+    bio = s.get("biography", {})
+    attrs = {a: (val(s.get("attributes", {}).get(a)) or 0) for a in ("strength", "heart", "wits")}
+    res = s.get("resources", {})
+    end = res.get("endurance", {}) or {}; hope = res.get("hope", {}) or {}
+    shadow = res.get("shadow", {}) if isinstance(res.get("shadow"), dict) else {}
+    soh = s.get("stateOfHealth", {})
+    stat = s.get("stature", {})
+    skills = [dict(name=cap_last(sk.get("label") or key), rank=val(sk.get("value")) or 0,
+                   attr=(sk.get("roll") or {}).get("associatedAttribute") or "wits",
+                   favoured=bool((sk.get("favoured") or {}).get("value")))
+              for key, sk in s.get("commonSkills", {}).items()]
+    profs = [dict(name=cap_last(p.get("label") or key), rank=val(p.get("value")) or 0,
+                  attr=(p.get("roll") or {}).get("associatedAttribute") or "strength")
+             for key, p in s.get("combatProficiencies", {}).items()]
+    bytype = defaultdict(list)
+    for it in actor.get("items", []):
+        bytype[it.get("type")].append(it)
+    def cards(kind):
+        return [dict(name=it.get("name", ""),
+                     text=strip_html(val((it.get("system") or {}).get("description"))))
+                for it in bytype.get(kind, [])]
+    weapons = [dict(name=w.get("name", ""), damage=val(w["system"].get("damage")),
+                    injury=val(w["system"].get("injury")), load=val(w["system"].get("load")) or 0,
+                    equipped=bool(val(w["system"].get("equipped"))),
+                    ranged=bool(val(w["system"].get("ranged"))), skill="")
+               for w in bytype.get("weapon", [])]
+    armour = [dict(name=a.get("name", ""), protection=val(a["system"].get("protection")),
+                   load=val(a["system"].get("load")) or 0,
+                   equipped=bool(val(a["system"].get("equipped"))))
+              for a in bytype.get("armour", [])]
+    return dict(
+        id=cid, kind="hero", name=name,
+        meta=dict(culture=val(bio.get("culture")) or "",
+                  calling=(val(bio.get("calling")) or "").title(),
+                  blessing=val(bio.get("culturalBlessing")) or "",
+                  living=val(bio.get("standardOfLiving")) or "",
+                  shadowPath=val(bio.get("shadowPath")) or "",
+                  fellowshipFocus=val(bio.get("fellowshipFocus")) or ""),
+        attributes=attrs,
+        endurance=dict(value=val(end) or 0, max=(end.get("max") if isinstance(end, dict) else 0) or 0),
+        hope=dict(value=(hope.get("value") if isinstance(hope, dict) else val(hope)) or 0,
+                  max=(hope.get("max") if isinstance(hope, dict) else 0) or 0),
+        parry=val(s.get("combatAttributes", {}).get("parry")) or 0,
+        load=val(res.get("travelLoad")) or 0, treasure=val(s.get("treasure")) or 0,
+        shadow=dict(scars=val(shadow.get("shadowScars")) or 0,
+                    temporary=val(shadow.get("temporary")) or 0),
+        conditions=dict(weary=bool(val(soh.get("weary"))), wounded=bool(val(soh.get("wounded"))),
+                        miserable=bool(val(soh.get("miserable")))),
+        valour=val(stat.get("valour")) or 0, wisdom=val(stat.get("wisdom")) or 0,
+        skills=skills, proficiencies=profs, weapons=weapons, armour=armour,
+        virtues=cards("virtues"), rewards=cards("reward"),
+        features=[t.get("name", "") for t in bytype.get("trait", [])],
+        possessions=cards("miscellaneous"))
+
+def build_band_sheet():
+    """The Eärlindë crew as a Moria-style Band, from the synthesized rules."""
+    band = _props("Band System")
+    calling = _props("Pathfinders")
+    disp = band.get("Dispositions") or ["Expertise", "Manoeuvre", "Rally", "Vigilance", "War"]
+    rating = band.get("Default Disposition Rating") or 2
+    return dict(
+        id="earlinde", kind="band", name="The Crew of the Eärlindë", shipName="Eärlindë",
+        subtitle="A Band of the Grey Havens · Moria Band rules",
+        allies=band.get("Starting Allies") or 6, readiness=band.get("Starting Readiness") or 4,
+        dispositions=[dict(name=n, rating=rating) for n in disp],
+        injuryLevels=band.get("Injury Levels") or [],
+        fatigueLevels=band.get("Fatigue Levels") or [],
+        burdenLevels=band.get("Burden Levels") or [],
+        sharedCalling=dict(name=calling.get("Calling Name") or "Pathfinders",
+                           focus=calling.get("Disposition Focus") or "Manoeuvre",
+                           shadowPath=calling.get("Shadow Path") or "",
+                           skills=calling.get("Favoured Skills") or [],
+                           description=strip_html(calling.get("Description") or "")),
+        roster=[dict(name=n, role=r) for n, r in CREW_ROSTER],
+        note="Círdan's crew, run as a Band after the Moria solo-play rules: a shared pool of "
+             "Allies with a Readiness rating and five Dispositions. As Pathfinders, they are "
+             "scouts of the sea-road west.")
+
+def render_play_page(sheet, back_href, back_label):
+    data = json.dumps(sheet, ensure_ascii=False)
+    fonts = ("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700"
+             "&family=Cinzel+Decorative:wght@400;700"
+             "&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500"
+             "&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap")
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{html.escape(sheet['name'])} — Character Sheet — {SITE_TITLE}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="{fonts}" rel="stylesheet">
+<link rel="stylesheet" href="../hearth.css">
+<link rel="stylesheet" href="tor-sheet.css">
+</head>
+<body class="play-body">
+<div class="play-bar"><span class="brand">Home Is Where We Make Our Fire</span>
+<a href="{back_href}">‹ {html.escape(back_label)}</a><span class="spacer"></span>
+<a href="../index.html">Home</a></div>
+<main id="sheet"></main>
+<script>window.SHEET = {data};</script>
+<script src="tor-dice.js"></script>
+<script src="tor-sheet.js"></script>
+</body>
+</html>"""
+
+def build_play():
+    play_dir = os.path.join(ROOT, "play")
+    os.makedirs(play_dir, exist_ok=True)
+    for f in glob.glob(os.path.join(ROOT, "build", "play-assets", "*")):
+        shutil.copy2(f, os.path.join(play_dir, os.path.basename(f)))
+    made = []
+    for slug in PLAY_SLUGS:
+        meta = CHARS[slug]
+        actor = load_actor(meta["foundry"])
+        if not (actor and actor.get("type") == "character"):
+            continue
+        sheet = tor_actor_to_sheet(actor, slug, meta["name"])
+        write(f"play/{slug}.html",
+              render_play_page(sheet, f"../company/{slug}.html", meta["name"]))
+        made.append(slug)
+    band = build_band_sheet()
+    write("play/earlinde.html",
+          render_play_page(band, "../company/index.html", "The Company"))
+    made.append("earlinde")
+    return made
+
 def main():
     wipe_and_dirs()
     copy_assets()
@@ -752,10 +941,12 @@ def main():
     n_tl = build_timeline()
     build_atlas()
     build_home(books, n_tl)
+    n_play = len(build_play())
     n_ch = sum(len(b[4]) for b in books)
     print(f"Built: {len(books)} books / {n_ch} chapters, "
           f"{len(COMPANY)} company, {len(DP_ALLIES)+len(DP_FOES)} dramatis personae, "
-          f"{n_tl} timeline entries, {len(ATLAS)} atlas places.")
+          f"{n_tl} timeline entries, {len(ATLAS)} atlas places, "
+          f"{n_play} playable sheets.")
 
 if __name__ == "__main__":
     main()

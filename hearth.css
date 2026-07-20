@@ -411,3 +411,8 @@ sup.fnref a:hover{ color:var(--blood-lit); }
 /* pdf link button */
 .pdf-link{ display:inline-block; font-family:var(--caps); text-transform:uppercase; letter-spacing:0.12em; font-size:0.64rem; color:var(--parchment); background:var(--blood); padding:0.5rem 1.1rem; border-radius:3px; text-decoration:none; border:none; margin:0.4rem 0; }
 .pdf-link:hover{ background:var(--blood-lit); color:#fff; }
+
+/* playable-sheet button */
+.play-btn{ display:inline-flex; align-items:center; gap:0.5rem; font-family:var(--caps); text-transform:uppercase; letter-spacing:0.11em; font-size:0.68rem; color:#fbeecb; background:linear-gradient(180deg,var(--gold),#7d6531); padding:0.6rem 1.2rem; border-radius:4px; text-decoration:none; box-shadow:var(--shadow-soft); margin:0.4rem 0; }
+.play-btn:hover{ filter:brightness(1.08); color:#fff; }
+.play-btn .pb-ico{ font-size:0.9rem; }
