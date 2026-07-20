@@ -155,7 +155,7 @@ def page(title, body, active, depth=0, desc=""):
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{html.escape(title)} — {SITE_TITLE}</title>
+<title>{html.escape(title) + " — " + SITE_TITLE if title else html.escape(SITE_TITLE)}</title>
 <meta name="description" content="{html.escape(desc)}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -741,7 +741,7 @@ def build_home(books, n_tl):
             'her and took away.</p></div>'
             '<div class="flourish"></div>'
             f'<div class="grid">{cards}</div>')
-    write("index.html", page("Home", body, "Home", depth=0, desc=SITE_TAG))
+    write("index.html", page("", body, "Home", depth=0, desc=SITE_TAG))
 
 def main():
     wipe_and_dirs()
