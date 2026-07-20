@@ -5,7 +5,7 @@
   "use strict";
   const S = window.SHEET;
   const KEY = "hearth.play." + S.id;
-  const STATE_V = 1;
+  const STATE_V = 2;
   const QUAL = ["Success", "Great Success", "Extraordinary Success"];
 
   // ---------------------------------------------------------------- state
@@ -13,7 +13,9 @@
     if (S.kind === "band") {
       return { v: STATE_V, readiness: S.readiness, allies: S.allies,
                disp: S.dispositions.map(x => x.rating),
-               injury: -1, fatigue: -1, burden: 0, log: [] };
+               burden: -1,
+               roster: S.roster.map(() => ({ injury: -1, fatigue: -1, out: false })),
+               log: [] };
     }
     return { v: STATE_V, end: S.endurance.value, hope: S.hope.value,
              shadowTemp: S.shadow.temporary,
@@ -357,10 +359,10 @@
       w.append(m, c, p); upd(); return w;
     })());
 
-    c1.appendChild(el("div", "col-h", "Ladders"));
-    c1.appendChild(ladder("Injury", S.injuryLevels, () => st.injury, v => st.injury = v));
-    c1.appendChild(ladder("Fatigue", S.fatigueLevels, () => st.fatigue, v => st.fatigue = v));
+    c1.appendChild(el("div", "col-h", "Burden — the whole Band"));
     c1.appendChild(ladder("Burden", S.burdenLevels, () => st.burden, v => st.burden = v));
+    c1.appendChild(el("div", "note", "Burden reflects the Band’s gear for the mission — a single "
+      + "level for all of them. Injury and Fatigue are tracked per crew-member below."));
     grid.appendChild(c1);
 
     // col 2: dice tray
@@ -405,15 +407,68 @@
         + ". " + (S.sharedCalling.description || "") + "</div>"));
     }
 
-    c3.appendChild(el("div", "col-h", "Roster — the crew of the " + (S.shipName || S.name)));
-    const roster = el("div", "roster");
-    S.roster.forEach(m => roster.appendChild(el("div", "r",
-      '<span class="rn">' + m.name + '</span><span class="rr">' + m.role + "</span>")));
-    c3.appendChild(roster);
-    if (S.note) c3.appendChild(el("div", "note", S.note));
     grid.appendChild(c3);
     mount.appendChild(grid);
+
+    // full-width: roster, with per-Ally Injury & Fatigue conditions
+    const sec = el("section", "col"); sec.style.marginTop = "1rem";
+    sec.appendChild(el("div", "col-h", "Roster — the crew of the " + (S.shipName || S.name)));
+    const wearyNote = el("div", "band-weary"); sec.appendChild(wearyNote);
+    const injOpts = ["—"].concat(S.injuryLevels), fatOpts = ["—"].concat(S.fatigueLevels);
+    function paintWeary() {
+      const bad = st.roster.filter(r => r.out || r.injury >= 2 || r.fatigue >= 2).length;
+      const weary = st.roster.length > 0 && bad * 2 >= st.roster.length;
+      wearyNote.className = "band-weary" + (weary ? " on" : "");
+      wearyNote.textContent = weary
+        ? "⚑ The Band is Weary — " + bad + " of " + st.roster.length
+          + " lost or seriously afflicted (Success dice 1–3 count as 0)."
+        : bad + " of " + st.roster.length + " afflicted — the Band turns Weary at half.";
+    }
+    const table = el("table", "roster-table");
+    table.appendChild(el("thead", null,
+      "<tr><th>Ally</th><th>Role</th><th>Injury</th><th>Fatigue</th><th>Status</th></tr>"));
+    const tb = el("tbody");
+    S.roster.forEach((m, i) => {
+      const tr = el("tr");
+      const paintRow = () => {
+        tr.classList.toggle("afflicted", st.roster[i].out || st.roster[i].injury >= 0 || st.roster[i].fatigue >= 0);
+        tr.classList.toggle("serious", st.roster[i].out || st.roster[i].injury >= 2 || st.roster[i].fatigue >= 2);
+      };
+      const selInj = mkSelect(injOpts, st.roster[i].injury, v => { st.roster[i].injury = v; save(); paintWeary(); paintRow(); });
+      const selFat = mkSelect(fatOpts, st.roster[i].fatigue, v => { st.roster[i].fatigue = v; save(); paintWeary(); paintRow(); });
+      const out = el("button", "out-btn" + (st.roster[i].out ? " on" : ""), st.roster[i].out ? "Out of action" : "Present");
+      out.onclick = () => {
+        st.roster[i].out = !st.roster[i].out;
+        out.className = "out-btn" + (st.roster[i].out ? " on" : "");
+        out.textContent = st.roster[i].out ? "Out of action" : "Present";
+        save(); paintWeary(); paintRow();
+      };
+      const cell = c => { const td = el("td"); if (typeof c === "string") td.innerHTML = c; else td.appendChild(c); return td; };
+      tr.appendChild(cell('<span class="rn">' + m.name + "</span>"));
+      tr.appendChild(cell('<span class="rr">' + m.role + "</span>"));
+      tr.appendChild(cell(selInj));
+      tr.appendChild(cell(selFat));
+      tr.appendChild(cell(out));
+      paintRow(); tb.appendChild(tr);
+    });
+    table.appendChild(tb); sec.appendChild(table);
+    if (S.note) sec.appendChild(el("div", "note", S.note));
+    paintWeary(); mount.appendChild(sec);
     resetRow();
+  }
+
+  function mkSelect(opts, cur, onChange) {
+    const s = el("select", "lvl-sel");
+    opts.forEach((o, idx) => {
+      const op = document.createElement("option");
+      op.value = idx - 1; op.textContent = o;
+      if (idx - 1 === cur) op.selected = true;
+      s.appendChild(op);
+    });
+    const sev = () => { s.className = "lvl-sel" + (+s.value >= 2 ? " sev" : (+s.value >= 0 ? " mild" : "")); };
+    sev();
+    s.onchange = () => { sev(); onChange(+s.value); };
+    return s;
   }
 
   // ---------------------------------------------------------------- reset

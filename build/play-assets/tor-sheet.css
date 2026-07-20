@@ -156,11 +156,25 @@
    color:var(--ink-soft);cursor:pointer;}
 .rung.on{background:var(--blood);border-color:var(--blood);color:var(--parchment);}
 .rung.clear{color:var(--ink-dim);}
-.roster{display:grid;grid-template-columns:1fr 1fr;gap:.3rem .8rem;}
-@media(max-width:600px){.roster{grid-template-columns:1fr;}}
-.roster .r{display:flex;justify-content:space-between;gap:.5rem;padding:.28rem 0;border-bottom:1px dotted var(--tan-hair);}
-.roster .r .rn{font-family:var(--fell);font-size:.98rem;color:var(--ink);}
-.roster .r .rr{font-family:var(--caps);font-size:.62rem;text-transform:uppercase;letter-spacing:.04em;color:var(--ink-soft);text-align:right;}
+.roster-table{width:100%;border-collapse:collapse;margin:.2rem 0 .3rem;}
+.roster-table th{font-family:var(--caps);text-transform:uppercase;letter-spacing:.05em;font-size:.6rem;
+   color:var(--ink-soft);text-align:left;border-bottom:1px solid var(--tan-hair);padding:.4rem .5rem;}
+.roster-table td{padding:.35rem .5rem;border-bottom:1px dotted var(--tan-hair);vertical-align:middle;}
+.roster-table .rn{font-family:var(--fell);font-size:1.02rem;color:var(--ink);}
+.roster-table .rr{font-family:var(--caps);font-size:.62rem;text-transform:uppercase;letter-spacing:.04em;color:var(--ink-soft);}
+.roster-table tr.afflicted{background:rgba(154,125,63,.07);}
+.roster-table tr.serious{background:rgba(140,47,47,.09);}
+.lvl-sel{font-family:var(--fell);font-size:.9rem;padding:.25rem .4rem;border-radius:6px;
+   border:1px solid var(--tan);background:var(--vellum);color:var(--ink-soft);cursor:pointer;}
+.lvl-sel.mild{color:var(--gold);border-color:var(--gold);background:#faf3df;}
+.lvl-sel.sev{color:var(--parchment);background:var(--blood);border-color:var(--blood);}
+.out-btn{font-family:var(--caps);font-size:.6rem;text-transform:uppercase;letter-spacing:.05em;
+   padding:.3rem .55rem;border-radius:6px;border:1px solid var(--tan);background:var(--vellum);
+   color:var(--ink-soft);cursor:pointer;white-space:nowrap;}
+.out-btn.on{background:#2b2230;border-color:#2b2230;color:#e0b3b3;}
+.band-weary{font-family:var(--caps);text-transform:uppercase;letter-spacing:.06em;font-size:.66rem;
+   color:var(--ink-soft);margin:0 0 .6rem;}
+.band-weary.on{color:var(--parchment);background:var(--blood);border-radius:6px;padding:.4rem .7rem;letter-spacing:.03em;}
 .note{font-family:var(--fell);font-style:italic;color:var(--ink-soft);font-size:.92rem;line-height:1.4;}
 .reset-row{margin-top:1rem;display:flex;gap:.5rem;}
 .reset-row button{font-family:var(--caps);font-size:.62rem;text-transform:uppercase;letter-spacing:.05em;

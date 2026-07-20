@@ -867,7 +867,7 @@ def build_band_sheet():
     return dict(
         id="earlinde", kind="band", name="The Crew of the Eärlindë", shipName="Eärlindë",
         subtitle="A Band of the Grey Havens · Moria Band rules",
-        allies=band.get("Starting Allies") or 6, readiness=band.get("Starting Readiness") or 4,
+        allies=len(CREW_ROSTER), readiness=band.get("Starting Readiness") or 4,
         dispositions=[dict(name=n, rating=rating) for n in disp],
         injuryLevels=band.get("Injury Levels") or [],
         fatigueLevels=band.get("Fatigue Levels") or [],
