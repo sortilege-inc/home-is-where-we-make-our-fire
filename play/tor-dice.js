@@ -54,5 +54,15 @@ window.TorDice = (function () {
              total, tengwar, gandalf, eye, success, quality, tn: opts.tn };
   }
 
-  return { roll, rollFeat };
+  // Glyph art for the special faces (inherit `currentColor`, scale to any size).
+  const GLYPHS = {
+    // Feat 11 — the Gandalf rune (branching stave with dots): automatic success.
+    gandalf: '<svg viewBox="0 0 30 44" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9V34M8 9h8M8 34h8"/><path d="M12 20C16 18 19 13 20 8"/><path d="M12 24C17 22 21 16 22 10"/><circle cx="20" cy="8" r="1.8" fill="currentColor" stroke="none"/><circle cx="22" cy="10" r="1.8" fill="currentColor" stroke="none"/><circle cx="12" cy="3.5" r="1.8" fill="currentColor" stroke="none"/><circle cx="12" cy="40" r="1.8" fill="currentColor" stroke="none"/><circle cx="3.5" cy="21.5" r="1.8" fill="currentColor" stroke="none"/><circle cx="26.5" cy="21.5" r="1.8" fill="currentColor" stroke="none"/></svg>',
+    // Feat 12 — the Eye of Sauron: counts as 0.
+    eye: '<svg viewBox="0 0 44 30" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15C13 5 31 5 40 15 31 25 13 25 4 15Z"/><path d="M22 9C24.2 12 24.2 18 22 21 19.8 18 19.8 12 22 9Z" fill="currentColor" stroke="none"/><path d="M22 3V0.5M22 29.5V27M6.5 6.5 5 5M37.5 6.5 39 5M6.5 23.5 5 25M37.5 23.5 39 25"/></svg>',
+    // Success die 6 — the Tengwar rune: counts as 6 and tallies great successes.
+    tengwar: '<svg viewBox="0 0 24 34" fill="none" stroke="currentColor" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"><path d="M8 5V29"/><path d="M8 11C8 7.5 10.5 5 14.5 5 18 5 20 7.5 20 11 20 15 16.5 17 12 17H8"/></svg>'
+  };
+
+  return { roll, rollFeat, GLYPHS };
 })();

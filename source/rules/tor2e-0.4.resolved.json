@@ -180,10 +180,13 @@
         {
           "name": "Standard of Living",
           "type": "ENUM",
-          "value": "[\"Poor\", \"Frugal\", \"Common\", \"Prosperous\", \"Rich\", \"Very Rich\"]"
-        },
-        {
-          "raw": "DEFAULT \"Common\""
+          "value": "[\"Poor\", \"Frugal\", \"Common\", \"Prosperous\", \"Rich\", \"Very Rich\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "Common"
+            }
+          ]
         },
         {
           "name": "Attributes",
@@ -674,10 +677,13 @@
         {
           "name": "Adversary Type",
           "type": "ENUM",
-          "value": "[\"Creature\", \"Orc\", \"Troll\", \"Undead\", \"Man\", \"Spider\", \"Wolf\", \"Dragon\"]"
-        },
-        {
-          "raw": "DEFAULT \"Creature\""
+          "value": "[\"Creature\", \"Orc\", \"Troll\", \"Undead\", \"Man\", \"Spider\", \"Wolf\", \"Dragon\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "Creature"
+            }
+          ]
         },
         {
           "name": "Attribute Level",
@@ -994,10 +1000,12 @@
         {
           "name": "Group",
           "type": "ENUM",
-          "value": "[\"Axes\", \"Bows\", \"Spears\", \"Swords\", \"Brawling\"]"
-        },
-        {
-          "raw": "REQUIRED"
+          "value": "[\"Axes\", \"Bows\", \"Spears\", \"Swords\", \"Brawling\"]",
+          "modifiers": [
+            {
+              "kind": "REQUIRED"
+            }
+          ]
         },
         {
           "name": "Rank",
@@ -1084,10 +1092,12 @@
         {
           "name": "Special Damage",
           "type": "ENUM",
-          "value": "[\"Pierce\", \"Seize\", \"Heavy Blow\", \"Break Shield\", \"Fell Blow\", \"\"]"
-        },
-        {
-          "raw": "DEFAULT \"\""
+          "value": "[\"Pierce\", \"Seize\", \"Heavy Blow\", \"Break Shield\", \"Fell Blow\", \"\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT"
+            }
+          ]
         }
       ],
       "sources": [
@@ -1132,10 +1142,13 @@
         {
           "name": "Type",
           "type": "ENUM",
-          "value": "[\"Personality\", \"Physical\", \"Calling\"]"
-        },
-        {
-          "raw": "DEFAULT \"Personality\""
+          "value": "[\"Personality\", \"Physical\", \"Calling\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "Personality"
+            }
+          ]
         }
       ],
       "sources": [
@@ -1208,10 +1221,12 @@
         {
           "name": "Applies To",
           "type": "ENUM",
-          "value": "[\"Armour\", \"Weapon\", \"Shield\"]"
-        },
-        {
-          "raw": "REQUIRED"
+          "value": "[\"Armour\", \"Weapon\", \"Shield\"]",
+          "modifiers": [
+            {
+              "kind": "REQUIRED"
+            }
+          ]
         },
         {
           "name": "Effect",
@@ -1273,18 +1288,22 @@
         {
           "name": "Governing Attribute",
           "type": "ENUM",
-          "value": "[\"Strength\", \"Heart\", \"Wits\"]"
-        },
-        {
-          "raw": "REQUIRED"
+          "value": "[\"Strength\", \"Heart\", \"Wits\"]",
+          "modifiers": [
+            {
+              "kind": "REQUIRED"
+            }
+          ]
         },
         {
           "name": "Skill Group",
           "type": "ENUM",
-          "value": "[\"Personality\", \"Movement\", \"Perception\", \"Survival\", \"Custom\", \"Vocation\"]"
-        },
-        {
-          "raw": "REQUIRED"
+          "value": "[\"Personality\", \"Movement\", \"Perception\", \"Survival\", \"Custom\", \"Vocation\"]",
+          "modifiers": [
+            {
+              "kind": "REQUIRED"
+            }
+          ]
         },
         {
           "name": "Description",
@@ -1311,9 +1330,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Personality",
@@ -1322,9 +1338,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1352,9 +1365,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Movement",
@@ -1363,9 +1373,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1393,9 +1400,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Perception",
@@ -1404,9 +1408,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1434,9 +1435,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Survival",
@@ -1445,9 +1443,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1475,9 +1470,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Custom",
@@ -1486,9 +1478,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1516,9 +1505,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Vocation",
@@ -1527,9 +1513,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1557,9 +1540,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Personality",
@@ -1568,9 +1548,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1598,9 +1575,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Movement",
@@ -1609,9 +1583,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1639,9 +1610,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Perception",
@@ -1650,9 +1618,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1680,9 +1645,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Survival",
@@ -1691,9 +1653,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1721,9 +1680,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Custom",
@@ -1732,9 +1688,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1762,9 +1715,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Vocation",
@@ -1773,9 +1723,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1803,9 +1750,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Personality",
@@ -1814,9 +1758,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1844,9 +1785,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Movement",
@@ -1855,9 +1793,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1885,9 +1820,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Perception",
@@ -1896,9 +1828,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1926,9 +1855,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Survival",
@@ -1937,9 +1863,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -1967,9 +1890,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Custom",
@@ -1978,9 +1898,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -2008,9 +1925,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Skill Group",
           "type": "STRING",
           "value": "Vocation",
@@ -2019,9 +1933,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Description",
@@ -2171,10 +2082,12 @@
         {
           "name": "Standard of Living",
           "type": "ENUM",
-          "value": "[\"Poor\", \"Frugal\", \"Common\", \"Prosperous\", \"Rich\", \"Very Rich\"]"
-        },
-        {
-          "raw": "REQUIRED"
+          "value": "[\"Poor\", \"Frugal\", \"Common\", \"Prosperous\", \"Rich\", \"Very Rich\"]",
+          "modifiers": [
+            {
+              "kind": "REQUIRED"
+            }
+          ]
         },
         {
           "name": "Cultural Blessing Name",
@@ -2245,9 +2158,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Cultural Blessing Name",
@@ -2338,9 +2248,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Cultural Blessing Name",
@@ -2439,9 +2346,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Cultural Blessing Name",
           "type": "STRING",
           "value": "Elven-skill",
@@ -2536,9 +2440,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Cultural Blessing Name",
@@ -2647,9 +2548,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Cultural Blessing Name",
           "type": "STRING",
           "value": "Bree-blood",
@@ -2748,9 +2646,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Cultural Blessing Name",
@@ -2857,9 +2752,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Cultural Blessing Name",
@@ -3161,10 +3053,13 @@
         {
           "name": "Enemy-Lore Specialisation",
           "type": "ENUM",
-          "value": "[\"Evil Men\", \"Orcs\", \"Spiders\", \"Trolls\", \"Wargs\", \"Undead\"]"
-        },
-        {
-          "raw": "DEFAULT \"Orcs\""
+          "value": "[\"Evil Men\", \"Orcs\", \"Spiders\", \"Trolls\", \"Wargs\", \"Undead\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "Orcs"
+            }
+          ]
         }
       ],
       "sources": [
@@ -6534,10 +6429,12 @@
         {
           "name": "Group",
           "type": "ENUM",
-          "value": "[\"Axes\", \"Bows\", \"Spears\", \"Swords\", \"Brawling\"]"
-        },
-        {
-          "raw": "REQUIRED"
+          "value": "[\"Axes\", \"Bows\", \"Spears\", \"Swords\", \"Brawling\"]",
+          "modifiers": [
+            {
+              "kind": "REQUIRED"
+            }
+          ]
         },
         {
           "name": "Damage",
@@ -6578,10 +6475,13 @@
         {
           "name": "Hands",
           "type": "ENUM",
-          "value": "[\"1H\", \"2H\", \"1H or 2H\"]"
-        },
-        {
-          "raw": "DEFAULT \"1H\""
+          "value": "[\"1H\", \"2H\", \"1H or 2H\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "1H"
+            }
+          ]
         },
         {
           "name": "Notes",
@@ -6632,9 +6532,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "1",
@@ -6667,10 +6564,13 @@
         {
           "name": "Hands",
           "type": "ENUM",
-          "value": "[\"1H\", \"2H\", \"1H or 2H\"]"
-        },
-        {
-          "raw": "DEFAULT \"1H\""
+          "value": "[\"1H\", \"2H\", \"1H or 2H\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "1H"
+            }
+          ]
         },
         {
           "name": "Notes",
@@ -6733,9 +6633,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "2",
@@ -6768,10 +6665,13 @@
         {
           "name": "Hands",
           "type": "ENUM",
-          "value": "[\"1H\", \"2H\", \"1H or 2H\"]"
-        },
-        {
-          "raw": "DEFAULT \"1H\""
+          "value": "[\"1H\", \"2H\", \"1H or 2H\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "1H"
+            }
+          ]
         },
         {
           "name": "Notes",
@@ -6834,9 +6734,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "3",
@@ -6869,10 +6766,13 @@
         {
           "name": "Hands",
           "type": "ENUM",
-          "value": "[\"1H\", \"2H\", \"1H or 2H\"]"
-        },
-        {
-          "raw": "DEFAULT \"1H\""
+          "value": "[\"1H\", \"2H\", \"1H or 2H\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "1H"
+            }
+          ]
         },
         {
           "name": "Notes",
@@ -6929,9 +6829,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "4",
@@ -6964,10 +6861,13 @@
         {
           "name": "Hands",
           "type": "ENUM",
-          "value": "[\"1H\", \"2H\", \"1H or 2H\"]"
-        },
-        {
-          "raw": "DEFAULT \"1H\""
+          "value": "[\"1H\", \"2H\", \"1H or 2H\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "1H"
+            }
+          ]
         },
         {
           "name": "Notes",
@@ -7024,9 +6924,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "5",
@@ -7065,9 +6962,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "DEFAULT \"1H\""
         },
         {
           "name": "Notes",
@@ -7130,9 +7024,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "5",
@@ -7165,10 +7056,13 @@
         {
           "name": "Hands",
           "type": "ENUM",
-          "value": "[\"1H\", \"2H\", \"1H or 2H\"]"
-        },
-        {
-          "raw": "DEFAULT \"1H\""
+          "value": "[\"1H\", \"2H\", \"1H or 2H\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "1H"
+            }
+          ]
         },
         {
           "name": "Notes",
@@ -7225,9 +7119,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "6",
@@ -7266,9 +7157,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "DEFAULT \"1H\""
         },
         {
           "name": "Notes",
@@ -7331,9 +7219,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "7",
@@ -7372,9 +7257,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "DEFAULT \"1H\""
         },
         {
           "name": "Notes",
@@ -7431,9 +7313,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "7",
@@ -7472,9 +7351,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "DEFAULT \"1H\""
         },
         {
           "name": "Notes",
@@ -7531,9 +7407,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "3",
@@ -7566,10 +7439,13 @@
         {
           "name": "Hands",
           "type": "ENUM",
-          "value": "[\"1H\", \"2H\", \"1H or 2H\"]"
-        },
-        {
-          "raw": "DEFAULT \"1H\""
+          "value": "[\"1H\", \"2H\", \"1H or 2H\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "1H"
+            }
+          ]
         },
         {
           "name": "Notes",
@@ -7577,10 +7453,13 @@
         },
         {
           "name": "Throwable",
-          "type": "BOOLEAN"
-        },
-        {
-          "raw": "true FIXED"
+          "type": "BOOLEAN",
+          "value": "true",
+          "modifiers": [
+            {
+              "kind": "FIXED"
+            }
+          ]
         }
       ],
       "sources": [
@@ -7623,9 +7502,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "4",
@@ -7666,9 +7542,6 @@
           ]
         },
         {
-          "raw": "DEFAULT \"1H\""
-        },
-        {
           "name": "Notes",
           "type": "STRING",
           "value": "Injury 16 when used two-handed. Can throw.",
@@ -7680,10 +7553,13 @@
         },
         {
           "name": "Throwable",
-          "type": "BOOLEAN"
-        },
-        {
-          "raw": "true FIXED"
+          "type": "BOOLEAN",
+          "value": "true",
+          "modifiers": [
+            {
+              "kind": "FIXED"
+            }
+          ]
         }
       ],
       "sources": [
@@ -7726,9 +7602,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "5",
@@ -7767,9 +7640,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "DEFAULT \"1H\""
         },
         {
           "name": "Notes",
@@ -7826,9 +7696,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "3",
@@ -7867,9 +7734,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "DEFAULT \"1H\""
         },
         {
           "name": "Notes",
@@ -7932,9 +7796,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "4",
@@ -7973,9 +7834,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "DEFAULT \"1H\""
         },
         {
           "name": "Notes",
@@ -8038,9 +7896,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "3",
@@ -8073,10 +7928,13 @@
         {
           "name": "Hands",
           "type": "ENUM",
-          "value": "[\"1H\", \"2H\", \"1H or 2H\"]"
-        },
-        {
-          "raw": "DEFAULT \"1H\""
+          "value": "[\"1H\", \"2H\", \"1H or 2H\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "1H"
+            }
+          ]
         },
         {
           "name": "Notes",
@@ -8133,9 +7991,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "4",
@@ -8168,10 +8023,13 @@
         {
           "name": "Hands",
           "type": "ENUM",
-          "value": "[\"1H\", \"2H\", \"1H or 2H\"]"
-        },
-        {
-          "raw": "DEFAULT \"1H\""
+          "value": "[\"1H\", \"2H\", \"1H or 2H\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "1H"
+            }
+          ]
         },
         {
           "name": "Notes",
@@ -8212,10 +8070,12 @@
         {
           "name": "Type",
           "type": "ENUM",
-          "value": "[\"Leather armour\", \"Mail armour\"]"
-        },
-        {
-          "raw": "REQUIRED"
+          "value": "[\"Leather armour\", \"Mail armour\"]",
+          "modifiers": [
+            {
+              "kind": "REQUIRED"
+            }
+          ]
         },
         {
           "name": "Protection",
@@ -8288,9 +8148,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Protection",
           "type": "INTEGER",
           "value": "1",
@@ -8355,9 +8212,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Protection",
           "type": "INTEGER",
           "value": "2",
@@ -8420,9 +8274,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Protection",
@@ -8503,9 +8354,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Protection",
@@ -8937,9 +8785,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Effect",
           "type": "STRING",
           "value": "When making a PROTECTION roll, add +2 to the result.",
@@ -8988,9 +8833,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Effect",
@@ -9043,9 +8885,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Effect",
           "type": "STRING",
           "value": "Add 2 to the Injury rating of the selected weapon. A weapon that can be wielded with one or two hands gets the bonus to both its Injury ratings.",
@@ -9094,9 +8933,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Effect",
@@ -9149,9 +8985,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Effect",
           "type": "STRING",
           "value": "Attack rolls made with a Keen weapon score a Piercing Blow also on a result of 9 on the Feat Die.",
@@ -9200,9 +9033,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Effect",
@@ -9817,10 +9647,12 @@
         {
           "name": "Craftsmanship",
           "type": "ENUM",
-          "value": "[\"Elven\", \"Dwarven\", \"Númenórean\", \"Mannish\"]"
-        },
-        {
-          "raw": "REQUIRED"
+          "value": "[\"Elven\", \"Dwarven\", \"Númenórean\", \"Mannish\"]",
+          "modifiers": [
+            {
+              "kind": "REQUIRED"
+            }
+          ]
         },
         {
           "name": "Banes",
@@ -9872,10 +9704,12 @@
         {
           "name": "Craftsmanship",
           "type": "ENUM",
-          "value": "[\"Elven\", \"Dwarven\", \"Númenórean\", \"Mannish\"]"
-        },
-        {
-          "raw": "REQUIRED"
+          "value": "[\"Elven\", \"Dwarven\", \"Númenórean\", \"Mannish\"]",
+          "modifiers": [
+            {
+              "kind": "REQUIRED"
+            }
+          ]
         },
         {
           "name": "Qualities",
@@ -10267,9 +10101,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Banes",
           "type": "LIST",
           "value": "[\"Orcs\"]",
@@ -10358,9 +10189,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Banes",
@@ -10453,9 +10281,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Qualities",
           "type": "LIST",
           "value": "[\"Mithril Armour\", \"Ancient\", \"Close-fitting\"]",
@@ -10534,9 +10359,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Banes",
@@ -10627,9 +10449,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Qualities",
@@ -11366,9 +11185,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Banes",
           "type": "LIST",
           "value": "[]",
@@ -11459,9 +11275,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Qualities",
           "type": "LIST",
           "value": "[\"Hammering\", \"Superior Grievous\", \"Rune-scored\"]",
@@ -11540,9 +11353,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Banes",
@@ -11635,9 +11445,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Qualities",
           "type": "LIST",
           "value": "[\"Ancient\", \"Cunning Make\", \"Superior Reinforced\", \"Keen\"]",
@@ -11718,9 +11525,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Qualities",
           "type": "LIST",
           "value": "[\"Cunning Make\", \"Close-fitting\"]",
@@ -11799,9 +11603,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Banes",
@@ -12552,9 +12353,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Cultural Blessing Name",
           "type": "STRING",
           "value": "Furious",
@@ -12655,9 +12453,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Cultural Blessing Name",
           "type": "STRING",
           "value": "Folk of the Dusk",
@@ -12746,9 +12541,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Cultural Blessing Name",
@@ -13677,9 +13469,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Cultural Blessing Name",
           "type": "STRING",
           "value": "Elven-wise",
@@ -13775,9 +13564,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Cultural Blessing Name",
@@ -14228,9 +14014,6 @@
           ]
         },
         {
-          "raw": "REQUIRED"
-        },
-        {
           "name": "Damage",
           "type": "INTEGER",
           "value": "6",
@@ -14263,10 +14046,13 @@
         {
           "name": "Hands",
           "type": "ENUM",
-          "value": "[\"1H\", \"2H\", \"1H or 2H\"]"
-        },
-        {
-          "raw": "DEFAULT \"1H\""
+          "value": "[\"1H\", \"2H\", \"1H or 2H\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "1H"
+            }
+          ]
         },
         {
           "name": "Notes",
@@ -14290,17 +14076,23 @@
         },
         {
           "name": "Ranged",
-          "type": "BOOLEAN"
-        },
-        {
-          "raw": "TRUE FIXED"
+          "type": "BOOLEAN",
+          "value": "TRUE",
+          "modifiers": [
+            {
+              "kind": "FIXED"
+            }
+          ]
         },
         {
           "name": "Two-Handed",
-          "type": "BOOLEAN"
-        },
-        {
-          "raw": "TRUE FIXED"
+          "type": "BOOLEAN",
+          "value": "TRUE",
+          "modifiers": [
+            {
+              "kind": "FIXED"
+            }
+          ]
         },
         {
           "name": "Range Short",
@@ -14433,10 +14225,13 @@
         },
         {
           "name": "Second Calling",
-          "type": "BOOLEAN"
-        },
-        {
-          "raw": "TRUE FIXED"
+          "type": "BOOLEAN",
+          "value": "TRUE",
+          "modifiers": [
+            {
+              "kind": "FIXED"
+            }
+          ]
         },
         {
           "name": "Maximum Flaws",
@@ -14507,9 +14302,6 @@
               "kind": "FIXED"
             }
           ]
-        },
-        {
-          "raw": "REQUIRED"
         },
         {
           "name": "Cultural Blessing Name",
@@ -15216,18 +15008,24 @@
         {
           "name": "Injury Condition",
           "type": "ENUM",
-          "value": "[\"None\", \"Fleeting\", \"Moderate\", \"Severe\", \"Grievous\", \"Lingering\"]"
-        },
-        {
-          "raw": "DEFAULT \"None\""
+          "value": "[\"None\", \"Fleeting\", \"Moderate\", \"Severe\", \"Grievous\", \"Lingering\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "None"
+            }
+          ]
         },
         {
           "name": "Fatigue Condition",
           "type": "ENUM",
-          "value": "[\"None\", \"Fatigued\", \"Faltering\", \"Spent\", \"Collapsed\"]"
-        },
-        {
-          "raw": "DEFAULT \"None\""
+          "value": "[\"None\", \"Fatigued\", \"Faltering\", \"Spent\", \"Collapsed\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "None"
+            }
+          ]
         },
         {
           "name": "Hardened",
@@ -15351,10 +15149,13 @@
         {
           "name": "Burden",
           "type": "ENUM",
-          "value": "[\"Light\", \"Medium\", \"Heavy\", \"Overburdened\"]"
-        },
-        {
-          "raw": "DEFAULT \"Medium\""
+          "value": "[\"Light\", \"Medium\", \"Heavy\", \"Overburdened\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "Medium"
+            }
+          ]
         },
         {
           "name": "Serious Injury Conditions",
@@ -16769,10 +16570,13 @@
         {
           "name": "Type",
           "type": "ENUM",
-          "value": "[\"Personality\", \"Physical\", \"Calling\"]"
-        },
-        {
-          "raw": "DEFAULT \"Personality\""
+          "value": "[\"Personality\", \"Physical\", \"Calling\"]",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "Personality"
+            }
+          ]
         },
         {
           "name": "Effect",

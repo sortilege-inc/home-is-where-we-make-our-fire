@@ -7,6 +7,8 @@
   const KEY = "hearth.play." + S.id;
   const STATE_V = 2;
   const QUAL = ["Success", "Great Success", "Extraordinary Success"];
+  const G = window.TorDice.GLYPHS;
+  const gi = name => '<span class="gi">' + G[name] + "</span>";   // inline glyph
 
   // ---------------------------------------------------------------- state
   function blank() {
@@ -45,24 +47,24 @@
     const cls = r.success === true ? "ok" : (r.success === false ? "no" : "");
     let verdict = r.success === true ? QUAL[r.quality]
                 : (r.success === false ? "Failure" : "—");
-    if (r.gandalf) verdict = "Gandalf ✦ " + (r.success !== false ? QUAL[r.quality] : "Auto-success");
-    if (r.eye) verdict += " · Eye ☉";
+    if (r.gandalf) verdict = "Gandalf rune — " + (r.success !== false ? QUAL[r.quality] : "auto-success");
+    if (r.eye) verdict += " · the Eye";
     return { cls, verdict };
   }
   function renderResult(label, r) {
     const dv = describe(r);
     let dice = '<div class="dice">';
     const fc = r.gandalf ? "die feat gandalf" : (r.eye ? "die feat eye" : "die feat");
-    dice += '<span class="' + fc + '">' + (r.gandalf ? "ᚷ" : (r.eye ? "☉" : r.feat.val)) + "</span>";
+    dice += '<span class="' + fc + '">' + (r.gandalf ? G.gandalf : (r.eye ? G.eye : r.feat.val)) + "</span>";
     r.succ.forEach(s => {
       dice += '<span class="die ' + (s.tengwar ? "tengwar" : "") + (s.zeroed ? " zero" : "") + '">'
-            + (s.tengwar ? "✦" : s.face) + "</span>";
+            + (s.tengwar ? G.tengwar : s.face) + "</span>";
     });
     dice += "</div>";
     const head = '<div class="roll-result"><span class="total">' + r.total + "</span>"
       + (r.tn != null && r.tn !== "" ? ' <small>vs TN ' + r.tn + "</small>" : "")
       + '<span class="verdict ' + dv.cls + '">' + dv.verdict
-      + (r.success && r.tengwar ? ' <span class="quality">(' + r.tengwar + " ✦)</span>" : "")
+      + (r.success && r.tengwar ? ' <span class="quality">(' + r.tengwar + " " + gi("tengwar") + ")</span>" : "")
       + "</span></div>";
     resultBox.innerHTML = '<div class="col-h">' + label + "</div>" + head + dice;
   }
@@ -73,17 +75,19 @@
     renderResult(label, r);
     const dv = describe(r);
     logLine({ label, total: r.total, tn: r.tn, cls: dv.cls, verdict: dv.verdict,
-              feat: (r.gandalf ? "ᚷ" : (r.eye ? "☉" : r.feat.val)), teng: r.tengwar, rank });
+              feat: (r.gandalf ? "G" : (r.eye ? "E" : r.feat.val)), teng: r.tengwar, rank });
     renderLog();
   }
   function renderLog() {
     if (!logBox) return;
-    logBox.innerHTML = st.log.map(e =>
-      '<div class="log-line"><span class="lbl">' + e.label + "</span> — <b>" + e.total + "</b>"
-      + (e.tn != null && e.tn !== "" ? " vs " + e.tn : "")
-      + ' <span class="' + e.cls + '">' + e.verdict + "</span>"
-      + ' <span class="g">[' + e.feat + (e.rank ? "+" + e.rank + "d" : "")
-      + (e.teng ? " ·" + e.teng + "✦" : "") + "]</span></div>").join("");
+    logBox.innerHTML = st.log.map(e => {
+      const featMark = e.feat === "G" ? gi("gandalf") : e.feat === "E" ? gi("eye") : e.feat;
+      const teng = e.teng ? " ·" + e.teng + gi("tengwar") : "";
+      return '<div class="log-line"><span class="lbl">' + e.label + "</span> — <b>" + e.total + "</b>"
+        + (e.tn != null && e.tn !== "" ? " vs " + e.tn : "")
+        + ' <span class="' + e.cls + '">' + e.verdict + "</span>"
+        + ' <span class="g">[' + featMark + (e.rank ? "+" + e.rank + "d" : "") + teng + "]</span></div>";
+    }).join("");
   }
 
   // ---------------------------------------------------------------- dice tray

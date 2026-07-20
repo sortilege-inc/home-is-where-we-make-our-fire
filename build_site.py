@@ -789,9 +789,7 @@ def _coerce(p):
 
 def _props(name):
     ent = RULES.get(name)
-    if not ent:
-        return {}
-    return {p["name"]: _coerce(p) for p in ent.get("properties", []) if p.get("name")}
+    return {p["name"]: _coerce(p) for p in ent.get("properties", [])} if ent else {}
 
 def _prop_default(ent_name, prop_name):
     """The DEFAULT modifier value of a property, if any."""
