@@ -57,8 +57,9 @@
     const fc = r.gandalf ? "die feat gandalf" : (r.eye ? "die feat eye" : "die feat");
     dice += '<span class="' + fc + '">' + (r.gandalf ? G.gandalf : (r.eye ? G.eye : r.feat.val)) + "</span>";
     r.succ.forEach(s => {
+      const mark = s.tengwar ? '<span class="teng-mark">' + G.tengwar + "</span>" : "";
       dice += '<span class="die ' + (s.tengwar ? "tengwar" : "") + (s.zeroed ? " zero" : "") + '">'
-            + (s.tengwar ? G.tengwar : s.face) + "</span>";
+            + s.face + mark + "</span>";   // the 6 shows as a number, with the Tengwar superimposed
     });
     dice += "</div>";
     const head = '<div class="roll-result"><span class="total">' + r.total + "</span>"

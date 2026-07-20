@@ -109,16 +109,19 @@
    font-family:var(--caps);text-transform:uppercase;letter-spacing:.1em;font-size:.82rem;box-shadow:var(--shadow-soft);}
 .big-roll:hover{filter:brightness(1.07);}
 .dice{display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center;min-height:52px;align-items:center;margin:.6rem 0;}
-.die{width:46px;height:46px;border-radius:8px;display:flex;align-items:center;justify-content:center;
+.die{position:relative;width:46px;height:46px;border-radius:8px;display:flex;align-items:center;justify-content:center;
    font-family:var(--caps);font-size:1.25rem;border:1.5px solid var(--tan);background:var(--vellum);color:var(--ink);}
 .die.feat{border-color:var(--gold);border-width:2px;background:#faf3df;}
 .die.gandalf{background:#f3ecd6;color:var(--gold);border-color:var(--gold);}
 .die.eye{background:#2b2230;color:#e0b3b3;border-color:#7a3b3b;}
-.die.tengwar{background:#efe8f0;color:#3a2b42;border-color:#3a2b42;font-weight:700;}
+.die.tengwar{background:#faf3df;color:var(--ink);border-color:var(--gold);}
 .die.zero{opacity:.45;}
-.die svg{height:66%;width:auto;display:block;}
-.die.feat svg{height:72%;}
-.die.feat.eye svg{height:52%;}   /* the Eye glyph is wide */
+.die>svg{height:66%;width:auto;display:block;}
+.die.feat>svg{height:72%;}
+.die.feat.eye>svg{height:52%;}   /* the Eye glyph is wide */
+/* Tengwar rune superimposed on the 6, top-right quadrant */
+.teng-mark{position:absolute;top:1px;right:2px;width:47%;height:47%;color:var(--gold);pointer-events:none;}
+.teng-mark svg{width:100%;height:100%;display:block;}
 .gi{display:inline-flex;align-items:center;height:1em;width:auto;vertical-align:-0.16em;}
 .gi svg{height:1em;width:auto;}
 .roll-result .quality .gi{height:.92em;}
