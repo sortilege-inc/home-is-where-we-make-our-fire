@@ -13,7 +13,7 @@
     if (S.kind === "band") {
       return { v: STATE_V, readiness: S.readiness, allies: S.allies,
                disp: S.dispositions.map(x => x.rating),
-               burden: -1,
+               burden: (S.burdenLevels || []).indexOf(S.burdenDefault),
                roster: S.roster.map(() => ({ injury: -1, fatigue: -1, out: false })),
                log: [] };
     }
@@ -415,8 +415,13 @@
     sec.appendChild(el("div", "col-h", "Roster — the crew of the " + (S.shipName || S.name)));
     const wearyNote = el("div", "band-weary"); sec.appendChild(wearyNote);
     const injOpts = ["—"].concat(S.injuryLevels), fatOpts = ["—"].concat(S.fatigueLevels);
+    const serSet = (levels, serious) => new Set((levels || [])
+      .map((n, i) => (serious || []).includes(n) ? i : -1).filter(i => i >= 0));
+    const injSerious = serSet(S.injuryLevels, S.seriousInjury);
+    const fatSerious = serSet(S.fatigueLevels, S.seriousFatigue);
+    const isSerious = r => r.out || injSerious.has(r.injury) || fatSerious.has(r.fatigue);
     function paintWeary() {
-      const bad = st.roster.filter(r => r.out || r.injury >= 2 || r.fatigue >= 2).length;
+      const bad = st.roster.filter(isSerious).length;
       const weary = st.roster.length > 0 && bad * 2 >= st.roster.length;
       wearyNote.className = "band-weary" + (weary ? " on" : "");
       wearyNote.textContent = weary
@@ -431,11 +436,12 @@
     S.roster.forEach((m, i) => {
       const tr = el("tr");
       const paintRow = () => {
-        tr.classList.toggle("afflicted", st.roster[i].out || st.roster[i].injury >= 0 || st.roster[i].fatigue >= 0);
-        tr.classList.toggle("serious", st.roster[i].out || st.roster[i].injury >= 2 || st.roster[i].fatigue >= 2);
+        const r = st.roster[i];
+        tr.classList.toggle("afflicted", r.out || r.injury >= 0 || r.fatigue >= 0);
+        tr.classList.toggle("serious", isSerious(r));
       };
-      const selInj = mkSelect(injOpts, st.roster[i].injury, v => { st.roster[i].injury = v; save(); paintWeary(); paintRow(); });
-      const selFat = mkSelect(fatOpts, st.roster[i].fatigue, v => { st.roster[i].fatigue = v; save(); paintWeary(); paintRow(); });
+      const selInj = mkSelect(injOpts, st.roster[i].injury, v => { st.roster[i].injury = v; save(); paintWeary(); paintRow(); }, injSerious);
+      const selFat = mkSelect(fatOpts, st.roster[i].fatigue, v => { st.roster[i].fatigue = v; save(); paintWeary(); paintRow(); }, fatSerious);
       const out = el("button", "out-btn" + (st.roster[i].out ? " on" : ""), st.roster[i].out ? "Out of action" : "Present");
       out.onclick = () => {
         st.roster[i].out = !st.roster[i].out;
@@ -457,7 +463,7 @@
     resetRow();
   }
 
-  function mkSelect(opts, cur, onChange) {
+  function mkSelect(opts, cur, onChange, seriousSet) {
     const s = el("select", "lvl-sel");
     opts.forEach((o, idx) => {
       const op = document.createElement("option");
@@ -465,7 +471,11 @@
       if (idx - 1 === cur) op.selected = true;
       s.appendChild(op);
     });
-    const sev = () => { s.className = "lvl-sel" + (+s.value >= 2 ? " sev" : (+s.value >= 0 ? " mild" : "")); };
+    const sev = () => {
+      const v = +s.value;
+      const serious = seriousSet && seriousSet.has(v);
+      s.className = "lvl-sel" + (serious ? " sev" : (v >= 0 ? " mild" : ""));
+    };
     sev();
     s.onchange = () => { sev(); onChange(+s.value); };
     return s;

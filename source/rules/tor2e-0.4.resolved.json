@@ -1,7 +1,7 @@
 {
   "edition": "tor2e",
   "spec_version": "0.4",
-  "entity_count": 278,
+  "entity_count": 279,
   "entities": [
     {
       "name": "Player",
@@ -15197,6 +15197,90 @@
       ]
     },
     {
+      "name": "Ally",
+      "hash": "TORMAlly00000001",
+      "kind": "actor",
+      "properties": [
+        {
+          "name": "Name",
+          "type": "STRING"
+        },
+        {
+          "name": "Gift",
+          "type": "STRING"
+        },
+        {
+          "name": "Quirk",
+          "type": "STRING"
+        },
+        {
+          "name": "Injury Condition",
+          "type": "ENUM",
+          "value": "[\"None\", \"Fleeting\", \"Moderate\", \"Severe\", \"Grievous\", \"Lingering\"]"
+        },
+        {
+          "raw": "DEFAULT \"None\""
+        },
+        {
+          "name": "Fatigue Condition",
+          "type": "ENUM",
+          "value": "[\"None\", \"Fatigued\", \"Faltering\", \"Spent\", \"Collapsed\"]"
+        },
+        {
+          "raw": "DEFAULT \"None\""
+        },
+        {
+          "name": "Hardened",
+          "type": "BOOLEAN",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "name": "Out of Action",
+          "type": "BOOLEAN",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "name": "Suffering Serious Condition",
+          "type": "BOOLEAN",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "name": "Source",
+          "type": "STRING",
+          "modifiers": [
+            {
+              "kind": "DEFAULT",
+              "value": "Moria — Through the Doors of Durin"
+            }
+          ]
+        }
+      ],
+      "rules": [
+        {
+          "hash": "TORMAllySerious01",
+          "text": "WHEN [^\"Out of Action\" OR ^\"Injury Condition\" is Severe, Grievous or Lingering OR ^\"Fatigue Condition\" is Spent or Collapsed] THEN ^\"Ally\" IS suffering a serious condition"
+        }
+      ],
+      "sources": [
+        "tor2e-0.4-moria.ttrpg"
+      ]
+    },
+    {
       "name": "Band System",
       "kind": "def",
       "properties": [
@@ -15209,6 +15293,10 @@
               "kind": "FIXED"
             }
           ]
+        },
+        {
+          "name": "Ally Type",
+          "raw": "^\"Ally Type\" ^\"Ally\""
         },
         {
           "name": "Starting Allies",
@@ -15261,9 +15349,17 @@
           ]
         },
         {
-          "name": "Injury Levels",
+          "name": "Burden",
+          "type": "ENUM",
+          "value": "[\"Light\", \"Medium\", \"Heavy\", \"Overburdened\"]"
+        },
+        {
+          "raw": "DEFAULT \"Medium\""
+        },
+        {
+          "name": "Serious Injury Conditions",
           "type": "LIST",
-          "value": "[\"Fleeting\", \"Moderate\", \"Severe\", \"Grievous\", \"Lingering\"]",
+          "value": "[\"Severe\", \"Grievous\", \"Lingering\"]",
           "modifiers": [
             {
               "kind": "FIXED"
@@ -15271,9 +15367,9 @@
           ]
         },
         {
-          "name": "Fatigue Levels",
+          "name": "Serious Fatigue Conditions",
           "type": "LIST",
-          "value": "[\"Fatigued\", \"Faltering\", \"Spent\", \"Collapsed\"]",
+          "value": "[\"Spent\", \"Collapsed\"]",
           "modifiers": [
             {
               "kind": "FIXED"
@@ -15281,19 +15377,19 @@
           ]
         },
         {
-          "name": "Burden Levels",
-          "type": "LIST",
-          "value": "[\"Light\", \"Medium\", \"Heavy\", \"Overburdened\"]",
+          "name": "Weary",
+          "type": "BOOLEAN",
           "modifiers": [
             {
-              "kind": "FIXED"
+              "kind": "DEFAULT",
+              "value": "false"
             }
           ]
         },
         {
           "name": "Description",
           "type": "STRING",
-          "value": "The Band represents a group of Dwarf Allies accompanying the Player-hero. Allies are managed through Disposition rolls (Feat Die + Success Dice equal to Disposition rating) against the Band's Readiness TN. Each Ally has a unique Gift and Quirk. Allies can be distinguished as Hardened through acts of bravery. The Band becomes Weary when half or more mission Allies are lost or suffering serious conditions.",
+          "value": "The Band represents a group of Dwarf Allies accompanying the Player-hero. Group actions are resolved through Disposition rolls (Feat die + Success dice equal to the Disposition rating) against the Band's Readiness TN (20 minus Readiness), which also lets Allies resist injuries and fatigue and stand against fear. Each Ally has a unique Gift and Quirk and may be Hardened through acts of bravery.",
           "modifiers": [
             {
               "kind": "FIXED"
@@ -15309,6 +15405,12 @@
               "kind": "FIXED"
             }
           ]
+        }
+      ],
+      "rules": [
+        {
+          "hash": "TORMBandWeary001",
+          "text": "WHEN [half or more (rounding up) of the Band's ^\"Ally\" members are Out of Action or Suffering a Serious Condition] THEN ^\"Band System\" IS Weary"
         }
       ],
       "sources": [

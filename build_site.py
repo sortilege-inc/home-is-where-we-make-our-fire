@@ -781,7 +781,7 @@ def _coerce(p):
         except ValueError:
             try: return float(v)
             except ValueError: return v
-    if t == "LIST":
+    if t in ("LIST", "ENUM"):   # ENUM value carries its allowed options, like a LIST
         try: return json.loads(v)
         except (ValueError, TypeError):
             return [x.strip().strip('"') for x in v.strip("[]").split(",") if x.strip()]
@@ -789,7 +789,19 @@ def _coerce(p):
 
 def _props(name):
     ent = RULES.get(name)
-    return {p["name"]: _coerce(p) for p in ent.get("properties", [])} if ent else {}
+    if not ent:
+        return {}
+    return {p["name"]: _coerce(p) for p in ent.get("properties", []) if p.get("name")}
+
+def _prop_default(ent_name, prop_name):
+    """The DEFAULT modifier value of a property, if any."""
+    ent = RULES.get(ent_name)
+    for p in (ent.get("properties", []) if ent else []):
+        if p.get("name") == prop_name:
+            for m in (p.get("modifiers") or []):
+                if m.get("kind") == "DEFAULT":
+                    return m.get("value")
+    return None
 
 # The twelve of the Eärlindë (Book 13).
 CREW_ROSTER = [
@@ -861,17 +873,22 @@ def tor_actor_to_sheet(actor, cid, name):
 def build_band_sheet():
     """The Eärlindë crew as a Moria-style Band, from the synthesized rules."""
     band = _props("Band System")
+    ally = _props("Ally")          # per-Ally state lives on the ^"Ally" type
     calling = _props("Pathfinders")
     disp = band.get("Dispositions") or ["Expertise", "Manoeuvre", "Rally", "Vigilance", "War"]
     rating = band.get("Default Disposition Rating") or 2
+    drop_none = lambda xs: [x for x in (xs or []) if x and x != "None"]
     return dict(
         id="earlinde", kind="band", name="The Crew of the Eärlindë", shipName="Eärlindë",
         subtitle="A Band of the Grey Havens · Moria Band rules",
         allies=len(CREW_ROSTER), readiness=band.get("Starting Readiness") or 4,
         dispositions=[dict(name=n, rating=rating) for n in disp],
-        injuryLevels=band.get("Injury Levels") or [],
-        fatigueLevels=band.get("Fatigue Levels") or [],
-        burdenLevels=band.get("Burden Levels") or [],
+        injuryLevels=drop_none(ally.get("Injury Condition")),      # per-Ally
+        fatigueLevels=drop_none(ally.get("Fatigue Condition")),    # per-Ally
+        burdenLevels=band.get("Burden") or ["Light", "Medium", "Heavy", "Overburdened"],  # band-wide
+        burdenDefault=_prop_default("Band System", "Burden") or "Medium",
+        seriousInjury=band.get("Serious Injury Conditions") or ["Severe", "Grievous", "Lingering"],
+        seriousFatigue=band.get("Serious Fatigue Conditions") or ["Spent", "Collapsed"],
         sharedCalling=dict(name=calling.get("Calling Name") or "Pathfinders",
                            focus=calling.get("Disposition Focus") or "Manoeuvre",
                            shadowPath=calling.get("Shadow Path") or "",
