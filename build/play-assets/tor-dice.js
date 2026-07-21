@@ -60,9 +60,9 @@ window.TorDice = (function () {
     gandalf: '<svg viewBox="0 0 30 44" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9V34M8 9h8M8 34h8"/><path d="M12 20C16 18 19 13 20 8"/><path d="M12 24C17 22 21 16 22 10"/><circle cx="20" cy="8" r="1.8" fill="currentColor" stroke="none"/><circle cx="22" cy="10" r="1.8" fill="currentColor" stroke="none"/><circle cx="12" cy="3.5" r="1.8" fill="currentColor" stroke="none"/><circle cx="12" cy="40" r="1.8" fill="currentColor" stroke="none"/><circle cx="3.5" cy="21.5" r="1.8" fill="currentColor" stroke="none"/><circle cx="26.5" cy="21.5" r="1.8" fill="currentColor" stroke="none"/></svg>',
     // Feat 12 — the Eye of Sauron: counts as 0.
     eye: '<svg viewBox="0 0 44 30" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15C13 5 31 5 40 15 31 25 13 25 4 15Z"/><path d="M22 9C24.2 12 24.2 18 22 21 19.8 18 19.8 12 22 9Z" fill="currentColor" stroke="none"/><path d="M22 3V0.5M22 29.5V27M6.5 6.5 5 5M37.5 6.5 39 5M6.5 23.5 5 25M37.5 23.5 39 25"/></svg>',
-    // Success die 6 — the Tengwar rune (per reference): a flat top stroke with a
-    // curve descending on the left. Tallies great successes.
-    tengwar: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 7L8.5 7C5.8 7.2 4.8 10.3 5.6 13.4 6.3 16.3 9 18 12 17"/></svg>'
+    // Success die 6 — the Tengwar rune (filled glyph, per reference SVG): a flat
+    // top stroke with a large open bow. Tallies great successes.
+    tengwar: '<svg viewBox="0 0 200 240" fill="currentColor"><path d="M38 48C30 38 22 36 28 28 32 24 42 30 52 32L162 32C168 32 172 35 170 41 168 47 160 48 150 48L78 48C64 68 58 92 58 120 58 152 68 182 102 192 126 199 148 188 162 176 166 172 171 176 168 181 152 202 122 216 92 206 50 192 38 154 38 120 38 92 46 66 60 48Z"/></svg>'
   };
 
   return { roll, rollFeat, GLYPHS };
