@@ -109,10 +109,10 @@
    font-family:var(--caps);text-transform:uppercase;letter-spacing:.1em;font-size:.82rem;box-shadow:var(--shadow-soft);}
 .big-roll:hover{filter:brightness(1.07);}
 .dice{display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center;min-height:52px;align-items:center;margin:.6rem 0;}
-.die{position:relative;width:46px;height:46px;border-radius:8px;display:flex;align-items:center;justify-content:center;
+.die{position:relative;box-sizing:border-box;width:46px;height:46px;border-radius:8px;display:flex;align-items:center;justify-content:center;
    font-family:var(--caps);font-size:1.25rem;border:1.5px solid var(--tan);background:var(--vellum);color:var(--ink);}
 /* Feat die = one face of a d12 → a pentagon (gold rim + face fill via 2 layers) */
-.die.feat{border:none;background:transparent;isolation:isolate;}
+.die.feat{border:none;background:transparent;isolation:isolate;padding-top:5px;}   /* nudge content to the pentagon's visual centre */
 .die.feat::before{content:"";position:absolute;inset:0;z-index:-2;background:var(--gold);
    clip-path:polygon(50% 1%,97% 37%,79% 99%,21% 99%,3% 37%);}
 .die.feat::after{content:"";position:absolute;inset:2.4px;z-index:-1;background:#faf3df;
@@ -128,8 +128,8 @@
 .die>svg{height:66%;width:auto;display:block;}
 .die.feat>svg{height:72%;}
 .die.feat.eye>svg{height:52%;}   /* the Eye glyph is wide */
-/* Tengwar rune superimposed on the 6, top-right quadrant */
-.teng-mark{position:absolute;top:1px;right:2px;width:47%;height:47%;color:var(--gold);pointer-events:none;}
+/* Tengwar rune (Harma) superimposed on the 6, top-right quadrant */
+.teng-mark{position:absolute;top:2px;right:3px;width:33%;height:33%;color:var(--gold);pointer-events:none;}
 .teng-mark svg{width:100%;height:100%;display:block;}
 .gi{display:inline-flex;align-items:center;height:1em;width:auto;vertical-align:-0.16em;}
 .gi svg{height:1em;width:auto;}
