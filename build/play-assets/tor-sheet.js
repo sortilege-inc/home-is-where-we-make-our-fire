@@ -54,8 +54,12 @@
   function renderResult(label, r) {
     const dv = describe(r);
     let dice = '<div class="dice">';
-    const fc = r.gandalf ? "die feat gandalf" : (r.eye ? "die feat eye" : "die feat");
-    dice += '<span class="' + fc + '">' + (r.gandalf ? G.gandalf : (r.eye ? G.eye : r.feat.val)) + "</span>";
+    // Feat die(s): favoured/ill-favoured rolls two — show both, dim the discarded one.
+    r.feats.forEach((f, idx) => {
+      const isG = f.kind === "gandalf", isE = f.kind === "eye";
+      const cls = "die feat" + (isG ? " gandalf" : (isE ? " eye" : "")) + (idx === 0 ? "" : " discarded");
+      dice += '<span class="' + cls + '">' + (isG ? G.gandalf : (isE ? G.eye : f.val)) + "</span>";
+    });
     r.succ.forEach(s => {
       const mark = s.tengwar ? '<span class="teng-mark">' + G.tengwar + "</span>" : "";
       dice += '<span class="die ' + (s.tengwar ? "tengwar" : "") + (s.zeroed ? " zero" : "") + '">'

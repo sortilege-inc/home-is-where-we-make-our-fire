@@ -111,9 +111,18 @@
 .dice{display:flex;flex-wrap:wrap;gap:.5rem;justify-content:center;min-height:52px;align-items:center;margin:.6rem 0;}
 .die{position:relative;width:46px;height:46px;border-radius:8px;display:flex;align-items:center;justify-content:center;
    font-family:var(--caps);font-size:1.25rem;border:1.5px solid var(--tan);background:var(--vellum);color:var(--ink);}
-.die.feat{border-color:var(--gold);border-width:2px;background:#faf3df;}
-.die.gandalf{background:#f3ecd6;color:var(--gold);border-color:var(--gold);}
-.die.eye{background:#2b2230;color:#e0b3b3;border-color:#7a3b3b;}
+/* Feat die = one face of a d12 → a pentagon (gold rim + face fill via 2 layers) */
+.die.feat{border:none;background:transparent;isolation:isolate;}
+.die.feat::before{content:"";position:absolute;inset:0;z-index:-2;background:var(--gold);
+   clip-path:polygon(50% 1%,97% 37%,79% 99%,21% 99%,3% 37%);}
+.die.feat::after{content:"";position:absolute;inset:2.4px;z-index:-1;background:#faf3df;
+   clip-path:polygon(50% 1%,97% 37%,79% 99%,21% 99%,3% 37%);}
+.die.feat.gandalf{color:var(--gold);}
+.die.feat.gandalf::after{background:#f3ecd6;}
+.die.feat.eye{color:#e0b3b3;}
+.die.feat.eye::before{background:#7a3b3b;}
+.die.feat.eye::after{background:#2b2230;}
+.die.feat.discarded{opacity:.38;}   /* the die set aside by favoured/ill-favoured */
 .die.tengwar{background:#faf3df;color:var(--ink);border-color:var(--gold);}
 .die.zero{opacity:.45;}
 .die>svg{height:66%;width:auto;display:block;}
